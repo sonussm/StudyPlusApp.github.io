@@ -1,1 +1,2 @@
-# StudyPlusApp.github.io
+# Study Plus
+- https://studyplusapp.github.io/
