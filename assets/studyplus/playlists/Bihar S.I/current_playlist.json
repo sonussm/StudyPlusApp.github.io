@@ -1,0 +1,28 @@
+{
+  "teachers": [
+    {
+      "name": "PW SSC",
+      "image": "assets/pw.png",
+      "description": "Learn from the best PW SSC lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORFc0wUQIX9PfTB0oNPbmSrQ"
+    },
+    {
+      "name": "Parcham Classes",
+      "image": "assets/parcham.png",
+      "description": "Explore the depths of knowledge with Parcham classes.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLJ0PDUtEYgazFxbqwaCWsVc4RDJGGHYtz"
+    },
+    {
+      "name": "Prashant Dhawan sir",
+      "image": "assets/prashantsir.png",
+      "description": "Learn from the best Khan Academy lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR4kUxscwYwYGEmXi4D9Hro3"
+    },
+    {
+      "name": "Utkarsh",
+      "image": "assets/utkarsh.png",
+      "description": "Elevate your learning with Utkarsh.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSHFkZB5TAyWZmLHTM4z2wQO"
+    }
+  ]
+}
