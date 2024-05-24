@@ -1,28 +1,40 @@
 {
   "teachers": [
     {
-      "name": "Prashant Dhawan sir",
-      "image": "assets/prashantsir.png",
-      "description": "Learn from the best Khan Academy lectures.",
-      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR4kUxscwYwYGEmXi4D9Hro3"
+      "name": "Rojgar with Ankit",
+      "image": "assets/ankit.png",
+      "description": "Learn from the best Rojgar with Ankit lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLWW5I_O6WPNW_Ccfh7z3pqda-SVJ5aJum"
     },
     {
-      "name": "Gyan Bindu",
-      "image": "assets/gyanbindu.png",
-      "description": "Explore the depths of knowledge with Gyan Bindu.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q"
+      "name": "PW",
+      "image": "assets/pw.png",
+      "description": "Explore the depths of knowledge with PW.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLXLsXwBXH6Bmjp8vfb7yuf5RF7jXceNQe"
+    },
+    {
+      "name": "Ada247",
+      "image": "assets/ada247.png",
+      "description": "Explore the depths of knowledge with Ada247.",
+      "playlistUrl": "https://youtube.com/playlist?list=PL6BBXnh4uqgCL59YHfru33ZGDz_gHVEMP"
+    },
+    {
+      "name": "Exampur",
+      "image": "assets/exampur.png",
+      "description": "Explore the depths of knowledge with Exampur.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLL10z38aZtasenp3q1XeAaB7hBBfHJlq4"
     },
     {
       "name": "Kautilya",
       "image": "assets/kautilya.png",
       "description": "Unlock the secrets of ancient wisdom with Kautilya.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+      "playlistUrl": "https://youtube.com/playlist?list=PL_TgcskF4KijUGXEYqSpGA7xYY9ABDcQK"
     },
     {
-      "name": "Utkarsh",
+      "name": "Utkarsh Classes",
       "image": "assets/utkarsh.png",
       "description": "Elevate your learning with Utkarsh.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+      "playlistUrl": "https://youtube.com/playlist?list=PLehnXdyDq3o8qnpvfPaZnclr8S4SklZAZ"
     }
   ]
 }

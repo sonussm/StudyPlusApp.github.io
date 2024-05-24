@@ -4,25 +4,31 @@
       "name": "Rojgar with Ankit",
       "image": "assets/ankit.png",
       "description": "Learn from the best Rojgar with Ankit lectures.",
-      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOXC19Y3QXFjwBjcpYutPvVQ"
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOVbgid7GvbdnZhuKMiDUivl"
     },
     {
-      "name": "Gyan Bindu",
-      "image": "assets/gyanbindu.png",
-      "description": "Explore the depths of knowledge with Gyan Bindu.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLpuxPG4TUOR5_W5LGERQ64betF9PstI9Q"
+      "name": "PW",
+      "image": "assets/pw.png",
+      "description": "Explore the depths of knowledge with PW.",
+      "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORGIua5mpvU2e9Aq02jtKjjf"
     },
     {
-      "name": "Kautilya",
-      "image": "assets/kautilya.png",
-      "description": "Unlock the secrets of ancient wisdom with Kautilya.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+      "name": "Ada247",
+      "image": "assets/ada247.png",
+      "description": "Explore the depths of knowledge with Ada247.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLQYgCxDYkIswOQqnjrTCURCmwV2EW0Zfe"
     },
     {
-      "name": "Utkarsh",
+      "name": "Exampur",
+      "image": "assets/exampur.png",
+      "description": "Explore the depths of knowledge with Exampur.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_MA6c3wo98f_qo5ux0_PaDh"
+    },
+    {
+      "name": "Utkarsh Classes",
       "image": "assets/utkarsh.png",
       "description": "Elevate your learning with Utkarsh.",
-      "playlistUrl": "https://www.youtube.com/playlist?list=PLw2ZiQ6OwlOWqAkWpFIBkKI7hCH2uuqji"
+      "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax_kEK0HwvboO7PfeBGEadUS"
     }
   ]
 }
