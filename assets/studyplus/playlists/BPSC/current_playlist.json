@@ -1,0 +1,34 @@
+{
+  "teachers": [
+    {
+      "name": "Prashant Dhawan sir",
+      "image": "assets/studyiq.png",
+      "description": "Learn from the best Study IQ lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR4kUxscwYwYGEmXi4D9Hro3"
+    },
+    {
+      "name": "PW SSC",
+      "image": "assets/pw.png",
+      "description": "Learn from the best PW SSC lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORFc0wUQIX9PfTB0oNPbmSrQ"
+    },
+    {
+      "name": "Drishti IAS",
+      "image": "assets/drishti.png",
+      "description": "Learn from the best Drishti IAS lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLNdRsMqHda587wM1k9ZAJ4n0Hqs5s4tjn"
+    },
+    {
+      "name": "Parcham Classes",
+      "image": "assets/parcham.png",
+      "description": "Explore the depths of knowledge with Parcham classes.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLJ0PDUtEYgazFxbqwaCWsVc4RDJGGHYtz"
+    },
+    {
+      "name": "Utkarsh Classes",
+      "image": "assets/utkarsh.png",
+      "description": "Elevate your learning with Utkarsh.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSHFkZB5TAyWZmLHTM4z2wQO"
+    }
+  ]
+}

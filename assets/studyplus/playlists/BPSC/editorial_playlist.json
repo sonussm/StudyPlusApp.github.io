@@ -1,0 +1,16 @@
+{
+  "teachers": [
+    {
+      "name": "Prashant tiwari",
+      "image": "assets/prashantsir.png",
+      "description": "Learn from the best Banker's UnAcademy lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR4VHsceopVQtj73aJ0idtpI"
+    },
+    {
+      "name": "PW Only IAS",
+      "image": "assets/pw.png",
+      "description": "Explore the depths of knowledge with PW.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLXLsXwBXH6BnuWQumt_YmmdkaQodDaA7l"
+    }
+  ]
+}
