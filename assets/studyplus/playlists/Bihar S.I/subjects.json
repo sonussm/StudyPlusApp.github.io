@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Biology",
+    "description": "Study of living organisms",
+    "image_url": "https://example.com/images/biology.png"
+  },
+  {
+    "name": "Chemistry",
+    "description": "Study of substances and their reactions",
+    "image_url": "https://example.com/images/chemistry.png"
+  },
+  {
+    "name": "Physics",
+    "description": "Study of matter and energy",
+    "image_url": "https://example.com/images/physics.png"
+  },
+  {
+    "name": "Mathematics",
+    "description": "Study of numbers and shapes",
+    "image_url": "https://example.com/images/mathematics.png"
+  }
+  
+]
