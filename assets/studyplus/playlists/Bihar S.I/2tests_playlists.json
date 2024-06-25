@@ -156,127 +156,97 @@
       },
       "Kautilya": {
         "image": "https://yourdomain.com/images/kautilya.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PL_TgcskF4KihM7lyEslOqGRRBaOaKhyKv",
-        "description": "Learn about significant historical milestones with Kautilya's detailed lectures."
+        "playlistUrl": "https://youtube.com/playlist?list=PLnjib4S6e4gg9i0FadAD2tW0EICc5u5aG",
+        "description": "Learn about historical events with Kautilya's detailed insights."
       }
     },
     "Polity": {
-      "Exampur": {
-        "image": "https://yourdomain.com/images/exampur.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_PmDtDLXWSFKhv1ZzyJeXgK",
-        "description": "Understand political systems and theories with Exampur's expert guidance."
-      },
-      "PW": {
-        "image": "https://yourdomain.com/images/pw.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLYnvO8ZuCuNpHo7OgtPqkT1Gk6j6EMEId",
-        "description": "Dive into the world of polity with PW's comprehensive lessons."
-      },
       "Adda 247": {
         "image": "https://yourdomain.com/images/ada247.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPB6AXg8IxL4z_JYV1ZgoZL",
-        "description": "Explore political concepts and governance with Adda 247's in-depth lectures."
+        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaP7k0c5WSoTnVY_5VpKk8-A",
+        "description": "Understand Indian polity with Adda 247's comprehensive lectures."
+      },
+      "Exampur": {
+        "image": "https://yourdomain.com/images/exampur.png",
+        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_M7vFjUa0XbfCGLR7S5pDf1",
+        "description": "Master Indian polity concepts with Exampur's detailed explanations."
+      },
+      "Study IQ": {
+        "image": "https://yourdomain.com/images/studyiq.png",
+        "playlistUrl": "https://youtube.com/playlist?list=PLmwbZk4RcQJSQOUn9fMwKy-c7qD5zFZkx",
+        "description": "Explore Indian polity with Study IQ's expert analysis."
       }
     },
     "Economics": {
       "Adda 247": {
         "image": "https://yourdomain.com/images/ada247.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaNspG5l0hrbUOGIaNZH6Jr0",
-        "description": "Learn the principles of economics with Adda 247's expert lectures."
+        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaMm1LhucCgJiO00B0Dmw2B8",
+        "description": "Learn basic economic concepts with Adda 247's informative lectures."
       },
-      "Exampur": {
-        "image": "https://yourdomain.com/images/exampur.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_MX9BtZhz8Re2rfMsnEIbz7",
-        "description": "Understand economic theories and models with Exampur's comprehensive lessons."
-      },
-      "PW": {
-        "image": "https://yourdomain.com/images/pw.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLYnvO8ZuCuNod3cahtc5GtvM9lVqymSLY",
-        "description": "Explore the world of economics with PW's engaging lectures."
+      "Study IQ": {
+        "image": "https://yourdomain.com/images/studyiq.png",
+        "playlistUrl": "https://youtube.com/playlist?list=PLmwbZk4RcQJT9ZJ1AqzDrd2lpujTynKTZ",
+        "description": "Understand economic theories with Study IQ's detailed explanations."
       }
     },
     "Reasoning": {
       "Adda 247": {
         "image": "https://yourdomain.com/images/ada247.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaMVkvT5ZMDI_PFXZsU2SRpm",
-        "description": "Develop your reasoning skills with Adda 247's expert guidance."
+        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaO6kUf8CjgTCzYxFmXlAlGu",
+        "description": "Develop your reasoning skills with Adda 247's logical reasoning lectures."
       },
       "Exampur": {
         "image": "https://yourdomain.com/images/exampur.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_Or1AWcnIISXqB4D9eAHi3M",
-        "description": "Improve your logical thinking with Exampur's detailed lectures."
-      },
-      "Utkarsh": {
-        "image": "https://yourdomain.com/images/utkarsh.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax9pNwnpks0BsPbYBSmnKnTm",
-        "description": "Enhance your reasoning abilities with Utkarsh's comprehensive lessons."
+        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_Oo7WUqM5bZ60qDgNVoQcU1",
+        "description": "Master logical reasoning with Exampur's comprehensive tutorials."
       }
     },
     "Geography": {
       "Adda 247": {
         "image": "https://yourdomain.com/images/ada247.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaP7HUS8rQJh9P_MLf5lu2zV",
-        "description": "Explore geographical concepts with Adda 247's expert lectures."
+        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaN1xq4fh-83cZBslHWLl14L",
+        "description": "Learn geographical concepts with Adda 247's informative lectures."
       },
-      "Exampur": {
-        "image": "https://yourdomain.com/images/exampur.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_JITrwJ2sk1Xydn8LTwADiQ",
-        "description": "Understand the physical and human geography with Exampur's comprehensive lessons."
-      },
-      "PW": {
-        "image": "https://yourdomain.com/images/pw.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLYnvO8ZuCuNqREi7OrI3VRvlmWxWiY-aI",
-        "description": "Dive into the study of Earth's features with PW's engaging lectures."
+      "Rojgar with Ankit": {
+        "image": "https://yourdomain.com/images/ankit.png",
+        "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOUZ8i3HAn4xRbHhMlXsFATM",
+        "description": "Explore the world's geography with Rojgar with Ankit."
       }
     },
     "English": {
       "Adda 247": {
         "image": "https://yourdomain.com/images/ada247.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPzQy2LFyZjXaP_1V06buYZ",
-        "description": "Enhance your English language skills with Adda 247's expert lectures."
+        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaNk1JgBKv7pyujZUX8nn2Lk",
+        "description": "Improve your English skills with Adda 247's comprehensive lectures."
       },
-      "Exampur": {
-        "image": "https://yourdomain.com/images/exampur.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_OrIICrBhMKsm1lhKPheQ_X",
-        "description": "Improve your English proficiency with Exampur's comprehensive lessons."
-      },
-      "Utkarsh": {
-        "image": "https://yourdomain.com/images/utkarsh.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax8t3mrk8mpvhJ0J4wleZ6oH",
-        "description": "Master the English language with Utkarsh's engaging lectures."
+      "Study IQ": {
+        "image": "https://yourdomain.com/images/studyiq.png",
+        "playlistUrl": "https://youtube.com/playlist?list=PLmwbZk4RcQJQbSzEkR9DxP3og0PCNjIBr",
+        "description": "Master English grammar and vocabulary with Study IQ."
       }
     },
     "Hindi": {
-      "Exampur": {
-        "image": "https://yourdomain.com/images/exampur.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_O7CoJ7dTfwFq1sI9HzT3fi",
-        "description": "Enhance your Hindi language skills with Exampur's expert guidance."
-      },
       "Adda 247": {
         "image": "https://yourdomain.com/images/ada247.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaM9ddPVV5S9un9eGno_JJY3",
-        "description": "Learn Hindi language and literature with Adda 247's comprehensive lessons."
+        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPf5YVwIXu3NtbLh33ZmnL6",
+        "description": "Learn Hindi language and literature with Adda 247's expert lectures."
       },
-      "Utkarsh": {
-        "image": "https://yourdomain.com/images/utkarsh.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax_LB31rI1Xau5mzn4EYlhG9",
-        "description": "Master the Hindi language with Utkarsh's engaging lectures."
+      "Study IQ": {
+        "image": "https://yourdomain.com/images/studyiq.png",
+        "playlistUrl": "https://youtube.com/playlist?list=PLmwbZk4RcQJSl-G1N7YJ6EafhE2iU6_O8",
+        "description": "Master Hindi grammar and literature with Study IQ."
       }
     },
     "General Knowledge": {
       "Adda 247": {
         "image": "https://yourdomain.com/images/ada247.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPSPzmxeOMtDh67Qk3wY6Pl",
-        "description": "Stay updated with current affairs and general knowledge with Adda 247."
+        "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaM3amI-z6ve2Dfn2wV2Gepx",
+        "description": "Expand your general knowledge with Adda 247's informative lectures."
       },
-      "Exampur": {
-        "image": "https://yourdomain.com/images/exampur.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_NFb_hy7RsGoCT_AHH2Fd-P",
-        "description": "Expand your general knowledge with Exampur's expert lectures."
-      },
-      "Utkarsh": {
-        "image": "https://yourdomain.com/images/utkarsh.png",
-        "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax_x5sLDt6eFcUy5xsWt2ulx",
-        "description": "Learn about current events and general knowledge with Utkarsh's comprehensive lessons."
+      "Study IQ": {
+        "image": "https://yourdomain.com/images/studyiq.png",
+        "playlistUrl": "https://youtube.com/playlist?list=PLmwbZk4RcQJQRR0AVZdLzt9VhZ0qyYjBs",
+        "description": "Stay updated with current affairs and general knowledge with Study IQ."
       }
     }
   }
