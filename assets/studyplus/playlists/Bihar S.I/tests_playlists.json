@@ -1,0 +1,31 @@
+{
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "image": "https://example.com/math.jpg"
+    },
+    {
+      "name": "Physics",
+      "image": "https://example.com/physics.jpg"
+    }
+  ],
+  "Mathematics": {
+    "Teacher 1": {
+      "image": "https://example.com/teacher1.jpg",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PL1234567890",
+      "description": "Introductory Mathematics"
+    },
+    "Teacher 2": {
+      "image": "https://example.com/teacher2.jpg",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PL0987654321",
+      "description": "Advanced Mathematics"
+    }
+  },
+  "Physics": {
+    "Teacher A": {
+      "image": "https://example.com/physics_teacher.jpg",
+      "playlistUrl": "https://www.youtube.com/playlist?list=PL9876543210",
+      "description": "Basic Physics"
+    }
+  }
+}
