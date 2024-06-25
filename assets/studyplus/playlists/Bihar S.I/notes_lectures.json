@@ -2,7 +2,7 @@
   "subjects": [
     {
       "name": "Mathematics",
-      "image_url": "https://example.com/images/mathematics.png",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/maths.png",
       "teachers": [
         {
           "name": "John Doe",
@@ -24,12 +24,12 @@
       ]
     },
     {
-      "name": "Physics",
-      "image_url": "https://example.com/images/physics.png",
+      "name": "History",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/history.png",
       "teachers": [
         {
-          "name": "Albert Einstein",
-          "image_url": "https://example.com/images/albert_einstein.png",
+          "name": "Kautilya",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/kautilya.png",
           "lectures": [
             "Mechanics",
             "Electromagnetism",
