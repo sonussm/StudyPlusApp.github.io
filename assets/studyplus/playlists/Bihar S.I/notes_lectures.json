@@ -2,55 +2,49 @@
   "subjects": [
     {
       "name": "Mathematics",
-      "image_url": "https://example.com/math_image.png",
+      "image_url": "https://example.com/images/mathematics.png",
       "teachers": [
         {
-          "name": "Rojgar with Ankit",
-          "image_url": "https://example.com/rojgar_image.png",
-          "lectures": ["Number system 1", "Number system 2", "Number system 3", "Number system 4"]
+          "name": "John Doe",
+          "image_url": "https://example.com/images/john_doe.png",
+          "lectures": [
+            "Algebra",
+            "Calculus",
+            "Geometry"
+          ]
         },
         {
-          "name": "Gyan Bindu",
-          "image_url": "https://example.com/gyanbindu_image.png",
-          "lectures": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
-        },
-        {
-          "name": "Kautilya",
-          "image_url": "https://example.com/kautilya_image.png",
-          "lectures": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
-        },
-        {
-          "name": "Utkarsh",
-          "image_url": "https://example.com/utkarsh_image.png",
-          "lectures": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
+          "name": "Jane Smith",
+          "image_url": "https://example.com/images/jane_smith.png",
+          "lectures": [
+            "Trigonometry",
+            "Statistics"
+          ]
         }
       ]
     },
     {
-      "name": "Science",
-      "image_url": "https://example.com/science_image.png",
+      "name": "Physics",
+      "image_url": "https://example.com/images/physics.png",
       "teachers": [
         {
-          "name": "Khan",
-          "image_url": "https://example.com/khan_image.png",
-          "lectures": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
+          "name": "Albert Einstein",
+          "image_url": "https://example.com/images/albert_einstein.png",
+          "lectures": [
+            "Mechanics",
+            "Electromagnetism",
+            "Thermodynamics"
+          ]
         },
         {
-          "name": "Gyan Bindu",
-          "image_url": "https://example.com/gyanbindu_image.png",
-          "lectures": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
-        },
-        {
-          "name": "Kautilya",
-          "image_url": "https://example.com/kautilya_image.png",
-          "lectures": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
-        },
-        {
-          "name": "Utkarsh",
-          "image_url": "https://example.com/utkarsh_image.png",
-          "lectures": ["Lecture 1", "Lecture 2", "Lecture 3", "Lecture 4"]
+          "name": "Isaac Newton",
+          "image_url": "https://example.com/images/isaac_newton.png",
+          "lectures": [
+            "Optics",
+            "Gravity"
+          ]
         }
       ]
-    },
+    }
   ]
 }
