@@ -1,12 +1,14 @@
 {
   "notifications": [
     {
-      "message": "Your first notification message",
-      "show": true
+      "message": "Prashant dhawan sir's playlist has been updated",
+      "show": true,
+      "channelName": "Current Affairs"
     },
     {
-      "message": "Your second notification message",
-      "show": false
+      "message": "History notes has been added in BPSC",
+      "show": false,
+      "channelName": "BPSC Notes"
     }
   ]
 }
