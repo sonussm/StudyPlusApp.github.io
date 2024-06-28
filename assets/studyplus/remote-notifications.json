@@ -1,0 +1,12 @@
+{
+  "notifications": [
+    {
+      "message": "Your first notification message",
+      "show": true
+    },
+    {
+      "message": "Your second notification message",
+      "show": false
+    }
+  ]
+}
