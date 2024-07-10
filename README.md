@@ -42,7 +42,8 @@ For more information, visit our [website](https://developer-anand-kumar.github.i
 
 ## License
 
-2024 &copy; StudyPlus. All rights Reserved.
+This project is licensed under the Creative Commons Attribution-NoDerivatives 4.0 International License. See the [LICENSE](LICENSE) file for more details.
+
 
 ---
 
