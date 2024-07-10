@@ -5,9 +5,9 @@
 ## Introduction
 - https://studyplusapp.github.io/
 
-**StudyPlus** is your one-stop solution for acing government exams! Learn from top YouTube educators with curated video lectures, solidify your understanding with clear notes, and master exam skills with targeted practice videos. All accessible on your phone, StudyPlus saves you time and money compared to traditional classes, putting you on the fast track to your dream government career!
+**StudyPlus** is your one-stop solution for acing exams! Learn from top YouTube educators with curated video lectures, solidify your understanding with clear notes, and master exam skills with targeted practice videos. All accessible on your phone, StudyPlus saves you time and money compared to traditional classes, putting you on the fast track to your dream job career!
 
-Designed by [Anand Kumar](https://developer-anand-kumar.github.io/).
+
 
 ## Features
 
