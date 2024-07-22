@@ -1,0 +1,139 @@
+{
+  "years": [
+    {
+      "year_name": "SSC CGL 2023",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+      "shifts": [
+        {
+          "shift_name": "Tier-1 14-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "SSC_CGL_July_14_Shift_1.pdf",
+            "SSC_CGL_July_14_Shift_2.pdf",
+            "SSC_CGL_July_14_Shift_3.pdf",
+            "SSC_CGL_July_14_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-1 17-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "SSC_CGL_July_17_Shift_1.pdf",
+            "SSC_CGL_July_17_Shift_2.pdf",
+            "SSC_CGL_July_17_Shift_3.pdf",
+            "SSC_CGL_July_17_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-1 18-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "SSC_CGL_July_18_Shift_1.pdf",
+            "SSC_CGL_July_18_Shift_2.pdf",
+            "SSC_CGL_July_18_Shift_3.pdf",
+            "SSC_CGL_July_18_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-1 19-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "SSC_CGL_July_19_Shift_1.pdf",
+            "SSC_CGL_July_19_Shift_2.pdf",
+            "SSC_CGL_July_19_Shift_3.pdf",
+            "SSC_CGL_July_19_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-1 21-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "SSC_CGL_July_21_Shift_1.pdf",
+            "SSC_CGL_July_21_Shift_2.pdf",
+            "SSC_CGL_July_21_Shift_3.pdf",
+            "SSC_CGL_July_21_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-1 24-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+           "SSC_CGL_July_24_Shift_1.pdf",
+            "SSC_CGL_July_24_Shift_2.pdf",
+            "SSC_CGL_July_24_Shift_3.pdf",
+            "SSC_CGL_July_24_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-1 25-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+           "SSC_CGL_July_25_Shift_1.pdf",
+            "SSC_CGL_July_25_Shift_2.pdf",
+            "SSC_CGL_July_25_Shift_3.pdf",
+            "SSC_CGL_July_25_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-1 26-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "SSC_CGL_July_26_Shift_1.pdf",
+            "SSC_CGL_July_26_Shift_2.pdf",
+            "SSC_CGL_July_26_Shift_3.pdf",
+            "SSC_CGL_July_26_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-1 27-July",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+           "SSC_CGL_July_27_Shift_1.pdf",
+            "SSC_CGL_July_27_Shift_2.pdf",
+            "SSC_CGL_July_27_Shift_3.pdf",
+            "SSC_CGL_July_27_Shift_4.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-2 26-October",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+           
+            "SSC_CGL_Tier_2_Oct_27_Shift_1.pdf"
+          ]
+        },
+        {
+          "shift_name": "Tier-2 27-October",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "SSC_CGL_Tier_2_Oct_27_Shift_1.pdf",
+            "SSC_CGL_Tier_2_Oct_27_Shift_2.pdf"
+          ]
+        }
+      ]
+    },
+    {
+      "year_name": "SSC CGL 2022",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+      "shifts": [
+        {
+          "shift_name": "30 March shift 1",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "Ancient history",
+            "Mediaeval history",
+            "Modern history"
+          ]
+        },
+        {
+          "shift_name": "1 Aprill shift 2",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+          "questions": [
+            "Optics",
+            "Gravity"
+          ]
+        }
+      ]
+    }
+  ]
+}
