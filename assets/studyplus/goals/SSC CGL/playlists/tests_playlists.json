@@ -41,10 +41,6 @@
       "image": "https://studyplusapp.github.io/assets/studyplus/images/english.png"
     },
     {
-      "name": "Hindi",
-      "image": "https://studyplusapp.github.io/assets/studyplus/images/hindi.png"
-    },
-    {
       "name": "General Knowledge",
       "image": "https://studyplusapp.github.io/assets/studyplus/images/gk.png"
     }
@@ -273,28 +269,6 @@
     "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
     "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax-W-0dppWfaao6j-KWUHBkF",
     "description": "Master English with Utkarsh's engaging and informative lectures."
-  }
-},
-"Hindi": {
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOUDtgGi973SZLhn7lGVVYLa",
-    "description": "Explore hindi concepts with Rojgar with Ankit's detailed lectures."
-  },
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORFMtq3EcdivdiJWCSzJaTXv",
-    "description": "Understand the world around you with PW's comprehensive hindi lessons."
-  },
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL6BBXnh4uqgD4yN2oNe71yOYMA3D0LEhY",
-    "description": "Unlock Hindi knowledge with Adda 247's expert guidance."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLehnXdyDq3o-wDC3pRZ-2ZuEQhkTt9EsB",
-    "description": "Master Hindi with Utkarsh's engaging and informative lectures."
   }
 },
 "General Knowledge": {
