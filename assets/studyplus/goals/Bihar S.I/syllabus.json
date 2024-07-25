@@ -1,36 +1,54 @@
 {
-  "bannerUrl": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
-  "title": "Bihar Sub Inspector Exam Syllabus 2024",
+  "title": "Bihar Police Sub Inspector Syllabus 2024",
   "publishedDate": "July 26, 2024",
-  "author": "Anand kumar",
+  "author": "Anand Kumar",
   "paragraphs": [
-    "This syllabus outlines the key topics and concepts that will be covered in the Bihar Police Sub-Inspector (SI) recruitment exam 2024. It is designed to provide a comprehensive overview of the subject matter and help students prepare effectively for the written examination.",
-    "Students are advised to thoroughly review all the listed topics and consult official sources like the Bihar Public Service Commission (BPSC) website for the latest syllabus and exam pattern. The weightage for each section might vary depending on the notification.",
-    "Additional resources and practice materials can be found online and through coaching institutes."
+    "The Bihar Police SI Syllabus 2024 serves as a preparatory guide for the candidates. To fill 1275 SI Officer positions in the Bihar Police Department, the Bihar Police is now recruiting. The preliminary exam has already taken place, and the main exam is scheduled for February 25, 2024.",
+    "The Bihar Police SI Syllabus 2024 focuses on topics like General Hindi, Mathematics and Reasoning, Civics, History, Geography, General Science, and Mental Ability Test."
   ],
   "tables": [
     {
-      "title": "Possible Subjects (Written Exam)",
-      "headers": ["Subject", "Details"],
+      "title": "Subjects and Weightage (Preliminary Exam)",
+      "headers": ["Subject", "Weightage"],
       "rows": [
-        ["General Hindi", "Grammar, Vocabulary, Comprehension"],
-        ["General Knowledge", "-"],
-        ["General Studies", "-"],
-        ["Mathematics", "Basic Numerical Ability, Arithmetic, Mensuration"],
-        ["Mental Ability Test", "Logical Reasoning, Analytical Reasoning, Verbal Reasoning"],
-        ["General Science", "-"],
-        ["English Language (Optional)", "Grammar, Vocabulary, Comprehension"]
+        ["General Knowledge", "50%"],
+        ["Mathematics", "20%"],
+        ["Reasoning", "15%"],
+        ["General Science", "10%"],
+        ["Hindi Language", "5%"]
       ]
     },
     {
-      "title": "Additional Information",
-      "headers": ["Description", "Details"],
+      "title": "Subjects and Weightage (Main Exam)",
+      "headers": ["Subject", "Weightage"],
       "rows": [
-        ["Physical Efficiency Test (PET)", "May be conducted after the written exam. Refer to official notification for details."],
-        ["Medical Examination", "Successful candidates will undergo a medical examination."]
+        ["General Hindi", "30%"],
+        ["General Studies", "25%"],
+        ["General Science", "20%"],
+        ["Mathematics and Reasoning", "25%"]
+      ]
+    },
+    {
+      "title": "Physical Efficiency Test (PET) - Male",
+      "headers": ["Event", "Description"],
+      "rows": [
+        ["Run", "1.6 km in 6.5 minutes"],
+        ["High Jump", "4 ft 8 inches"],
+        ["Long Jump", "12 ft"],
+        ["Shot Put", "16 pounds"]
+      ]
+    },
+    {
+      "title": "Physical Efficiency Test (PET) - Female",
+      "headers": ["Event", "Description"],
+      "rows": [
+        ["Run", "1 km in 6 minutes"],
+        ["High Jump", "3 ft"],
+        ["Long Jump", "9 ft"],
+        ["Shot Put", "12 pounds"]
       ]
     }
   ],
-  "fullSyllabusUrl": "https://testbook.com/bihar-police-si/syllabus-exam-pattern",
-  "downloadUrl": ""
+  "fullSyllabusUrl": "https://example.com/full_syllabus_bihar_police_si.pdf",
+  "downloadUrl": "https://example.com/download_syllabus_bihar_police_si.pdf"
 }
