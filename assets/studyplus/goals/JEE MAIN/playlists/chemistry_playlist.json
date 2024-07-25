@@ -1,0 +1,23 @@
+{
+  "teachers": [
+    {
+      "name": "Mohit Tyagi",
+      "image_url": "https://i.ytimg.com/vi/Eto_2_VKJRI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCPxEWHokljBybV43-1E3ag2di_zQ",
+      "description": "We also prepare students for Boards, NTSE, KVPY & Olympiads.",
+      "chapters": [
+        {
+          "name": "ATOMIC STRUCTURE",
+          "playlistUrl": "https://www.youtube.com/playlist?list=PL_A4M5IAkMafCoVdcacbzrXlRy76fOTwJ",
+          "imageUrl": "https://i.ytimg.com/vi/Eto_2_VKJRI/hqdefault.jpg?sqp=-oaymwEXCNACELwBSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLCPxEWHokljBybV43-1E3ag2di_zQ"
+        },
+        {
+          "name": "Chapter 2",
+          "playlistUrl": "https://youtube.com/playlist?list=...",
+          "imageUrl": "https://example.com/chapter2-image.jpg"
+        }
+       
+      ]
+    }
+ 
+  ]
+}
