@@ -1,0 +1,63 @@
+{
+  "bannerUrl": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+  "title": "BPSC Exam Syllabus 2024",
+  "publishedDate": "July 26, 2024",
+  "author": "Anand kumar",
+  "paragraphs": [
+    "This syllabus outlines the key topics and concepts that will be covered in the BPSC (Bihar Public Service Commission) recruitment exam 2024. It is designed to provide a comprehensive overview of the subject matter and help students prepare effectively for the written examination.",
+    "The BPSC exam is conducted in three stages: Preliminary, Mains, and Interview. Students are advised to consult official sources like the Bihar Public Service Commission (BPSC) website for the latest syllabus and exam pattern. The weightage for each section might vary depending on the notification.",
+    "Additional resources and practice materials can be found online and through coaching institutes."
+  ],
+  "tables": [
+    {
+      "title": "BPSC Exam Pattern",
+      "headers": ["Stage", "No. of Papers", "Type", "Total Marks", "Negative Marking"],
+      "rows": [
+        ["Prelims", "1", "Objective", "150", "Yes, 0.25 marks per wrong answer"],
+        ["Mains", "4", "Descriptive", "1000 (900 for merit)", "-"],
+        ["Interview", "-", "Descriptive", "120", "-"]
+      ]
+    },
+    {
+      "title": "BPSC Exam Syllabus",
+      "headers": ["Stage", "Subjects"],
+      "rows": [
+        ["Preliminary", "General Science, History of India and Bihar, Geography of India and Bihar, Indian Polity and Economy, General Mental Ability"],
+        ["Mains", "General Hindi (Qualifying), General Studies Paper I, General Studies Paper II, Optional Subject"]
+      ]
+    },
+    {
+      "title": "BPSC Prelims Syllabus Details",
+      "headers": ["Subject", "Topics"],
+      "rows": [
+        ["General Science", "Physics, Chemistry, Biology, Current Scientific Developments"],
+        ["History of India and Bihar", "Ancient, Medieval, Modern India, Bihar History"],
+        ["Geography of India and Bihar", "Physical Geography, Indian Geography, Bihar Geography"],
+        ["Indian Polity and Economy", "Constitution, Governance, Economic Issues"],
+        ["General Mental Ability", "Reasoning, Logical Thinking, Data Interpretation"]
+      ]
+    },
+    {
+      "title": "BPSC Mains General Studies Paper I Topics",
+      "headers": ["Section", "Topics"],
+      "rows": [
+        ["History", "Indian Culture, Modern Indian History, World History"],
+        ["Geography", "Indian Geography, World Geography"],
+        ["Polity", "Indian Constitution, Governance, Public Administration"],
+        ["Economy", "Indian Economy, Economic Development"]
+      ]
+    },
+    {
+      "title": "BPSC Mains General Studies Paper II Topics",
+      "headers": ["Section", "Topics"],
+      "rows": [
+        ["Social Issues", "Poverty, Education, Health, Social Justice"],
+        ["Ethics, Integrity, and Aptitude", "Values, Ethics in Public Service"],
+        ["Science and Technology", "Developments and Applications"],
+        ["Environment and Ecology", "Ecosystem, Biodiversity, Climate Change"]
+      ]
+    }
+  ],
+  "fullSyllabusUrl": "https://byjus.com/free-ias-prep/bpsc-syllabus/",
+  "downloadUrl": ""
+}
