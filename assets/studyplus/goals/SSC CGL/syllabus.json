@@ -1,0 +1,36 @@
+{
+  "bannerUrl": "https://studyplusapp.github.io/assets/studyplus/images/SSC-CGL-Pyq.jpg",
+  "title": "SSC CGL Exam Syllabus 2024",
+  "publishedDate": "July 25, 2024",
+  "author": "Anand kumar",
+  "paragraphs": [
+    "This syllabus outlines the key topics and concepts that will be covered in the Staff Selection Commission Combined Graduate Level (SSC CGL) exam 2024. It is designed to provide a comprehensive overview of the subject matter and help students prepare effectively for the two-tier exam.",
+    "Students are advised to thoroughly review all the listed topics and practice relevant problems. The weightage given to each section indicates its relative importance in the exam.",
+    "Additional resources and practice materials are available on the SSC website."
+  ],
+  "tables": [
+    {
+      "title": "Subjects and Weightage (Tier-I)",
+      "headers": ["Subject", "Weightage"],
+      "rows": [
+        ["General Reasoning", "50%"],
+        ["General Awareness", "25%"],
+        ["Quantitative Aptitude", "25%"],
+        ["English Language & Comprehension", "25%"]
+      ]
+    },
+    {
+      "title": "Subjects (Tier-II)",
+      "headers": ["Subject", "Paper"],
+      "rows": [
+        ["Mathematics", "Paper-I"],
+        ["Statistics", "Paper-II"],
+        ["Economics & Finance", "Paper-III"],
+        ["English Language & Comprehension", "Paper-IV"],
+        ["Computer Proficiency Test (Optional)", "-"]
+      ]
+    }
+  ],
+  "fullSyllabusUrl": "https://example.com/full_syllabus_ssc_cgl.pdf",
+  "downloadUrl": "https://example.com/download_syllabus_ssc_cgl.pdf"
+}
