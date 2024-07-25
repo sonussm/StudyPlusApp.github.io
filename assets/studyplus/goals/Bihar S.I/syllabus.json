@@ -1,10 +1,12 @@
 {
+  "bannerUrl": "https://example.com/bihar-police-sub-inspector-syllabus.jpg",
   "title": "Bihar Police Sub Inspector Syllabus 2024",
-  "publishedDate": "July 26, 2024",
+  "publishedDate": "July 25, 2024",
   "author": "Anand Kumar",
   "paragraphs": [
-    "The Bihar Police SI Syllabus 2024 serves as a preparatory guide for the candidates. To fill 1275 SI Officer positions in the Bihar Police Department, the Bihar Police is now recruiting. The preliminary exam has already taken place, and the main exam is scheduled for February 25, 2024.",
-    "The Bihar Police SI Syllabus 2024 focuses on topics like General Hindi, Mathematics and Reasoning, Civics, History, Geography, General Science, and Mental Ability Test."
+    "This syllabus outlines the key topics and concepts that will be covered in the Bihar Police Sub Inspector exam 2024. It is designed to provide a comprehensive overview of the subject matter and help students prepare effectively for the exam.",
+    "Students are advised to thoroughly review all the listed topics and practice relevant problems. The weightage given to each section indicates its relative importance in the exam.",
+    "Additional resources and practice materials are available on the Bihar Police website."
   ],
   "tables": [
     {
@@ -14,18 +16,17 @@
         ["General Knowledge", "50%"],
         ["Mathematics", "20%"],
         ["Reasoning", "15%"],
-        ["General Science", "10%"],
-        ["Hindi Language", "5%"]
+        ["General Science", "10%"]
       ]
     },
     {
-      "title": "Subjects and Weightage (Main Exam)",
-      "headers": ["Subject", "Weightage"],
+      "title": "Subjects (Main Exam)",
+      "headers": ["Subject", "Paper"],
       "rows": [
-        ["General Hindi", "30%"],
-        ["General Studies", "25%"],
-        ["General Science", "20%"],
-        ["Mathematics and Reasoning", "25%"]
+        ["General Hindi", "Paper-I"],
+        ["General Studies", "Paper-II"],
+        ["General Science", "Paper-III"],
+        ["Mental Ability Test", "Paper-IV"]
       ]
     },
     {
