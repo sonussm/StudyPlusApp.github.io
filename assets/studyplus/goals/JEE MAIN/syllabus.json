@@ -1,0 +1,86 @@
+{
+  "bannerUrl": "https://studyplusapp.github.io/assets/studyplus/images/JEE-Main-Syllabus.jpg",
+  "title": "JEE Main 2024 Syllabus",
+  "publishedDate": "July 26, 2024",
+  "author": "Anand kumar",  
+  "paragraphs": [
+    "The JEE Main 2024 syllabus is the same as the previous years. The syllabus is released by the National Testing Agency (NTA) on their website, along with the information brochure covering all the exam details. JEE aspirants are recommended to download the official JEE Main 2024 syllabus PDF to be aware of the topics to learn.",
+    "Students can refer to the detailed syllabus provided below. Refer to the official NTA website for the latest updates on the syllabus and exam pattern."
+  ],
+  "tables": [
+    {
+      "title": "JEE Main Exam Pattern (Paper 1)",
+      "headers": [
+        "Exam Mode",
+        "Exam Duration",
+        "Subjects",
+        "Total Number of Questions",
+        "Question Types",
+        "Maximum Marks",
+        "Marking Scheme"
+      ],
+      "rows": [
+        [
+          "Computer Based (Online)",
+          "3 Hours",
+          "Physics, Chemistry, Mathematics",
+          "90 (30 Physics + 30 Chemistry + 30 Maths)",
+          "MCQs and Numerical Questions (for each subject)",
+          "300",
+          "{ Correct Answer: +4, Incorrect Answer: -1, Unattempted Answer: 0 }"
+        ]
+      ]
+    },
+    {
+      "title": "JEE Main Syllabus (Paper 1)",
+      "headers": ["Subject", "Topics"],
+      "rows": [
+       
+        ["Physics", "..."],
+        ["Chemistry", "..."],
+        ["Mathematics", "..."]
+      ]
+    },
+    {
+      "title": "JEE Main Paper 2A & 2B Syllabus (Aptitude Test for B. Arch/B. Planning)",
+      "headers": ["Part", "Description"],
+      "rows": [
+      
+        ["Part IA", "..."],
+        ["Part IIA", "..."],
+        ["Part IIB", "..."],
+        ["Part III", "..."],
+       
+      ]
+    },
+    {
+      "title": "JEE Main Paper 2A & 2B Exam Pattern",
+      "headers": [
+        "Exam Mode",
+        "Exam Duration",
+        "Subjects (B.Arch)",
+        "Subjects (B.Plan)",
+        "Total Number of Questions (B.Arch)",
+        "Total Number of Questions (B.Plan)",
+        "Question Types",
+        "Maximum Marks",
+        "Marking Scheme"
+      ],
+      "rows": [
+        [
+          "Computer Based (Online)",
+          "3 Hours",
+          "Mathematics, General Aptitude, Drawing",
+          "Mathematics, General Aptitude, Planning",
+          "82 (30 Maths + 50 Aptitude + 2 Drawing)",
+          "105 (30 Maths + 50 Aptitude + 25 Planning)",
+          "{ Maths: 20 MCQs & 10 Numerical, Aptitude: 50 MCQs, Drawing: 2 Questions, Planning: 25 MCQs (B.Plan only) }",
+          "{ B.Arch: 400, B.Plan: 400 }",
+          "{ MCQ: Correct: +4, Incorrect: -1, Unattempted: 0, Drawing: Total 100 Marks }"
+        ]
+      ]
+    }
+  ],
+  "fullSyllabusUrl": "https://byjus.com/free-ias-prep/jee-main-syllabus/",  
+  "downloadUrl": ""
+}
