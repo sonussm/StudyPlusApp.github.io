@@ -1,0 +1,51 @@
+{
+  "years": [
+    {
+      "year_name": "Bihar S.I 2024",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/maths.png",
+      "shifts": [
+        {
+          "shift_name": "20 March Shift 1",
+          "image_url": "https://example.com/images/john_doe.png",
+          "questions": [
+            "Maths",
+            "Calculus",
+            "Geometry"
+          ]
+        },
+        {
+          "shift_name": "20 March Shift 2",
+
+          "image_url": "https://example.com/images/jane_smith.png",
+          "questions": [
+            "Trigonometry",
+            "Statistics"
+          ]
+        }
+      ]
+    },
+    {
+      "year_name": "Bihar S.I 2023",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/history.png",
+      "shifts": [
+        {
+          "shift_name": "30 March shift 1",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/playlists/Bihar%20S.I/images/kautilya.png",
+          "questions": [
+            "Ancient history",
+            "Mediaeval history",
+            "Modern history"
+          ]
+        },
+        {
+          "shift_name": "1 Aprill shift 2",
+          "image_url": "https://example.com/images/isaac_newton.png",
+          "questions": [
+            "Optics",
+            "Gravity"
+          ]
+        }
+      ]
+    }
+  ]
+}

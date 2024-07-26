@@ -1,0 +1,50 @@
+{
+  "subjects": [
+    {
+      "name": "Mathematics",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/maths.png",
+      "teachers": [
+        {
+          "name": "John Doe",
+          "image_url": "https://example.com/images/john_doe.png",
+          "lectures": [
+            "Algebra",
+            "Calculus",
+            "Geometry"
+          ]
+        },
+        {
+          "name": "Jane Smith",
+          "image_url": "https://example.com/images/jane_smith.png",
+          "lectures": [
+            "Trigonometry",
+            "Statistics"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "History",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/history.png",
+      "teachers": [
+        {
+          "name": "Kautilya",
+          "image_url": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
+          "lectures": [
+            "Ancient history",
+            "Mediaeval history",
+            "Modern history"
+          ]
+        },
+        {
+          "name": "Isaac Newton",
+          "image_url": "https://example.com/images/isaac_newton.png",
+          "lectures": [
+            "Optics",
+            "Gravity"
+          ]
+        }
+      ]
+    }
+  ]
+}
