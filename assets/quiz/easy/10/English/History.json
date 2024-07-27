@@ -8,6 +8,45 @@
     "question": "Who was the first President of the United States?",
     "options": ["Thomas Jefferson", "George Washington", "John Adams", "Benjamin Franklin"],
     "correct_answer": "George Washington"
+  },
+  {
+    "question": "What is the largest country in the world by land area?",
+    "options": ["Russia", "Canada", "China", "United States"],
+    "correct_answer": "Russia"
+  },
+  {
+    "question": "Which planet is closest to the Sun?",
+    "options": ["Venus", "Mercury", "Mars", "Earth"],
+    "correct_answer": "Mercury"
+  },
+  {
+    "question": "What is the capital of Australia?",
+    "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+    "correct_answer": "Canberra"
+  },
+  {
+    "question": "Who painted the Mona Lisa?",
+    "options": ["Leonardo da Vinci", "Michelangelo", "Pablo Picasso", "Vincent van Gogh"],
+    "correct_answer": "Leonardo da Vinci"
+  },
+  {
+    "question": "What is the highest mountain in the world?",
+    "options": ["Mount Everest", "K2", "Kangchenjunga", "Lhotse"],
+    "correct_answer": "Mount Everest"
+  },
+  {
+    "question": "Which ocean is the largest?",
+    "options": ["Atlantic Ocean", "Pacific Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correct_answer": "Pacific Ocean"
+  },
+  {
+    "question": "What is the chemical symbol for gold?",
+    "options": ["Au", "Ag", "Cu", "Fe"],
+    "correct_answer": "Au"
+  },
+  {
+    "question": "Who wrote the famous play 'Hamlet'?",
+    "options": ["William Shakespeare", "Christopher Marlowe", "Ben Jonson", "John Milton"],
+    "correct_answer": "William Shakespeare"
   }
-  
 ]
