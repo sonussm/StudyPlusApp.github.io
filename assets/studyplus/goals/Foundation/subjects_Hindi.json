@@ -1,0 +1,47 @@
+[
+  {
+    "name": "गणित",
+    "description": "संख्याओं, समीकरणों और आकृतियों की दुनिया का अन्वेषण करें।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/maths.png"
+  },
+  {
+    "name": "रसायन शास्त्र",
+    "description": "रासायनिक यौगिकों और अभिक्रियाओं के चमत्कारों की खोज करें।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/chemistry.png"
+  },
+  {
+    "name": "इतिहास",
+    "description": "अतीत की कहानियों को उजागर करें और समझें कि वे वर्तमान को कैसे आकार देते हैं।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/history.png"
+  },
+  {
+    "name": "राजनीति",
+    "description": "शासन के सिद्धांतों, प्रथाओं और संस्थानों के बारे में जानें।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/polity.png"
+  },
+  {
+    "name": "अर्थशास्त्र",
+    "description": "वस्तुओं और सेवाओं के उत्पादन, वितरण और उपभोग के अध्ययन में गहराई से उतरें।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/economics.png"
+  },
+  {
+    "name": "तर्कशक्ति",
+    "description": "महत्वपूर्ण सोच और समस्या समाधान कौशल को तेज करें।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/reasoning.png"
+  },
+  {
+    "name": "भूगोल",
+    "description": "पृथ्वी के परिदृश्यों, वातावरणों और घटनाओं का अन्वेषण करें।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/geography.png"
+  },
+  {
+    "name": "अंग्रेजी",
+    "description": "शेक्सपियर और आधुनिक साहित्य की भाषा में महारत हासिल करें।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/english.png"
+  },
+  {
+    "name": "सामान्य ज्ञान",
+    "description": "दुनिया के बारे में तथ्यों और सामान्य ज्ञान के साथ अपनी समझ बढ़ाएं।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/gk.png"
+  }
+]
