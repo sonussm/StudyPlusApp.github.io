@@ -1,0 +1,14 @@
+[
+  {
+    "title": "Mock Test 1",
+    "questionCount": 30,
+    "language": "English",
+    "testUrl": "https://raw.githubusercontent.com/StudyPlusApp/StudyPlusApp.github.io/main/assets/quiz/easy/10/English/History.json.json"
+  },
+  {
+    "title": "Mock Test 2",
+    "questionCount": 25,
+    "language": "English",
+    "testUrl": "https://example.com/mock-test-2-questions.json"
+  }
+]
