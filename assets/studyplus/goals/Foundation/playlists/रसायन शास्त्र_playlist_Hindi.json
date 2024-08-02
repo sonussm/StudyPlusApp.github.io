@@ -1,0 +1,46 @@
+{
+  "teachers": [
+    {
+      "name": "Rojgar with Ankit",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "description": "सर्वश्रेष्ठ Rojgar with Ankit लेक्चर्स से सीखें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOUfOOZtuFjJJd3v29ewDgGd"
+    },
+    {
+      "name": "WIFI Study",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/wifistudy.png",
+      "description": "WIFI Study के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLG0FUtUKWA9IwqUNo51KK8HGGIZZ5gQIz"
+    },
+    {
+      "name": "PW",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
+      "description": "PW के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLhrq-fv7kVgcJUPTXcHEEJTDUFqtifvpar"
+    },
+    {
+      "name": "Ada247",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "description": "Ada247 के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLQYgCxDYkIszubcP2hr48swYPaY3w-WM_"
+    },
+    {
+      "name": "Exampur",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "description": "Exampur के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLSaziDCRTo1YclID0jKJsUJhyMKk4VXWV"
+    },
+    {
+      "name": "Kautilya",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
+      "description": "Kautilya के साथ प्राचीन ज्ञान के रहस्यों को अनलॉक करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PL_TgcskF4KigUWwq4XDAXjobOJ9MAza_u"
+    },
+    {
+      "name": "Utkarsh Classes",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "description": "Utkarsh के साथ अपने अध्ययन को ऊंचाइयों पर ले जाएं।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSFoMfJhkjidCJp5aE-36DUc"
+    }
+  ]
+}

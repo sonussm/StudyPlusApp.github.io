@@ -1,0 +1,64 @@
+{
+  "teachers": [
+    {
+      "name": "Rojgar with Ankit",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "description": "Rojgar with Ankit व्याख्यान से सर्वश्रेष्ठ सीखें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOUvcjIerQL79THI_kqB3LNN"
+    },
+    {
+      "name": "Quick trick by Sahil",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/quicktrick.png",
+      "description": "साहिल सर के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLNcySWEjd6q9DGHUlm49Vod-bT32GYCXL"
+    },
+    {
+      "name": "WIFI Study",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/wifistudy.png",
+      "description": "WIFI Study के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLWB_X6KIlHEQkKC5vDHJcXFSIEzmYzkci"
+    },
+    {
+      "name": "Khan Global studies",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/khan.png",
+      "description": "Khan Global Studies के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLJWq33wJrmDVAZ6zFqTDiIVPjoTk5f4JE"
+    },
+    {
+      "name": "PW",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
+      "description": "PW के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLUNpbYw8C6VbaHGejT4cljhS6jDKZ7rRr"
+    },
+    {
+      "name": "Ada247",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "description": "Ada247 के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PL6BBXnh4uqgCGU6a1fvP8DIS4lY1ayePB"
+    },
+    {
+      "name": "Exampur",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "description": "Exampur के साथ ज्ञान की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_MNwIsI2QMOFe5gAqw7I4l-"
+    },
+    {
+      "name": "Kautilya",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
+      "description": "कौटिल्य के साथ प्राचीन ज्ञान के रहस्यों को अनलॉक करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PL_TgcskF4KijopdIoJ9fUG2SUg_55RoZT"
+    },
+    {
+      "name": "Abhinav Sharma",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/abhinav.png",
+      "description": "अभिनव शर्मा के साथ गणित की गहराइयों का अन्वेषण करें।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLmjlFv2tz6m8PV8X1LlymZpUL-KfE5BFV"
+    },
+    {
+      "name": "Utkarsh Classes",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "description": "Utkarsh के साथ अपनी सीख को बढ़ाएँ।",
+      "playlistUrl": "https://youtube.com/playlist?list=PLQ-VlVvFUTVvfJVWOxPIAGQVlVqod8Lf2"
+    }
+  ]
+}
