@@ -10,6 +10,16 @@
     "image_url": "https://studyplusapp.github.io/assets/studyplus/images/chemistry.png"
   },
   {
+    "name": "Physics",
+    "description": "Uncover the principles governing the physical universe, from atoms to galaxies, in Physics.",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/physics.png"
+  },
+  {
+    "name": "Biology",
+    "description": "Understand the complexities of living organisms and ecosystems in Biology.",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/biology.png"
+  },
+  {
     "name": "History",
     "description": "Uncover the stories of the past and understand how they shape our present in History.",
     "image_url": "https://studyplusapp.github.io/assets/studyplus/images/history.png"
@@ -38,6 +48,11 @@
     "name": "English",
     "description": "Master the language of Shakespeare and modern literature in English.",
     "image_url": "https://studyplusapp.github.io/assets/studyplus/images/english.png"
+  },
+  {
+    "name": "Hindi",
+    "description": "Embrace the beauty and richness of one of India's official languages in Hindi.",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/hindi.png"
   },
   {
     "name": "General Knowledge",
