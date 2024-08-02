@@ -1,0 +1,40 @@
+{
+  "teachers": [
+    {
+      "name": "Rojgar with Ankit",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "description": "Learn from the best Rojgar with Ankit lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLUQQ2xReo0zTIlRQGEi4Lsbxv3n9zT_Fl"
+    },
+    {
+      "name": "PW",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
+      "description": "Explore the depths of knowledge with PW.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLhrq-fv7kVgdhg-wZDRj7DzycyMFMWBPY"
+    },
+    {
+      "name": "Ada247",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "description": "Explore the depths of knowledge with Ada247.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLAbbqVpW4yxs7xzYMrgIbNAik-6i8FuA5"
+    },
+    {
+      "name": "Exampur",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "description": "Explore the depths of knowledge with Exampur.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLSaziDCRTo1ZLhvKlqIRsNBK2pDPNlG-M"
+    },
+    {
+      "name": "Kautilya",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
+      "description": "Unlock the secrets of ancient wisdom with Kautilya.",
+      "playlistUrl": "https://youtube.com/playlist?list=PL_TgcskF4KiiENK5jfUmYy1KM99LbcXq6"
+    },
+    {
+      "name": "Utkarsh Classes",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "description": "Elevate your learning with Utkarsh.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSGIWvD6wpuHX5bDfqgpwoFd"
+    }
+  ]
+}
