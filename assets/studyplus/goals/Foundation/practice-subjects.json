@@ -1,0 +1,134 @@
+[
+  {
+    "name": "Mathematics",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/maths.png",
+    "chapters": [
+      {"name": "Algebra"},
+      {"name": "Geometry"},
+      {"name": "Trigonometry"},
+      {"name": "Calculus"},
+      {"name": "Statistics"}
+    ]
+  },
+  {
+    "name": "Chemistry",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/chemistry.png",
+    "chapters": [
+      {"name": "Organic Chemistry"},
+      {"name": "Inorganic Chemistry"},
+      {"name": "Physical Chemistry"},
+      {"name": "Biochemistry"},
+      {"name": "Analytical Chemistry"}
+    ]
+  },
+  {
+    "name": "Physics",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/physics.png",
+    "chapters": [
+      {"name": "Mechanics"},
+      {"name": "Thermodynamics"},
+      {"name": "Electromagnetism"},
+      {"name": "Optics"},
+      {"name": "Modern Physics"}
+    ]
+  },
+  {
+    "name": "Biology",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/biology.png",
+    "chapters": [
+      {"name": "Cell Biology"},
+      {"name": "Genetics"},
+      {"name": "Ecology"},
+      {"name": "Evolution"},
+      {"name": "Physiology"}
+    ]
+  },
+  {
+    "name": "History",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/history.png",
+    "chapters": [
+      {"name": "Ancient History"},
+      {"name": "Medieval History"},
+      {"name": "Modern History"},
+      {"name": "World War I"},
+      {"name": "World War II"}
+    ]
+  },
+  {
+    "name": "Polity",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/polity.png",
+    "chapters": [
+      {"name": "Constitution"},
+      {"name": "Fundamental Rights"},
+      {"name": "Legislature"},
+      {"name": "Judiciary"},
+      {"name": "Executive"}
+    ]
+  },
+  {
+    "name": "Economics",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/economics.png",
+    "chapters": [
+      {"name": "Microeconomics"},
+      {"name": "Macroeconomics"},
+      {"name": "International Trade"},
+      {"name": "Public Finance"},
+      {"name": "Economic Development"}
+    ]
+  },
+  {
+    "name": "Reasoning",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/reasoning.png",
+    "chapters": [
+      {"name": "Verbal Reasoning"},
+      {"name": "Non-Verbal Reasoning"},
+      {"name": "Logical Reasoning"},
+      {"name": "Analytical Reasoning"},
+      {"name": "Data Sufficiency"}
+    ]
+  },
+  {
+    "name": "Geography",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/geography.png",
+    "chapters": [
+      {"name": "Physical Geography"},
+      {"name": "Human Geography"},
+      {"name": "World Geography"},
+      {"name": "Indian Geography"},
+      {"name": "Environmental Geography"}
+    ]
+  },
+  {
+    "name": "English",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/english.png",
+    "chapters": [
+      {"name": "Grammar"},
+      {"name": "Vocabulary"},
+      {"name": "Comprehension"},
+      {"name": "Essay Writing"},
+      {"name": "Literature"}
+    ]
+  },
+  {
+    "name": "Hindi",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/hindi.png",
+    "chapters": [
+      {"name": "Vyakaran"},
+      {"name": "Shabdkosh"},
+      {"name": "Gadyansh"},
+      {"name": "Nibandh Lekhan"},
+      {"name": "Sahitya"}
+    ]
+  },
+  {
+    "name": "GK",
+    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/gk.png",
+    "chapters": [
+      {"name": "Current Affairs"},
+      {"name": "Sports"},
+      {"name": "Science and Technology"},
+      {"name": "Awards and Honors"},
+      {"name": "History and Culture"}
+    ]
+  }
+]
