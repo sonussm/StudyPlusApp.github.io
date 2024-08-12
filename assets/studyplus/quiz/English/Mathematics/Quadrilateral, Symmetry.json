@@ -1,0 +1,170 @@
+[
+    {
+      "question": "What is a quadrilateral with exactly one line of symmetry?",
+      "options": ["Square", "Rectangle", "Trapezium", "Rhombus"],
+      "correct_answer": "Trapezium",
+      "solution": "A trapezium has exactly one line of symmetry."
+    },
+    {
+      "question": "Which quadrilateral has both line and rotational symmetry of order more than 1?",
+      "options": ["Square", "Parallelogram", "Kite", "Trapezium"],
+      "correct_answer": "Square",
+      "solution": "A square has four lines of symmetry and rotational symmetry of order 4."
+    },
+    {
+      "question": "What is the sum of the interior angles of a quadrilateral?",
+      "options": ["180 degrees", "360 degrees", "540 degrees", "720 degrees"],
+      "correct_answer": "360 degrees",
+      "solution": "The sum of the interior angles of a quadrilateral is always 360 degrees."
+    },
+    {
+      "question": "Which quadrilateral has opposite sides equal and parallel?",
+      "options": ["Rectangle", "Square", "Rhombus", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All of these quadrilaterals have opposite sides that are equal and parallel."
+    },
+    {
+      "question": "What type of symmetry does a rhombus have?",
+      "options": ["Only line symmetry", "Only rotational symmetry", "Both line and rotational symmetry", "No symmetry"],
+      "correct_answer": "Both line and rotational symmetry",
+      "solution": "A rhombus has both line symmetry and rotational symmetry of order 2."
+    },
+    {
+      "question": "Which quadrilateral has no lines of symmetry?",
+      "options": ["Kite", "Parallelogram", "Trapezium", "Irregular quadrilateral"],
+      "correct_answer": "Irregular quadrilateral",
+      "solution": "An irregular quadrilateral typically has no lines of symmetry."
+    },
+    {
+      "question": "What is the rotational symmetry order of a rectangle?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": "2",
+      "solution": "A rectangle has rotational symmetry of order 2."
+    },
+    {
+      "question": "Which quadrilateral has all sides equal and opposite angles equal?",
+      "options": ["Square", "Rectangle", "Trapezium", "Rhombus"],
+      "correct_answer": "Rhombus",
+      "solution": "A rhombus has all sides equal and opposite angles equal."
+    },
+    {
+      "question": "What is the defining property of a parallelogram?",
+      "options": ["All sides are equal", "Opposite sides are equal and parallel", "Has four right angles", "Has one line of symmetry"],
+      "correct_answer": "Opposite sides are equal and parallel",
+      "solution": "A parallelogram has opposite sides that are equal and parallel."
+    },
+    {
+      "question": "Which quadrilateral has diagonals that bisect each other at right angles?",
+      "options": ["Rectangle", "Square", "Rhombus", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All of these quadrilaterals have diagonals that bisect each other at right angles."
+    },
+    {
+      "question": "What is the symmetry of a kite?",
+      "options": ["Only line symmetry", "Only rotational symmetry", "Both line and rotational symmetry", "No symmetry"],
+      "correct_answer": "Only line symmetry",
+      "solution": "A kite has one line of symmetry."
+    },
+    {
+      "question": "Which quadrilateral has four right angles?",
+      "options": ["Square", "Rhombus", "Trapezium", "Kite"],
+      "correct_answer": "Square",
+      "solution": "A square has four right angles."
+    },
+    {
+      "question": "What is the order of rotational symmetry for a square?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": "4",
+      "solution": "A square has rotational symmetry of order 4."
+    },
+    {
+      "question": "Which quadrilateral has two pairs of equal opposite angles?",
+      "options": ["Rectangle", "Square", "Rhombus", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All of these quadrilaterals have two pairs of equal opposite angles."
+    },
+    {
+      "question": "What is the defining feature of a square?",
+      "options": ["All sides are equal and parallel", "All angles are equal", "Both A and B", "None of the above"],
+      "correct_answer": "Both A and B",
+      "solution": "A square has all sides equal and all angles equal."
+    },
+    {
+      "question": "Which quadrilateral can be formed by two congruent triangles?",
+      "options": ["Parallelogram", "Trapezium", "Kite", "Rectangle"],
+      "correct_answer": "Kite",
+      "solution": "A kite can be formed by two congruent triangles."
+    },
+    {
+      "question": "Which quadrilateral has diagonals that are equal in length?",
+      "options": ["Square", "Rhombus", "Trapezium", "Kite"],
+      "correct_answer": "Rectangle",
+      "solution": "A rectangle has diagonals that are equal in length."
+    },
+    {
+      "question": "What is the symmetry of a regular polygon with four sides?",
+      "options": ["Only line symmetry", "Only rotational symmetry", "Both line and rotational symmetry", "No symmetry"],
+      "correct_answer": "Both line and rotational symmetry",
+      "solution": "A regular quadrilateral (square) has both line and rotational symmetry."
+    },
+    {
+      "question": "Which quadrilateral has two lines of symmetry?",
+      "options": ["Square", "Rectangle", "Rhombus", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All of these quadrilaterals have two lines of symmetry."
+    },
+    {
+      "question": "What is the property of a trapezium?",
+      "options": ["Only one pair of parallel sides", "All sides are equal", "Diagonals are equal", "Has four right angles"],
+      "correct_answer": "Only one pair of parallel sides",
+      "solution": "A trapezium has only one pair of parallel sides."
+    },
+    {
+      "question": "Which quadrilateral has rotational symmetry of order 1?",
+      "options": ["Square", "Rectangle", "Irregular quadrilateral", "Rhombus"],
+      "correct_answer": "Irregular quadrilateral",
+      "solution": "An irregular quadrilateral has rotational symmetry of order 1."
+    },
+    {
+      "question": "What is the defining property of a rectangle?",
+      "options": ["Opposite sides are equal", "All sides are equal", "Has two lines of symmetry", "Both A and C"],
+      "correct_answer": "Both A and C",
+      "solution": "A rectangle has opposite sides equal and has two lines of symmetry."
+    },
+    {
+      "question": "What is the relationship between the angles in a quadrilateral?",
+      "options": ["They sum to 180 degrees", "They sum to 360 degrees", "They sum to 540 degrees", "They sum to 720 degrees"],
+      "correct_answer": "They sum to 360 degrees",
+      "solution": "The angles in a quadrilateral always sum to 360 degrees."
+    },
+    {
+      "question": "Which quadrilateral has no rotational symmetry?",
+      "options": ["Kite", "Trapezium", "Parallelogram", "Square"],
+      "correct_answer": "Trapezium",
+      "solution": "A trapezium typically has no rotational symmetry."
+    },
+    {
+      "question": "What is the symmetry of a rectangle?",
+      "options": ["Only line symmetry", "Only rotational symmetry", "Both line and rotational symmetry", "No symmetry"],
+      "correct_answer": "Both line and rotational symmetry",
+      "solution": "A rectangle has both line symmetry and rotational symmetry of order 2."
+    },
+    {
+      "question": "Which quadrilateral has diagonals that are perpendicular?",
+      "options": ["Square", "Rectangle", "Rhombus", "Both A and C"],
+      "correct_answer": "Both A and C",
+      "solution": "Both the square and rhombus have diagonals that are perpendicular."
+    },
+    {
+      "question": "What type of quadrilateral has one pair of equal sides?",
+      "options": ["Kite", "Trapezium", "Parallelogram", "Rectangle"],
+      "correct_answer": "Kite",
+      "solution": "A kite has one pair of equal sides."
+    },
+    {
+      "question": "Which quadrilateral can be defined as a parallelogram with four right angles?",
+      "options": ["Square", "Rectangle", "Rhombus", "Kite"],
+      "correct_answer": "Rectangle",
+      "solution": "A rectangle is a parallelogram with four right angles."
+    }
+  ]

@@ -1,0 +1,152 @@
+[
+    {
+      "question": "The difference in simple interest and compound interest on a certain sum of money in 2 years at 10% p.a. is Rs. 50. The sum is",
+      "options": ["Rs. 10000", "Rs. 6000", "Rs. 5000", "Rs. 2000"],
+      "correct_answer": "Rs. 5000",
+      "solution": "If the difference between SI and CI for 2 years is Rs. x, then Principal = x (100/r)^2. Here, P = 50 x (100x100)/(10x10) → P = 5000."
+    },
+    {
+      "question": "The difference in simple interest and compound interest on a certain sum of money in 2 years at 18% p.a. is Rs. 162. The sum is",
+      "options": ["Rs. 4000", "Rs. 5200", "Rs. 4250", "Rs. 5000"],
+      "correct_answer": "Rs. 5000",
+      "solution": "If the difference between SI and CI for 2 years is Rs. x, Principal = x (100/r)^2. Therefore, P = 162 x (100x100)/(18x18) → P = 5000."
+    },
+    {
+      "question": "The compound interest on a certain sum of money for 2 years is Rs. 208 and the simple interest for the same time at the same rate is Rs. 200. Find the rate %.",
+      "options": ["5%", "6%", "7%", "8%"],
+      "correct_answer": "8%",
+      "solution": "SI = Rs. 200 and CI = Rs. 208. The difference of Rs. 8 is the interest on the first year's interest, hence R = (8x100)/(100x1)% = 8%."
+    },
+    {
+      "question": "The difference between compound interest and simple interest on a certain sum for 2 years at 10% is Rs. 25. The sum is",
+      "options": ["Rs. 1200", "Rs. 2500", "Rs. 750", "Rs. 1250"],
+      "correct_answer": "Rs. 2500",
+      "solution": "Using the formula, Principal = x (100/r)^2, where x is the difference in CI & SI for 2 years. Thus, P = 25(100/10)^2 = 2500."
+    },
+    {
+      "question": "The simple interest on a certain sum for 3 years is Rs. 225 and the compound interest on the same sum for 2 years is Rs. 165. Find the rate percent per annum.",
+      "options": ["20%", "2.5%", "5%", "15%"],
+      "correct_answer": "20%",
+      "solution": "SI for 3 years = 225 implies SI for 1 year = 75. CI for the 2nd year = 90, hence the difference = 15. Rate = (15/75)x100 = 20%."
+    },
+    {
+      "question": "The simple interest on a sum of money for 2 years is Rs. 150 and the compound interest on the same sum at the same rate for 2 years is Rs. 155. The rate % p.a. is",
+      "options": ["16%", "20/3%", "12%", "10%"],
+      "correct_answer": "20/3%",
+      "solution": "SI for 2 years = 150 implies SI for 1 year = 75. CI for the 2nd year = 80, hence the difference = 5. Rate = (5/75)x100 = 20/3%."
+    },
+    {
+      "question": "Mihir’s capital is 5/4 times more than Tulsi’s capital. Tulsi invested her capital at 50% per annum for 3 years (compounded annually). At what rate % p.a. simple interest should Mihir invest his capital so that after 3 years, they both have the same amount of capital?",
+      "options": ["20/3%", "10%", "50/3%", "1.728%"],
+      "correct_answer": "20/3%",
+      "solution": "Mihir's investment needs to match Tulsi's compounded amount after 3 years, leading to the calculation of his required rate."
+    },
+    {
+      "question": "A sum of Rs. 6400 amounts to Rs. 6724 at 10% p.a. compounded quarterly. Find the time period.",
+      "options": ["1 year", "2 years", "3 years", "4 years"],
+      "correct_answer": "1 year",
+      "solution": "Using the compound interest formula, the time period can be calculated based on the amount and principal."
+    },
+    {
+      "question": "A dealer allows a discount of 20% on a marked price of Rs. 72000 and incurs a loss of 10%. What is the cost price?",
+      "options": ["Rs. 64800", "Rs. 80000", "Rs. 72000", "Rs. 90000"],
+      "correct_answer": "Rs. 80000",
+      "solution": "Cost Price = Selling Price / (1 - Loss%) = (72000 * (1 - 0.10)) / (1 - 0.20) = 80000."
+    },
+    {
+      "question": "If the ratio of marked price and selling price of an article is 6:5, then what is the discount percentage?",
+      "options": ["10%", "15%", "16.66%", "20%"],
+      "correct_answer": "16.66%",
+      "solution": "Discount % = (MP - SP)/MP × 100 = (6x - 5x)/6x × 100 = 100/6."
+    },
+    {
+      "question": "A person bought some pens at the rate of 24 for 1 rupee and sold them at the rate of 20 for 1 rupee. What is the profit percentage?",
+      "options": ["16.67%", "20%", "25%", "30%"],
+      "correct_answer": "20%",
+      "solution": "Cost Price = 1/24 per pen, Selling Price = 1/20 per pen. Profit % = [(SP - CP)/CP] × 100."
+    },
+    {
+      "question": "A shopkeeper marked a price Rs. 16,500 more than the cost price. If he allows a discount of 8%, it would fetch Rs. 3630 more than if he allowed a discount of 10%. Find the cost price.",
+      "options": ["Rs. 15000", "Rs. 18000", "Rs. 20000", "Rs. 25000"],
+      "correct_answer": "Rs. 20000",
+      "solution": "Using the selling price formulas for both discounts, we can set up an equation to solve for cost price."
+    },
+    {
+      "question": "The simple interest on a sum of Rs. 8000 at a certain rate per cent per annum for 3 years is Rs. 3600. What will be the amount after 2 years at the same rate, if the interest is compounded 8-monthly?",
+      "options": ["Rs. 10000", "Rs. 11000", "Rs. 12000", "Rs. 13000"],
+      "correct_answer": "Rs. 11000",
+      "solution": "Calculate the effective rate for compounding and apply it to find the total amount after 2 years."
+    },
+    {
+      "question": "If a sum of money doubles itself in 5 years at simple interest, what is the rate of interest?",
+      "options": ["10%", "12%", "15%", "20%"],
+      "correct_answer": "20%",
+      "solution": "Using the formula for simple interest, if the amount doubles, then the rate can be calculated as 100/Time = 20%."
+    },
+    {
+      "question": "A sum of Rs. 5000 is invested at a rate of 12% per annum compound interest. What will be the amount after 2 years?",
+      "options": ["Rs. 6300", "Rs. 6400", "Rs. 6600", "Rs. 6800"],
+      "correct_answer": "Rs. 6300",
+      "solution": "Using the compound interest formula: Amount = P(1 + r/100)^n = 5000(1 + 12/100)^2."
+    },
+    {
+      "question": "A loan of Rs. 1000 is taken for 3 years at an interest rate of 5% per annum. What is the total amount to be paid back?",
+      "options": ["Rs. 1150", "Rs. 1200", "Rs. 1250", "Rs. 1300"],
+      "correct_answer": "Rs. 1150",
+      "solution": "Total Amount = Principal + SI = 1000 + (1000 * 5 * 3)/100."
+    },
+    {
+      "question": "The compound interest on a sum of money for 3 years is Rs. 300 and the simple interest for the same time is Rs. 270. Find the rate of interest.",
+      "options": ["5%", "8%", "10%", "12%"],
+      "correct_answer": "10%",
+      "solution": "The difference between CI and SI gives the interest on the interest, allowing us to derive the rate."
+    },
+    {
+      "question": "If a sum of Rs. 1500 is invested at a rate of 6% per annum compounded annually, what will be the total amount after 4 years?",
+      "options": ["Rs. 1800", "Rs. 2000", "Rs. 2100", "Rs. 2200"],
+      "correct_answer": "Rs. 2000",
+      "solution": "Using the formula for compound interest, Amount = P(1 + r/100)^n = 1500(1 + 6/100)^4."
+    },
+    {
+      "question": "A sum of Rs. 1200 is invested at a rate of 10% per annum for 2 years. What is the simple interest earned?",
+      "options": ["Rs. 120", "Rs. 240", "Rs. 300", "Rs. 400"],
+      "correct_answer": "Rs. 240",
+      "solution": "SI = (Principal * Rate * Time) / 100 = (1200 * 10 * 2) / 100."
+    },
+    {
+      "question": "What is the amount after 3 years on a principal of Rs. 5000 at a compound interest rate of 8% per annum?",
+      "options": ["Rs. 6000", "Rs. 6300", "Rs. 6800", "Rs. 7000"],
+      "correct_answer": "Rs. 6300",
+      "solution": "Using the compound interest formula: Amount = P(1 + r/100)^n = 5000(1 + 8/100)^3."
+    },
+    {
+      "question": "If a sum of Rs. 2500 is invested at a rate of 4% per annum compounded half-yearly, what will be the total amount after 2 years?",
+      "options": ["Rs. 2600", "Rs. 2700", "Rs. 2800", "Rs. 2900"],
+      "correct_answer": "Rs. 2700",
+      "solution": "Using the formula for half-yearly compounding, Amount = P(1 + r/200)^(2n) = 2500(1 + 4/200)^4."
+    },
+    {
+      "question": "A man borrows Rs. 8000 at a rate of 15% per annum for 2 years. What is the total amount he has to pay back?",
+      "options": ["Rs. 9200", "Rs. 9400", "Rs. 9600", "Rs. 9800"],
+      "correct_answer": "Rs. 9200",
+      "solution": "Total Amount = Principal + SI = 8000 + (8000 * 15 * 2)/100."
+    },
+    {
+      "question": "The difference between simple interest and compound interest on a sum of Rs. 5000 for 2 years at 10% is",
+      "options": ["Rs. 50", "Rs. 100", "Rs. 150", "Rs. 200"],
+      "correct_answer": "Rs. 100",
+      "solution": "Using the formula for difference: Difference = P(R/100)^2/2 = 5000(10/100)^2/2 = 100."
+    },
+    {
+      "question": "If a sum of Rs. 2000 is invested at a rate of 12% per annum compounded annually, what will be the total amount after 5 years?",
+      "options": ["Rs. 2800", "Rs. 3000", "Rs. 3200", "Rs. 3400"],
+      "correct_answer": "Rs. 3200",
+      "solution": "Using the compound interest formula: Amount = P(1 + r/100)^n = 2000(1 + 12/100)^5."
+    },
+    {
+      "question": "A sum of Rs. 10000 is invested at a rate of 5% per annum for 4 years. What will be the simple interest earned?",
+      "options": ["Rs. 2000", "Rs. 2500", "Rs. 3000", "Rs. 3500"],
+      "correct_answer": "Rs. 2000",
+      "solution": "SI = (Principal * Rate * Time) / 100 = (10000 * 5 * 4) / 100."
+    }
+  ]

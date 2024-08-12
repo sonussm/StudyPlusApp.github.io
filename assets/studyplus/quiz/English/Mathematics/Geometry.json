@@ -1,0 +1,159 @@
+ [
+      {
+        "question": "What is the sum of the interior angles of a triangle?",
+        "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+        "correct_answer": "180 degrees",
+        "solution": "The sum of the interior angles of a triangle is always 180 degrees."
+      },
+      {
+        "question": "Which of the following shapes has no angles?",
+        "options": ["Triangle", "Square", "Circle", "Rectangle"],
+        "correct_answer": "Circle",
+        "solution": "A circle is a shape that has no angles."
+      },
+      {
+        "question": "What is the name for a triangle with three unequal sides?",
+        "options": ["Equilateral triangle", "Isosceles triangle", "Scalene triangle", "Right triangle"],
+        "correct_answer": "Scalene triangle",
+        "solution": "A scalene triangle is defined as a triangle with all sides of different lengths."
+      },
+      {
+        "question": "What is the term for a polygon with eight sides?",
+        "options": ["Hexagon", "Octagon", "Decagon", "Pentagon"],
+        "correct_answer": "Octagon",
+        "solution": "An octagon is a polygon with eight sides."
+      },
+      {
+        "question": "What is the formula for the circumference of a circle?",
+        "options": ["C = πr²", "C = 2πr", "C = πd", "C = 2πd"],
+        "correct_answer": "C = 2πr",
+        "solution": "The circumference of a circle is calculated using the formula C = 2πr, where r is the radius."
+      },
+      {
+        "question": "What is the measure of each interior angle in a regular hexagon?",
+        "options": ["90 degrees", "120 degrees", "180 degrees", "360 degrees"],
+        "correct_answer": "120 degrees",
+        "solution": "In a regular hexagon, each interior angle measures 120 degrees."
+      },
+      {
+        "question": "Which of the following is an example of a parallel line?",
+        "options": ["Intersecting lines", "Perpendicular lines", "Vertical lines", "Horizontal lines"],
+        "correct_answer": "Horizontal lines",
+        "solution": "Horizontal lines are an example of parallel lines as they never meet."
+      },
+      {
+        "question": "What is the term for a line segment that connects two nonadjacent vertices of a polygon?",
+        "options": ["Diagonal", "Median", "Altitude", "Perpendicular"],
+        "correct_answer": "Diagonal",
+        "solution": "A diagonal connects two nonadjacent vertices of a polygon."
+      },
+      {
+        "question": "What is the name for a quadrilateral with exactly two pairs of parallel sides?",
+        "options": ["Square", "Rectangle", "Rhombus", "Trapezoid"],
+        "correct_answer": "Trapezoid",
+        "solution": "A trapezoid is defined as a quadrilateral with exactly one pair of parallel sides."
+      },
+      {
+        "question": "What is the measure of each angle in an equilateral triangle?",
+        "options": ["30 degrees", "45 degrees", "60 degrees", "90 degrees"],
+        "correct_answer": "60 degrees",
+        "solution": "Each angle in an equilateral triangle measures 60 degrees."
+      },
+      {
+        "question": "Which of the following is the formula for the area of a rectangle?",
+        "options": ["A = l + w", "A = lw", "A = 2lw", "A = l/w"],
+        "correct_answer": "A = lw",
+        "solution": "The area of a rectangle is calculated using the formula A = lw, where l is the length and w is the width."
+      },
+      {
+        "question": "What is the name for a three-dimensional figure with six congruent square faces?",
+        "options": ["Cylinder", "Pyramid", "Cube", "Sphere"],
+        "correct_answer": "Cube",
+        "solution": "A cube is a three-dimensional figure with six congruent square faces."
+      },
+      {
+        "question": "What is the area of a triangle with a base of 10 and a height of 5?",
+        "options": ["25", "30", "35", "40"],
+        "correct_answer": "25",
+        "solution": "The area of a triangle is calculated using the formula A = 1/2 * base * height, so A = 1/2 * 10 * 5 = 25."
+      },
+      {
+        "question": "What is the volume of a cube with a side length of 3?",
+        "options": ["9", "18", "27", "36"],
+        "correct_answer": "27",
+        "solution": "The volume of a cube is calculated using the formula V = side³, so V = 3³ = 27."
+      },
+      {
+        "question": "What is the perimeter of a rectangle with a length of 8 and a width of 4?",
+        "options": ["24", "32", "40", "48"],
+        "correct_answer": "24",
+        "solution": "The perimeter of a rectangle is calculated using the formula P = 2(length + width), so P = 2(8 + 4) = 24."
+      },
+      {
+        "question": "What is the area of a circle with a radius of 4?",
+        "options": ["12.56", "25.12", "50.24", "78.54"],
+        "correct_answer": "50.24",
+        "solution": "The area of a circle is calculated using the formula A = πr², so A = π(4)² ≈ 50.24."
+      },
+      {
+        "question": "What is the length of the diagonal of a rectangle with a length of 6 and a width of 8?",
+        "options": ["10", "12", "14", "16"],
+        "correct_answer": "10",
+        "solution": "The length of the diagonal is calculated using the Pythagorean theorem: d = √(length² + width²) = √(6² + 8²) = 10."
+      },
+      {
+        "question": "What is the measure of the exterior angle of a regular pentagon?",
+        "options": ["60 degrees", "72 degrees", "90 degrees", "108 degrees"],
+        "correct_answer": "72 degrees",
+        "solution": "The measure of each exterior angle of a regular polygon is calculated as 360° divided by the number of sides, so for a pentagon, it is 360°/5 = 72°."
+      },
+      {
+        "question": "If a triangle has sides of lengths 3, 4, and 5, what type of triangle is it?",
+        "options": ["Equilateral", "Isosceles", "Scalene", "Right"],
+        "correct_answer": "Right",
+        "solution": "A triangle with sides of lengths 3, 4, and 5 is a right triangle, as it satisfies the Pythagorean theorem."
+      },
+      {
+        "question": "What is the area of a trapezoid with bases of 10 and 6 and a height of 4?",
+        "options": ["32", "36", "40", "44"],
+        "correct_answer": "32",
+        "solution": "The area of a trapezoid is calculated using the formula A = 1/2 * (base1 + base2) * height, so A = 1/2 * (10 + 6) * 4 = 32."
+      },
+      {
+        "question": "What is the relationship between the angles in a linear pair?",
+        "options": ["They are complementary", "They are supplementary", "They are equal", "They are congruent"],
+        "correct_answer": "They are supplementary",
+        "solution": "Angles in a linear pair are supplementary, meaning they add up to 180 degrees."
+      },
+      {
+        "question": "What is the length of the hypotenuse of a right triangle with legs of lengths 5 and 12?",
+        "options": ["10", "12", "13", "15"],
+        "correct_answer": "13",
+        "solution": "The length of the hypotenuse is calculated using the Pythagorean theorem: c = √(5² + 12²) = 13."
+      },
+      {
+        "question": "What is the circumference of a circle with a diameter of 10?",
+        "options": ["31.42", "25.12", "20", "15.7"],
+        "correct_answer": "31.42",
+        "solution": "The circumference is calculated using the formula C = πd, so C = π(10) ≈ 31.42."
+      },
+      {
+        "question": "What is the area of a parallelogram with a base of 10 and a height of 5?",
+        "options": ["25", "30", "50", "60"],
+        "correct_answer": "50",
+        "solution": "The area of a parallelogram is calculated using the formula A = base * height, so A = 10 * 5 = 50."
+      },
+      {
+        "question": "What is the measure of the angle formed by two intersecting lines?",
+        "options": ["90 degrees", "180 degrees", "360 degrees", "None of the above"],
+        "correct_answer": "None of the above",
+        "solution": "The measure of the angle formed by two intersecting lines can vary; it is not fixed."
+      },
+      {
+        "question": "What is the area of a sector of a circle with a radius of 5 and an angle of 60 degrees?",
+        "options": ["13.09", "15.71", "25.00", "30.00"],
+        "correct_answer": "13.09",
+        "solution": "The area of a sector is calculated using the formula A = (θ/360) * πr², so A = (60/360) * π(5)² ≈ 13.09."
+      }
+    ]
+  

@@ -1,0 +1,188 @@
+[
+    {
+        "question": "A shopkeeper bought an article for $200 and sold it for $250. What is the profit percentage?",
+        "options": ["20%", "25%", "30%", "35%"],
+        "correct_answer": "25%",
+        "solution": "Profit = Selling Price - Cost Price = $250 - $200 = $50. Profit Percentage = (Profit/Cost Price) * 100 = (50/200) * 100 = 25%."
+    },
+    {
+        "question": "If the cost price of 20 articles is the same as the selling price of 15 articles, what is the profit percentage?",
+        "options": ["25%", "30%", "33.33%", "35%"],
+        "correct_answer": "33.33%",
+        "solution": "Let the cost price of each article be $1. Then, cost price of 20 articles = $20, and selling price of 15 articles = $20. Selling Price per article = $20/15. Profit = Selling Price - Cost Price = (20/15) - 1 = 1/3. Profit Percentage = (1/3) * 100 = 33.33%."
+    },
+    {
+        "question": "A man bought a cycle for $900 and sold it at a loss of 10%. What is the selling price of the cycle?",
+        "options": ["$810", "$850", "$880", "$900"],
+        "correct_answer": "$810",
+        "solution": "Loss Percentage = 10%. Loss = 10% of $900 = $90. Selling Price = Cost Price - Loss = $900 - $90 = $810."
+    },
+    {
+        "question": "If the selling price of an article is $540 and the cost price is $450, what is the profit percentage?",
+        "options": ["15%", "20%", "25%", "30%"],
+        "correct_answer": "20%",
+        "solution": "Profit = Selling Price - Cost Price = $540 - $450 = $90. Profit Percentage = (Profit/Cost Price) * 100 = (90/450) * 100 = 20%."
+    },
+    {
+        "question": "A trader bought an item for $1,500 and sold it at a profit of 15%. What is the selling price of the item?",
+        "options": ["$1,625", "$1,725", "$1,775", "$1,825"],
+        "correct_answer": "$1,725",
+        "solution": "Profit Percentage = 15%. Profit = 15% of $1,500 = $225. Selling Price = Cost Price + Profit = $1,500 + $225 = $1,725."
+    },
+    {
+        "question": "If the cost price of 10 items is equal to the selling price of 8 items, what is the profit percentage?",
+        "options": ["20%", "25%", "30%", "35%"],
+        "correct_answer": "25%",
+        "solution": "Let the cost price of each item be $1. Then, cost price of 10 items = $10, and selling price of 8 items = $10. Selling Price per item = $10/8 = $1.25. Profit = Selling Price - Cost Price = $1.25 - $1 = $0.25. Profit Percentage = (0.25/1) * 100 = 25%."
+    },
+    {
+        "question": "A man bought an article for $600 and sold it for $690. What is the profit percentage?",
+        "options": ["12%", "15%", "18%", "20%"],
+        "correct_answer": "15%",
+        "solution": "Profit = Selling Price - Cost Price = $690 - $600 = $90. Profit Percentage = (Profit/Cost Price) * 100 = (90/600) * 100 = 15%."
+    },
+    {
+        "question": "If an article is sold at a loss of 25% for $150, what was its cost price?",
+        "options": ["$180", "$200", "$220", "$250"],
+        "correct_answer": "$200",
+        "solution": "Loss Percentage = 25%. Selling Price = Cost Price - (25% of Cost Price) = 75% of Cost Price. So, Cost Price = Selling Price / 0.75 = $150 / 0.75 = $200."
+    },
+    {
+        "question": "A shopkeeper sells an item at a loss of 5%. If the cost price of the item is $400, what is the selling price?",
+        "options": ["$380", "$385", "$390", "$395"],
+        "correct_answer": "$380",
+        "solution": "Loss Percentage = 5%. Loss = 5% of $400 = $20. Selling Price = Cost Price - Loss = $400 - $20 = $380."
+    },
+    {
+        "question": "If the selling price of an article is $480 and the loss is 20%, what is the cost price?",
+        "options": ["$550", "$600", "$625", "$640"],
+        "correct_answer": "$600",
+        "solution": "Loss Percentage = 20%. Selling Price = 80% of Cost Price. Cost Price = Selling Price / 0.8 = $480 / 0.8 = $600."
+    },
+    {
+        "question": "A trader marked an article at $800 and sold it at a discount of 10%, still making a profit of 20%. What is the cost price?",
+        "options": ["$600", "$620", "$640", "$680"],
+        "correct_answer": "$600",
+        "solution": "Selling Price = 90% of Marked Price = 90% of $800 = $720. Let the Cost Price be x. Profit = 20%. Selling Price = Cost Price + 20% of Cost Price = 1.2x. So, 1.2x = $720, x = $600."
+    },
+    {
+        "question": "If a trader marks his goods 40% above the cost price and gives a discount of 20%, what is his profit percentage?",
+        "options": ["12%", "15%", "16%", "20%"],
+        "correct_answer": "12%",
+        "solution": "Let the Cost Price be $100. Marked Price = $140. Selling Price = 80% of $140 = $112. Profit = $112 - $100 = $12. Profit Percentage = (12/100) * 100 = 12%."
+    },
+    {
+        "question": "A trader bought an article for $1,200 and marked it at 25% above the cost price. If he sold it at a discount of 10%, what is his profit percentage?",
+        "options": ["10%", "11.25%", "12.5%", "15%"],
+        "correct_answer": "12.5%",
+        "solution": "Marked Price = 125% of $1,200 = $1,500. Selling Price = 90% of $1,500 = $1,350. Profit = $1,350 - $1,200 = $150. Profit Percentage = (150/1200) * 100 = 12.5%."
+    },
+    {
+        "question": "If an article is sold at a profit of 12.5% for $450, what was its cost price?",
+        "options": ["$400", "$410", "$420", "$430"],
+        "correct_answer": "$400",
+        "solution": "Profit Percentage = 12.5%. Selling Price = Cost Price + 12.5% of Cost Price = 112.5% of Cost Price. Cost Price = Selling Price / 1.125 = $450 / 1.125 = $400."
+    },
+    {
+        "question": "A man bought an article for $1,000 and sold it at a loss of 15%. What is the selling price of the article?",
+        "options": ["$850", "$860", "$870", "$880"],
+        "correct_answer": "$850",
+        "solution": "Loss Percentage = 15%. Loss = 15% of $1,000 = $150. Selling Price = Cost Price - Loss = $1,000 - $150 = $850."
+    },
+    {
+        "question": "If a shopkeeper sells an item for $250 at a profit of 25%, what was the cost price?",
+        "options": ["$200", "$210", "$220", "$230"],
+        "correct_answer": "$200",
+        "solution": "Profit Percentage = 25%. Selling Price = Cost Price + 25% of Cost Price = 125% of Cost Price. Cost Price = Selling Price / 1.25 = $250 / 1.25 = $200."
+    },
+    {
+        "question": "A man sold an article at a profit of 25%. If he had bought it at 20% less and sold it for $10 more, he would have gained 50%. Find the cost price of the article.",
+        "options": ["$80", "$100", "$120", "$140"],
+        "correct_answer": "$100",
+        "solution": "Let the cost price be $x. Selling Price = $1.25x. New Cost Price = 80% of $x = $0.8x. New Selling Price = $1.5 * $0.8x = $1.2x. $1.2x = $1.25x + $10, solving gives x = $100."
+    },
+    {
+        "question": "If the cost price of an article is $480 and the selling price is $576, what is the profit percentage?",
+        "options": ["15%", "18%", "20%", "25%"],
+        "correct_answer": "20%",
+        "solution": "Profit = Selling Price - Cost Price = $576 - $480 = $96. Profit Percentage = (96/480) * 100 = 20%."
+    },
+    {
+        "question": "A trader marks his goods at 30% above the cost price and allows a discount of 10%. What is his profit percentage?",
+        "options": ["17%", "18%", "19%", "20%"],
+        "correct_answer": "17%",
+        "solution": "Let the cost price be $100. Marked Price = $130. Selling Price = 90% of $130 = $117. Profit = $117 - $100 = $17. Profit Percentage = (17/100) * 100 = 17%."
+    },
+    {
+        "question": "A man buys an article for $900 and sells it at a profit of 15%. What is the selling price of the article?",
+        "options": ["$1,020", "$1,030", "$1,035", "$1,040"],
+        "correct_answer": "$1,035",
+        "solution": "Profit Percentage = 15%. Profit = 15% of $900 = $135. Selling Price = Cost Price + Profit = $900 + $135 = $1,035."
+    },
+    {
+        "question": "A shopkeeper bought an article for $500 and sold it for $650. What is the profit percentage?",
+        "options": ["20%", "25%", "30%", "35%"],
+        "correct_answer": "30%",
+        "solution": "Profit = Selling Price - Cost Price = $650 - $500 = $150. Profit Percentage = (150/500) * 100 = 30%."
+    },
+    {
+        "question": "If the cost price of 15 items is equal to the selling price of 12 items, what is the profit percentage?",
+        "options": ["15%", "20%", "25%", "30%"],
+        "correct_answer": "25%",
+        "solution": "Let the cost price of each item be $1. Then, cost price of 15 items = $15, and selling price of 12 items = $15. Selling Price per item = $15/12 = $1.25. Profit = Selling Price - Cost Price = $1.25 - $1 = $0.25. Profit Percentage = (0.25/1) * 100 = 25%."
+    },
+    {
+        "question": "A man sold an article at a profit of 20%. If the selling price was $480, what was the cost price?",
+        "options": ["$400", "$420", "$440", "$460"],
+        "correct_answer": "$400",
+        "solution": "Profit Percentage = 20%. Selling Price = Cost Price + 20% of Cost Price = 120% of Cost Price. Cost Price = Selling Price / 1.2 = $480 / 1.2 = $400."
+    },
+    {
+        "question": "A trader bought an item for $2,000 and sold it at a profit of 10%. What is the selling price?",
+        "options": ["$2,100", "$2,200", "$2,300", "$2,400"],
+        "correct_answer": "$2,200",
+        "solution": "Profit Percentage = 10%. Profit = 10% of $2,000 = $200. Selling Price = Cost Price + Profit = $2,000 + $200 = $2,200."
+    },
+    {
+        "question": "If a man sells an article at 10% profit, and had he bought it 10% cheaper and sold it for $10 more, he would have gained 25%. What is the cost price?",
+        "options": ["$100", "$120", "$140", "$160"],
+        "correct_answer": "$100",
+        "solution": "Let the cost price be $x. Selling Price = $1.1x. New Cost Price = 90% of $x = $0.9x. New Selling Price = $1.25 * $0.9x = $1.125x. $1.125x = $1.1x + $10, solving gives x = $100."
+    },
+    {
+        "question": "A trader marked an article at $800 and sold it at a discount of 15%, still making a profit of 25%. What is the cost price?",
+        "options": ["$600", "$620", "$640", "$680"],
+        "correct_answer": "$600",
+        "solution": "Selling Price = 85% of Marked Price = 85% of $800 = $680. Let the Cost Price be x. Profit = 25%. Selling Price = Cost Price + 25% of Cost Price = 1.25x. So, 1.25x = $680, x = $600."
+    },
+    {
+        "question": "If a shopkeeper sells an item for $360 at a profit of 20%, what was the cost price?",
+        "options": ["$300", "$310", "$320", "$330"],
+        "correct_answer": "$300",
+        "solution": "Profit Percentage = 20%. Selling Price = Cost Price + 20% of Cost Price = 120% of Cost Price. Cost Price = Selling Price / 1.2 = $360 / 1.2 = $300."
+    },
+    {
+        "question": "A trader bought an article for $750 and sold it at a loss of 10%. What is the selling price of the article?",
+        "options": ["$650", "$675", "$700", "$725"],
+        "correct_answer": "$675",
+        "solution": "Loss Percentage = 10%. Loss = 10% of $750 = $75. Selling Price = Cost Price - Loss = $750 - $75 = $675."
+    },
+    {
+        "question": "If the cost price of an article is $1,200 and the selling price is $1,440, what is the profit percentage?",
+        "options": ["15%", "18%", "20%", "25%"],
+        "correct_answer": "20%",
+        "solution": "Profit = Selling Price - Cost Price = $1,440 - $1,200 = $240. Profit Percentage = (240/1200) * 100 = 20%."
+    },
+    {
+        "question": "A trader marks his goods at 50% above the cost price and allows a discount of 20%. What is his profit percentage?",
+        "options": ["20%", "25%", "30%", "35%"],
+        "correct_answer": "20%",
+        "solution": "Let the cost price be $100. Marked Price = $150. Selling Price = 80% of $150 = $120. Profit = $120 - $100 = $20. Profit Percentage = (20/100) * 100 = 20%."
+    },
+    {
+        "question": "If an article is sold at a profit of 20% for $600, what was its cost price?",
+        "options": ["$480", "$500", "$520", "$540"],
+        "correct_answer": "$500",
+        "solution": "Profit Percentage = 20%. Selling Price = Cost Price + 20% of Cost Price = 120% of Cost Price. Cost Price = Selling Price / 1.2 = $600 / 1.2 = $500."
+    }
+]

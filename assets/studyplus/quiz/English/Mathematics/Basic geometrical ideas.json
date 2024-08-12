@@ -1,0 +1,170 @@
+[
+    {
+      "question": "What is a point in geometry?",
+      "options": ["A location with no size", "A line segment", "A closed figure", "An angle"],
+      "correct_answer": "A location with no size",
+      "solution": "A point represents a specific location in space and has no dimensions."
+    },
+    {
+      "question": "What is a line segment?",
+      "options": ["A part of a line with two endpoints", "A curved line", "An angle", "A closed figure"],
+      "correct_answer": "A part of a line with two endpoints",
+      "solution": "A line segment is a portion of a line that is bounded by two distinct endpoints."
+    },
+    {
+      "question": "What is a ray in geometry?",
+      "options": ["A line that extends infinitely in both directions", "A line that has one endpoint and extends infinitely in one direction", "A closed figure", "A point"],
+      "correct_answer": "A line that has one endpoint and extends infinitely in one direction",
+      "solution": "A ray starts at a point and extends infinitely in one direction."
+    },
+    {
+      "question": "What is a polygon?",
+      "options": ["A three-dimensional shape", "A closed figure with straight sides", "A curved figure", "A single point"],
+      "correct_answer": "A closed figure with straight sides",
+      "solution": "A polygon is a two-dimensional shape formed by connecting line segments to create a closed figure."
+    },
+    {
+      "question": "What is the sum of the angles in a triangle?",
+      "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+      "correct_answer": "180 degrees",
+      "solution": "The sum of the interior angles of a triangle always equals 180 degrees."
+    },
+    {
+      "question": "What is a circle?",
+      "options": ["A polygon with three sides", "A closed figure with curved sides", "A straight line", "An angle"],
+      "correct_answer": "A closed figure with curved sides",
+      "solution": "A circle is a set of points in a plane that are equidistant from a fixed point called the center."
+    },
+    {
+      "question": "What is a quadrilateral?",
+      "options": ["A shape with four sides", "A shape with three sides", "A shape with five sides", "A shape with six sides"],
+      "correct_answer": "A shape with four sides",
+      "solution": "A quadrilateral is a polygon with four edges (sides) and four vertices (corners)."
+    },
+    {
+      "question": "What is the difference between a regular and irregular polygon?",
+      "options": ["Regular polygons have equal sides and angles", "Irregular polygons have equal sides and angles", "Both are the same", "Regular polygons have more sides"],
+      "correct_answer": "Regular polygons have equal sides and angles",
+      "solution": "A regular polygon has all sides and angles equal, while an irregular polygon does not."
+    },
+    {
+      "question": "What is an acute angle?",
+      "options": ["An angle less than 90 degrees", "An angle equal to 90 degrees", "An angle greater than 90 degrees", "An angle equal to 180 degrees"],
+      "correct_answer": "An angle less than 90 degrees",
+      "solution": "An acute angle is any angle that measures less than 90 degrees."
+    },
+    {
+      "question": "What is a right angle?",
+      "options": ["An angle less than 90 degrees", "An angle equal to 90 degrees", "An angle greater than 90 degrees", "An angle equal to 180 degrees"],
+      "correct_answer": "An angle equal to 90 degrees",
+      "solution": "A right angle is an angle that measures exactly 90 degrees."
+    },
+    {
+      "question": "What is an obtuse angle?",
+      "options": ["An angle less than 90 degrees", "An angle equal to 90 degrees", "An angle greater than 90 degrees but less than 180 degrees", "An angle equal to 180 degrees"],
+      "correct_answer": "An angle greater than 90 degrees but less than 180 degrees",
+      "solution": "An obtuse angle measures more than 90 degrees but less than 180 degrees."
+    },
+    {
+      "question": "What is the perimeter of a rectangle?",
+      "options": ["Length + Width", "2(Length + Width)", "Length × Width", "2 × Length + 2 × Width"],
+      "correct_answer": "2(Length + Width)",
+      "solution": "The perimeter of a rectangle is calculated by adding the lengths of all sides, or more simply, by using the formula 2(Length + Width)."
+    },
+    {
+      "question": "What is the area of a triangle?",
+      "options": ["Base × Height", "1/2 × Base × Height", "Base + Height", "Base - Height"],
+      "correct_answer": "1/2 × Base × Height",
+      "solution": "The area of a triangle can be calculated using the formula: Area = 1/2 × Base × Height."
+    },
+    {
+      "question": "What is a diameter of a circle?",
+      "options": ["The distance around the circle", "The longest chord of the circle", "The distance from the center to the circumference", "The area of the circle"],
+      "correct_answer": "The longest chord of the circle",
+      "solution": "The diameter of a circle is the longest distance across the circle, passing through the center."
+    },
+    {
+      "question": "What is a radius of a circle?",
+      "options": ["The distance around the circle", "Half of the diameter", "The longest chord of the circle", "The area of the circle"],
+      "correct_answer": "Half of the diameter",
+      "solution": "The radius is the distance from the center of the circle to any point on its circumference, which is half of the diameter."
+    },
+    {
+      "question": "What is a chord in a circle?",
+      "options": ["A line segment connecting two points on the circumference", "A line segment from the center to the circumference", "The longest distance across the circle", "A point on the circle"],
+      "correct_answer": "A line segment connecting two points on the circumference",
+      "solution": "A chord is a line segment whose endpoints lie on the circle."
+    },
+    {
+      "question": "What is a tangent to a circle?",
+      "options": ["A line that intersects the circle at two points", "A line that touches the circle at one point", "A line that goes through the center", "A line that connects two points on the circle"],
+      "correct_answer": "A line that touches the circle at one point",
+      "solution": "A tangent is a straight line that touches the circle at exactly one point."
+    },
+    {
+      "question": "What is a transversal line?",
+      "options": ["A line that intersects two or more lines", "A line that is parallel to another line", "A line that is perpendicular to another line", "A line segment"],
+      "correct_answer": "A line that intersects two or more lines",
+      "solution": "A transversal line crosses two or more other lines, creating angles."
+    },
+    {
+      "question": "What are complementary angles?",
+      "options": ["Two angles that add up to 90 degrees", "Two angles that add up to 180 degrees", "Two angles that are equal", "Two angles that are opposite"],
+      "correct_answer": "Two angles that add up to 90 degrees",
+      "solution": "Complementary angles are two angles whose measures sum to 90 degrees."
+    },
+    {
+      "question": "What are supplementary angles?",
+      "options": ["Two angles that add up to 90 degrees", "Two angles that add up to 180 degrees", "Two angles that are equal", "Two angles that are opposite"],
+      "correct_answer": "Two angles that add up to 180 degrees",
+      "solution": "Supplementary angles are two angles whose measures sum to 180 degrees."
+    },
+    {
+      "question": "What is a solid shape?",
+      "options": ["A two-dimensional figure", "A three-dimensional figure", "A point", "A line"],
+      "correct_answer": "A three-dimensional figure",
+      "solution": "Solid shapes have three dimensions: length, width, and height."
+    },
+    {
+      "question": "What is a vertex in geometry?",
+      "options": ["A point where two lines meet", "A straight line", "A closed figure", "A curved line"],
+      "correct_answer": "A point where two lines meet",
+      "solution": "A vertex is a corner point where two or more edges meet."
+    },
+    {
+      "question": "What is a face in a solid shape?",
+      "options": ["A straight line", "A flat surface", "A point", "An angle"],
+      "correct_answer": "A flat surface",
+      "solution": "A face is any of the flat surfaces that make up a solid shape."
+    },
+    {
+      "question": "What is a prism?",
+      "options": ["A solid shape with a circular base", "A solid shape with two identical faces", "A solid shape with no edges", "A flat shape"],
+      "correct_answer": "A solid shape with two identical faces",
+      "solution": "A prism is a three-dimensional shape that has two identical bases connected by rectangular faces."
+    },
+    {
+      "question": "What is the volume of a cube?",
+      "options": ["Length × Width × Height", "Length × Length × Length", "2 × Length", "Length + Width + Height"],
+      "correct_answer": "Length × Length × Length",
+      "solution": "The volume of a cube is calculated by cubing the length of one of its sides."
+    },
+    {
+      "question": "What is the surface area of a cube?",
+      "options": ["6 × Length × Length", "Length × Width × Height", "Length × Length × Length", "2(Length + Width + Height)"],
+      "correct_answer": "6 × Length × Length",
+      "solution": "The surface area of a cube is calculated by multiplying the area of one face by 6."
+    },
+    {
+      "question": "What is a cylinder?",
+      "options": ["A solid shape with two circular bases", "A solid shape with four triangular faces", "A flat shape", "A point"],
+      "correct_answer": "A solid shape with two circular bases",
+      "solution": "A cylinder is a three-dimensional shape with two parallel circular bases connected by a curved surface."
+    },
+    {
+      "question": "What is the area of a rectangle?",
+      "options": ["Length + Width", "Length × Width", "Length - Width", "2 × Length + 2 × Width"],
+      "correct_answer": "Length × Width",
+      "solution": "The area of a rectangle is calculated by multiplying its length by its width."
+    }
+  ]

@@ -1,0 +1,260 @@
+[
+    {
+      "question": "What is the sum of -3 and 5?",
+      "options": ["2", "3", "1", "0"],
+      "correct_answer": "2",
+      "solution": "The sum of -3 and 5 is calculated as -3 + 5 = 2."
+    },
+    {
+      "question": "Which of the following is greater: -7 or -5?",
+      "options": ["-7", "-5", "They are equal", "None of the above"],
+      "correct_answer": "-5",
+      "solution": "-5 is greater than -7 on the number line."
+    },
+    {
+      "question": "What is the absolute value of -8?",
+      "options": ["8", "-8", "0", "None of the above"],
+      "correct_answer": "8",
+      "solution": "The absolute value of -8 is 8."
+    },
+    {
+      "question": "What is -12 + (-5)?",
+      "options": ["-17", "-7", "7", "0"],
+      "correct_answer": "-17",
+      "solution": "Adding two negative numbers: -12 + (-5) = -17."
+    },
+    {
+      "question": "How many integers are there between -3 and 2?",
+      "options": ["4", "5", "6", "7"],
+      "correct_answer": "5",
+      "solution": "The integers between -3 and 2 are -2, -1, 0, 1, totaling 5."
+    },
+    {
+      "question": "Which number is smaller: -10 or -6?",
+      "options": ["-10", "-6", "They are equal", "None of the above"],
+      "correct_answer": "-10",
+      "solution": "-10 is smaller than -6 on the number line."
+    },
+    {
+      "question": "What is the result of -15 - 5?",
+      "options": ["-20", "-10", "10", "0"],
+      "correct_answer": "-20",
+      "solution": "Subtracting gives -15 - 5 = -20."
+    },
+    {
+      "question": "What is the product of -4 and 3?",
+      "options": ["-12", "12", "0", "7"],
+      "correct_answer": "-12",
+      "solution": "The product of -4 and 3 is -12."
+    },
+    {
+      "question": "Which of the following is a positive integer?",
+      "options": ["-1", "0", "1", "None of the above"],
+      "correct_answer": "1",
+      "solution": "1 is the smallest positive integer."
+    },
+    {
+      "question": "What is the difference between -5 and -10?",
+      "options": ["5", "15", "-5", "-15"],
+      "correct_answer": "5",
+      "solution": "The difference is calculated as -5 - (-10) = -5 + 10 = 5."
+    },
+    {
+      "question": "What is the sum of -7 and 3?",
+      "options": ["-4", "-10", "10", "0"],
+      "correct_answer": "-4",
+      "solution": "The sum is -7 + 3 = -4."
+    },
+    {
+      "question": "What is the smallest negative integer?",
+      "options": ["-1", "-2", "-3", "0"],
+      "correct_answer": "-1",
+      "solution": "-1 is the smallest negative integer."
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "options": ["0 is a negative integer", "0 is a positive integer", "0 is neither positive nor negative", "None of the above"],
+      "correct_answer": "0 is neither positive nor negative",
+      "solution": "Zero is considered neither positive nor negative."
+    },
+    {
+      "question": "What is 6 less than -2?",
+      "options": ["4", "-4", "-8", "8"],
+      "correct_answer": "-8",
+      "solution": "6 less than -2 is calculated as -2 - 6 = -8."
+    },
+    {
+      "question": "What is the result of -8 + 3?",
+      "options": ["-5", "-11", "11", "5"],
+      "correct_answer": "-5",
+      "solution": "The result is -8 + 3 = -5."
+    },
+    {
+      "question": "Which of the following is true?",
+      "options": ["-4 > -2", "-4 < -2", "-4 = -2", "None of the above"],
+      "correct_answer": "-4 < -2",
+      "solution": "-4 is less than -2 on the number line."
+    },
+    {
+      "question": "What is the sum of -1 and -1?",
+      "options": ["0", "-2", "2", "1"],
+      "correct_answer": "-2",
+      "solution": "The sum of -1 and -1 is -2."
+    },
+    {
+      "question": "What is the value of | -7 |?",
+      "options": ["7", "-7", "0", "None of the above"],
+      "correct_answer": "7",
+      "solution": "The absolute value of -7 is 7."
+    },
+    {
+      "question": "How many negative integers are there less than -5?",
+      "options": ["4", "5", "6", "Infinite"],
+      "correct_answer": "Infinite",
+      "solution": "There are infinitely many negative integers less than -5."
+    },
+    {
+      "question": "What is the result of -20 + 15?",
+      "options": ["-5", "5", "35", "-35"],
+      "correct_answer": "-5",
+      "solution": "The result is -20 + 15 = -5."
+    },
+    {
+      "question": "Which of the following is the largest negative integer?",
+      "options": ["-1", "-2", "-3", "-4"],
+      "correct_answer": "-1",
+      "solution": "-1 is the largest negative integer."
+    },
+    {
+      "question": "What is the result of -3 * -4?",
+      "options": ["12", "-12", "0", "-7"],
+      "correct_answer": "12",
+      "solution": "The product of two negative numbers is positive: -3 * -4 = 12."
+    },
+    {
+      "question": "What is the sum of -10 and 10?",
+      "options": ["0", "10", "-10", "20"],
+      "correct_answer": "0",
+      "solution": "The sum is -10 + 10 = 0."
+    },
+    {
+      "question": "What is the difference between -3 and 1?",
+      "options": ["-4", "4", "-2", "2"],
+      "correct_answer": "-4",
+      "solution": "The difference is -3 - 1 = -4."
+    },
+    {
+      "question": "What is the value of -5 + 2?",
+      "options": ["-3", "3", "-7", "7"],
+      "correct_answer": "-3",
+      "solution": "The value is -5 + 2 = -3."
+    },
+    {
+      "question": "What is the absolute value of -15?",
+      "options": ["15", "-15", "0", "None of the above"],
+      "correct_answer": "15",
+      "solution": "The absolute value of -15 is 15."
+    },
+    {
+      "question": "What is the product of -1 and -1?",
+      "options": ["1", "-1", "0", "-2"],
+      "correct_answer": "1",
+      "solution": "The product of -1 and -1 is 1."
+    },
+    {
+      "question": "Which of the following is true?",
+      "options": ["-2 > -3", "-2 < -3", "-2 = -3", "None of the above"],
+      "correct_answer": "-2 > -3",
+      "solution": "-2 is greater than -3 on the number line."
+    },
+    {
+      "question": "What is the result of -6 + 4?",
+      "options": ["-2", "2", "0", "-10"],
+      "correct_answer": "-2",
+      "solution": "The result is -6 + 4 = -2."
+    },
+    {
+      "question": "What is the sum of -4 and 4?",
+      "options": ["0", "8", "-8", "4"],
+      "correct_answer": "0",
+      "solution": "The sum is -4 + 4 = 0."
+    },
+    {
+      "question": "Which of the following is a negative integer?",
+      "options": ["1", "0", "-1", "2"],
+      "correct_answer": "-1",
+      "solution": "-1 is a negative integer."
+    },
+    {
+      "question": "What is the value of -10 - (-5)?",
+      "options": ["-5", "5", "-15", "15"],
+      "correct_answer": "-5",
+      "solution": "The value is -10 + 5 = -5."
+    },
+    {
+      "question": "What is the sum of two negative integers?",
+      "options": ["Always positive", "Always negative", "Can be positive or negative", "None of the above"],
+      "correct_answer": "Always negative",
+      "solution": "The sum of two negative integers is always negative."
+    },
+    {
+      "question": "What is the result of -9 + 2?",
+      "options": ["-7", "7", "-11", "11"],
+      "correct_answer": "-7",
+      "solution": "The result is -9 + 2 = -7."
+    },
+    {
+      "question": "What is the smallest integer?",
+      "options": ["-1", "0", "1", "None of the above"],
+      "correct_answer": "None of the above",
+      "solution": "There is no smallest integer; integers extend infinitely in both directions."
+    },
+    {
+      "question": "What is the value of -1 + -1?",
+      "options": ["0", "-1", "-2", "1"],
+      "correct_answer": "-2",
+      "solution": "The value is -1 + -1 = -2."
+    },
+    {
+      "question": "What is the product of -2 and 5?",
+      "options": ["-10", "10", "0", "-7"],
+      "correct_answer": "-10",
+      "solution": "The product is -2 * 5 = -10."
+    },
+    {
+      "question": "What is the result of -4 - (-2)?",
+      "options": ["-6", "-2", "2", "None of the above"],
+      "correct_answer": "-2",
+      "solution": "The result is -4 + 2 = -2."
+    },
+    {
+      "question": "What is the absolute value of -3?",
+      "options": ["3", "-3", "0", "None of the above"],
+      "correct_answer": "3",
+      "solution": "The absolute value of -3 is 3."
+    },
+    {
+      "question": "What is the sum of -5 and -5?",
+      "options": ["0", "-10", "10", "-5"],
+      "correct_answer": "-10",
+      "solution": "The sum is -5 + -5 = -10."
+    },
+    {
+      "question": "What is the value of -7 - 3?",
+      "options": ["-10", "-4", "4", "10"],
+      "correct_answer": "-10",
+      "solution": "The value is -7 - 3 = -10."
+    },
+    {
+      "question": "What is the difference between 2 and -2?",
+      "options": ["4", "-4", "0", "2"],
+      "correct_answer": "4",
+      "solution": "The difference is 2 - (-2) = 2 + 2 = 4."
+    },
+    {
+      "question": "What is the sum of -1 and 1?",
+      "options": ["0", "1", "-1", "None of the above"],
+      "correct_answer": "0",
+      "solution": "The sum is -1 + 1 = 0."
+    }
+  ]

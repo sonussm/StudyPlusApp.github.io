@@ -1,0 +1,164 @@
+[
+    {
+      "question": "What is the measure of a right angle?",
+      "options": ["90 degrees", "180 degrees", "360 degrees", "45 degrees"],
+      "correct_answer": "90 degrees",
+      "solution": "A right angle is defined as an angle that measures exactly 90 degrees."
+    },
+    {
+      "question": "What shape is formed by three line segments?",
+      "options": ["Square", "Triangle", "Rectangle", "Circle"],
+      "correct_answer": "Triangle",
+      "solution": "A triangle is a polygon that is formed by three line segments connecting three vertices."
+    },
+    {
+      "question": "What is the sum of angles in a triangle?",
+      "options": ["90 degrees", "180 degrees", "360 degrees", "270 degrees"],
+      "correct_answer": "180 degrees",
+      "solution": "The sum of the interior angles of a triangle is always 180 degrees."
+    },
+    {
+      "question": "How many sides does a pentagon have?",
+      "options": ["3", "4", "5", "6"],
+      "correct_answer": "5",
+      "solution": "A pentagon is a polygon with five sides."
+    },
+    {
+      "question": "What is a quadrilateral?",
+      "options": ["A shape with three sides", "A shape with four sides", "A shape with five sides", "A shape with six sides"],
+      "correct_answer": "A shape with four sides",
+      "solution": "A quadrilateral is a polygon that has four sides and four angles."
+    },
+    {
+      "question": "Which of the following is a 3D shape?",
+      "options": ["Square", "Circle", "Cube", "Triangle"],
+      "correct_answer": "Cube",
+      "solution": "A cube is a three-dimensional shape with six equal square faces."
+    },
+    {
+      "question": "What is the measure of a straight angle?",
+      "options": ["90 degrees", "180 degrees", "360 degrees", "270 degrees"],
+      "correct_answer": "180 degrees",
+      "solution": "A straight angle measures exactly 180 degrees."
+    },
+    {
+      "question": "How many edges does a cube have?",
+      "options": ["6", "8", "12", "10"],
+      "correct_answer": "12",
+      "solution": "A cube has 12 edges."
+    },
+    {
+      "question": "What type of triangle has all sides of equal length?",
+      "options": ["Isosceles", "Scalene", "Equilateral", "Right"],
+      "correct_answer": "Equilateral",
+      "solution": "An equilateral triangle has all three sides of equal length."
+    },
+    {
+      "question": "What is the name of a polygon with eight sides?",
+      "options": ["Hexagon", "Heptagon", "Octagon", "Nonagon"],
+      "correct_answer": "Octagon",
+      "solution": "An octagon is a polygon that has eight sides."
+    },
+    {
+      "question": "What shape has no corners?",
+      "options": ["Square", "Circle", "Triangle", "Rectangle"],
+      "correct_answer": "Circle",
+      "solution": "A circle is a shape that has no corners or edges."
+    },
+    {
+      "question": "What is the term for the point where two lines meet?",
+      "options": ["Edge", "Vertex", "Face", "Angle"],
+      "correct_answer": "Vertex",
+      "solution": "The point where two lines meet is called a vertex."
+    },
+    {
+      "question": "How many vertices does a tetrahedron have?",
+      "options": ["4", "6", "8", "12"],
+      "correct_answer": "4",
+      "solution": "A tetrahedron has four vertices."
+    },
+    {
+      "question": "What is a line segment?",
+      "options": ["A line that extends infinitely", "A part of a line with two endpoints", "A curved line", "A straight line"],
+      "correct_answer": "A part of a line with two endpoints",
+      "solution": "A line segment is a part of a line that has two endpoints."
+    },
+    {
+      "question": "What do you call an angle less than 90 degrees?",
+      "options": ["Acute angle", "Obtuse angle", "Right angle", "Straight angle"],
+      "correct_answer": "Acute angle",
+      "solution": "An angle that measures less than 90 degrees is called an acute angle."
+    },
+    {
+      "question": "What is the shape of the base of a cylinder?",
+      "options": ["Circle", "Square", "Triangle", "Rectangle"],
+      "correct_answer": "Circle",
+      "solution": "The base of a cylinder is a circle."
+    },
+    {
+      "question": "How many faces does a rectangular prism have?",
+      "options": ["4", "5", "6", "8"],
+      "correct_answer": "6",
+      "solution": "A rectangular prism has six faces."
+    },
+    {
+      "question": "What is the term for the distance around a circle?",
+      "options": ["Area", "Diameter", "Circumference", "Radius"],
+      "correct_answer": "Circumference",
+      "solution": "The distance around a circle is called the circumference."
+    },
+    {
+      "question": "What type of angle is exactly 90 degrees?",
+      "options": ["Acute angle", "Obtuse angle", "Right angle", "Straight angle"],
+      "correct_answer": "Right angle",
+      "solution": "An angle that measures exactly 90 degrees is called a right angle."
+    },
+    {
+      "question": "What is the formula for the area of a rectangle?",
+      "options": ["Length + Width", "Length x Width", "2 x (Length + Width)", "Length - Width"],
+      "correct_answer": "Length x Width",
+      "solution": "The area of a rectangle is calculated using the formula: Area = Length x Width."
+    },
+    {
+      "question": "What do you call a three-dimensional shape with a circular base and a single vertex?",
+      "options": ["Cone", "Cylinder", "Sphere", "Pyramid"],
+      "correct_answer": "Cone",
+      "solution": "A cone is a three-dimensional shape with a circular base that tapers to a single vertex."
+    },
+    {
+      "question": "What is the measure of a complete angle?",
+      "options": ["90 degrees", "180 degrees", "360 degrees", "270 degrees"],
+      "correct_answer": "360 degrees",
+      "solution": "A complete angle measures exactly 360 degrees."
+    },
+    {
+      "question": "What is a scalene triangle?",
+      "options": ["A triangle with two equal sides", "A triangle with all sides equal", "A triangle with no equal sides", "A triangle with one right angle"],
+      "correct_answer": "A triangle with no equal sides",
+      "solution": "A scalene triangle is a triangle in which all sides are of different lengths."
+    },
+    {
+      "question": "How many edges does a triangular prism have?",
+      "options": ["5", "6", "9", "12"],
+      "correct_answer": "9",
+      "solution": "A triangular prism has 9 edges."
+    },
+    {
+      "question": "What is the volume of a cube with a side length of 2 units?",
+      "options": ["4", "6", "8", "10"],
+      "correct_answer": "8",
+      "solution": "The volume of a cube is calculated as Volume = side length^3, so for a side length of 2 units, it is 2^3 = 8 cubic units."
+    },
+    {
+      "question": "What is the term for a closed figure formed by straight line segments?",
+      "options": ["Polygon", "Circle", "Curve", "Line"],
+      "correct_answer": "Polygon",
+      "solution": "A polygon is a closed figure formed by straight line segments."
+    },
+    {
+      "question": "What do you call the longest side of a right triangle?",
+      "options": ["Base", "Height", "Hypotenuse", "Leg"],
+      "correct_answer": "Hypotenuse",
+      "solution": "The longest side of a right triangle is called the hypotenuse."
+    }
+  ]

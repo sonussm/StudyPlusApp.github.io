@@ -1,0 +1,146 @@
+[
+    {
+      "question": "If A and B are in the ratio 3:4 and B and C are in the ratio 2:5, what is the ratio of A:B:C?",
+      "options": ["3:4:5", "3:8:10", "6:8:10", "3:4:10"],
+      "correct_answer": "3:8:10",
+      "solution": "To find the combined ratio, we can express B in terms of a common value. A:B = 3:4 and B:C = 2:5, so we can rewrite B as 4x and 2y. Setting 4x = 2y gives us x = y/2. Thus, A:B:C = 3x:4x:5y = 3:8:10."
+    },
+    {
+      "question": "A and B together have Rs. 1210. If 4/15 of A's amount is equal to 2/5 of B's amount, how much amount does B have?",
+      "options": ["Rs. 460", "Rs. 484", "Rs. 550", "Rs. 664"],
+      "correct_answer": "Rs. 484",
+      "solution": "Let A's amount be x and B's amount be y. From the problem, we have 4/15 x = 2/5 y. Solving gives x = 3/8 y. Substituting into x + y = 1210 leads to y = Rs. 484."
+    },
+    {
+      "question": "The ratio of two numbers is 5:8. If 12 is added to each number, the ratio becomes 3:4. What are the two numbers?",
+      "options": ["30, 48", "25, 40", "20, 32", "15, 24"],
+      "correct_answer": "25, 40",
+      "solution": "Let the numbers be 5x and 8x. According to the problem, (5x + 12)/(8x + 12) = 3/4. Cross-multiplying and solving gives x = 5, hence the numbers are 25 and 40."
+    },
+    {
+      "question": "If the ratio of boys to girls in a class is 3:5 and there are 40 girls, how many boys are there?",
+      "options": ["24", "30", "36", "20"],
+      "correct_answer": "24",
+      "solution": "Let the number of boys be 3x and girls be 5x. Given girls = 40, we have 5x = 40, thus x = 8. Therefore, boys = 3x = 24."
+    },
+    {
+      "question": "A bag contains coins of 1 rupee, 50 paise, and 25 paise in the ratio 4:3:2. If the total amount is Rs. 150, how much is there in 50 paise coins?",
+      "options": ["Rs. 30", "Rs. 40", "Rs. 50", "Rs. 60"],
+      "correct_answer": "Rs. 40",
+      "solution": "Let the amounts be 4x, 3x, and 2x. The total amount is 4x + 3x + 2x = 150. Thus, 9x = 150, giving x = 16.67. Therefore, the amount in 50 paise coins is 3x = Rs. 50."
+    },
+    {
+      "question": "The ratio of the ages of A and B is 4:5. If A is 20 years old, how old is B?",
+      "options": ["25", "30", "35", "40"],
+      "correct_answer": "25",
+      "solution": "Let A's age be 4x and B's age be 5x. Given A is 20, we have 4x = 20, leading to x = 5. Therefore, B's age is 5x = 25."
+    },
+    {
+      "question": "If the ratio of two numbers is 7:9 and their sum is 128, what is the larger number?",
+      "options": ["72", "56", "64", "81"],
+      "correct_answer": "72",
+      "solution": "Let the numbers be 7x and 9x. The equation 7x + 9x = 128 leads to 16x = 128, giving x = 8. Thus, the larger number is 9x = 72."
+    },
+    {
+      "question": "A sum of money is to be divided among A, B, and C in the ratio 2:3:5. If C receives Rs. 500, how much does A receive?",
+      "options": ["Rs. 200", "Rs. 250", "Rs. 300", "Rs. 400"],
+      "correct_answer": "Rs. 200",
+      "solution": "Let the shares of A, B, and C be 2x, 3x, and 5x respectively. Given C's share is 500, we have 5x = 500, leading to x = 100. Therefore, A's share is 2x = Rs. 200."
+    },
+    {
+      "question": "If the ratio of two numbers is 3:4 and their difference is 20, what are the two numbers?",
+      "options": ["30, 40", "40, 60", "60, 80", "50, 70"],
+      "correct_answer": "30, 40",
+      "solution": "Let the numbers be 3x and 4x. From the difference, we have 4x - 3x = 20, leading to x = 20. The numbers are 60 and 80."
+    },
+    {
+      "question": "In a class, the ratio of boys to girls is 5:6. If there are 30 boys, how many girls are there?",
+      "options": ["36", "30", "24", "18"],
+      "correct_answer": "36",
+      "solution": "Let the number of girls be 6x. Given boys = 30, we have 5x = 30, leading to x = 6. Thus, girls = 6x = 36."
+    },
+    {
+      "question": "A and B are in the ratio 2:3. If A's amount is Rs. 200, how much is B's amount?",
+      "options": ["Rs. 300", "Rs. 400", "Rs. 500", "Rs. 600"],
+      "correct_answer": "Rs. 300",
+      "solution": "Let A's amount be 2x and B's amount be 3x. Given A = 200, we have 2x = 200, leading to x = 100. Therefore, B's amount is 3x = Rs. 300."
+    },
+    {
+      "question": "The ages of A and B are in the ratio 5:7. If the sum of their ages is 72 years, what is A's age?",
+      "options": ["30", "36", "40", "42"],
+      "correct_answer": "30",
+      "solution": "Let A's age be 5x and B's age be 7x. The equation 5x + 7x = 72 leads to 12x = 72, giving x = 6. Therefore, A's age is 5x = 30."
+    },
+    {
+      "question": "If the ratio of the lengths of two sides of a triangle is 3:4 and the perimeter is 70 cm, what is the length of the longer side?",
+      "options": ["30 cm", "28 cm", "32 cm", "36 cm"],
+      "correct_answer": "36 cm",
+      "solution": "Let the sides be 3x and 4x. The equation 3x + 4x = 70 leads to 7x = 70, giving x = 10. Thus, the longer side is 4x = 40 cm."
+    },
+    {
+      "question": "A mixture contains milk and water in the ratio 5:3. If there are 40 liters of milk, how much water is there?",
+      "options": ["24 liters", "20 liters", "30 liters", "32 liters"],
+      "correct_answer": "24 liters",
+      "solution": "Let the quantities of milk and water be 5x and 3x. Given milk = 40, we have 5x = 40, leading to x = 8. Therefore, water = 3x = 24 liters."
+    },
+    {
+      "question": "If the ratio of two numbers is 6:11 and their sum is 85, what is the smaller number?",
+      "options": ["30", "24", "36", "42"],
+      "correct_answer": "30",
+      "solution": "Let the numbers be 6x and 11x. The equation 6x + 11x = 85 leads to 17x = 85, giving x = 5. Thus, the smaller number is 6x = 30."
+    },
+    {
+      "question": "In a fruit shop, the ratio of apples to oranges is 4:5. If there are 80 apples, how many oranges are there?",
+      "options": ["100", "120", "90", "80"],
+      "correct_answer": "100",
+      "solution": "Let the number of oranges be 5x. Given apples = 80, we have 4x = 80, leading to x = 20. Therefore, oranges = 5x = 100."
+    },
+    {
+      "question": "The ratio of the speeds of two cars is 3:5. If the faster car travels 150 km in 2 hours, how far does the slower car travel in the same time?",
+      "options": ["90 km", "75 km", "60 km", "120 km"],
+      "correct_answer": "90 km",
+      "solution": "Let the speeds be 3x and 5x. Given the faster car's speed = 75 km/h, we have 5x = 75, leading to x = 15. Thus, the slower car's speed = 3x = 45 km/h, and in 2 hours, it travels 90 km."
+    },
+    {
+      "question": "If 3/5 of a number is 45, what is the number?",
+      "options": ["60", "75", "90", "100"],
+      "correct_answer": "75",
+      "solution": "Let the number be x. The equation (3/5)x = 45 leads to x = 45 * (5/3) = 75."
+    },
+    {
+      "question": "A and B are in the ratio 2:3. If A's amount is Rs. 150, how much is B's amount?",
+      "options": ["Rs. 225", "Rs. 200", "Rs. 300", "Rs. 150"],
+      "correct_answer": "Rs. 225",
+      "solution": "Let A's amount be 2x and B's amount be 3x. Given A = 150, we have 2x = 150, leading to x = 75. Therefore, B's amount is 3x = Rs. 225."
+    },
+    {
+      "question": "The ratio of boys to girls in a school is 4:5. If there are 80 boys, how many girls are there?",
+      "options": ["100", "120", "90", "80"],
+      "correct_answer": "100",
+      "solution": "Let the number of girls be 5x. Given boys = 80, we have 4x = 80, leading to x = 20. Therefore, girls = 5x = 100."
+    },
+    {
+      "question": "If the ratio of two numbers is 5:7 and their sum is 72, what is the larger number?",
+      "options": ["42", "36", "30", "24"],
+      "correct_answer": "42",
+      "solution": "Let the numbers be 5x and 7x. The equation 5x + 7x = 72 leads to 12x = 72, giving x = 6. Thus, the larger number is 7x = 42."
+    },
+    {
+      "question": "A and B are in the ratio 3:4. If A's amount is Rs. 120, how much is B's amount?",
+      "options": ["Rs. 160", "Rs. 180", "Rs. 200", "Rs. 240"],
+      "correct_answer": "Rs. 160",
+      "solution": "Let A's amount be 3x and B's amount be 4x. Given A = 120, we have 3x = 120, leading to x = 40. Therefore, B's amount is 4x = Rs. 160."
+    },
+    {
+      "question": "The ratio of the lengths of two sides of a triangle is 5:12. If the perimeter is 51 cm, what is the length of the shorter side?",
+      "options": ["15 cm", "20 cm", "25 cm", "30 cm"],
+      "correct_answer": "15 cm",
+      "solution": "Let the lengths be 5x and 12x. The equation 5x + 12x = 51 leads to 17x = 51, giving x = 3. Thus, the shorter side is 5x = 15 cm."
+    },
+    {
+      "question": "If the ratio of two numbers is 8:9 and their difference is 5, what are the two numbers?",
+      "options": ["40, 45", "35, 40", "30, 35", "25, 30"],
+      "correct_answer": "40, 45",
+      "solution": "Let the numbers be 8x and 9x. The equation 9x - 8x = 5 leads to x = 5. Thus, the numbers are 40 and 45."
+    }
+  ]

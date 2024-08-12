@@ -1,0 +1,188 @@
+[
+    {
+      "question": "In a survey of 200 people, 60% said they prefer tea over coffee. How many people prefer tea?",
+      "options": ["80", "100", "120", "140"],
+      "correct_answer": "120",
+      "solution": "To find the number of people who prefer tea, calculate 60% of 200: 0.6 * 200 = 120."
+    },
+    {
+      "question": "A company's sales increased from $150,000 to $180,000. What is the percentage increase in sales?",
+      "options": ["15%", "20%", "25%", "30%"],
+      "correct_answer": "20%",
+      "solution": "Percentage increase = ((180,000 - 150,000) / 150,000) * 100 = 20%."
+    },
+    {
+      "question": "A pie chart shows that 25% of a class of 40 students are girls. How many boys are there?",
+      "options": ["10", "20", "30", "15"],
+      "correct_answer": "30",
+      "solution": "If 25% are girls, then 75% are boys. 75% of 40 = 30 boys."
+    },
+    {
+      "question": "The average score of a class of 30 students is 70. What is the total score of the class?",
+      "options": ["2100", "2200", "2300", "2400"],
+      "correct_answer": "2100",
+      "solution": "Total score = Average score * Number of students = 70 * 30 = 2100."
+    },
+    {
+      "question": "In a bar graph, the heights of bars represent the sales of four products: A, B, C, and D. If A's sales are 200, B's are 150, C's are 250, and D's are 100, what is the total sales?",
+      "options": ["600", "700", "800", "900"],
+      "correct_answer": "700",
+      "solution": "Total sales = 200 + 150 + 250 + 100 = 700."
+    },
+    {
+      "question": "A table shows the number of items sold over four quarters: Q1: 300, Q2: 450, Q3: 600, Q4: 500. What is the average number of items sold per quarter?",
+      "options": ["450", "475", "500", "525"],
+      "correct_answer": "475",
+      "solution": "Average = (300 + 450 + 600 + 500) / 4 = 475."
+    },
+    {
+      "question": "If a line graph shows a steady increase from 100 to 300 over 5 years, what is the average annual increase?",
+      "options": ["40", "50", "60", "70"],
+      "correct_answer": "40",
+      "solution": "Total increase = 300 - 100 = 200. Average annual increase = 200 / 5 = 40."
+    },
+    {
+      "question": "A survey shows that 30% of respondents prefer online shopping. If 500 people were surveyed, how many prefer online shopping?",
+      "options": ["100", "150", "200", "250"],
+      "correct_answer": "150",
+      "solution": "Number preferring online shopping = 30% of 500 = 0.3 * 500 = 150."
+    },
+    {
+      "question": "In a data set, the median is 50, and the mean is 55. If one value is removed, and the new mean is 52, what was the removed value?",
+      "options": ["60", "65", "70", "75"],
+      "correct_answer": "60",
+      "solution": "Let the total number of values be n. The total sum before removal = 55n. After removal, the sum becomes 52(n-1). Setting up the equation: 55n - x = 52(n-1) gives x = 60."
+    },
+    {
+      "question": "A table shows the following sales figures for three months: January: $2000, February: $2500, March: $3000. What is the percentage increase from January to March?",
+      "options": ["25%", "30%", "50%", "60%"],
+      "correct_answer": "50%",
+      "solution": "Percentage increase = ((3000 - 2000) / 2000) * 100 = 50%."
+    },
+    {
+      "question": "A line graph shows the population of a town over five years: Year 1: 1000, Year 2: 1200, Year 3: 1400, Year 4: 1600, Year 5: 1800. What is the average population over these years?",
+      "options": ["1400", "1500", "1600", "1700"],
+      "correct_answer": "1400",
+      "solution": "Average population = (1000 + 1200 + 1400 + 1600 + 1800) / 5 = 1400."
+    },
+    {
+      "question": "In a pie chart, 40% of a budget is allocated to marketing. If the total budget is $500, how much is allocated to marketing?",
+      "options": ["$150", "$200", "$250", "$300"],
+      "correct_answer": "$200",
+      "solution": "Amount allocated to marketing = 40% of 500 = 0.4 * 500 = $200."
+    },
+    {
+      "question": "A data set has the following values: 10, 20, 30, 40, 50. What is the range of this data set?",
+      "options": ["30", "40", "50", "60"],
+      "correct_answer": "40",
+      "solution": "Range = Maximum value - Minimum value = 50 - 10 = 40."
+    },
+    {
+      "question": "A table shows the number of students in three classes: Class A: 25, Class B: 30, Class C: 45. What is the average number of students per class?",
+      "options": ["30", "32", "33", "35"],
+      "correct_answer": "33",
+      "solution": "Average = (25 + 30 + 45) / 3 = 33."
+    },
+    {
+      "question": "If a bar graph shows the sales of three products: X: $1500, Y: $2000, Z: $2500, what is the ratio of sales of X to Z?",
+      "options": ["1:2", "2:3", "3:4", "1:3"],
+      "correct_answer": "3:4",
+      "solution": "Ratio of sales of X to Z = 1500:2500 = 3:5."
+    },
+    {
+      "question": "A survey indicates that 70% of people prefer summer over winter. If 800 people were surveyed, how many prefer summer?",
+      "options": ["500", "550", "600", "650"],
+      "correct_answer": "560",
+      "solution": "Number preferring summer = 70% of 800 = 0.7 * 800 = 560."
+    },
+    {
+      "question": "A line graph indicates a decrease in sales from $5000 to $3000 over four months. What is the average monthly decrease?",
+      "options": ["$400", "$500", "$600", "$700"],
+      "correct_answer": "$500",
+      "solution": "Total decrease = 5000 - 3000 = 2000. Average monthly decrease = 2000 / 4 = $500."
+    },
+    {
+      "question": "If a table shows that 20% of students scored above 80 in an exam, and there are 200 students, how many scored above 80?",
+      "options": ["30", "40", "50", "60"],
+      "correct_answer": "40",
+      "solution": "Number of students scoring above 80 = 20% of 200 = 0.2 * 200 = 40."
+    },
+    {
+      "question": "A pie chart shows that 15% of a budget is spent on salaries. If the total budget is $100,000, how much is spent on salaries?",
+      "options": ["$10,000", "$12,000", "$15,000", "$18,000"],
+      "correct_answer": "$15,000",
+      "solution": "Amount spent on salaries = 15% of 100,000 = 0.15 * 100,000 = $15,000."
+    },
+    {
+      "question": "A bar graph shows the number of books sold in a week: Monday: 30, Tuesday: 50, Wednesday: 40. What is the total number of books sold?",
+      "options": ["120", "130", "140", "150"],
+      "correct_answer": "120",
+      "solution": "Total books sold = 30 + 50 + 40 = 120."
+    },
+    {
+      "question": "If a survey shows that 25% of participants prefer cats, and there are 400 participants, how many prefer cats?",
+      "options": ["80", "90", "100", "110"],
+      "correct_answer": "100",
+      "solution": "Number preferring cats = 25% of 400 = 0.25 * 400 = 100."
+    },
+    {
+      "question": "A line graph shows an increase in temperature from 20°C to 30°C over 5 days. What is the average daily increase?",
+      "options": ["1°C", "2°C", "3°C", "4°C"],
+      "correct_answer": "2°C",
+      "solution": "Total increase = 30 - 20 = 10°C. Average daily increase = 10 / 5 = 2°C."
+    },
+    {
+      "question": "In a table showing sales data, Product A sold 100 units, Product B sold 150 units, and Product C sold 250 units. What is the total sales?",
+      "options": ["400", "500", "600", "700"],
+      "correct_answer": "500",
+      "solution": "Total sales = 100 + 150 + 250 = 500."
+    },
+    {
+      "question": "If a data set has values: 5, 10, 15, what is the mean?",
+      "options": ["10", "12", "15", "20"],
+      "correct_answer": "10",
+      "solution": "Mean = (5 + 10 + 15) / 3 = 10."
+    },
+    {
+      "question": "A bar graph shows monthly expenses: January: $200, February: $300, March: $400. What is the average monthly expense?",
+      "options": ["$250", "$300", "$350", "$400"],
+      "correct_answer": "$300",
+      "solution": "Average expense = (200 + 300 + 400) / 3 = $300."
+    },
+    {
+      "question": "If a survey indicates that 60% of people prefer chocolate ice cream and 500 people were surveyed, how many prefer chocolate?",
+      "options": ["300", "350", "400", "450"],
+      "correct_answer": "300",
+      "solution": "Number preferring chocolate = 60% of 500 = 0.6 * 500 = 300."
+    },
+    {
+      "question": "A pie chart indicates that 10% of a population of 1000 are left-handed. How many are left-handed?",
+      "options": ["50", "70", "80", "90"],
+      "correct_answer": "100",
+      "solution": "Number of left-handed = 10% of 1000 = 0.1 * 1000 = 100."
+    },
+    {
+      "question": "A line graph shows a decrease in sales from $6000 to $4000 over 2 months. What is the average monthly decrease?",
+      "options": ["$800", "$900", "$1000", "$1100"],
+      "correct_answer": "$1000",
+      "solution": "Total decrease = 6000 - 4000 = 2000. Average monthly decrease = 2000 / 2 = $1000."
+    },
+    {
+      "question": "A survey shows that 35% of respondents prefer online learning. If 2000 people were surveyed, how many prefer online learning?",
+      "options": ["600", "700", "800", "900"],
+      "correct_answer": "700",
+      "solution": "Number preferring online learning = 35% of 2000 = 0.35 * 2000 = 700."
+    },
+    {
+      "question": "A table shows the following data: A: 30, B: 50, C: 70. What is the average of these values?",
+      "options": ["40", "50", "60", "70"],
+      "correct_answer": "50",
+      "solution": "Average = (30 + 50 + 70) / 3 = 50."
+    },
+    {
+      "question": "If a bar graph shows the sales of three products: A: $400, B: $600, C: $800, what is the total sales?",
+      "options": ["$1500", "$1600", "$1700", "$1800"],
+      "correct_answer": "$1800",
+      "solution": "Total sales = 400 + 600 + 800 = $1800."
+    }
+  ]

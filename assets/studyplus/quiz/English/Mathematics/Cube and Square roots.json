@@ -1,0 +1,188 @@
+[
+    {
+    "question": "What is the square root of 144?",
+    "options": ["8", "12", "16", "18"],
+    "correct_answer": "12",
+    "solution": "The square root of 144 is 12, because 12 × 12 = 144."
+    },
+    {
+    "question": "Find the cube root of 1000.",
+    "options": ["5", "10", "20", "25"],
+    "correct_answer": "10",
+    "solution": "The cube root of 1000 is 10, because 10 × 10 × 10 = 1000."
+    },
+    {
+    "question": "Is 1728 a perfect cube?",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes",
+    "solution": "Yes, 1728 is a perfect cube because 12 × 12 × 12 = 1728."
+    },
+    {
+    "question": "What is the smallest number by which 1000 must be multiplied to make it a perfect cube?",
+    "options": ["2", "4", "5", "10"],
+    "correct_answer": "5",
+    "solution": "To make 1000 a perfect cube, we need to multiply it by 5, because the prime factorization of 1000 is 2 × 2 × 2 × 5 × 5. Multiplying by 5 gives us 2 × 2 × 2 × 5 × 5 × 5, which is a perfect cube."
+    },
+    {
+    "question": "Find the cube root of 0.000008.",
+    "options": ["0.02", "0.2", "2", "20"],
+    "correct_answer": "0.2",
+    "solution": "The cube root of 0.000008 is 0.2, because 0.2 × 0.2 × 0.2 = 0.008."
+    },
+    {
+    "question": "What is the square root of 225?",
+    "options": ["10", "15", "20", "25"],
+    "correct_answer": "15",
+    "solution": "The square root of 225 is 15, because 15 × 15 = 225."
+    },
+    {
+    "question": "Find the cube root of 64.",
+    "options": ["2", "4", "6", "8"],
+    "correct_answer": "4",
+    "solution": "The cube root of 64 is 4, because 4 × 4 × 4 = 64."
+    },
+    {
+    "question": "Is 2401 a perfect cube?",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes",
+    "solution": "Yes, 2401 is a perfect cube because 13 × 13 × 13 = 2401."
+    },
+    {
+    "question": "What is the smallest number by which 1728 must be divided to make it a perfect cube?",
+    "options": ["2", "3", "4", "6"],
+    "correct_answer": "2",
+    "solution": "To make 1728 a perfect cube, we need to divide it by 2, because the prime factorization of 1728 is 2 × 2 × 2 × 2 × 2 × 2 × 3 × 3. Dividing by 2 gives us 2 × 2 × 2 × 2 × 2 × 3 × 3, which is a perfect cube."
+    },
+    {
+    "question": "Find the square root of 400.",
+    "options": ["10", "15", "20", "25"],
+    "correct_answer": "20",
+    "solution": "The square root of 400 is 20, because 20 × 20 = 400."
+    },
+    {
+    "question": "What is the cube root of 8000?",
+    "options": ["10", "20", "30", "40"],
+    "correct_answer": "20",
+    "solution": "The cube root of 8000 is 20, because 20 × 20 × 20 = 8000."
+    },
+    {
+    "question": "Is 729 a perfect cube?",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes",
+    "solution": "Yes, 729 is a perfect cube because 9 × 9 × 9 = 729."
+    },
+    {
+    "question": "What is the smallest number by which 125 must be multiplied to make it a perfect cube?",
+    "options": ["2", "3", "4", "5"],
+    "correct_answer": "4",
+    "solution": "To make 125 a perfect cube, we need to multiply it by 4, because the prime factorization of 125 is 5 × 5 × 5. Multiplying by 4 gives us 5 × 5 × 5 × 4, which is a perfect cube."
+    },
+    {
+    "question": "Find the cube root of 0.000027.",
+    "options": ["0.03", "0.3", "3", "30"],
+    "correct_answer": "0.3",
+    "solution": "The cube root of 0.000027 is 0.3, because 0.3 × 0.3 × 0.3 = 0.027."
+    },
+    {
+    "question": "What is the square root of 81?",
+    "options": ["6", "7", "8", "9"],
+    "correct_answer": "9",
+    "solution": "The square root of 81 is 9, because 9 × 9 = 81."
+    },
+    {
+    "question": "Find the cube root of 1331.",
+    "options": ["7", "11", "13", "17"],
+    "correct_answer": "11",
+    "solution": "The cube root of 1331 is 11, because 11 × 11 × 11 = 1331."
+    },
+    {
+    "question": "Is 512 a perfect cube?",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes",
+    "solution": "Yes, 512 is a perfect cube because 8 × 8 × 8 = 512."
+    },
+    {
+    "question": "What is the smallest number by which 216 must be divided to make it a perfect cube?",
+    "options": ["2", "3", "4", "6"],
+    "correct_answer": "3",
+    "solution": "To make 216 a perfect cube, we need to divide it by 3, because the prime factorization of 216 is 2 × 2 × 2 × 3 × 3 × 3. Dividing by 3 gives us 2 × 2 × 2 × 3 × 3, which is a perfect cube."
+    },
+    {
+    "question": "Find the square root of 900.",
+    "options": ["20", "25", "30", "35"],
+    "correct_answer": "30",
+    "solution": "The square root of 900 is 30, because 30 × 30 = 900."
+    },
+    {
+    "question": "What is the cube root of 64000?",
+    "options": ["20", "40", "60", "80"],
+    "correct_answer": "40",
+    "solution": "The cube root of 64000 is 40, because 40 × 40 × 40 = 64000."
+    },
+    {
+    "question": "Is 1000 a perfect cube?",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes",
+    "solution": "Yes, 1000 is a perfect cube because 10 × 10 × 10 = 1000."
+    },
+    {
+    "question": "What is the smallest number by which 343 must be multiplied to make it a perfect cube?",
+    "options": ["2", "3", "4", "7"],
+    "correct_answer": "7",
+    "solution": "To make 343 a perfect cube, we need to multiply it by 7, because the prime factorization of 343 is 7 × 7 × 7. Multiplying by 7 gives us 7 × 7 × 7 × 7, which is a perfect cube."
+    },
+    {
+    "question": "Find the cube root of 0.000125.",
+    "options": ["0.05", "0.5", "5", "50"],
+    "correct_answer": "0.5",
+    "solution": "The cube root of 0.000125 is 0.5, because 0.5 × 0.5 × 0.5 = 0.125."
+    },
+    {
+    "question": "What is the square root of 196?",
+    "options": ["10", "12", "14", "16"],
+    "correct_answer": "14",
+    "solution": "The square root of 196 is 14, because 14 × 14 = 196."
+    },
+    {
+    "question": "Find the cube root of 2197.",
+    "options": ["12", "13", "14", "15"],
+    "correct_answer": "13",
+    "solution": "The cube root of 2197 is 13, because 13 × 13 × 13 = 2197."
+    },
+    {
+    "question": "Is 3375 a perfect cube?",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes",
+    "solution": "Yes, 3375 is a perfect cube because 15 × 15 × 15 = 3375."
+    },
+    {
+    "question": "What is the smallest number by which 1000 must be divided to make it a perfect cube?",
+    "options": ["2", "4", "5", "10"],
+    "correct_answer": "5",
+    "solution": "To make 1000 a perfect cube, we need to divide it by 5, because the prime factorization of 1000 is 2 × 2 × 2 × 5 × 5. Dividing by 5 gives us 2 × 2 × 2 × 5, which is a perfect cube."
+    },
+    {
+    "question": "Find the square root of 676.",
+    "options": ["20", "22", "24", "26"],
+    "correct_answer": "26",
+    "solution": "The square root of 676 is 26, because 26 × 26 = 676."
+    },
+    {
+    "question": "What is the cube root of 1728?",
+    "options": ["8", "12", "16", "18"],
+    "correct_answer": "12",
+    "solution": "The cube root of 1728 is 12, because 12 × 12 × 12 = 1728."
+    },
+    {
+    "question": "Is 4096 a perfect cube?",
+    "options": ["Yes", "No"],
+    "correct_answer": "Yes",
+    "solution": "Yes, 4096 is a perfect cube because 16 × 16 × 16 = 4096."
+    },
+    {
+    "question": "What is the smallest number by which 27 must be multiplied to make it a perfect cube?",
+    "options": ["2", "3", "4", "9"],
+    "correct_answer": "3",
+    "solution": "To make 27 a perfect cube, we need to multiply it by 3, because the prime factorization of 27 is 3 × 3 × 3. Multiplying by 3 gives us 3 × 3 × 3 × 3, which is a perfect cube."
+    }
+    ]
