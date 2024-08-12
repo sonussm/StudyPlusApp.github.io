@@ -15,14 +15,8 @@
       {"name": "Mensuration"},
       {"name": "Fractions Exponents"},
       {"name": "Cube and Square roots"},
-      {"name": "Profit & Loss"},
-      {"name": "Puzzles"},
-      {"name": "Blood Relations"},
-      {"name": "Syllogism"},
-      {"name": "Analogies"},
-      {"name": "Figure Series"},
-      {"name": "Alphanumeric series"}, 
-      {"name": "Odd One Out"}
+      {"name": "Profit & Loss"}
+      
     ]
   },
   {
@@ -54,11 +48,16 @@
     "name": "Indian History",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/history.png",
     "chapters": [
-      {"name": "Ancient History"},
-      {"name": "Medieval History"},
-      {"name": "Modern History"},
-      {"name": "World War I"},
-      {"name": "World War II"}
+      {"name": "New Kings and Kingdoms"},
+      {"name": "Delhi Sultanate"},
+      {"name": "Art and Architecture"},
+      {"name": "Establishment of Company Power"},
+      {"name": "Rural Life and Society"},
+      {"name": "Colonialism and Tribal Societies"},
+      {"name": "Revolt of 1857"},
+      {"name": "Women and reform"},
+      {"name": "Nationalist Movement"},
+      {"name": "India After Independence"}
     ]
   },
   {
@@ -76,25 +75,16 @@
     ]
   },
   {
-    "name": "Economics",
-    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/economics.png",
-    "chapters": [
-      {"name": "Microeconomics"},
-      {"name": "Macroeconomics"},
-      {"name": "International Trade"},
-      {"name": "Public Finance"},
-      {"name": "Economic Development"}
-    ]
-  },
-  {
     "name": "Reasoning",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/reasoning.png",
     "chapters": [
-      {"name": "Verbal Reasoning"},
-      {"name": "Non-Verbal Reasoning"},
-      {"name": "Logical Reasoning"},
-      {"name": "Analytical Reasoning"},
-      {"name": "Data Sufficiency"}
+      {"name": "Puzzles"},
+      {"name": "Blood Relations"},
+      {"name": "Syllogism"},
+      {"name": "Analogies"},
+      {"name": "Figure Series"},
+      {"name": "Alphanumeric series"}, 
+      {"name": "Odd One Out"}
     ]
   },
   {
@@ -134,7 +124,7 @@
     ]
   },
   {
-    "name": "GK",
+    "name": "General Knowledge",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/gk.png",
     "chapters": [
       {"name": "National & International Current Affairs"},
