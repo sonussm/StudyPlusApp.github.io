@@ -3,48 +3,55 @@
     "name": "Mathematics",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/maths.png",
     "chapters": [
+      {"name": "Number System"},
       {"name": "Algebra"},
-      {"name": "Geometry"},
-      {"name": "Trigonometry"},
-      {"name": "Calculus"},
-      {"name": "Statistics"}
+      {"name": "Negative Numbers and Integers"},
+      {"name": "Ratio and Proportion"},
+      {"name": "Data Interpretation"},
+      {"name": "SI & CI, Discount"},
+      {"name": "Basic geometrical ideas"},
+      {"name": "Understanding Elementary Shapes"},
+      {"name": "Quadrilateral, Symmetry"},
+      {"name": "Mensuration"},
+      {"name": "Fractions Exponents"},
+      {"name": "Cube and Square roots"},
+      {"name": "Profit & Loss"},
+      {"name": "Puzzles"},
+      {"name": "Blood Relations"},
+      {"name": "Syllogism"},
+      {"name": "Analogies"},
+      {"name": "Figure Series"},
+      {"name": "Alphanumeric series"}, 
+      {"name": "Odd One Out"}
     ]
   },
   {
-    "name": "Chemistry",
+    "name": "General Science",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/chemistry.png",
     "chapters": [
-      {"name": "Organic Chemistry"},
-      {"name": "Inorganic Chemistry"},
-      {"name": "Physical Chemistry"},
-      {"name": "Biochemistry"},
-      {"name": "Analytical Chemistry"}
+      {"name": "Human Body and Diseases related to it"},
+      {"name": "Sound"},
+      {"name": "Light"},
+      {"name": "Natural Phenomena"},
+      {"name": "Natural Resources"},
+      {"name": "Electric current and circuits"},
+      {"name": "Magnets & magnetism"},
+      {"name": "Environmental concerns"},
+      {"name": "Pollution"},
+      {"name": "Change of matter"},
+      {"name": "Atom and Molecules"},
+      {"name": "Metals & Nonmetals"},
+      {"name": "Carbon"},
+      {"name": "Soil"},
+      {"name": "Acids, base, salt"},
+      {"name": "The Universe"},
+      {"name": "Motion"},
+      {"name": "Force"},
+      {"name": "Work & Energy"}
     ]
   },
   {
-    "name": "Physics",
-    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/physics.png",
-    "chapters": [
-      {"name": "Mechanics"},
-      {"name": "Thermodynamics"},
-      {"name": "Electromagnetism"},
-      {"name": "Optics"},
-      {"name": "Modern Physics"}
-    ]
-  },
-  {
-    "name": "Biology",
-    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/biology.png",
-    "chapters": [
-      {"name": "Cell Biology"},
-      {"name": "Genetics"},
-      {"name": "Ecology"},
-      {"name": "Evolution"},
-      {"name": "Physiology"}
-    ]
-  },
-  {
-    "name": "History",
+    "name": "Indian History",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/history.png",
     "chapters": [
       {"name": "Ancient History"},
@@ -58,11 +65,14 @@
     "name": "Polity",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/polity.png",
     "chapters": [
-      {"name": "Constitution"},
-      {"name": "Fundamental Rights"},
-      {"name": "Legislature"},
+      {"name": "Indian Constitution"},
+      {"name": "Fundamental Rights and Duties"},
+      {"name": "Preamble"},
+      {"name": "Parliamentary Government"},
       {"name": "Judiciary"},
-      {"name": "Executive"}
+      {"name": "Democracy"},
+      {"name": "Central, State and Local Government"},
+      {"name": "Diversity"}
     ]
   },
   {
@@ -88,47 +98,57 @@
     ]
   },
   {
-    "name": "Geography",
+    "name": "Indian Geography",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/geography.png",
     "chapters": [
-      {"name": "Physical Geography"},
-      {"name": "Human Geography"},
-      {"name": "World Geography"},
-      {"name": "Indian Geography"},
-      {"name": "Environmental Geography"}
-    ]
-  },
-  {
-    "name": "English",
-    "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/english.png",
-    "chapters": [
-      {"name": "Grammar"},
-      {"name": "Vocabulary"},
-      {"name": "Comprehension"},
-      {"name": "Essay Writing"},
-      {"name": "Literature"}
+      {"name": "Air, Water, Soil"},
+      {"name": "Human Environment"},
+      {"name": "Natural Resources, Human resources"},
+      {"name": "Agriculture"},
+      {"name": "Planet Earth in the solar system"},
+      {"name": "Globe"},
+      {"name": "Rivers of India"}
     ]
   },
   {
     "name": "Hindi",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/hindi.png",
     "chapters": [
-      {"name": "Vyakaran"},
-      {"name": "Shabdkosh"},
-      {"name": "Gadyansh"},
-      {"name": "Nibandh Lekhan"},
-      {"name": "Sahitya"}
+      {"name": "अपठित गद्यांश"},
+      {"name": "अलंकार, रस"},
+      {"name": "समास"},
+      {"name": "पर्यायवाची शब्द , विलोम शब्द "},
+      {"name": "तत्सम एवं तदभव"},
+      {"name": "सन्धियां, संधि विच्छेद"},
+      {"name": "विलोमार्थी शब्द"},
+      {"name": "स्त्रीलिंग, बहुवचन"},
+      {"name": "मुहावरें व लोकोक्तियां के अर्थ"},
+      {"name": "वाक्यांशों के लिए शब्द निर्माण"},
+      {"name": "अनेक शब्दों के लिए एक शब्द"},
+      {"name": "क्रिया से भाववाचक संज्ञा बनाना"},
+      {"name": "किसी वाक्य को अन्य लिंग में परिवर्तन"},
+      {"name": "अशुद्ध वाक्यों के शुद्ध"},
+      {"name": "वर्तनी की सामान्य अशुद्धियाँ तथा शब्दों के शब्द रूप"},
+      {"name": "वाक्य संशोधन – लिंग, वचन, कारक, वर्तनी, त्रुटि से सम्बंधित अनेकार्थी शब्द"},
+      {"name": "रचना एवं रचयिता"}
     ]
   },
   {
     "name": "GK",
     "imageUrl": "https://studyplusapp.github.io/assets/studyplus/images/gk.png",
     "chapters": [
-      {"name": "Current Affairs"},
+      {"name": "National & International Current Affairs"},
       {"name": "Sports"},
-      {"name": "Science and Technology"},
-      {"name": "Awards and Honors"},
-      {"name": "History and Culture"}
+      {"name": "Important National Facts"},
+      {"name": "Renowned Personalities & Common Names"},
+      {"name": "Discoveries"},
+      {"name": "Diseases and Nutrition"},
+      {"name": "Award and Authors"},
+      {"name": "Culture and Religion"},
+      {"name": "Heritage and Arts"},
+      {"name": "Countries & Currencies"},
+      {"name": "Diplomatic Relations, Defence & Neighbours"},
+      {"name": "Full forms and Abbreviations"}
     ]
   }
 ]
