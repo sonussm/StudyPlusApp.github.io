@@ -1,0 +1,182 @@
+[
+    {
+    "question": "Which part of the Indian Constitution deals with Fundamental Rights?",
+    "options": ["Part I", "Part II", "Part III", "Part IV"],
+    "correct_answer": "Part III",
+    "solution": "Articles 12-35 of the Indian Constitution, which are contained in Part III, deal with Fundamental Rights."
+    },
+    {
+    "question": "How many Fundamental Rights are there in the Indian Constitution?",
+    "options": ["4", "6", "8", "10"],
+    "correct_answer": "6",
+    "solution": "There are six main Fundamental Rights in the Indian Constitution: Right to Equality, Right to Freedom, Right against Exploitation, Right to Freedom of Religion, Cultural and Educational Rights, and Right to Constitutional Remedies."
+    },
+    {
+    "question": "Which article defines the term 'State' in the context of Fundamental Rights?",
+    "options": ["Article 11", "Article 12", "Article 13", "Article 14"],
+    "correct_answer": "Article 12",
+    "solution": "Article 12 defines the term 'State' in the context of Fundamental Rights."
+    },
+    {
+    "question": "Which article prohibits discrimination on grounds of religion, race, caste, sex, or place of birth?",
+    "options": ["Article 14", "Article 15", "Article 16", "Article 17"],
+    "correct_answer": "Article 15",
+    "solution": "Article 15 prohibits discrimination on grounds of religion, race, caste, sex, or place of birth."
+    },
+    {
+    "question": "Which article guarantees equality before the law and equal protection of the laws?",
+    "options": ["Article 13", "Article 14", "Article 15", "Article 16"],
+    "correct_answer": "Article 14",
+    "solution": "Article 14 guarantees equality before the law and equal protection of the laws."
+    },
+    {
+    "question": "Which article prohibits the practice of untouchability?",
+    "options": ["Article 15", "Article 16", "Article 17", "Article 18"],
+    "correct_answer": "Article 17",
+    "solution": "Article 17 prohibits the practice of untouchability."
+    },
+    {
+    "question": "Which article guarantees the right to freedom of speech and expression?",
+    "options": ["Article 19(1)(a)", "Article 19(1)(b)", "Article 19(1)(c)", "Article 19(1)(d)"],
+    "correct_answer": "Article 19(1)(a)",
+    "solution": "Article 19(1)(a) guarantees the right to freedom of speech and expression."
+    },
+    {
+    "question": "Which article prohibits traffic in human beings and forced labor?",
+    "options": ["Article 21", "Article 22", "Article 23", "Article 24"],
+    "correct_answer": "Article 23",
+    "solution": "Article 23 prohibits traffic in human beings and forced labor."
+    },
+    {
+    "question": "Which article prohibits the employment of children below the age of 14 in hazardous occupations and processes?",
+    "options": ["Article 23", "Article 24", "Article 25", "Article 26"],
+    "correct_answer": "Article 24",
+    "solution": "Article 24 prohibits the employment of children below the age of 14 in hazardous occupations and processes."
+    },
+    {
+    "question": "Which article guarantees the right to freedom of religion?",
+    "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+    "correct_answer": "Article 25",
+    "solution": "Article 25 guarantees the right to freedom of religion."
+    },
+    {
+    "question": "Which article allows religious denominations to establish and maintain institutions for religious and charitable purposes?",
+    "options": ["Article 25", "Article 26", "Article 27", "Article 28"],
+    "correct_answer": "Article 26",
+    "solution": "Article 26 allows religious denominations to establish and maintain institutions for religious and charitable purposes."
+    },
+    {
+    "question": "Which article prohibits the state from levying any tax for the promotion or maintenance of any particular religion or religious denomination?",
+    "options": ["Article 26", "Article 27", "Article 28", "Article 29"],
+    "correct_answer": "Article 27",
+    "solution": "Article 27 prohibits the state from levying any tax for the promotion or maintenance of any particular religion or religious denomination."
+    },
+    {
+    "question": "Which article guarantees the right of minorities to establish and administer educational institutions of their choice?",
+    "options": ["Article 28", "Article 29", "Article 30", "Article 31"],
+    "correct_answer": "Article 30",
+    "solution": "Article 30 guarantees the right of minorities to establish and administer educational institutions of their choice."
+    },
+    {
+    "question": "Which article provides for the protection of language, script, and culture of minorities?",
+    "options": ["Article 29", "Article 30", "Article 31", "Article 32"],
+    "correct_answer": "Article 29",
+    "solution": "Article 29 provides for the protection of language, script, and culture of minorities."
+    },
+    {
+    "question": "Which article provides for the right to constitutional remedies for the enforcement of Fundamental Rights?",
+    "options": ["Article 31", "Article 32", "Article 33", "Article 34"],
+    "correct_answer": "Article 32",
+    "solution": "Article 32 provides for the right to constitutional remedies for the enforcement of Fundamental Rights."
+    },
+    {
+    "question": "Which article empowers the Supreme Court to issue writs for the enforcement of Fundamental Rights?",
+    "options": ["Article 31", "Article 32", "Article 33", "Article 34"],
+    "correct_answer": "Article 32",
+    "solution": "Article 32 empowers the Supreme Court to issue writs for the enforcement of Fundamental Rights."
+    },
+    {
+    "question": "Which article was added to the Constitution to incorporate Fundamental Duties?",
+    "options": ["Article 51A", "Article 51B", "Article 51C", "Article 51D"],
+    "correct_answer": "Article 51A",
+    "solution": "Article 51A was added to the Constitution by the 42nd Amendment Act, 1976 to incorporate Fundamental Duties."
+    },
+    {
+    "question": "How many Fundamental Duties are there in the Indian Constitution?",
+    "options": ["8", "10", "11", "12"],
+    "correct_answer": "11",
+    "solution": "There are 11 Fundamental Duties of citizens listed in Article 51A of the Indian Constitution."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to abide by the Constitution and respect its ideals and institutions?",
+    "options": ["Article 51A(a)", "Article 51A(b)", "Article 51A(c)", "Article 51A(d)"],
+    "correct_answer": "Article 51A(a)",
+    "solution": "Article 51A(a) requires citizens to abide by the Constitution and respect its ideals and institutions, the National Flag, and the National Anthem."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to cherish and follow the noble ideals of the national freedom struggle?",
+    "options": ["Article 51A(b)", "Article 51A(c)", "Article 51A(d)", "Article 51A(e)"],
+    "correct_answer": "Article 51A(b)",
+    "solution": "Article 51A(b) requires citizens to cherish the noble ideals which inspired our national freedom struggle and follow them."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to uphold and protect the unity, sovereignty, and integrity of India?",
+    "options": ["Article 51A(c)", "Article 51A(d)", "Article 51A(e)", "Article 51A(f)"],
+    "correct_answer": "Article 51A(c)",
+    "solution": "Article 51A(c) requires citizens to uphold and protect the unity, sovereignty, and integrity of the Indian nation."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to defend the country and render national service when called upon?",
+    "options": ["Article 51A(d)", "Article 51A(e)", "Article 51A(f)", "Article 51A(g)"],
+    "correct_answer": "Article 51A(d)",
+    "solution": "Article 51A(d) requires citizens to defend the country and render national service whenever called upon to do so."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to promote harmony and the spirit of common brotherhood?",
+    "options": ["Article 51A(e)", "Article 51A(f)", "Article 51A(g)", "Article 51A(h)"],
+    "correct_answer": "Article 51A(e)",
+    "solution": "Article 51A(e) requires citizens to promote harmony and the spirit of common brotherhood amongst all the people of India transcending religious, linguistic and regional or sectional diversities."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to value and preserve the rich heritage of India's composite culture?",
+    "options": ["Article 51A(f)", "Article 51A(g)", "Article 51A(h)", "Article 51A(i)"],
+    "correct_answer": "Article 51A(f)",
+    "solution": "Article 51A(f) requires citizens to value and preserve the rich heritage of our composite culture."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to protect and improve the natural environment?",
+    "options": ["Article 51A(g)", "Article 51A(h)", "Article 51A(i)", "Article 51A(j)"],
+    "correct_answer": "Article 51A(g)",
+    "solution": "Article 51A(g) requires citizens to protect and improve the natural environment including forests, lakes, rivers and wildlife, and to have compassion for living creatures."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to develop the scientific temper, humanism, and the spirit of inquiry and reform?",
+    "options": ["Article 51A(h)", "Article 51A(i)", "Article 51A(j)", "Article 51A(k)"],
+    "correct_answer": "Article 51A(h)",
+    "solution": "Article 51A(h) requires citizens to develop the scientific temper, humanism and the spirit of inquiry and reform."
+    },
+    {
+    "question": "Which Fundamental Duty requires citizens to safeguard public property and to abjure violence?",
+    "options": ["Article 51A(i)", "Article 51A(j)", "Article 51A(k)", "Article 51A(l)"],
+    "correct_answer": "Article 51A(i)",
+    "solution": "Article 51A(i) requires citizens to safeguard public property and to abjure violence."
+    },
+    {
+    "question": "Which Fundamental Duty requires parents and guardians to provide opportunities for education to their children or wards between the ages of 6 and 14?",
+    "options": ["Article 51A(j)", "Article 51A(k)", "Article 51A(l)", "Article 51A(m)"],
+    "correct_answer": "Article 51A(k)",
+    "solution": "Article 51A(k) requires parents or guardians to provide opportunities for education to their child or ward between the age of six and fourteen years."
+    },
+    {
+    "question": "Can Fundamental Rights be suspended during an emergency?",
+    "options": ["Yes, all Fundamental Rights can be suspended", "No, Fundamental Rights cannot be suspended during an emergency", "Yes, but only certain Fundamental Rights can be suspended", "Fundamental Rights can be suspended only by a court order"],
+    "correct_answer": "Yes, but only certain Fundamental Rights can be suspended",
+    "solution": "During a national emergency declared under Article 352 of the Constitution, the Fundamental Rights can be suspended except for Articles 20 and 21."
+    },
+    {
+    "question": "Are Fundamental Duties enforceable by law?",
+    "options": ["Yes, Fundamental Duties are enforceable by law", "No, Fundamental Duties are not enforceable by law", "Fundamental Duties are enforceable only in certain cases", "Fundamental Duties are enforceable only by the Supreme Court"],
+    "correct_answer": "No, Fundamental Duties are not enforceable by law",
+    "solution": "Fundamental Duties are not enforceable by law. However, they serve as a reminder to citizens that they have certain obligations towards the society and the country."
+    }
+    ]

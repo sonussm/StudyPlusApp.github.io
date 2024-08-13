@@ -1,0 +1,170 @@
+[
+    {
+      "question": "Who is known as the Father of the Indian Constitution?",
+      "options": ["Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Vallabhbhai Patel", "Rajendra Prasad"],
+      "correct_answer": "B.R. Ambedkar",
+      "solution": "Dr. B.R. Ambedkar was the chairman of the drafting committee of the Indian Constitution and is widely regarded as its principal architect."
+    },
+    {
+      "question": "On which date is Constitution Day celebrated in India?",
+      "options": ["January 26", "August 15", "November 26", "December 26"],
+      "correct_answer": "November 26",
+      "solution": "Constitution Day is celebrated on November 26 to commemorate the adoption of the Indian Constitution in 1949."
+    },
+    {
+      "question": "How many fundamental rights were originally enshrined in the Indian Constitution?",
+      "options": ["6", "7", "8", "9"],
+      "correct_answer": "7",
+      "solution": "The original Constitution of India provided for seven fundamental rights."
+    },
+    {
+      "question": "Which article of the Indian Constitution guarantees the right to equality?",
+      "options": ["Article 14", "Article 15", "Article 16", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Articles 14, 15, and 16 of the Indian Constitution guarantee the right to equality."
+    },
+    {
+      "question": "Which part of the Indian Constitution deals with the Directive Principles of State Policy?",
+      "options": ["Part III", "Part IV", "Part V", "Part VI"],
+      "correct_answer": "Part IV",
+      "solution": "Part IV of the Indian Constitution contains the Directive Principles of State Policy."
+    },
+    {
+      "question": "What is the maximum strength of the Lok Sabha as per the Constitution?",
+      "options": ["500", "550", "600", "700"],
+      "correct_answer": "550",
+      "solution": "The maximum strength of the Lok Sabha is 552, which includes 530 members from the states and 20 from the Union territories."
+    },
+    {
+      "question": "Who has the power to amend the Constitution of India?",
+      "options": ["Parliament", "President", "Supreme Court", "All of the above"],
+      "correct_answer": "Parliament",
+      "solution": "The Parliament of India has the power to amend the Constitution as per the provisions laid down in Article 368."
+    },
+    {
+      "question": "Which amendment of the Indian Constitution added the Right to Education as a fundamental right?",
+      "options": ["86th Amendment", "73rd Amendment", "74th Amendment", "42nd Amendment"],
+      "correct_answer": "86th Amendment",
+      "solution": "The 86th Amendment, enacted in 2002, added Article 21-A, making the Right to Education a fundamental right."
+    },
+    {
+      "question": "Which of the following is NOT a fundamental duty under the Indian Constitution?",
+      "options": ["To abide by the Constitution", "To promote harmony", "To vote in elections", "To protect the environment"],
+      "correct_answer": "To vote in elections",
+      "solution": "Voting in elections is not listed as a fundamental duty in the Indian Constitution."
+    },
+    {
+      "question": "What is the term used for the introduction of the Constitution?",
+      "options": ["Preamble", "Article", "Schedule", "Amendment"],
+      "correct_answer": "Preamble",
+      "solution": "The introduction of the Constitution is called the Preamble, which outlines the guiding principles and objectives."
+    },
+    {
+      "question": "Which article provides for the establishment of a Finance Commission?",
+      "options": ["Article 280", "Article 370", "Article 356", "Article 368"],
+      "correct_answer": "Article 280",
+      "solution": "Article 280 of the Indian Constitution provides for the establishment of a Finance Commission."
+    },
+    {
+      "question": "How many schedules are there in the Indian Constitution?",
+      "options": ["10", "12", "14", "16"],
+      "correct_answer": "12",
+      "solution": "The Indian Constitution originally had 12 schedules, which have been increased to 12 through various amendments."
+    },
+    {
+      "question": "Which of the following is a feature of the Indian Constitution?",
+      "options": ["Unitary", "Federal", "Confederate", "None of the above"],
+      "correct_answer": "Federal",
+      "solution": "The Indian Constitution establishes a federal structure, distributing powers between the central and state governments."
+    },
+    {
+      "question": "Which article of the Constitution deals with the right to freedom of speech?",
+      "options": ["Article 19", "Article 21", "Article 22", "Article 25"],
+      "correct_answer": "Article 19",
+      "solution": "Article 19 of the Indian Constitution guarantees the right to freedom of speech and expression."
+    },
+    {
+      "question": "Who appoints the Prime Minister of India?",
+      "options": ["President", "Parliament", "Chief Justice", "Election Commission"],
+      "correct_answer": "President",
+      "solution": "The President of India appoints the Prime Minister, who is usually the leader of the majority party in the Lok Sabha."
+    },
+    {
+      "question": "Which of the following is a feature of the parliamentary system in India?",
+      "options": ["Bicameral legislature", "Single-party rule", "Direct elections", "None of the above"],
+      "correct_answer": "Bicameral legislature",
+      "solution": "India has a bicameral legislature, consisting of the Lok Sabha and the Rajya Sabha."
+    },
+    {
+      "question": "Which of the following is not a part of the basic structure of the Constitution?",
+      "options": ["Judicial Review", "Separation of Powers", "Fundamental Rights", "Right to Vote"],
+      "correct_answer": "Right to Vote",
+      "solution": "The Right to Vote is not considered a part of the basic structure of the Constitution."
+    },
+    {
+      "question": "Which article provides for the appointment of the Attorney General of India?",
+      "options": ["Article 76", "Article 77", "Article 78", "Article 79"],
+      "correct_answer": "Article 76",
+      "solution": "Article 76 of the Indian Constitution provides for the appointment of the Attorney General of India."
+    },
+    {
+      "question": "What is the minimum age for contesting elections in the Lok Sabha?",
+      "options": ["25 years", "30 years", "35 years", "18 years"],
+      "correct_answer": "25 years",
+      "solution": "The minimum age for contesting elections in the Lok Sabha is 25 years as per Article 84."
+    },
+    {
+      "question": "Which of the following is a feature of the Indian Constitution?",
+      "options": ["Rigid", "Flexible", "Both", "None"],
+      "correct_answer": "Flexible",
+      "solution": "The Indian Constitution is considered flexible as it can be amended by the Parliament."
+    },
+    {
+      "question": "Which of the following articles deals with the right to life and personal liberty?",
+      "options": ["Article 19", "Article 21", "Article 22", "Article 23"],
+      "correct_answer": "Article 21",
+      "solution": "Article 21 of the Indian Constitution guarantees the right to life and personal liberty."
+    },
+    {
+      "question": "Which of the following is NOT a fundamental right?",
+      "options": ["Right to Equality", "Right to Freedom", "Right to Property", "Right to Constitutional Remedies"],
+      "correct_answer": "Right to Property",
+      "solution": "The Right to Property was removed from the list of fundamental rights by the 44th Amendment Act."
+    },
+    {
+      "question": "What is the role of the President in the Indian Constitution?",
+      "options": ["Head of State", "Head of Government", "Both", "None"],
+      "correct_answer": "Head of State",
+      "solution": "The President of India serves as the ceremonial head of state, while the Prime Minister is the head of government."
+    },
+    {
+      "question": "Which of the following is a power of the Rajya Sabha?",
+      "options": ["To initiate money bills", "To approve constitutional amendments", "To dissolve the Lok Sabha", "To appoint the Prime Minister"],
+      "correct_answer": "To approve constitutional amendments",
+      "solution": "The Rajya Sabha has the power to approve constitutional amendments but cannot initiate money bills."
+    },
+    {
+      "question": "What is the significance of the 42nd Amendment?",
+      "options": ["It added the right to education", "It is known as the Mini Constitution", "It abolished the right to property", "It established the Finance Commission"],
+      "correct_answer": "It is known as the Mini Constitution",
+      "solution": "The 42nd Amendment, enacted during the Emergency, is often referred to as the Mini Constitution due to the extensive changes it made."
+    },
+    {
+      "question": "Which article provides for the establishment of the Panchayati Raj system?",
+      "options": ["Article 40", "Article 43", "Article 73", "Article 74"],
+      "correct_answer": "Article 40",
+      "solution": "Article 40 of the Indian Constitution directs the state to organize village panchayats and endow them with powers for self-government."
+    },
+    {
+      "question": "Which of the following is a feature of the Indian Constitution borrowed from the British Constitution?",
+      "options": ["Fundamental Rights", "Parliamentary System", "Federal Structure", "None of the above"],
+      "correct_answer": "Parliamentary System",
+      "solution": "The Indian Constitution adopts the parliamentary system of governance from the British Constitution."
+    },
+    {
+      "question": "Which of the following is a provision of the 73rd Amendment?",
+      "options": ["Reservation for women in panchayati raj", "Establishment of the Finance Commission", "Right to Education", "None of the above"],
+      "correct_answer": "Reservation for women in panchayati raj",
+      "solution": "The 73rd Amendment provides for the reservation of seats for women in panchayati raj institutions."
+    }
+  ]

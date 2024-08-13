@@ -1,0 +1,146 @@
+[
+    {
+      "question": "What is the minimum age to contest for the Lok Sabha?",
+      "options": ["25", "30", "35", "40"],
+      "correct_answer": "25",
+      "solution": "According to Article 84 of the Indian Constitution, a candidate must be at least 25 years old to contest for the Lok Sabha."
+    },
+    {
+      "question": "Which article of the Indian Constitution deals with the establishment of the Panchayati Raj system?",
+      "options": ["Article 40", "Article 243", "Article 370", "Article 80"],
+      "correct_answer": "Article 243",
+      "solution": "Article 243 of the Indian Constitution provides for the establishment of the Panchayati Raj system in the states."
+    },
+    {
+      "question": "Who is the head of the State Government?",
+      "options": ["Chief Minister", "Governor", "President", "Mayor"],
+      "correct_answer": "Chief Minister",
+      "solution": "The Chief Minister is the head of the State Government and is responsible for the administration of the state."
+    },
+    {
+      "question": "What is the tenure of the Rajya Sabha members?",
+      "options": ["3 years", "4 years", "5 years", "6 years"],
+      "correct_answer": "6 years",
+      "solution": "Members of the Rajya Sabha serve a term of 6 years, with one-third of the members retiring every two years."
+    },
+    {
+      "question": "Which body is responsible for the preparation of electoral rolls for the elections in India?",
+      "options": ["Election Commission", "Parliament", "State Legislature", "Local Bodies"],
+      "correct_answer": "Election Commission",
+      "solution": "The Election Commission of India is responsible for the preparation and revision of electoral rolls for elections."
+    },
+    {
+      "question": "What is the maximum strength of the Lok Sabha?",
+      "options": ["500", "550", "600", "650"],
+      "correct_answer": "550",
+      "solution": "The maximum strength of the Lok Sabha is 550 members, as per Article 81 of the Indian Constitution."
+    },
+    {
+      "question": "Which amendment of the Indian Constitution introduced the concept of Panchayati Raj?",
+      "options": ["61st Amendment", "73rd Amendment", "74th Amendment", "86th Amendment"],
+      "correct_answer": "73rd Amendment",
+      "solution": "The 73rd Amendment, enacted in 1992, provided constitutional status to the Panchayati Raj system in India."
+    },
+    {
+      "question": "Who appoints the Chief Minister of a State?",
+      "options": ["Governor", "President", "Chief Justice", "State Legislature"],
+      "correct_answer": "Governor",
+      "solution": "The Governor of the state appoints the Chief Minister, who is usually the leader of the majority party in the State Legislative Assembly."
+    },
+    {
+      "question": "What is the role of the Finance Commission in India?",
+      "options": ["Distribution of taxes", "Conducting elections", "Amending the Constitution", "Legislating laws"],
+      "correct_answer": "Distribution of taxes",
+      "solution": "The Finance Commission is responsible for recommending the distribution of taxes between the central and state governments."
+    },
+    {
+      "question": "Which article of the Constitution provides for the establishment of Municipalities?",
+      "options": ["Article 243P", "Article 243Q", "Article 243R", "Article 243S"],
+      "correct_answer": "Article 243Q",
+      "solution": "Article 243Q of the Indian Constitution provides for the establishment of Municipalities in urban areas."
+    },
+    {
+      "question": "What is the minimum age to contest for the Rajya Sabha?",
+      "options": ["25", "30", "35", "40"],
+      "correct_answer": "30",
+      "solution": "A candidate must be at least 30 years old to contest for the Rajya Sabha, as per Article 84 of the Constitution."
+    },
+    {
+      "question": "Who has the power to dissolve the Lok Sabha?",
+      "options": ["President", "Prime Minister", "Speaker", "Chief Justice"],
+      "correct_answer": "President",
+      "solution": "The President of India has the power to dissolve the Lok Sabha on the advice of the Prime Minister."
+    },
+    {
+      "question": "Which schedule of the Constitution contains the functional items of the Panchayati Raj?",
+      "options": ["Twelfth Schedule", "Eleventh Schedule", "Ninth Schedule", "Tenth Schedule"],
+      "correct_answer": "Eleventh Schedule",
+      "solution": "The Eleventh Schedule of the Indian Constitution contains the functional items of the Panchayati Raj system."
+    },
+    {
+      "question": "What is the primary purpose of the State Election Commission?",
+      "options": ["Conduct elections", "Amend laws", "Draft budgets", "Advise the Governor"],
+      "correct_answer": "Conduct elections",
+      "solution": "The primary purpose of the State Election Commission is to conduct free and fair elections to the Panchayati Raj institutions."
+    },
+    {
+      "question": "Which body is responsible for the appointment of the Governor of a State?",
+      "options": ["President", "Prime Minister", "Chief Minister", "State Legislature"],
+      "correct_answer": "President",
+      "solution": "The Governor of a State is appointed by the President of India."
+    },
+    {
+      "question": "What is the tenure of the Chief Minister?",
+      "options": ["3 years", "4 years", "5 years", "Indefinite"],
+      "correct_answer": "Indefinite",
+      "solution": "The tenure of the Chief Minister is not fixed; they serve as long as they have the confidence of the majority in the State Legislative Assembly."
+    },
+    {
+      "question": "Which article empowers the President to appoint the Finance Commission?",
+      "options": ["Article 280", "Article 280A", "Article 281", "Article 282"],
+      "correct_answer": "Article 280",
+      "solution": "Article 280 of the Indian Constitution empowers the President to appoint the Finance Commission every five years."
+    },
+    {
+      "question": "What is the primary function of the Zila Parishad?",
+      "options": ["Urban planning", "Rural development", "Tax collection", "Judicial functions"],
+      "correct_answer": "Rural development",
+      "solution": "The primary function of the Zila Parishad is to oversee and implement rural development programs at the district level."
+    },
+    {
+      "question": "Which article of the Constitution provides for the establishment of the State Legislative Assembly?",
+      "options": ["Article 170", "Article 171", "Article 172", "Article 173"],
+      "correct_answer": "Article 170",
+      "solution": "Article 170 of the Indian Constitution provides for the establishment of the State Legislative Assembly."
+    },
+    {
+      "question": "Which of the following is a source of revenue for Panchayati Raj institutions?",
+      "options": ["Property tax", "Income tax", "Sales tax", "Excise duty"],
+      "correct_answer": "Property tax",
+      "solution": "Property tax is one of the primary sources of revenue for Panchayati Raj institutions."
+    },
+    {
+      "question": "What is the role of the State Finance Commission?",
+      "options": ["Recommend tax distribution", "Conduct elections", "Draft state budgets", "Advise the Chief Minister"],
+      "correct_answer": "Recommend tax distribution",
+      "solution": "The State Finance Commission recommends the distribution of funds between the state government and the local bodies."
+    },
+    {
+      "question": "Which article of the Constitution provides for the representation of Scheduled Castes and Scheduled Tribes in the Panchayati Raj?",
+      "options": ["Article 243D", "Article 243C", "Article 243B", "Article 243A"],
+      "correct_answer": "Article 243D",
+      "solution": "Article 243D of the Indian Constitution provides for the reservation of seats for Scheduled Castes and Scheduled Tribes in the Panchayati Raj."
+    },
+    {
+      "question": "Who has the authority to appoint the members of the State Public Service Commission?",
+      "options": ["Governor", "Chief Minister", "President", "Parliament"],
+      "correct_answer": "Governor",
+      "solution": "The members of the State Public Service Commission are appointed by the Governor of the state."
+    },
+    {
+      "question": "Which Constitutional Amendment is known for the establishment of the Municipalities?",
+      "options": ["61st Amendment", "73rd Amendment", "74th Amendment", "86th Amendment"],
+      "correct_answer": "74th Amendment",
+      "solution": "The 74th Amendment, enacted in 1992, provided constitutional status to Municipalities in urban areas."
+    }
+  ]

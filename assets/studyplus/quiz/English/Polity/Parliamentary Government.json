@@ -1,0 +1,170 @@
+[
+    {
+      "question": "What is the structure of the Parliament of India?",
+      "options": ["Unicameral", "Bicameral", "Tricameral", "Quadricameral"],
+      "correct_answer": "Bicameral",
+      "solution": "The Parliament of India consists of two houses: the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."
+    },
+    {
+      "question": "Who is the ex-officio Chairman of the Rajya Sabha?",
+      "options": ["Prime Minister", "President", "Vice-President", "Speaker"],
+      "correct_answer": "Vice-President",
+      "solution": "The Vice-President of India serves as the ex-officio Chairman of the Rajya Sabha."
+    },
+    {
+      "question": "Which article of the Indian Constitution provides for the establishment of the Parliament?",
+      "options": ["Article 79", "Article 80", "Article 75", "Article 74"],
+      "correct_answer": "Article 79",
+      "solution": "Article 79 of the Constitution of India establishes the Parliament of India."
+    },
+    {
+      "question": "What is the maximum strength of the Rajya Sabha?",
+      "options": ["250", "245", "300", "200"],
+      "correct_answer": "250",
+      "solution": "The maximum strength of the Rajya Sabha is fixed at 250 members, of which 12 are nominated by the President."
+    },
+    {
+      "question": "Which house of Parliament is directly elected by the people?",
+      "options": ["Rajya Sabha", "Lok Sabha", "Both", "None"],
+      "correct_answer": "Lok Sabha",
+      "solution": "Members of the Lok Sabha are directly elected by the people of India."
+    },
+    {
+      "question": "What is the term duration of a Lok Sabha member?",
+      "options": ["4 years", "5 years", "6 years", "3 years"],
+      "correct_answer": "5 years",
+      "solution": "The term duration for a member of the Lok Sabha is 5 years, unless dissolved earlier."
+    },
+    {
+      "question": "Which of the following is not a function of the Parliament?",
+      "options": ["Legislation", "Judiciary", "Representation", "Control over the executive"],
+      "correct_answer": "Judiciary",
+      "solution": "The Parliament's functions include legislation, representation, and control over the executive, but it does not have judicial functions."
+    },
+    {
+      "question": "What is the minimum age to become a member of the Lok Sabha?",
+      "options": ["25 years", "30 years", "21 years", "18 years"],
+      "correct_answer": "25 years",
+      "solution": "A candidate must be at least 25 years old to be eligible for election to the Lok Sabha."
+    },
+    {
+      "question": "Which of the following is a feature of the Parliamentary system?",
+      "options": ["Separation of powers", "Collective responsibility", "Single executive", "Bicameralism"],
+      "correct_answer": "Collective responsibility",
+      "solution": "A key feature of the Parliamentary system is collective responsibility, where the council of ministers is collectively responsible to the Lok Sabha."
+    },
+    {
+      "question": "Who has the power to dissolve the Lok Sabha?",
+      "options": ["President", "Prime Minister", "Rajya Sabha", "Speaker"],
+      "correct_answer": "President",
+      "solution": "The President of India has the authority to dissolve the Lok Sabha."
+    },
+    {
+      "question": "What is the primary role of the Speaker of the Lok Sabha?",
+      "options": ["Head of the government", "Presiding officer", "Leader of the opposition", "Member of the Rajya Sabha"],
+      "correct_answer": "Presiding officer",
+      "solution": "The Speaker of the Lok Sabha acts as the presiding officer and is responsible for maintaining order during debates."
+    },
+    {
+      "question": "Which article mentions the composition of the Rajya Sabha?",
+      "options": ["Article 80", "Article 81", "Article 79", "Article 75"],
+      "correct_answer": "Article 80",
+      "solution": "Article 80 of the Indian Constitution details the composition of the Rajya Sabha."
+    },
+    {
+      "question": "What is the process for a bill to become law in India?",
+      "options": ["Only in Lok Sabha", "Only in Rajya Sabha", "In both houses and President's assent", "Only with public approval"],
+      "correct_answer": "In both houses and President's assent",
+      "solution": "A bill must be passed by both houses of Parliament and receive the President's assent to become law."
+    },
+    {
+      "question": "What is the quorum required for a Lok Sabha meeting?",
+      "options": ["One-fourth", "One-third", "Half", "One-fifth"],
+      "correct_answer": "One-fourth",
+      "solution": "The quorum required for a Lok Sabha meeting is one-fourth of the total number of members."
+    },
+    {
+      "question": "Which article provides for the appointment of the Prime Minister?",
+      "options": ["Article 74", "Article 75", "Article 76", "Article 77"],
+      "correct_answer": "Article 75",
+      "solution": "Article 75 of the Indian Constitution provides for the appointment of the Prime Minister."
+    },
+    {
+      "question": "Who can introduce a bill in the Rajya Sabha?",
+      "options": ["Only the Prime Minister", "Any member of Rajya Sabha", "Only the President", "Only the Speaker"],
+      "correct_answer": "Any member of Rajya Sabha",
+      "solution": "Any member of the Rajya Sabha can introduce a bill in the house."
+    },
+    {
+      "question": "What is the role of the Leader of the Opposition in Parliament?",
+      "options": ["Forming the government", "Challenging the government", "Presiding over the house", "Nominating members"],
+      "correct_answer": "Challenging the government",
+      "solution": "The Leader of the Opposition plays a crucial role in challenging and scrutinizing the government's actions."
+    },
+    {
+      "question": "Which of the following is a power of the Rajya Sabha?",
+      "options": ["Impeachment of the President", "Money bills", "Dissolving the Lok Sabha", "Electing the Prime Minister"],
+      "correct_answer": "Impeachment of the President",
+      "solution": "The Rajya Sabha has the power to participate in the impeachment process of the President of India."
+    },
+    {
+      "question": "What is the term duration of a Rajya Sabha member?",
+      "options": ["4 years", "5 years", "6 years", "3 years"],
+      "correct_answer": "6 years",
+      "solution": "Members of the Rajya Sabha serve a term of 6 years, with one-third of the members retiring every two years."
+    },
+    {
+      "question": "Which of the following is a feature of the Parliamentary system?",
+      "options": ["Single party rule", "Collective responsibility", "Fixed terms", "Bicameral legislature"],
+      "correct_answer": "Collective responsibility",
+      "solution": "Collective responsibility is a defining feature of the Parliamentary system, ensuring that the council of ministers is accountable to the Parliament."
+    },
+    {
+      "question": "Which article allows the President to summon and prorogue Parliament?",
+      "options": ["Article 85", "Article 86", "Article 87", "Article 88"],
+      "correct_answer": "Article 85",
+      "solution": "Article 85 of the Constitution gives the President the authority to summon and prorogue Parliament sessions."
+    },
+    {
+      "question": "Who can be a member of the Rajya Sabha?",
+      "options": ["Only elected members", "Only nominated members", "Both elected and nominated members", "Only members of the Lok Sabha"],
+      "correct_answer": "Both elected and nominated members",
+      "solution": "The Rajya Sabha comprises both elected members from the states and union territories and nominated members by the President."
+    },
+    {
+      "question": "What is the primary function of the Parliament?",
+      "options": ["Legislation", "Judiciary", "Executive", "Local governance"],
+      "correct_answer": "Legislation",
+      "solution": "The primary function of the Parliament is to legislate, creating laws that govern the country."
+    },
+    {
+      "question": "Which of the following is true about the Lok Sabha?",
+      "options": ["Permanent body", "Can be dissolved", "Has a fixed term of 6 years", "Members are nominated"],
+      "correct_answer": "Can be dissolved",
+      "solution": "The Lok Sabha is not a permanent body and can be dissolved by the President."
+    },
+    {
+      "question": "What is required for a bill to be classified as a Money Bill?",
+      "options": ["Passed by Lok Sabha only", "Passed by Rajya Sabha only", "Recommendations from the President", "Only Lok Sabha can introduce it"],
+      "correct_answer": "Only Lok Sabha can introduce it",
+      "solution": "A Money Bill can only be introduced in the Lok Sabha, as per Article 110 of the Constitution."
+    },
+    {
+      "question": "Which of the following is a non-legislative function of the Parliament?",
+      "options": ["Making laws", "Budget approval", "Amendment of the Constitution", "Conducting inquiries"],
+      "correct_answer": "Conducting inquiries",
+      "solution": "Conducting inquiries is a non-legislative function of the Parliament, allowing it to investigate matters of public interest."
+    },
+    {
+      "question": "What is the role of the Parliamentary Committees?",
+      "options": ["Legislating laws", "Oversight and scrutiny", "Electing the Prime Minister", "Approving budgets"],
+      "correct_answer": "Oversight and scrutiny",
+      "solution": "Parliamentary Committees play a crucial role in oversight and scrutiny of government actions and policies."
+    },
+    {
+      "question": "Which of the following is true about the Speaker of the Lok Sabha?",
+      "options": ["Elected by the President", "Elected by members of Lok Sabha", "Nominated by the Prime Minister", "Appointed by the Chief Justice"],
+      "correct_answer": "Elected by members of Lok Sabha",
+      "solution": "The Speaker of the Lok Sabha is elected by the members of the Lok Sabha from among themselves."
+    }
+  ]

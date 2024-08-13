@@ -1,0 +1,170 @@
+[
+    {
+      "question": "What is the significance of 'Unity in Diversity' in India?",
+      "options": ["It promotes cultural homogeneity", "It emphasizes the coexistence of diverse cultures", "It discourages regional languages", "It supports a single religion"],
+      "correct_answer": "It emphasizes the coexistence of diverse cultures",
+      "solution": "'Unity in Diversity' signifies that despite the vast array of languages, religions, and regional differences, there is a shared sense of unity among the people of India."
+    },
+    {
+      "question": "Which article of the Indian Constitution deals with the right to equality?",
+      "options": ["Article 14", "Article 15", "Article 16", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Articles 14, 15, and 16 of the Indian Constitution collectively ensure equality before the law and prohibit discrimination on grounds of religion, race, caste, sex, or place of birth."
+    },
+    {
+      "question": "Which of the following is a fundamental duty of Indian citizens?",
+      "options": ["To vote in elections", "To promote harmony and the spirit of common brotherhood", "To pay taxes", "To serve in the military"],
+      "correct_answer": "To promote harmony and the spirit of common brotherhood",
+      "solution": "Article 51A of the Constitution lists the fundamental duties of citizens, including the duty to promote harmony and the spirit of common brotherhood."
+    },
+    {
+      "question": "What is the minimum age for voting in India?",
+      "options": ["16 years", "18 years", "21 years", "25 years"],
+      "correct_answer": "18 years",
+      "solution": "According to the Constitution of India, the minimum voting age for elections is 18 years."
+    },
+    {
+      "question": "Which state in India is known for its diverse tribal culture?",
+      "options": ["Punjab", "Madhya Pradesh", "Odisha", "Uttar Pradesh"],
+      "correct_answer": "Madhya Pradesh",
+      "solution": "Madhya Pradesh is home to a variety of tribal communities, each with its own unique culture and traditions."
+    },
+    {
+      "question": "What does the term 'pluralism' refer to in the context of Indian society?",
+      "options": ["A single culture dominating others", "Coexistence of multiple cultures", "A focus on economic growth", "Political unity"],
+      "correct_answer": "Coexistence of multiple cultures",
+      "solution": "Pluralism in India refers to the coexistence of various cultural, religious, and ethnic groups, contributing to the nation's diversity."
+    },
+    {
+      "question": "Which of the following is NOT a recognized language in the Eighth Schedule of the Indian Constitution?",
+      "options": ["Hindi", "Bengali", "English", "Sanskrit"],
+      "correct_answer": "English",
+      "solution": "While English is widely used, it is not included in the Eighth Schedule of the Indian Constitution, which lists the recognized languages."
+    },
+    {
+      "question": "Who is referred to as the 'Father of the Indian Constitution'?",
+      "options": ["Mahatma Gandhi", "B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel"],
+      "correct_answer": "B.R. Ambedkar",
+      "solution": "Dr. B.R. Ambedkar is known as the 'Father of the Indian Constitution' for his pivotal role in drafting the document."
+    },
+    {
+      "question": "Which principle is fundamental to the Indian Constitution?",
+      "options": ["Secularism", "Monarchy", "Theocracy", "Dictatorship"],
+      "correct_answer": "Secularism",
+      "solution": "Secularism is a fundamental principle of the Indian Constitution, ensuring freedom of religion and the separation of religion from the State."
+    },
+    {
+      "question": "What is the role of the Finance Commission in India?",
+      "options": ["To advise on financial matters", "To allocate funds to states", "To manage public debt", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "The Finance Commission advises the President on financial matters, allocates funds to states, and manages public debt."
+    },
+    {
+      "question": "Which of the following is a feature of Indian democracy?",
+      "options": ["Single-party system", "Multi-party system", "Authoritarian rule", "Monarchy"],
+      "correct_answer": "Multi-party system",
+      "solution": "India has a multi-party system, allowing for the representation of various political ideologies and interests."
+    },
+    {
+      "question": "Which amendment to the Indian Constitution added the Right to Education?",
+      "options": ["86th Amendment", "73rd Amendment", "74th Amendment", "61st Amendment"],
+      "correct_answer": "86th Amendment",
+      "solution": "The 86th Amendment to the Indian Constitution made the Right to Education a fundamental right for children aged 6 to 14."
+    },
+    {
+      "question": "What is the significance of the Preamble of the Indian Constitution?",
+      "options": ["It outlines the structure of government", "It states the objectives of the Constitution", "It lists the fundamental rights", "It defines the territory of India"],
+      "correct_answer": "It states the objectives of the Constitution",
+      "solution": "The Preamble of the Indian Constitution outlines the objectives and guiding principles of the Constitution."
+    },
+    {
+      "question": "Which body is responsible for conducting elections in India?",
+      "options": ["Election Commission", "Parliament", "Supreme Court", "President"],
+      "correct_answer": "Election Commission",
+      "solution": "The Election Commission of India is an autonomous constitutional authority responsible for administering election processes."
+    },
+    {
+      "question": "What is the maximum strength of the Lok Sabha?",
+      "options": ["500", "550", "552", "600"],
+      "correct_answer": "552",
+      "solution": "The maximum strength of the Lok Sabha is 552 members, including representatives of the Anglo-Indian community."
+    },
+    {
+      "question": "Which of the following is a fundamental right under the Indian Constitution?",
+      "options": ["Right to property", "Right to equality", "Right to work", "Right to vote"],
+      "correct_answer": "Right to equality",
+      "solution": "The Right to Equality is a fundamental right guaranteed by Articles 14 to 18 of the Indian Constitution."
+    },
+    {
+      "question": "Which article of the Indian Constitution provides for the abolition of untouchability?",
+      "options": ["Article 15", "Article 17", "Article 16", "Article 14"],
+      "correct_answer": "Article 17",
+      "solution": "Article 17 of the Indian Constitution explicitly prohibits the practice of untouchability."
+    },
+    {
+      "question": "What is the term used for the division of powers between the central and state governments in India?",
+      "options": ["Federalism", "Unitary system", "Confederation", "Monarchy"],
+      "correct_answer": "Federalism",
+      "solution": "Federalism in India refers to the distribution of powers between the central government and state governments."
+    },
+    {
+      "question": "Which of the following is NOT a feature of Indian federalism?",
+      "options": ["Distribution of powers", "Single constitution", "Dual citizenship", "Independent judiciary"],
+      "correct_answer": "Dual citizenship",
+      "solution": "India does not provide for dual citizenship; it recognizes only single citizenship for its citizens."
+    },
+    {
+      "question": "Which of the following is a directive principle of state policy?",
+      "options": ["Right to vote", "Right to education", "Right to work", "Right to free speech"],
+      "correct_answer": "Right to education",
+      "solution": "The Right to Education is a directive principle aimed at ensuring education for all children in India."
+    },
+    {
+      "question": "What is the primary aim of the Indian Constitution?",
+      "options": ["To establish a monarchy", "To ensure justice, liberty, equality, and fraternity", "To promote a single religion", "To support economic growth"],
+      "correct_answer": "To ensure justice, liberty, equality, and fraternity",
+      "solution": "The primary aim of the Indian Constitution is to establish a democratic framework that ensures justice, liberty, equality, and fraternity among all citizens."
+    },
+    {
+      "question": "Which of the following is a feature of the parliamentary system in India?",
+      "options": ["Bicameral legislature", "Single-party dominance", "Direct election of the Prime Minister", "No opposition party"],
+      "correct_answer": "Bicameral legislature",
+      "solution": "India has a bicameral legislature, consisting of the Lok Sabha (House of the People) and the Rajya Sabha (Council of States)."
+    },
+    {
+      "question": "Which constitutional body is responsible for the protection of fundamental rights?",
+      "options": ["Supreme Court", "Parliament", "President", "Election Commission"],
+      "correct_answer": "Supreme Court",
+      "solution": "The Supreme Court of India is the guardian of the Constitution and is responsible for protecting the fundamental rights of citizens."
+    },
+    {
+      "question": "Which of the following is true about the Indian Constitution?",
+      "options": ["It is the longest written constitution", "It is a rigid constitution", "It does not allow amendments", "It is based on a unitary system"],
+      "correct_answer": "It is the longest written constitution",
+      "solution": "The Indian Constitution is known for being the longest written constitution in the world, encompassing a wide range of provisions."
+    },
+    {
+      "question": "Which of the following articles provides for the establishment of a Finance Commission?",
+      "options": ["Article 280", "Article 356", "Article 370", "Article 14"],
+      "correct_answer": "Article 280",
+      "solution": "Article 280 of the Indian Constitution mandates the establishment of a Finance Commission to review the financial position of the states."
+    },
+    {
+      "question": "What is the primary focus of the 73rd Amendment to the Indian Constitution?",
+      "options": ["To enhance the powers of the President", "To promote local self-governance", "To establish a national language", "To abolish the Rajya Sabha"],
+      "correct_answer": "To promote local self-governance",
+      "solution": "The 73rd Amendment aims to enhance local self-governance by establishing Panchayati Raj institutions in rural areas."
+    },
+    {
+      "question": "Which of the following statements is true regarding the Indian Constitution?",
+      "options": ["It is based on the British model", "It is a completely rigid constitution", "It allows for the separation of religion and state", "It does not provide for emergency provisions"],
+      "correct_answer": "It allows for the separation of religion and state",
+      "solution": "The Indian Constitution ensures the separation of religion from the State, promoting secularism."
+    },
+    {
+      "question": "What is the role of the National Commission for Scheduled Castes?",
+      "options": ["To promote education", "To protect the rights of Scheduled Castes", "To manage financial resources", "To conduct elections"],
+      "correct_answer": "To protect the rights of Scheduled Castes",
+      "solution": "The National Commission for Scheduled Castes is tasked with safeguarding the rights and interests of Scheduled Castes in India."
+    }
+  ]

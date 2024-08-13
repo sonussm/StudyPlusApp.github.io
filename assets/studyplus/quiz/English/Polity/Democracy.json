@@ -1,0 +1,152 @@
+[
+    {
+      "question": "What is the meaning of democracy?",
+      "options": ["Rule by the elite", "Rule by the majority", "Rule by the people", "Rule by the few"],
+      "correct_answer": "Rule by the people",
+      "solution": "Democracy is a system of government in which power is vested in the people, who rule either directly or through freely elected representatives."
+    },
+    {
+      "question": "Which of the following is a key feature of democracy?",
+      "options": ["Monopoly of power", "Free and fair elections", "Censorship of media", "Single-party rule"],
+      "correct_answer": "Free and fair elections",
+      "solution": "Free and fair elections are essential for a democracy as they ensure that the government is accountable to the people."
+    },
+    {
+      "question": "What is the term for the right to vote in a democracy?",
+      "options": ["Suffrage", "Franchise", "Electorate", "Referendum"],
+      "correct_answer": "Franchise",
+      "solution": "Franchise refers to the right to vote in public elections, a fundamental aspect of democratic governance."
+    },
+    {
+      "question": "Which document is considered the foundation of democracy in India?",
+      "options": ["The Constitution", "The Declaration of Independence", "The Bill of Rights", "The Magna Carta"],
+      "correct_answer": "The Constitution",
+      "solution": "The Constitution of India lays down the framework for the political principles, procedures, and powers of government, establishing the democratic structure."
+    },
+    {
+      "question": "What is a representative democracy?",
+      "options": ["Direct participation of citizens", "Citizens elect representatives", "Rule by a monarch", "Government by military"],
+      "correct_answer": "Citizens elect representatives",
+      "solution": "In a representative democracy, citizens elect representatives to make decisions and pass laws on their behalf."
+    },
+    {
+      "question": "What is the principle of separation of powers?",
+      "options": ["Concentration of power", "Division of government responsibilities", "Rule by a single party", "Judicial supremacy"],
+      "correct_answer": "Division of government responsibilities",
+      "solution": "The separation of powers divides government responsibilities into distinct branches to prevent any one branch from exercising the core functions of another."
+    },
+    {
+      "question": "Which of the following is NOT a fundamental right in India?",
+      "options": ["Right to Equality", "Right to Freedom", "Right to Property", "Right to Education"],
+      "correct_answer": "Right to Property",
+      "solution": "The Right to Property was removed from the list of fundamental rights and is now a legal right under the Constitution of India."
+    },
+    {
+      "question": "What does the term 'judicial review' mean?",
+      "options": ["Review of laws by the legislature", "Review of laws by the judiciary", "Review of executive actions", "Review of public opinion"],
+      "correct_answer": "Review of laws by the judiciary",
+      "solution": "Judicial review is the power of the judiciary to review and invalidate laws and executive actions that are unconstitutional."
+    },
+    {
+      "question": "Which amendment to the Indian Constitution introduced the Right to Education?",
+      "options": ["86th Amendment", "73rd Amendment", "42nd Amendment", "61st Amendment"],
+      "correct_answer": "86th Amendment",
+      "solution": "The 86th Amendment to the Indian Constitution, enacted in 2002, made education a fundamental right for children aged 6 to 14 years."
+    },
+    {
+      "question": "What is the maximum age for becoming the Prime Minister of India?",
+      "options": ["30 years", "35 years", "40 years", "25 years"],
+      "correct_answer": "25 years",
+      "solution": "A person must be at least 25 years old to be eligible for the position of Prime Minister of India."
+    },
+    {
+      "question": "Which of the following is a method of direct democracy?",
+      "options": ["Referendum", "Parliamentary elections", "Presidential elections", "Political parties"],
+      "correct_answer": "Referendum",
+      "solution": "A referendum is a direct vote in which an entire electorate is invited to vote on a particular proposal and can result in the adoption of a new law."
+    },
+    {
+      "question": "What is the role of the opposition in a democracy?",
+      "options": ["To support the government", "To criticize and hold the government accountable", "To form the government", "To create laws"],
+      "correct_answer": "To criticize and hold the government accountable",
+      "solution": "The opposition plays a crucial role in a democracy by scrutinizing the government's actions and policies, ensuring accountability."
+    },
+    {
+      "question": "Which of the following is a characteristic of a healthy democracy?",
+      "options": ["Suppression of dissent", "Freedom of speech", "State-controlled media", "Limited political participation"],
+      "correct_answer": "Freedom of speech",
+      "solution": "Freedom of speech is essential in a democracy as it allows citizens to express their opinions and participate in political discourse."
+    },
+    {
+      "question": "What does 'political pluralism' refer to?",
+      "options": ["Single-party rule", "Diversity of political parties", "Suppression of political parties", "Government control of parties"],
+      "correct_answer": "Diversity of political parties",
+      "solution": "Political pluralism is the existence of multiple political parties and organizations in a democracy, allowing for a variety of viewpoints."
+    },
+    {
+      "question": "Which of the following is a disadvantage of democracy?",
+      "options": ["Quick decision-making", "Involvement of citizens", "Potential for mob rule", "Protection of rights"],
+      "correct_answer": "Potential for mob rule",
+      "solution": "One disadvantage of democracy can be the potential for mob rule, where majority opinion can override minority rights."
+    },
+    {
+      "question": "What is the significance of the Universal Declaration of Human Rights?",
+      "options": ["It is legally binding", "It sets standards for human rights globally", "It is only applicable to democracies", "It was created by the UN Security Council"],
+      "correct_answer": "It sets standards for human rights globally",
+      "solution": "The Universal Declaration of Human Rights establishes a common standard of achievements for all peoples and nations regarding human rights."
+    },
+    {
+      "question": "What is 'civil society'?",
+      "options": ["Government institutions", "Private businesses", "Non-governmental organizations", "Political parties"],
+      "correct_answer": "Non-governmental organizations",
+      "solution": "Civil society refers to the aggregate of non-governmental organizations and institutions that represent the interests and will of citizens."
+    },
+    {
+      "question": "Which of the following is a form of government that is the opposite of democracy?",
+      "options": ["Oligarchy", "Republic", "Federalism", "Constitutional monarchy"],
+      "correct_answer": "Oligarchy",
+      "solution": "Oligarchy is a form of government in which power resides with a small number of people, contrasting with the democratic principle of rule by the people."
+    },
+    {
+      "question": "What is the primary purpose of a constitution in a democracy?",
+      "options": ["To limit government power", "To create laws", "To elect representatives", "To appoint judges"],
+      "correct_answer": "To limit government power",
+      "solution": "A constitution serves to limit the powers of government and protect the rights of citizens, ensuring a balance of power."
+    },
+    {
+      "question": "What is meant by 'political accountability'?",
+      "options": ["Government secrecy", "Responsibility of officials to the public", "Elected officials avoiding responsibilities", "Judicial independence"],
+      "correct_answer": "Responsibility of officials to the public",
+      "solution": "Political accountability refers to the obligation of government officials to be answerable to the public for their actions and decisions."
+    },
+    {
+      "question": "What is the role of media in a democracy?",
+      "options": ["To promote government propaganda", "To inform and educate the public", "To suppress dissenting voices", "To control public opinion"],
+      "correct_answer": "To inform and educate the public",
+      "solution": "The media plays a vital role in a democracy by providing information, facilitating public debate, and holding the government accountable."
+    },
+    {
+      "question": "Which type of democracy emphasizes the role of citizens in decision-making?",
+      "options": ["Direct democracy", "Representative democracy", "Participatory democracy", "Liberal democracy"],
+      "correct_answer": "Participatory democracy",
+      "solution": "Participatory democracy emphasizes the active involvement of citizens in the political decision-making process."
+    },
+    {
+      "question": "What is the significance of free press in a democracy?",
+      "options": ["To promote government policies", "To ensure transparency and accountability", "To limit public discourse", "To control information"],
+      "correct_answer": "To ensure transparency and accountability",
+      "solution": "A free press is crucial in a democracy as it helps to ensure transparency, promote accountability, and provide a platform for diverse opinions."
+    },
+    {
+      "question": "What is 'voter apathy'?",
+      "options": ["High voter turnout", "Lack of interest in voting", "Active participation in elections", "Engagement in political discussions"],
+      "correct_answer": "Lack of interest in voting",
+      "solution": "Voter apathy refers to a lack of interest or concern among citizens regarding political participation and voting."
+    },
+    {
+      "question": "Which of the following is a challenge to democracy?",
+      "options": ["High levels of civic engagement", "Political corruption", "Free and fair elections", "Strong rule of law"],
+      "correct_answer": "Political corruption",
+      "solution": "Political corruption undermines democratic principles by eroding public trust and manipulating the political system for personal gain."
+    }
+  ]

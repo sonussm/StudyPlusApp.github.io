@@ -1,1 +1,170 @@
-
+[
+    {
+      "question": "What is the date of adoption of the Preamble of the Indian Constitution?",
+      "options": ["January 26, 1950", "November 26, 1949", "August 15, 1947", "March 15, 1951"],
+      "correct_answer": "November 26, 1949",
+      "solution": "The Preamble of the Indian Constitution was adopted on November 26, 1949."
+    },
+    {
+      "question": "Which of the following words is not included in the Preamble of the Indian Constitution?",
+      "options": ["Sovereign", "Socialist", "Democratic", "Indians"],
+      "correct_answer": "Indians",
+      "solution": "The word 'Indians' is not mentioned in the Preamble of the Indian Constitution."
+    },
+    {
+      "question": "Who is known as the architect of the Indian Constitution?",
+      "options": ["Jawaharlal Nehru", "B.R. Ambedkar", "Sardar Patel", "Rajendra Prasad"],
+      "correct_answer": "B.R. Ambedkar",
+      "solution": "Dr. B.R. Ambedkar is referred to as the architect of the Indian Constitution."
+    },
+    {
+      "question": "Which amendment added the word 'Secular' to the Preamble?",
+      "options": ["41st Amendment", "42nd Amendment", "43rd Amendment", "44th Amendment"],
+      "correct_answer": "42nd Amendment",
+      "solution": "The 42nd Amendment, enacted in 1976, added the word 'Secular' to the Preamble."
+    },
+    {
+      "question": "What does the term 'Sovereign' signify in the context of the Indian Constitution?",
+      "options": ["Dependent on other nations", "Self-governing", "Monarchical rule", "Colonial rule"],
+      "correct_answer": "Self-governing",
+      "solution": "'Sovereign' signifies that India is a self-governing and independent nation."
+    },
+    {
+      "question": "Which of the following ideals is mentioned in the Preamble?",
+      "options": ["Liberty", "Monarchy", "Colonialism", "Totalitarianism"],
+      "correct_answer": "Liberty",
+      "solution": "The Preamble mentions 'Liberty' as one of the core ideals."
+    },
+    {
+      "question": "Who moved the Objective Resolution that laid the foundation for the Preamble?",
+      "options": ["B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel", "Rajendra Prasad"],
+      "correct_answer": "Jawaharlal Nehru",
+      "solution": "Jawaharlal Nehru moved the Objective Resolution in the Constituent Assembly."
+    },
+    {
+      "question": "What is the significance of 'Fraternity' in the Preamble?",
+      "options": ["Unity and integrity", "Division of states", "Economic disparity", "Caste division"],
+      "correct_answer": "Unity and integrity",
+      "solution": "'Fraternity' in the Preamble signifies the importance of unity and integrity among the citizens."
+    },
+    {
+      "question": "Which of the following is a key objective mentioned in the Preamble?",
+      "options": ["Justice", "War", "Conflict", "Discrimination"],
+      "correct_answer": "Justice",
+      "solution": "The Preamble emphasizes the objective of securing 'Justice' for all citizens."
+    },
+    {
+      "question": "What does 'Socialist' imply in the Preamble?",
+      "options": ["Capitalist economy", "Social and economic equality", "Monopoly", "Individualism"],
+      "correct_answer": "Social and economic equality",
+      "solution": "'Socialist' reflects the commitment to achieving social and economic equality."
+    },
+    {
+      "question": "Which of the following is not a part of the Preamble?",
+      "options": ["Justice", "Liberty", "Equality", "Federalism"],
+      "correct_answer": "Federalism",
+      "solution": "'Federalism' is not explicitly mentioned in the Preamble of the Indian Constitution."
+    },
+    {
+      "question": "What is the total number of words in the Preamble of the Indian Constitution?",
+      "options": ["85", "100", "75", "90"],
+      "correct_answer": "85",
+      "solution": "The Preamble of the Indian Constitution consists of 85 words."
+    },
+    {
+      "question": "In which year was the Preamble amended?",
+      "options": ["1976", "1949", "1950", "1960"],
+      "correct_answer": "1976",
+      "solution": "The Preamble was amended in 1976 through the 42nd Amendment."
+    },
+    {
+      "question": "Which of the following statements is true regarding the Preamble?",
+      "options": ["It is part of the Constitution", "It is not part of the Constitution", "It can be amended frequently", "It has no significance"],
+      "correct_answer": "It is not part of the Constitution",
+      "solution": "The Preamble is an introductory statement and is not a part of any specific part of the Constitution."
+    },
+    {
+      "question": "What does the term 'Equality' in the Preamble refer to?",
+      "options": ["Economic inequality", "Social discrimination", "Equal treatment under law", "Caste hierarchy"],
+      "correct_answer": "Equal treatment under law",
+      "solution": "'Equality' signifies equal treatment under the law, irrespective of caste, creed, or religion."
+    },
+    {
+      "question": "Who described the Preamble as the 'Keynote of the Constitution'?",
+      "options": ["Ernest Barker", "B.R. Ambedkar", "Jawaharlal Nehru", "Nelson Mandela"],
+      "correct_answer": "Ernest Barker",
+      "solution": "Ernest Barker referred to the Preamble as the 'Keynote of the Constitution.'"
+    },
+    {
+      "question": "What is the primary purpose of the Preamble?",
+      "options": ["To outline the Constitution", "To introduce the Constitution", "To provide legal definitions", "To list amendments"],
+      "correct_answer": "To introduce the Constitution",
+      "solution": "The Preamble serves as an introduction to the Constitution, outlining its objectives."
+    },
+    {
+      "question": "Which of the following phrases is included in the Preamble?",
+      "options": ["Liberty, Equality, Fraternity", "Life, Liberty, Happiness", "Peace, Justice, Unity", "Freedom, Rights, Duties"],
+      "correct_answer": "Liberty, Equality, Fraternity",
+      "solution": "The Preamble includes the phrase 'Liberty, Equality, Fraternity' as its guiding principles."
+    },
+    {
+      "question": "What does 'Democratic' signify in the Preamble?",
+      "options": ["Rule by one", "Rule by the elite", "Rule by the people", "Rule by the military"],
+      "correct_answer": "Rule by the people",
+      "solution": "'Democratic' signifies that the government is elected by the people."
+    },
+    {
+      "question": "Which part of the Constitution does the Preamble belong to?",
+      "options": ["Part I", "Part II", "Part III", "It is not part of any specific part"],
+      "correct_answer": "It is not part of any specific part",
+      "solution": "The Preamble is not part of any specific part of the Constitution but serves as an introduction."
+    },
+    {
+      "question": "Which of the following ideals is not explicitly mentioned in the Preamble?",
+      "options": ["Justice", "Liberty", "Fraternity", "Federalism"],
+      "correct_answer": "Federalism",
+      "solution": "Federalism is not explicitly mentioned in the Preamble of the Indian Constitution."
+    },
+    {
+      "question": "What is the significance of the Preamble?",
+      "options": ["It provides a summary of laws", "It outlines the objectives and philosophy", "It lists the rights of citizens", "It is a historical document"],
+      "correct_answer": "It outlines the objectives and philosophy",
+      "solution": "The Preamble outlines the objectives and guiding philosophy of the Constitution."
+    },
+    {
+      "question": "Which of the following statements is correct about the Preamble?",
+      "options": ["It can be interpreted", "It is not legally enforceable", "It is a historical document", "Both A and B"],
+      "correct_answer": "Both A and B",
+      "solution": "The Preamble can be interpreted and is not legally enforceable."
+    },
+    {
+      "question": "What does the term 'Liberty' in the Preamble encompass?",
+      "options": ["Freedom of speech", "Freedom of religion", "Freedom of expression", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "'Liberty' encompasses freedom of speech, religion, and expression among others."
+    },
+    {
+      "question": "Who played a significant role in drafting the Preamble?",
+      "options": ["B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel", "Rajendra Prasad"],
+      "correct_answer": "B.R. Ambedkar",
+      "solution": "Dr. B.R. Ambedkar played a significant role in drafting the Preamble."
+    },
+    {
+      "question": "Which of the following is a guiding principle of the Indian Constitution as per the Preamble?",
+      "options": ["Justice", "Liberty", "Equality", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "The Preamble includes Justice, Liberty, and Equality as guiding principles."
+    },
+    {
+      "question": "What does 'Secular' mean in the context of the Indian Constitution?",
+      "options": ["Promotion of one religion", "Equal respect for all religions", "Agnosticism", "Atheism"],
+      "correct_answer": "Equal respect for all religions",
+      "solution": "'Secular' means that the state treats all religions equally without favoring any."
+    },
+    {
+      "question": "Which of the following concepts is not derived from the Preamble?",
+      "options": ["Justice", "Liberty", "Equality", "Totalitarianism"],
+      "correct_answer": "Totalitarianism",
+      "solution": "Totalitarianism is not a concept derived from the Preamble of the Indian Constitution."
+    }
+  ]

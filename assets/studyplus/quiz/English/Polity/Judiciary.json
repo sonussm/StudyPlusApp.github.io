@@ -1,0 +1,164 @@
+[
+    {
+      "question": "What is the highest court in India?",
+      "options": ["High Court", "Supreme Court", "District Court", "Session Court"],
+      "correct_answer": "Supreme Court",
+      "solution": "The Supreme Court of India is the highest judicial court and the final court of appeal under the Constitution of India."
+    },
+    {
+      "question": "Who appoints the Chief Justice of India?",
+      "options": ["President", "Prime Minister", "Parliament", "Chief Justice of the High Court"],
+      "correct_answer": "President",
+      "solution": "The Chief Justice of India is appointed by the President of India after consultation with other judges of the Supreme Court and High Courts."
+    },
+    {
+      "question": "Which article of the Indian Constitution deals with the establishment of the Supreme Court?",
+      "options": ["Article 124", "Article 32", "Article 21", "Article 14"],
+      "correct_answer": "Article 124",
+      "solution": "Article 124 of the Indian Constitution provides for the establishment and constitution of the Supreme Court."
+    },
+    {
+      "question": "What is the term of office for a Supreme Court judge?",
+      "options": ["5 years", "6 years", "Retirement age of 65 years", "Lifetime"],
+      "correct_answer": "Retirement age of 65 years",
+      "solution": "Supreme Court judges hold office until the age of 65 years, after which they retire."
+    },
+    {
+      "question": "Which of the following is not a ground for the removal of a Supreme Court judge?",
+      "options": ["Misbehavior", "Incapacity", "Incompetence", "Violation of the Constitution"],
+      "correct_answer": "Incompetence",
+      "solution": "The grounds for removal of a Supreme Court judge are misbehavior and incapacity, as per Article 124(4) of the Constitution."
+    },
+    {
+      "question": "What is the original jurisdiction of the Supreme Court?",
+      "options": ["Disputes between states", "Disputes between individuals", "Appeals from High Courts", "Cases involving the President"],
+      "correct_answer": "Disputes between states",
+      "solution": "The Supreme Court has original jurisdiction in cases involving disputes between states or between the central government and states."
+    },
+    {
+      "question": "Which article provides for the appointment of ad-hoc judges in the Supreme Court?",
+      "options": ["Article 126", "Article 127", "Article 128", "Article 129"],
+      "correct_answer": "Article 127",
+      "solution": "Article 127 of the Indian Constitution provides for the appointment of ad-hoc judges in the Supreme Court."
+    },
+    {
+      "question": "What is the maximum number of judges in the Supreme Court as per current provisions?",
+      "options": ["25", "30", "34", "40"],
+      "correct_answer": "34",
+      "solution": "The Supreme Court can have a maximum of 34 judges, including the Chief Justice of India."
+    },
+    {
+      "question": "Which of the following is a power of the Supreme Court?",
+      "options": ["Judicial review", "Legislative powers", "Executive powers", "Administrative powers"],
+      "correct_answer": "Judicial review",
+      "solution": "The Supreme Court has the power of judicial review, allowing it to invalidate laws that are unconstitutional."
+    },
+    {
+      "question": "Under which article can a person approach the Supreme Court for enforcement of fundamental rights?",
+      "options": ["Article 32", "Article 226", "Article 14", "Article 19"],
+      "correct_answer": "Article 32",
+      "solution": "Article 32 of the Indian Constitution allows individuals to approach the Supreme Court for the enforcement of their fundamental rights."
+    },
+    {
+      "question": "Which of the following cases established the principle of basic structure?",
+      "options": ["Kesavananda Bharati case", "Minerva Mills case", "Indira Gandhi case", "Maneka Gandhi case"],
+      "correct_answer": "Kesavananda Bharati case",
+      "solution": "The Kesavananda Bharati case established the doctrine of basic structure, asserting that certain fundamental features of the Constitution cannot be altered."
+    },
+    {
+      "question": "Who has the authority to increase the number of judges in the Supreme Court?",
+      "options": ["The President", "The Parliament", "The Chief Justice", "The Prime Minister"],
+      "correct_answer": "The Parliament",
+      "solution": "The Parliament of India has the authority to increase or decrease the number of judges in the Supreme Court."
+    },
+    {
+      "question": "Which article deals with the appointment of judges of the High Court?",
+      "options": ["Article 217", "Article 124", "Article 226", "Article 32"],
+      "correct_answer": "Article 217",
+      "solution": "Article 217 of the Indian Constitution deals with the appointment of judges of the High Court."
+    },
+    {
+      "question": "What is the role of the Chief Justice of India?",
+      "options": ["Head of the judiciary", "Head of the executive", "Head of the legislature", "None of the above"],
+      "correct_answer": "Head of the judiciary",
+      "solution": "The Chief Justice of India is the head of the judiciary system of the country and presides over court proceedings."
+    },
+    {
+      "question": "Which of the following is a constitutional court in India?",
+      "options": ["District Court", "High Court", "Family Court", "Consumer Court"],
+      "correct_answer": "High Court",
+      "solution": "High Courts are constitutional courts in India, established under Article 214 of the Constitution."
+    },
+    {
+      "question": "Which article empowers the Supreme Court to issue writs?",
+      "options": ["Article 32", "Article 226", "Article 14", "Article 19"],
+      "correct_answer": "Article 32",
+      "solution": "Article 32 empowers the Supreme Court to issue writs for the enforcement of fundamental rights."
+    },
+    {
+      "question": "What is the composition of the Supreme Court of India?",
+      "options": ["Chief Justice and 30 judges", "Chief Justice and 33 judges", "Chief Justice and 25 judges", "Chief Justice and 40 judges"],
+      "correct_answer": "Chief Justice and 33 judges",
+      "solution": "The Supreme Court of India is composed of the Chief Justice and 33 other judges."
+    },
+    {
+      "question": "Which article provides for the establishment of the High Court?",
+      "options": ["Article 214", "Article 124", "Article 32", "Article 21"],
+      "correct_answer": "Article 214",
+      "solution": "Article 214 of the Indian Constitution provides for the establishment of a High Court for each state."
+    },
+    {
+      "question": "Which of the following is a power of the High Court?",
+      "options": ["Judicial review", "Legislative powers", "Executive powers", "Administrative powers"],
+      "correct_answer": "Judicial review",
+      "solution": "High Courts also have the power of judicial review, similar to the Supreme Court."
+    },
+    {
+      "question": "Which article allows the President to appoint judges of the Supreme Court?",
+      "options": ["Article 124", "Article 217", "Article 32", "Article 226"],
+      "correct_answer": "Article 124",
+      "solution": "Article 124 of the Constitution allows the President to appoint judges of the Supreme Court."
+    },
+    {
+      "question": "What is the jurisdiction of the Supreme Court?",
+      "options": ["Original jurisdiction", "Appellate jurisdiction", "Advisory jurisdiction", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "The Supreme Court has original, appellate, and advisory jurisdiction as per the Constitution."
+    },
+    {
+      "question": "Which of the following is not a writ issued by the Supreme Court?",
+      "options": ["Habeas Corpus", "Mandamus", "Prohibition", "Injunction"],
+      "correct_answer": "Injunction",
+      "solution": "Injunction is not a writ; the Supreme Court issues writs like Habeas Corpus, Mandamus, and Prohibition."
+    },
+    {
+      "question": "Who can file a Public Interest Litigation (PIL) in the Supreme Court?",
+      "options": ["Only the affected person", "Any individual", "Only lawyers", "Only NGOs"],
+      "correct_answer": "Any individual",
+      "solution": "Any individual can file a Public Interest Litigation (PIL) in the Supreme Court for the protection of public interest."
+    },
+    {
+      "question": "Which article of the Constitution provides for the protection of the rights of minorities?",
+      "options": ["Article 29", "Article 30", "Article 21", "Article 14"],
+      "correct_answer": "Article 30",
+      "solution": "Article 30 of the Constitution provides for the rights of minorities to establish and administer educational institutions."
+    },
+    {
+      "question": "What is the procedure for the removal of a Supreme Court judge?",
+      "options": ["Impeachment by Parliament", "Resignation", "Retirement", "None of the above"],
+      "correct_answer": "Impeachment by Parliament",
+      "solution": "A Supreme Court judge can be removed through the process of impeachment by Parliament."
+    },
+    {
+      "question": "Which of the following is a fundamental right under the Indian Constitution?",
+      "options": ["Right to Education", "Right to Property", "Right to Strike", "Right to Work"],
+      "correct_answer": "Right to Education",
+      "solution": "The Right to Education is a fundamental right under Article 21A of the Indian Constitution."
+    },
+    {
+      "question": "Which article provides for the right to constitutional remedies?",
+      "options": ["Article 32", "Article 21", "Article 14", "Article 19"],
+      "correct_answer": "Article 32",
+      "solution": "Article 32 provides for the right to constitutional remedies, allowing individuals to approach the Supreme Court."
+    }
+  ]
