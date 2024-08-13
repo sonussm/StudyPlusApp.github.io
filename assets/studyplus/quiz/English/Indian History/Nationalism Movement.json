@@ -1,0 +1,164 @@
+[
+    {
+      "question": "Who was the first President of the Indian National Congress?",
+      "options": ["A.O. Hume", "W.C. Banerjee", "Bal Gangadhar Tilak", "Gopal Krishna Gokhale"],
+      "correct_answer": "W.C. Banerjee",
+      "solution": "W.C. Banerjee was the first President of the Indian National Congress, elected in 1885."
+    },
+    {
+      "question": "What was the main objective of the Non-Cooperation Movement?",
+      "options": ["Complete independence", "Self-governance", "Social reforms", "Economic independence"],
+      "correct_answer": "Complete independence",
+      "solution": "The Non-Cooperation Movement aimed at achieving complete independence from British rule through non-violent means."
+    },
+    {
+      "question": "Which event is considered the starting point of the Indian National Movement?",
+      "options": ["The Revolt of 1857", "Partition of Bengal", "Jallianwala Bagh Massacre", "Dandi March"],
+      "correct_answer": "The Revolt of 1857",
+      "solution": "The Revolt of 1857 is often regarded as the first major uprising against British rule, marking the beginning of the national movement."
+    },
+    {
+      "question": "Who is known as the 'Father of the Nation' in India?",
+      "options": ["Jawaharlal Nehru", "Mahatma Gandhi", "Subhas Chandra Bose", "B.R. Ambedkar"],
+      "correct_answer": "Mahatma Gandhi",
+      "solution": "Mahatma Gandhi is revered as the 'Father of the Nation' for his pivotal role in the Indian independence movement."
+    },
+    {
+      "question": "What was the significance of the Dandi March?",
+      "options": ["To protest against the Rowlatt Act", "To promote the Quit India Movement", "To defy the salt laws", "To unite Hindus and Muslims"],
+      "correct_answer": "To defy the salt laws",
+      "solution": "The Dandi March in 1930 was a nonviolent protest against the British salt laws, symbolizing the fight for civil rights."
+    },
+    {
+      "question": "Which act introduced the system of Dyarchy in India?",
+      "options": ["Government of India Act 1919", "Government of India Act 1935", "Indian Independence Act 1947", "Montagu-Chelmsford Reforms"],
+      "correct_answer": "Government of India Act 1919",
+      "solution": "The Government of India Act 1919 introduced the system of Dyarchy, allowing limited self-governance in the provinces."
+    },
+    {
+      "question": "Who founded the Indian National Army (INA)?",
+      "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Bhagat Singh", "Rani Lakshmibai"],
+      "correct_answer": "Subhas Chandra Bose",
+      "solution": "Subhas Chandra Bose founded the Indian National Army (INA) to fight for India's independence from British rule."
+    },
+    {
+      "question": "What was the primary aim of the Quit India Movement?",
+      "options": ["To seek constitutional reforms", "To demand immediate independence", "To promote social equality", "To oppose the partition of India"],
+      "correct_answer": "To demand immediate independence",
+      "solution": "The Quit India Movement, launched in 1942, aimed at demanding immediate independence from British rule."
+    },
+    {
+      "question": "Which movement was initiated by Mahatma Gandhi in response to the Jallianwala Bagh massacre?",
+      "options": ["Non-Cooperation Movement", "Civil Disobedience Movement", "Satyagraha Movement", "Swadeshi Movement"],
+      "correct_answer": "Non-Cooperation Movement",
+      "solution": "The Non-Cooperation Movement was initiated by Gandhi as a response to the Jallianwala Bagh massacre in 1919."
+    },
+    {
+      "question": "Which leader is associated with the slogan 'Give me blood, and I shall give you freedom'?",
+      "options": ["Mahatma Gandhi", "Subhas Chandra Bose", "Bhagat Singh", "Bal Gangadhar Tilak"],
+      "correct_answer": "Subhas Chandra Bose",
+      "solution": "Subhas Chandra Bose is known for his inspiring slogan 'Give me blood, and I shall give you freedom,' rallying support for the independence movement."
+    },
+    {
+      "question": "What was the main outcome of the Round Table Conferences?",
+      "options": ["Indian Independence", "Government of India Act 1935", "Formation of the Indian National Congress", "Partition of India"],
+      "correct_answer": "Government of India Act 1935",
+      "solution": "The Round Table Conferences led to the Government of India Act 1935, which provided for a limited form of self-government."
+    },
+    {
+      "question": "Who was the first woman to become the President of the Indian National Congress?",
+      "options": ["Sarojini Naidu", "Annie Besant", "Indira Gandhi", "Kamala Nehru"],
+      "correct_answer": "Annie Besant",
+      "solution": "Annie Besant was the first woman to serve as the President of the Indian National Congress in 1917."
+    },
+    {
+      "question": "Which act is known for the introduction of the Government of India Act 1935?",
+      "options": ["Montagu-Chelmsford Reforms", "Simon Commission", "Cripps Mission", "Indian Independence Act"],
+      "correct_answer": "Simon Commission",
+      "solution": "The Simon Commission's recommendations led to the Government of India Act 1935, which expanded the legislative councils."
+    },
+    {
+      "question": "What was the main demand of the Civil Disobedience Movement?",
+      "options": ["Complete independence", "Self-rule", "End of British rule", "Reform of laws"],
+      "correct_answer": "Complete independence",
+      "solution": "The Civil Disobedience Movement aimed at achieving complete independence from British rule through nonviolent resistance."
+    },
+    {
+      "question": "Who was known as the 'Lion of Punjab'?",
+      "options": ["Lala Lajpat Rai", "Bhagat Singh", "Sardar Patel", "Subhas Chandra Bose"],
+      "correct_answer": "Lala Lajpat Rai",
+      "solution": "Lala Lajpat Rai was referred to as the 'Lion of Punjab' for his vigorous role in the Indian independence movement."
+    },
+    {
+      "question": "Which event marked the end of the British Raj in India?",
+      "options": ["Indian Independence Act 1947", "Quit India Movement", "Dandi March", "Jallianwala Bagh Massacre"],
+      "correct_answer": "Indian Independence Act 1947",
+      "solution": "The Indian Independence Act 1947 marked the end of British rule in India, leading to the partition and independence."
+    },
+    {
+      "question": "What was the primary objective of the Swadeshi Movement?",
+      "options": ["Promote Indian goods", "Seek independence", "Oppose British education", "Unite Hindus and Muslims"],
+      "correct_answer": "Promote Indian goods",
+      "solution": "The Swadeshi Movement aimed to promote Indian goods and boycott British products as a form of protest against colonial rule."
+    },
+    {
+      "question": "Which revolutionary organization was founded by Bhagat Singh?",
+      "options": ["Hindustan Socialist Republican Association", "Ghadar Party", "Anushilan Samiti", "Indian National Congress"],
+      "correct_answer": "Hindustan Socialist Republican Association",
+      "solution": "Bhagat Singh was a prominent member of the Hindustan Socialist Republican Association, advocating for armed struggle against British rule."
+    },
+    {
+      "question": "What was the main cause of the partition of Bengal in 1905?",
+      "options": ["Religious differences", "Political strategy", "Economic reasons", "Cultural differences"],
+      "correct_answer": "Political strategy",
+      "solution": "The partition of Bengal in 1905 was primarily a political strategy by the British to divide and rule by creating religious divisions."
+    },
+    {
+      "question": "Who led the Khilafat Movement?",
+      "options": ["Mahatma Gandhi", "Ali Brothers", "B.R. Ambedkar", "Jawaharlal Nehru"],
+      "correct_answer": "Ali Brothers",
+      "solution": "The Khilafat Movement was led by the Ali Brothers, advocating for the protection of the Ottoman Caliphate."
+    },
+    {
+      "question": "Which was the first major act of defiance against British rule?",
+      "options": ["Champaran Satyagraha", "Kheda Satyagraha", "Dandi March", "Rowlatt Act protests"],
+      "correct_answer": "Champaran Satyagraha",
+      "solution": "The Champaran Satyagraha in 1917 was the first major act of defiance against British rule, led by Mahatma Gandhi."
+    },
+    {
+      "question": "What was the main purpose of the Rowlatt Act?",
+      "options": ["To suppress dissent", "To promote education", "To increase trade", "To reform laws"],
+      "correct_answer": "To suppress dissent",
+      "solution": "The Rowlatt Act aimed to suppress dissent and curb civil liberties in India, leading to widespread protests."
+    },
+    {
+      "question": "Who was the first Governor-General of independent India?",
+      "options": ["C. Rajagopalachari", "Lord Mountbatten", "Jawaharlal Nehru", "Sardar Patel"],
+      "correct_answer": "C. Rajagopalachari",
+      "solution": "C. Rajagopalachari served as the first and last Indian Governor-General of independent India."
+    },
+    {
+      "question": "What was the main demand of the All India Muslim League?",
+      "options": ["Complete independence", "Separate electorates", "Social reforms", "End of British rule"],
+      "correct_answer": "Separate electorates",
+      "solution": "The All India Muslim League primarily demanded separate electorates for Muslims in British India."
+    },
+    {
+      "question": "Which act established a federal structure in India?",
+      "options": ["Government of India Act 1919", "Government of India Act 1935", "Indian Independence Act 1947", "Montagu-Chelmsford Reforms"],
+      "correct_answer": "Government of India Act 1935",
+      "solution": "The Government of India Act 1935 established a federal structure, providing for provincial autonomy."
+    },
+    {
+      "question": "Which movement was launched by Gandhi to protest against the British salt tax?",
+      "options": ["Non-Cooperation Movement", "Civil Disobedience Movement", "Swadeshi Movement", "Quit India Movement"],
+      "correct_answer": "Civil Disobedience Movement",
+      "solution": "The Civil Disobedience Movement was launched by Gandhi to protest against the British salt tax and other oppressive laws."
+    },
+    {
+      "question": "Who was the leader of the Indian National Congress during the Quit India Movement?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "Subhas Chandra Bose"],
+      "correct_answer": "Mahatma Gandhi",
+      "solution": "Mahatma Gandhi was the leader of the Indian National Congress during the Quit India Movement in 1942."
+    }
+  ]

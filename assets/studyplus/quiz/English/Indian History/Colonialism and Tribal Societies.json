@@ -1,0 +1,176 @@
+[
+    {
+    "question": "The British described the tribal people as ______.",
+    "options": ["wild and savage", "civilized", "educated", "modern"],
+    "correct_answer": "wild and savage",
+    "solution": "The British described the tribal people as wild and savage."
+    },
+    {
+    "question": "The method of sowing seeds in jhum cultivation is known as ___________.",
+    "options": ["broadcasting the seeds", "drilling", "transplanting", "dibbling"],
+    "correct_answer": "broadcasting the seeds",
+    "solution": "The method of sowing seeds in jhum cultivation is known as broadcasting the seeds."
+    },
+    {
+    "question": "The tribal chiefs got ___________ titles in central India under the British land settlements.",
+    "options": ["land", "money", "power", "status"],
+    "correct_answer": "land",
+    "solution": "The tribal chiefs got land titles in central India under the British land settlements."
+    },
+    {
+    "question": "Tribals went to work in the ___________ of Assam and the ___________ in Bihar.",
+    "options": ["tea plantation, coal mines", "factories, mills", "fields, farms", "offices, shops"],
+    "correct_answer": "tea plantation, coal mines",
+    "solution": "Tribals went to work in the tea plantation of Assam and the coal mines in Bihar."
+    },
+    {
+    "question": "Jhum cultivators plough the land and sow seeds.",
+    "options": ["True", "False"],
+    "correct_answer": "False",
+    "solution": "Jhum cultivators do not plough the land. They clear the land by cutting and burning the vegetation before sowing the seeds."
+    },
+    {
+    "question": "Cocoons were bought from the Santhals and sold by traders at five times the purchase price.",
+    "options": ["True", "False"],
+    "correct_answer": "True",
+    "solution": "Cocoons were bought from the Santhals and sold by traders at five times the purchase price."
+    },
+    {
+    "question": "Birsa urged his followers to purify themselves, give up drinking liquor and stop believing in witchcraft and sorcery.",
+    "options": ["True", "False"],
+    "correct_answer": "True",
+    "solution": "Birsa urged his followers to purify themselves, give up drinking liquor and stop believing in witchcraft and sorcery."
+    },
+    {
+    "question": "The British wanted to preserve the tribal way of life.",
+    "options": ["True", "False"],
+    "correct_answer": "False",
+    "solution": "The British did not want to preserve the tribal way of life. They wanted the tribals to settle down and become peasant cultivators."
+    },
+    {
+    "question": "What problems did shifting cultivators face under British rule?",
+    "options": ["None", "Increased taxes", "Land alienation", "Restrictions on movement"],
+    "correct_answer": "Restrictions on movement",
+    "solution": "The British declared forests as state property and restricted the movement of shifting cultivators. They were not allowed to freely use forest products."
+    },
+    {
+    "question": "How did the powers of tribal chiefs change under colonial rule?",
+    "options": ["Increased", "Remained same", "Decreased", "Abolished"],
+    "correct_answer": "Decreased",
+    "solution": "The powers of tribal chiefs decreased under colonial rule. Although they were permitted to keep land titles, they lost most of their administrative powers and had to comply with British laws."
+    },
+    {
+    "question": "What accounts for the anger of the tribals against the dikus?",
+    "options": ["Restrictions on forest use", "Exploitation of labor", "Land alienation", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "The anger of tribals against the dikus (outsiders) was due to restrictions on forest use, exploitation of labor, and land alienation by the British and their officials."
+    },
+    {
+    "question": "What was Birsa's vision of a golden age?",
+    "options": ["Return to primitive life", "Modernization of tribal society", "Peaceful coexistence with outsiders", "Restoration of traditional rights"],
+    "correct_answer": "Restoration of traditional rights",
+    "solution": "Birsa's vision of a golden age was the satyug, where the Mundas would live an honest life without killing their brethren and have their traditional rights restored."
+    },
+    {
+    "question": "Which of the following was not a reason for tribal uprisings against the British?",
+    "options": ["Land alienation", "Restrictions on shifting cultivation", "Exploitation of labor", "Increased taxes"],
+    "correct_answer": "Increased taxes",
+    "solution": "The main reasons for tribal uprisings were land alienation, restrictions on shifting cultivation, and exploitation of labor by the British."
+    },
+    {
+    "question": "The Santhal Rebellion took place in which region?",
+    "options": ["Chotanagpur", "Assam", "Andaman Islands", "Nilgiri Hills"],
+    "correct_answer": "Chotanagpur",
+    "solution": "The Santhal Rebellion of 1855-56 took place in the Santhal region of Bihar, Jharkhand, West Bengal, and Odisha."
+    },
+    {
+    "question": "Who was the leader of the Munda Rebellion?",
+    "options": ["Sidhu and Kanhu", "Tilka Manjhi", "Birsa Munda", "Alluri Sitarama Raju"],
+    "correct_answer": "Birsa Munda",
+    "solution": "The leader of the Munda Rebellion (also known as the Ulgulan revolt) of 1899-1900 was the great tribal revolutionary, Birsa Munda."
+    },
+    {
+    "question": "Which act provided some land ownership rights to tribal people in the aftermath of the Munda Rebellion?",
+    "options": ["Chotanagpur Tenancy Act", "Santhal Pargana Tenancy Act", "Scheduled Tribes and Other Traditional Forest Dwellers (Recognition of Forest Rights) Act", "Government of India Act"],
+    "correct_answer": "Chotanagpur Tenancy Act",
+    "solution": "The Chotanagpur Tenancy Act of 1908, passed after the Munda Rebellion, provided some land ownership rights to tribal people and banned bonded labor."
+    },
+    {
+    "question": "Which of the following was not a form of tribal livelihood?",
+    "options": ["Hunting and gathering", "Herding animals", "Settled cultivation", "Wage labor"],
+    "correct_answer": "Wage labor",
+    "solution": "Tribal groups lived by hunting, gathering, herding animals, and practicing shifting or settled cultivation."
+    },
+    {
+    "question": "Which of the following was not a reason for the displacement of tribal populations under colonial rule?",
+    "options": ["Forest policies", "Exploitative labor practices", "Spread of Christianity", "Industrialization"],
+    "correct_answer": "Spread of Christianity",
+    "solution": "The displacement of tribal populations was mainly due to exploitative forest policies, labor practices, and industrialization under colonial rule."
+    },
+    {
+    "question": "Which of the following was not a form of tribal resistance against the British?",
+    "options": ["Armed rebellion", "Guerrilla warfare", "Non-violent protest", "Conversion to Christianity"],
+    "correct_answer": "Conversion to Christianity",
+    "solution": "Tribal communities resisted colonial oppression through armed rebellion, guerrilla warfare tactics, and non-violent protest movements."
+    },
+    {
+    "question": "Which of the following was not a reason for the anger of tribals against moneylenders and traders (dikus)?",
+    "options": ["High-interest rates", "Unfair trade practices", "Land alienation", "Restrictions on jhum cultivation"],
+    "correct_answer": "Restrictions on jhum cultivation",
+    "solution": "The anger of tribals against the dikus was due to high-interest rates, unfair trade practices, and land alienation by moneylenders and traders."
+    },
+    {
+    "question": "Which of the following was not a consequence of the Munda Rebellion?",
+    "options": ["Birsa Munda's death in prison", "Chhotanagpur Tenancy Act", "Increased restrictions on tribal movements", "Increased awareness among tribals"],
+    "correct_answer": "Increased restrictions on tribal movements",
+    "solution": "The consequences of the Munda Rebellion included Birsa Munda's death in prison, the Chhotanagpur Tenancy Act, and increased awareness among tribals about their rights."
+    },
+    {
+    "question": "Which of the following was not a reason for the Ramosi Uprising?",
+    "options": ["Unfair British administration", "Exploitation by local landlords", "Restrictions on shifting cultivation", "Spread of Christianity"],
+    "correct_answer": "Spread of Christianity",
+    "solution": "The Ramosi Uprising of 1822-29 was a protest against the unfair British administration and exploitation by local landlords."
+    },
+    {
+    "question": "Which of the following was not a consequence of the Santhal Rebellion?",
+    "options": ["Increased restrictions on tribal movements", "Suppression of the rebellion", "Increased awareness among tribals", "Enactment of Santhal Pargana Tenancy Act"],
+    "correct_answer": "Enactment of Santhal Pargana Tenancy Act",
+    "solution": "The Santhal Rebellion of 1855-56 was ultimately suppressed by the British, and it increased awareness among tribals about their rights."
+    },
+    {
+    "question": "Which of the following was not a reason for the displacement of tribal populations under colonial rule?",
+    "options": ["Forest policies", "Exploitative labor practices", "Spread of Christianity", "Industrialization"],
+    "correct_answer": "Spread of Christianity",
+    "solution": "The displacement of tribal populations was mainly due to exploitative forest policies, labor practices, and industrialization under colonial rule."
+    },
+    {
+    "question": "Which of the following was not a form of tribal resistance against the British?",
+    "options": ["Armed rebellion", "Guerrilla warfare", "Non-violent protest", "Conversion to Christianity"],
+    "correct_answer": "Conversion to Christianity",
+    "solution": "Tribal communities resisted colonial oppression through armed rebellion, guerrilla warfare tactics, and non-violent protest movements."
+    },
+    {
+    "question": "Which of the following was not a reason for the anger of tribals against moneylenders and traders (dikus)?",
+    "options": ["High-interest rates", "Unfair trade practices", "Land alienation", "Restrictions on jhum cultivation"],
+    "correct_answer": "Restrictions on jhum cultivation",
+    "solution": "The anger of tribals against the dikus was due to high-interest rates, unfair trade practices, and land alienation by moneylenders and traders."
+    },
+    {
+    "question": "Which of the following was not a consequence of the Munda Rebellion?",
+    "options": ["Birsa Munda's death in prison", "Chhotanagpur Tenancy Act", "Increased restrictions on tribal movements", "Increased awareness among tribals"],
+    "correct_answer": "Increased restrictions on tribal movements",
+    "solution": "The consequences of the Munda Rebellion included Birsa Munda's death in prison, the Chhotanagpur Tenancy Act, and increased awareness among tribals about their rights."
+    },
+    {
+    "question": "Which of the following was not a reason for the Ramosi Uprising?",
+    "options": ["Unfair British administration", "Exploitation by local landlords", "Restrictions on shifting cultivation", "Spread of Christianity"],
+    "correct_answer": "Spread of Christianity",
+    "solution": "The Ramosi Uprising of 1822-29 was a protest against the unfair British administration and exploitation by local landlords."
+    },
+    {
+    "question": "Which of the following was not a consequence of the Santhal Rebellion?",
+    "options": ["Increased restrictions on tribal movements", "Suppression of the rebellion", "Increased awareness among tribals", "Enactment of Santhal Pargana Tenancy Act"],
+    "correct_answer": "Enactment of Santhal Pargana Tenancy Act",
+    "solution": "The Santhal Rebellion of 1855-56 was ultimately suppressed by the British, and it increased awareness among tribals about their rights."
+    }
+    ]

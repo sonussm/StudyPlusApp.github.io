@@ -1,0 +1,164 @@
+[
+    {
+      "question": "Which ruler commissioned the construction of the Taj Mahal?",
+      "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Humayun"],
+      "correct_answer": "Shah Jahan",
+      "solution": "The Taj Mahal was commissioned by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "question": "What is the architectural style of the Brihadeeswarar Temple?",
+      "options": ["Gothic", "Dravidian", "Indo-Saracenic", "Mughal"],
+      "correct_answer": "Dravidian",
+      "solution": "The Brihadeeswarar Temple, located in Thanjavur, Tamil Nadu, is a prime example of Dravidian architecture."
+    },
+    {
+      "question": "Which ancient Indian text deals extensively with architecture?",
+      "options": ["Arthashastra", "Manasara", "Mahabharata", "Ramayana"],
+      "correct_answer": "Manasara",
+      "solution": "The Manasara is an ancient Indian treatise on architecture and town planning."
+    },
+    {
+      "question": "The famous rock-cut caves of Ajanta are located in which Indian state?",
+      "options": ["Maharashtra", "Gujarat", "Karnataka", "Rajasthan"],
+      "correct_answer": "Maharashtra",
+      "solution": "The Ajanta Caves are located in the state of Maharashtra and are renowned for their ancient Buddhist rock-cut architecture."
+    },
+    {
+      "question": "Which monument is known as the 'Jewel of India'?",
+      "options": ["Hawa Mahal", "Taj Mahal", "Gateway of India", "Lotus Temple"],
+      "correct_answer": "Taj Mahal",
+      "solution": "The Taj Mahal is often referred to as the 'Jewel of India' due to its stunning architecture and beauty."
+    },
+    {
+      "question": "Which dynasty is known for its contribution to Indo-Islamic architecture?",
+      "options": ["Gupta", "Maurya", "Mughal", "Chola"],
+      "correct_answer": "Mughal",
+      "solution": "The Mughal dynasty is renowned for its significant contributions to Indo-Islamic architecture, including structures like the Red Fort and Humayun's Tomb."
+    },
+    {
+      "question": "What is the main feature of the Indo-Saracenic architectural style?",
+      "options": ["Gothic arches", "Domes", "Minarets", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Indo-Saracenic architecture combines elements of Indian and Islamic styles, featuring Gothic arches, domes, and minarets."
+    },
+    {
+      "question": "The Sun Temple at Konark is dedicated to which deity?",
+      "options": ["Vishnu", "Shiva", "Surya", "Durga"],
+      "correct_answer": "Surya",
+      "solution": "The Sun Temple at Konark is dedicated to Surya, the Sun God, and is a UNESCO World Heritage Site."
+    },
+    {
+      "question": "Which of the following is a characteristic of Mughal gardens?",
+      "options": ["Terraced layout", "Water features", "Symmetrical design", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Mughal gardens are characterized by their terraced layout, water features, and symmetrical design, exemplified in gardens like those at the Taj Mahal."
+    },
+    {
+      "question": "Who is credited with the construction of the Red Fort?",
+      "options": ["Shah Jahan", "Akbar", "Aurangzeb", "Babur"],
+      "correct_answer": "Shah Jahan",
+      "solution": "The Red Fort in Delhi was commissioned by Shah Jahan in 1638 as the palace for his new capital."
+    },
+    {
+      "question": "Which Indian architectural style is known for its intricate stone carvings?",
+      "options": ["Nagara", "Dravidian", "Vesara", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All three styles—Nagara, Dravidian, and Vesara—are known for their intricate stone carvings, each with unique characteristics."
+    },
+    {
+      "question": "The architecture of the Khajuraho temples is primarily associated with which religion?",
+      "options": ["Hinduism", "Buddhism", "Jainism", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "The Khajuraho temples feature sculptures and carvings related to Hinduism, Buddhism, and Jainism."
+    },
+    {
+      "question": "Which structure is an example of Indo-Saracenic architecture in Mumbai?",
+      "options": ["Chhatrapati Shivaji Terminus", "Gateway of India", "Victoria Terminus", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All listed structures, including Chhatrapati Shivaji Terminus and the Gateway of India, exemplify Indo-Saracenic architecture in Mumbai."
+    },
+    {
+      "question": "The Great Stupa at Sanchi was built during which period?",
+      "options": ["Maurya", "Gupta", "Chola", "Mughal"],
+      "correct_answer": "Maurya",
+      "solution": "The Great Stupa at Sanchi was built during the Maurya period, under the reign of Emperor Ashoka."
+    },
+    {
+      "question": "Which of the following is NOT a feature of Dravidian architecture?",
+      "options": ["Gopuram", "Shikhara", "Vimana", "Mandapa"],
+      "correct_answer": "Shikhara",
+      "solution": "The Shikhara is a feature of Nagara architecture, while Gopuram, Vimana, and Mandapa are characteristic of Dravidian architecture."
+    },
+    {
+      "question": "Which ancient Indian city is known for its rock-cut architecture?",
+      "options": ["Varanasi", "Ajanta", "Delhi", "Jaipur"],
+      "correct_answer": "Ajanta",
+      "solution": "Ajanta is famous for its rock-cut caves that date back to the 2nd century BCE and are known for their exquisite murals."
+    },
+    {
+      "question": "What is the primary purpose of a Stupa?",
+      "options": ["Temple", "Monument", "Votive structure", "All of the above"],
+      "correct_answer": "Votive structure",
+      "solution": "A Stupa serves primarily as a votive structure, often containing relics and used for meditation."
+    },
+    {
+      "question": "Which architectural feature is prominent in Mughal architecture?",
+      "options": ["Large domes", "Pillared halls", "Step wells", "Fortifications"],
+      "correct_answer": "Large domes",
+      "solution": "Large domes are a prominent feature of Mughal architecture, exemplified in structures like the Taj Mahal."
+    },
+    {
+      "question": "Who was the chief architect of the Lotus Temple in Delhi?",
+      "options": ["B. V. Doshi", "Charles Correa", "Fariborz Sahba", "Hussain Doshi"],
+      "correct_answer": "Fariborz Sahba",
+      "solution": "Fariborz Sahba is the chief architect of the Lotus Temple, which is known for its flower-like design."
+    },
+    {
+      "question": "The architecture of which dynasty is characterized by the use of intricate jali work?",
+      "options": ["Mughal", "Chola", "Maurya", "Gupta"],
+      "correct_answer": "Mughal",
+      "solution": "Mughal architecture is well-known for its intricate jali work, particularly seen in structures like the Taj Mahal."
+    },
+    {
+      "question": "Which Indian fort is known for its unique blend of Hindu and Islamic architectural styles?",
+      "options": ["Red Fort", "Gwalior Fort", "Jaigarh Fort", "Chittorgarh Fort"],
+      "correct_answer": "Gwalior Fort",
+      "solution": "Gwalior Fort showcases a unique blend of Hindu and Islamic architectural styles, reflecting its rich history."
+    },
+    {
+      "question": "The architectural style of the Jagannath Temple in Puri is classified as?",
+      "options": ["Nagara", "Dravidian", "Vesara", "Indo-Saracenic"],
+      "correct_answer": "Nagara",
+      "solution": "The Jagannath Temple in Puri is classified as Nagara architecture, characterized by its curvilinear shikhara."
+    },
+    {
+      "question": "Which Indian city is famous for its stepwells?",
+      "options": ["Ahmedabad", "Jaipur", "Delhi", "Varanasi"],
+      "correct_answer": "Ahmedabad",
+      "solution": "Ahmedabad is famous for its stepwells, such as the Adalaj Stepwell, showcasing intricate carvings."
+    },
+    {
+      "question": "Which temple is known for its exquisite stone carvings and sculptures?",
+      "options": ["Meenakshi Temple", "Khajuraho Temples", "Brihadeeswarar Temple", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All these temples are renowned for their exquisite stone carvings and sculptures, reflecting India's architectural heritage."
+    },
+    {
+      "question": "The architectural style of the Hampi ruins is primarily associated with which dynasty?",
+      "options": ["Chola", "Vijayanagara", "Mughal", "Maurya"],
+      "correct_answer": "Vijayanagara",
+      "solution": "The Hampi ruins are primarily associated with the Vijayanagara dynasty, known for its unique architectural style."
+    },
+    {
+      "question": "Which of the following monuments is a UNESCO World Heritage Site?",
+      "options": ["Gateway of India", "Hawa Mahal", "Qutub Minar", "Lotus Temple"],
+      "correct_answer": "Qutub Minar",
+      "solution": "The Qutub Minar in Delhi is a UNESCO World Heritage Site, recognized for its historical significance and architectural brilliance."
+    },
+    {
+      "question": "The architecture of the Chola dynasty is best known for its?",
+      "options": ["Bronze sculptures", "Stone temples", "Forts", "Palaces"],
+      "correct_answer": "Stone temples",
+      "solution": "The Chola dynasty is best known for its magnificent stone temples, such as the Brihadeeswarar Temple."
+    }
+  ]

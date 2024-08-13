@@ -1,0 +1,176 @@
+[
+    {
+      "question": "When did India gain independence?",
+      "options": ["August 15, 1947", "January 26, 1950", "March 12, 1947", "November 14, 1947"],
+      "correct_answer": "August 15, 1947",
+      "solution": "India gained independence from British rule on August 15, 1947."
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "options": ["Lal Bahadur Shastri", "Jawaharlal Nehru", "Indira Gandhi", "Rajendra Prasad"],
+      "correct_answer": "Jawaharlal Nehru",
+      "solution": "Jawaharlal Nehru served as the first Prime Minister of India from 1947 until his death in 1964."
+    },
+    {
+      "question": "What is the significance of the year 1950 in India?",
+      "options": ["Independence Day", "Republic Day", "First General Election", "Green Revolution"],
+      "correct_answer": "Republic Day",
+      "solution": "India became a Republic on January 26, 1950, when the Constitution came into effect."
+    },
+    {
+      "question": "Which commission recommended the reorganization of states in India?",
+      "options": ["Dhar Commission", "States Reorganisation Commission", "Kothari Commission", "Mandal Commission"],
+      "correct_answer": "States Reorganisation Commission",
+      "solution": "The States Reorganisation Commission, established in 1953, recommended the reorganization of states on a linguistic basis."
+    },
+    {
+      "question": "Who was the architect of the Indian Constitution?",
+      "options": ["B.R. Ambedkar", "Jawaharlal Nehru", "Sardar Patel", "Rajendra Prasad"],
+      "correct_answer": "B.R. Ambedkar",
+      "solution": "B.R. Ambedkar is known as the principal architect of the Indian Constitution."
+    },
+    {
+      "question": "What was the main objective of the Green Revolution in India?",
+      "options": ["Industrialization", "Agricultural productivity", "Urban development", "Education reform"],
+      "correct_answer": "Agricultural productivity",
+      "solution": "The Green Revolution aimed to increase agricultural productivity through the use of high-yield variety seeds and modern agricultural techniques."
+    },
+    {
+      "question": "Which event marked the beginning of the Non-Aligned Movement?",
+      "options": ["Bandung Conference", "Brussels Conference", "Tehran Conference", "Yalta Conference"],
+      "correct_answer": "Bandung Conference",
+      "solution": "The Bandung Conference in 1955 marked the beginning of the Non-Aligned Movement, promoting cooperation among Asian and African nations."
+    },
+    {
+      "question": "In which year did India conduct its first nuclear test?",
+      "options": ["1974", "1988", "1998", "2000"],
+      "correct_answer": "1974",
+      "solution": "India conducted its first nuclear test, named 'Smiling Buddha', on May 18, 1974."
+    },
+    {
+      "question": "Who was the first woman Prime Minister of India?",
+      "options": ["Indira Gandhi", "Sarojini Naidu", "Pratibha Patil", "Sonia Gandhi"],
+      "correct_answer": "Indira Gandhi",
+      "solution": "Indira Gandhi served as the first and, to date, the only woman Prime Minister of India."
+    },
+    {
+      "question": "What was the main focus of the First Five-Year Plan in India?",
+      "options": ["Industrial growth", "Agricultural development", "Education", "Infrastructure"],
+      "correct_answer": "Agricultural development",
+      "solution": "The First Five-Year Plan (1951-1956) primarily focused on agricultural development and irrigation."
+    },
+    {
+      "question": "Which amendment to the Indian Constitution granted the right to vote to all citizens over the age of 18?",
+      "options": ["61st Amendment", "73rd Amendment", "86th Amendment", "42nd Amendment"],
+      "correct_answer": "61st Amendment",
+      "solution": "The 61st Amendment, passed in 1988, lowered the voting age from 21 to 18 years."
+    },
+    {
+      "question": "What was the significance of the Emergency declared in 1975?",
+      "options": ["Political stability", "Civil liberties suspended", "Economic growth", "Social reforms"],
+      "correct_answer": "Civil liberties suspended",
+      "solution": "The Emergency declared in 1975 led to the suspension of civil liberties and democratic processes in India."
+    },
+    {
+      "question": "Which Indian leader is known for the slogan 'Jai Jawan Jai Kisan'?",
+      "options": ["Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi", "Rajiv Gandhi"],
+      "correct_answer": "Lal Bahadur Shastri",
+      "solution": "Lal Bahadur Shastri coined the slogan 'Jai Jawan Jai Kisan' to emphasize the importance of soldiers and farmers."
+    },
+    {
+      "question": "Which movement aimed at promoting Hindi as the national language?",
+      "options": ["Bharatiya Janata Party Movement", "Anti-Hindi Agitation", "Hindi Sahitya Sammelan", "Hindi Language Movement"],
+      "correct_answer": "Hindi Language Movement",
+      "solution": "The Hindi Language Movement aimed to promote Hindi as the national language of India."
+    },
+    {
+      "question": "What was the outcome of the Indo-Pakistani War of 1947-48?",
+      "options": ["Creation of Bangladesh", "Partition of Kashmir", "Establishment of the Line of Control", "Independence of Kashmir"],
+      "correct_answer": "Establishment of the Line of Control",
+      "solution": "The Indo-Pakistani War of 1947-48 resulted in the establishment of the Line of Control in Kashmir."
+    },
+    {
+      "question": "Which plan was introduced to improve the economic conditions in India post-independence?",
+      "options": ["New Economic Policy", "Liberalization Policy", "Five-Year Plans", "Green Revolution"],
+      "correct_answer": "Five-Year Plans",
+      "solution": "The Five-Year Plans were introduced to improve the economic conditions in India post-independence."
+    },
+    {
+      "question": "Which Indian leader was known for his role in the Quit India Movement?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Patel", "B.R. Ambedkar"],
+      "correct_answer": "Mahatma Gandhi",
+      "solution": "Mahatma Gandhi led the Quit India Movement in 1942, demanding an end to British rule in India."
+    },
+    {
+      "question": "What was Operation Blue Star?",
+      "options": ["A military operation in Kashmir", "An operation to rescue hostages", "A military action at the Golden Temple", "A peacekeeping mission"],
+      "correct_answer": "A military action at the Golden Temple",
+      "solution": "Operation Blue Star was a military operation carried out in June 1984 to remove armed militants from the Golden Temple in Amritsar."
+    },
+    {
+      "question": "What was the primary goal of the Planning Commission established in 1950?",
+      "options": ["To manage foreign relations", "To formulate economic policies", "To conduct elections", "To oversee education"],
+      "correct_answer": "To formulate economic policies",
+      "solution": "The primary goal of the Planning Commission was to formulate and oversee economic policies and development plans."
+    },
+    {
+      "question": "Which Indian state was formed on a linguistic basis in 1956?",
+      "options": ["Andhra Pradesh", "Maharashtra", "Gujarat", "Punjab"],
+      "correct_answer": "Andhra Pradesh",
+      "solution": "Andhra Pradesh was the first state formed on a linguistic basis in India in 1956."
+    },
+    {
+      "question": "Who was the first President of India?",
+      "options": ["Rajendra Prasad", "S.Radhakrishnan", "Zakir Husain", "V.V. Giri"],
+      "correct_answer": "Rajendra Prasad",
+      "solution": "Rajendra Prasad served as the first President of India from 1950 to 1962."
+    },
+    {
+      "question": "Which significant event occurred in India in 1991?",
+      "options": ["Economic liberalization", "Formation of Telangana", "First nuclear test", "Independence from British rule"],
+      "correct_answer": "Economic liberalization",
+      "solution": "In 1991, India initiated economic liberalization policies to open up the economy."
+    },
+    {
+      "question": "What was the main reason for the formation of the Planning Commission?",
+      "options": ["To manage foreign trade", "To plan economic development", "To conduct elections", "To oversee education"],
+      "correct_answer": "To plan economic development",
+      "solution": "The Planning Commission was formed to plan and implement economic development strategies in India."
+    },
+    {
+      "question": "Which leader is associated with the slogan 'Garibi Hatao'?",
+      "options": ["Indira Gandhi", "Rajiv Gandhi", "Lal Bahadur Shastri", "Jawaharlal Nehru"],
+      "correct_answer": "Indira Gandhi",
+      "solution": "'Garibi Hatao' (Remove Poverty) was a slogan popularized by Indira Gandhi during her election campaign in the 1970s."
+    },
+    {
+      "question": "What was the main focus of the Second Five-Year Plan?",
+      "options": ["Agriculture", "Industrialization", "Education", "Health care"],
+      "correct_answer": "Industrialization",
+      "solution": "The Second Five-Year Plan (1956-1961) focused primarily on industrialization and economic growth."
+    },
+    {
+      "question": "Which Indian leader is known for his role in the Indian National Congress during the freedom struggle?",
+      "options": ["Mahatma Gandhi", "Sardar Patel", "B.R. Ambedkar", "Jawaharlal Nehru"],
+      "correct_answer": "Mahatma Gandhi",
+      "solution": "Mahatma Gandhi played a pivotal role in the Indian National Congress and the freedom struggle against British rule."
+    },
+    {
+      "question": "What was the main outcome of the Indo-Pakistani War of 1971?",
+      "options": ["Creation of Bangladesh", "Ceasefire agreement", "Territorial changes", "Nuclear agreement"],
+      "correct_answer": "Creation of Bangladesh",
+      "solution": "The Indo-Pakistani War of 1971 resulted in the creation of Bangladesh as an independent nation."
+    },
+    {
+      "question": "Which act abolished the zamindari system in India?",
+      "options": ["Land Reforms Act", "Abolition of Zamindari Act", "Agricultural Reforms Act", "Tenancy Act"],
+      "correct_answer": "Abolition of Zamindari Act",
+      "solution": "The Abolition of Zamindari Act was enacted to eliminate the zamindari system and promote land reforms."
+    },
+    {
+      "question": "Who was the first woman to become the President of India?",
+      "options": ["Indira Gandhi", "Sonia Gandhi", "Pratibha Patil", "Sarojini Naidu"],
+      "correct_answer": "Pratibha Patil",
+      "solution": "Pratibha Patil served as the first woman President of India from 2007 to 2012."
+    }
+  ]

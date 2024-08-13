@@ -1,0 +1,158 @@
+[
+    {
+      "question": "Who was the founder of the Slave Dynasty in Delhi?",
+      "options": ["Iltutmish", "Qutbuddin Aibak", "Alauddin Khilji", "Muhammad bin Tughlaq"],
+      "correct_answer": "Qutbuddin Aibak",
+      "solution": "Qutbuddin Aibak established the Slave Dynasty after the death of Muhammad Ghori in 1206."
+    },
+    {
+      "question": "Which Sultan is known for introducing the market control system in Delhi?",
+      "options": ["Iltutmish", "Alauddin Khilji", "Firuz Tughlaq", "Ghiyasuddin Tughlaq"],
+      "correct_answer": "Alauddin Khilji",
+      "solution": "Alauddin Khilji implemented a system to control prices and regulate markets to curb inflation."
+    },
+    {
+      "question": "During whose reign was the Qutub Minar completed?",
+      "options": ["Qutbuddin Aibak", "Iltutmish", "Alauddin Khilji", "Firuz Tughlaq"],
+      "correct_answer": "Iltutmish",
+      "solution": "Iltutmish completed the construction of the Qutub Minar, which was initiated by Qutbuddin Aibak."
+    },
+    {
+      "question": "Which Sultan attempted to invade China?",
+      "options": ["Iltutmish", "Alauddin Khilji", "Muhammad bin Tughlaq", "Firuz Tughlaq"],
+      "correct_answer": "Muhammad bin Tughlaq",
+      "solution": "Muhammad bin Tughlaq is known for his ambitious military campaigns, including the ill-fated attempt to invade China."
+    },
+    {
+      "question": "What was the primary tax levied on land during the Sultanate period?",
+      "options": ["Kharaj", "Ushr", "Jizya", "Zakat"],
+      "correct_answer": "Kharaj",
+      "solution": "Kharaj was the main land revenue tax collected from agricultural lands during the Delhi Sultanate."
+    },
+    {
+      "question": "Who was the first female ruler of the Delhi Sultanate?",
+      "options": ["Razia Sultana", "Nur Jahan", "Rani Durgavati", "Begum Hazrat Mahal"],
+      "correct_answer": "Razia Sultana",
+      "solution": "Razia Sultana was the only female ruler of the Delhi Sultanate, reigning from 1236 to 1240."
+    },
+    {
+      "question": "Which dynasty succeeded the Khilji dynasty in Delhi?",
+      "options": ["Tughlaq dynasty", "Slave dynasty", "Sayyid dynasty", "Lodhi dynasty"],
+      "correct_answer": "Tughlaq dynasty",
+      "solution": "The Tughlaq dynasty succeeded the Khilji dynasty in 1320."
+    },
+    {
+      "question": "Who was known as 'Lakh Baksh'?",
+      "options": ["Qutbuddin Aibak", "Iltutmish", "Alauddin Khilji", "Ghiyasuddin Balban"],
+      "correct_answer": "Qutbuddin Aibak",
+      "solution": "Qutbuddin Aibak earned the title 'Lakh Baksh' due to his generous donations."
+    },
+    {
+      "question": "Which Sultan established the Diwan-i-Kohi?",
+      "options": ["Alauddin Khilji", "Muhammad bin Tughlaq", "Firuz Tughlaq", "Iltutmish"],
+      "correct_answer": "Muhammad bin Tughlaq",
+      "solution": "Muhammad bin Tughlaq established the Diwan-i-Kohi to manage agricultural production."
+    },
+    {
+      "question": "What was the capital of the Delhi Sultanate during the reign of Iltutmish?",
+      "options": ["Delhi", "Lahore", "Agra", "Jaipur"],
+      "correct_answer": "Delhi",
+      "solution": "Delhi was the capital of the Delhi Sultanate during Iltutmish's reign."
+    },
+    {
+      "question": "Which Sultan is known for his architectural contributions, including the construction of the Siri Fort?",
+      "options": ["Alauddin Khilji", "Iltutmish", "Ghiyasuddin Tughlaq", "Firuz Tughlaq"],
+      "correct_answer": "Alauddin Khilji",
+      "solution": "Alauddin Khilji is noted for constructing the Siri Fort to protect Delhi from Mongol invasions."
+    },
+    {
+      "question": "Who was the last ruler of the Delhi Sultanate?",
+      "options": ["Iltutmish", "Sikandar Lodi", "Ibrahim Lodi", "Ghiyasuddin Tughlaq"],
+      "correct_answer": "Ibrahim Lodi",
+      "solution": "Ibrahim Lodi was the last Sultan of the Delhi Sultanate before it fell to the Mughal Empire."
+    },
+    {
+      "question": "Which Sultan introduced token currency?",
+      "options": ["Alauddin Khilji", "Muhammad bin Tughlaq", "Firuz Tughlaq", "Iltutmish"],
+      "correct_answer": "Muhammad bin Tughlaq",
+      "solution": "Muhammad bin Tughlaq introduced token currency as a means to manage economic challenges."
+    },
+    {
+      "question": "What was the main reason for the decline of the Delhi Sultanate?",
+      "options": ["Mongol invasions", "Internal strife", "Economic issues", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "The decline of the Delhi Sultanate was due to a combination of Mongol invasions, internal strife, and economic issues."
+    },
+    {
+      "question": "Which Sultan is known for his administrative reforms and public welfare measures?",
+      "options": ["Iltutmish", "Alauddin Khilji", "Firuz Tughlaq", "Muhammad bin Tughlaq"],
+      "correct_answer": "Firuz Tughlaq",
+      "solution": "Firuz Tughlaq is recognized for implementing various administrative reforms and public welfare measures."
+    },
+    {
+      "question": "Who was the first Sultan to issue regular currency in the Delhi Sultanate?",
+      "options": ["Qutbuddin Aibak", "Iltutmish", "Alauddin Khilji", "Muhammad bin Tughlaq"],
+      "correct_answer": "Iltutmish",
+      "solution": "Iltutmish was the first Sultan to issue regular currency in the Delhi Sultanate."
+    },
+    {
+      "question": "Which dynasty ruled the Delhi Sultanate from 1320 to 1413?",
+      "options": ["Khilji dynasty", "Tughlaq dynasty", "Sayyid dynasty", "Lodhi dynasty"],
+      "correct_answer": "Tughlaq dynasty",
+      "solution": "The Tughlaq dynasty ruled the Delhi Sultanate from 1320 to 1413."
+    },
+    {
+      "question": "What significant event marked the end of the Delhi Sultanate?",
+      "options": ["First Battle of Panipat", "Second Battle of Panipat", "Fall of Delhi", "Mughal invasion"],
+      "correct_answer": "First Battle of Panipat",
+      "solution": "The First Battle of Panipat in 1526 marked the end of the Delhi Sultanate and the rise of the Mughal Empire."
+    },
+    {
+      "question": "Who was the founder of the Tughlaq dynasty?",
+      "options": ["Ghiyasuddin Tughlaq", "Muhammad bin Tughlaq", "Firuz Tughlaq", "Alauddin Khilji"],
+      "correct_answer": "Ghiyasuddin Tughlaq",
+      "solution": "Ghiyasuddin Tughlaq founded the Tughlaq dynasty after the fall of the Khilji dynasty."
+    },
+    {
+      "question": "Which Sultan is credited with the expansion of the Delhi Sultanate into southern India?",
+      "options": ["Alauddin Khilji", "Muhammad bin Tughlaq", "Firuz Tughlaq", "Iltutmish"],
+      "correct_answer": "Muhammad bin Tughlaq",
+      "solution": "Muhammad bin Tughlaq expanded the Delhi Sultanate's influence into southern India during his reign."
+    },
+    {
+      "question": "What was the primary role of the 'Iqta' system during the Sultanate period?",
+      "options": ["Tax collection", "Land administration", "Military organization", "Judicial authority"],
+      "correct_answer": "Land administration",
+      "solution": "The 'Iqta' system was primarily used for land administration, where land was assigned to military officers."
+    },
+    {
+      "question": "Which Sultan is known for establishing a separate department for agriculture?",
+      "options": ["Alauddin Khilji", "Muhammad bin Tughlaq", "Firuz Tughlaq", "Iltutmish"],
+      "correct_answer": "Muhammad bin Tughlaq",
+      "solution": "Muhammad bin Tughlaq established the Diwan-i-Kohi to manage agricultural affairs."
+    },
+    {
+      "question": "Who was the first Sultan to consolidate the Delhi Sultanate into a single political entity?",
+      "options": ["Iltutmish", "Alauddin Khilji", "Ghiyasuddin Tughlaq", "Firuz Tughlaq"],
+      "correct_answer": "Iltutmish",
+      "solution": "Iltutmish is credited with consolidating the Delhi Sultanate into a cohesive political entity."
+    },
+    {
+      "question": "Which Sultan is known for his efforts to improve the legal system?",
+      "options": ["Alauddin Khilji", "Firuz Tughlaq", "Iltutmish", "Muhammad bin Tughlaq"],
+      "correct_answer": "Firuz Tughlaq",
+      "solution": "Firuz Tughlaq made significant efforts to improve the legal system and administration of justice."
+    },
+    {
+      "question": "What was the primary focus of Alauddin Khilji's economic reforms?",
+      "options": ["Agriculture", "Trade", "Market regulation", "Taxation"],
+      "correct_answer": "Market regulation",
+      "solution": "Alauddin Khilji's economic reforms primarily focused on regulating markets and controlling prices."
+    },
+    {
+      "question": "Who was the first Sultan to introduce the concept of 'Mansabdari'?",
+      "options": ["Alauddin Khilji", "Iltutmish", "Muhammad bin Tughlaq", "Firuz Tughlaq"],
+      "correct_answer": "Alauddin Khilji",
+      "solution": "Alauddin Khilji introduced the concept of 'Mansabdari' for military and administrative organization."
+    }
+  ]

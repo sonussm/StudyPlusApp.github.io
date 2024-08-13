@@ -1,0 +1,158 @@
+[
+    {
+      "question": "What year did the British East India Company begin to establish its rule in India?",
+      "options": ["1600", "1757", "1765", "1858"],
+      "correct_answer": "1757",
+      "solution": "The British East India Company's rule in India is often marked by the Battle of Plassey in 1757, which established their dominance in Bengal."
+    },
+    {
+      "question": "Which battle marked the beginning of the British East India Company's rule in India?",
+      "options": ["Battle of Buxar", "Battle of Plassey", "Battle of Panipat", "Battle of Haldighati"],
+      "correct_answer": "Battle of Plassey",
+      "solution": "The Battle of Plassey in 1757 was crucial as it led to the defeat of Nawab Siraj ud-Daulah and established British control over Bengal."
+    },
+    {
+      "question": "Who was the first Governor-General of India under the British East India Company?",
+      "options": ["Warren Hastings", "Robert Clive", "Lord Cornwallis", "Lord Wellesley"],
+      "correct_answer": "Warren Hastings",
+      "solution": "Warren Hastings served as the first Governor-General of India from 1773 to 1785, overseeing the consolidation of British power."
+    },
+    {
+      "question": "What was the significance of the Treaty of Allahabad (1765)?",
+      "options": ["It ended the Anglo-Mysore Wars", "It established British control over Bengal", "It granted the British East India Company the right to collect revenue", "It marked the end of Mughal rule"],
+      "correct_answer": "It granted the British East India Company the right to collect revenue",
+      "solution": "The Treaty of Allahabad allowed the British East India Company to collect revenue in Bengal, marking a significant step in their territorial control."
+    },
+    {
+      "question": "Which act transferred the control of India from the British East India Company to the British Crown?",
+      "options": ["Government of India Act 1919", "Government of India Act 1858", "Regulating Act 1773", "Indian Councils Act 1909"],
+      "correct_answer": "Government of India Act 1858",
+      "solution": "The Government of India Act 1858 was enacted following the Indian Rebellion of 1857, transferring control from the East India Company to the British Crown."
+    },
+    {
+      "question": "What was the role of the Subsidiary Alliance system?",
+      "options": ["To annex Indian territories", "To establish trade relations", "To maintain peace with Indian rulers", "To promote British education"],
+      "correct_answer": "To maintain peace with Indian rulers",
+      "solution": "The Subsidiary Alliance system allowed the British to maintain control over Indian states by requiring local rulers to accept British troops in their territories."
+    },
+    {
+      "question": "Who was the key figure in the establishment of British rule in India through military conquests?",
+      "options": ["Warren Hastings", "Robert Clive", "Lord Dalhousie", "Lord Cornwallis"],
+      "correct_answer": "Robert Clive",
+      "solution": "Robert Clive played a pivotal role in establishing British power in India, particularly through his victories at the Battle of Plassey and the Battle of Buxar."
+    },
+    {
+      "question": "Which war led to the British gaining control over the Maratha Empire?",
+      "options": ["First Anglo-Maratha War", "Second Anglo-Maratha War", "Third Anglo-Maratha War", "Battle of Panipat"],
+      "correct_answer": "Third Anglo-Maratha War",
+      "solution": "The Third Anglo-Maratha War (1817-1818) resulted in the complete defeat of the Maratha Empire, solidifying British control over India."
+    },
+    {
+      "question": "What was the main economic activity of the British East India Company in India?",
+      "options": ["Agriculture", "Textile production", "Trade", "Mining"],
+      "correct_answer": "Trade",
+      "solution": "The British East India Company primarily engaged in trade, exporting Indian goods like textiles and importing British manufactured products."
+    },
+    {
+      "question": "Which Indian ruler was defeated at the Battle of Buxar in 1764?",
+      "options": ["Shah Alam II", "Siraj ud-Daulah", "Tipu Sultan", "Maharaja Ranjit Singh"],
+      "correct_answer": "Shah Alam II",
+      "solution": "The Battle of Buxar resulted in the defeat of Mughal Emperor Shah Alam II, further consolidating British power in India."
+    },
+    {
+      "question": "What was the impact of the Great Bengal Famine of 1770?",
+      "options": ["Increase in British trade", "Decline of British power", "Humanitarian reforms", "Mass starvation and economic distress"],
+      "correct_answer": "Mass starvation and economic distress",
+      "solution": "The Great Bengal Famine of 1770 led to the deaths of millions and highlighted the exploitative policies of the British East India Company."
+    },
+    {
+      "question": "Which act was introduced to regulate the affairs of the British East India Company in India?",
+      "options": ["Indian Councils Act", "Regulating Act", "Government of India Act", "Charter Act"],
+      "correct_answer": "Regulating Act",
+      "solution": "The Regulating Act of 1773 was introduced to regulate the British East India Company's governance and curb its power in India."
+    },
+    {
+      "question": "What was the primary reason for the Sepoy Mutiny of 1857?",
+      "options": ["Economic exploitation", "Religious insensitivity", "Political annexation", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "The Sepoy Mutiny of 1857 was fueled by economic exploitation, religious insensitivity, and political annexation by the British East India Company."
+    },
+    {
+      "question": "Which treaty marked the end of the First Anglo-Sikh War?",
+      "options": ["Treaty of Amritsar", "Treaty of Lahore", "Treaty of Delhi", "Treaty of Kanpur"],
+      "correct_answer": "Treaty of Lahore",
+      "solution": "The Treaty of Lahore, signed in 1846, marked the end of the First Anglo-Sikh War and established British suzerainty over the Sikh kingdom."
+    },
+    {
+      "question": "What was the significance of the Charter Act of 1813?",
+      "options": ["It ended the monopoly of the East India Company", "It established the British Raj", "It annexed Oudh", "It created princely states"],
+      "correct_answer": "It ended the monopoly of the East India Company",
+      "solution": "The Charter Act of 1813 ended the East India Company's monopoly on trade in India, allowing other British traders to operate."
+    },
+    {
+      "question": "Who was the last Governor-General of India under the British East India Company?",
+      "options": ["Lord Dalhousie", "Lord Canning", "Warren Hastings", "Lord Cornwallis"],
+      "correct_answer": "Lord Canning",
+      "solution": "Lord Canning was the last Governor-General of India under the British East India Company, serving during the Indian Rebellion of 1857."
+    },
+    {
+      "question": "Which event is often considered the beginning of the end for the British East India Company?",
+      "options": ["Battle of Plassey", "Indian Rebellion of 1857", "Treaty of Allahabad", "First Anglo-Afghan War"],
+      "correct_answer": "Indian Rebellion of 1857",
+      "solution": "The Indian Rebellion of 1857 marked a significant turning point, leading to the dissolution of the British East India Company."
+    },
+    {
+      "question": "What was the primary military force used by the British East India Company?",
+      "options": ["Mughal Army", "Sepoys", "Rajputs", "Sikhs"],
+      "correct_answer": "Sepoys",
+      "solution": "The Sepoys were Indian soldiers employed by the British East India Company, playing a crucial role in their military campaigns."
+    },
+    {
+      "question": "What was the purpose of the Regulating Act of 1773?",
+      "options": ["To increase trade", "To establish a British governor-general", "To annex territories", "To promote education"],
+      "correct_answer": "To establish a British governor-general",
+      "solution": "The Regulating Act of 1773 aimed to establish a British governor-general in India to oversee the administration of the East India Company."
+    },
+    {
+      "question": "Which territory was annexed by the British East India Company in 1843?",
+      "options": ["Punjab", "Sindh", "Bengal", "Assam"],
+      "correct_answer": "Sindh",
+      "solution": "Sindh was annexed by the British East India Company in 1843, expanding their territorial control in India."
+    },
+    {
+      "question": "What was the main consequence of the British East India Company's policies on Indian agriculture?",
+      "options": ["Increased production", "Decline in traditional practices", "Economic prosperity", "Food security"],
+      "correct_answer": "Decline in traditional practices",
+      "solution": "The British East India Company's policies led to a decline in traditional agricultural practices, contributing to economic distress."
+    },
+    {
+      "question": "Which act allowed the British government to take direct control of India?",
+      "options": ["Government of India Act 1919", "Government of India Act 1858", "Charter Act 1833", "Indian Councils Act 1909"],
+      "correct_answer": "Government of India Act 1858",
+      "solution": "The Government of India Act 1858 transferred control from the British East India Company to the British Crown, establishing direct governance."
+    },
+    {
+      "question": "What was the role of the Indian National Congress during the British rule?",
+      "options": ["Support British policies", "Advocate for Indian rights", "Promote British trade", "Establish princely states"],
+      "correct_answer": "Advocate for Indian rights",
+      "solution": "The Indian National Congress was formed to advocate for Indian rights and self-governance during British rule."
+    },
+    {
+      "question": "What was the primary reason for the establishment of the British East India Company?",
+      "options": ["To promote Indian culture", "To exploit trade", "To spread Christianity", "To establish democracy"],
+      "correct_answer": "To exploit trade",
+      "solution": "The British East India Company was established primarily to exploit trade opportunities in India and Southeast Asia."
+    },
+    {
+      "question": "Which act was introduced to reform the administration of India after the Sepoy Mutiny?",
+      "options": ["Government of India Act 1919", "Government of India Act 1858", "Indian Councils Act 1909", "Charter Act 1833"],
+      "correct_answer": "Government of India Act 1858",
+      "solution": "The Government of India Act 1858 was introduced to reform the administration of India following the Sepoy Mutiny."
+    },
+    {
+      "question": "What was the impact of the British East India Company's rule on Indian society?",
+      "options": ["Improved education", "Cultural renaissance", "Social unrest", "Economic growth"],
+      "correct_answer": "Social unrest",
+      "solution": "The British East India Company's rule led to social unrest due to economic exploitation and cultural imposition."
+    }
+  ]

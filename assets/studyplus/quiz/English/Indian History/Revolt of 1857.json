@@ -1,1 +1,266 @@
-
+[
+    {
+      "question": "What was the main cause of the Revolt of 1857?",
+      "options": [
+        "Economic exploitation",
+        "Religious conversion",
+        "Cultural assimilation",
+        "Political alliances"
+      ],
+      "correct_answer": "Economic exploitation",
+      "solution": "The Revolt of 1857 was primarily caused by economic exploitation, which included heavy taxation and the destruction of traditional industries."
+    },
+    {
+      "question": "Who is known as the 'Father of the Revolt of 1857'?",
+      "options": [
+        "Bahadur Shah Zafar",
+        "Mangal Pandey",
+        "Tatya Tope",
+        "Nana Saheb"
+      ],
+      "correct_answer": "Mangal Pandey",
+      "solution": "Mangal Pandey is often referred to as the 'Father of the Revolt of 1857' for his role in igniting the mutiny against British rule."
+    },
+    {
+      "question": "Which city was the center of the Revolt of 1857?",
+      "options": [
+        "Delhi",
+        "Lucknow",
+        "Kanpur",
+        "Meerut"
+      ],
+      "correct_answer": "Delhi",
+      "solution": "Delhi served as the primary center of the Revolt of 1857, where Bahadur Shah Zafar was declared the leader of the uprising."
+    },
+    {
+      "question": "What was the role of Bahadur Shah Zafar during the Revolt?",
+      "options": [
+        "He led the British forces",
+        "He was a nominal leader of the rebels",
+        "He remained neutral",
+        "He was captured immediately"
+      ],
+      "correct_answer": "He was a nominal leader of the rebels",
+      "solution": "Bahadur Shah Zafar was declared the nominal leader of the rebels during the Revolt of 1857, although real military command was held by others."
+    },
+    {
+      "question": "Which of the following leaders was associated with the rebellion in Jhansi?",
+      "options": [
+        "Begum Hazrat Mahal",
+        "Rani Lakshmibai",
+        "Nana Saheb",
+        "Tatya Tope"
+      ],
+      "correct_answer": "Rani Lakshmibai",
+      "solution": "Rani Lakshmibai of Jhansi was a prominent leader during the Revolt of 1857 and is remembered for her bravery and leadership."
+    },
+    {
+      "question": "What was the significance of the 'greased cartridges' in the revolt?",
+      "options": [
+        "They were a new weapon",
+        "They were a cause of resentment",
+        "They were used by British soldiers",
+        "They symbolized unity"
+      ],
+      "correct_answer": "They were a cause of resentment",
+      "solution": "The greased cartridges, believed to be made from animal fat, caused widespread resentment among Indian soldiers, leading to the revolt."
+    },
+    {
+      "question": "Which British officer was responsible for suppressing the revolt in Delhi?",
+      "options": [
+        "General Havelock",
+        "General Nicholson",
+        "Sir Colin Campbell",
+        "Sir Hugh Rose"
+      ],
+      "correct_answer": "General Nicholson",
+      "solution": "General Nicholson played a key role in suppressing the revolt in Delhi during the 1857 uprising."
+    },
+    {
+      "question": "What was the outcome of the Revolt of 1857?",
+      "options": [
+        "Immediate independence",
+        "Establishment of British Raj",
+        "Formation of Indian National Congress",
+        "End of British rule"
+      ],
+      "correct_answer": "Establishment of British Raj",
+      "solution": "The outcome of the Revolt of 1857 was the establishment of direct British rule in India, known as the British Raj."
+    },
+    {
+      "question": "Which of the following was a social cause of the Revolt of 1857?",
+      "options": [
+        "Displacement of zamindars",
+        "Introduction of railways",
+        "Spread of Western education",
+        "Formation of trade unions"
+      ],
+      "correct_answer": "Displacement of zamindars",
+      "solution": "The displacement of traditional zamindars and the imposition of new land revenue systems contributed to social unrest, leading to the revolt."
+    },
+    {
+      "question": "Who was the Governor-General of India during the Revolt of 1857?",
+      "options": [
+        "Lord Canning",
+        "Lord Dalhousie",
+        "Lord Lytton",
+        "Lord Wellesley"
+      ],
+      "correct_answer": "Lord Canning",
+      "solution": "Lord Canning was the Governor-General of India during the Revolt of 1857 and played a crucial role in its suppression."
+    },
+    {
+      "question": "Which of the following statements is true regarding the Revolt of 1857?",
+      "options": [
+        "It was a coordinated national movement",
+        "It had widespread support from all sections of society",
+        "It was primarily a military mutiny",
+        "It led to immediate reforms in British policy"
+      ],
+      "correct_answer": "It was primarily a military mutiny",
+      "solution": "The Revolt of 1857 is often characterized as primarily a military mutiny, although it did inspire broader nationalist sentiments."
+    },
+    {
+      "question": "What role did the sepoys play in the Revolt of 1857?",
+      "options": [
+        "They remained loyal to the British",
+        "They initiated the uprising",
+        "They acted as mediators",
+        "They were uninvolved"
+      ],
+      "correct_answer": "They initiated the uprising",
+      "solution": "The sepoys were the first to initiate the uprising against British rule, leading to widespread rebellion across India."
+    },
+    {
+      "question": "Which event marked the beginning of the Revolt of 1857?",
+      "options": [
+        "Capture of Delhi",
+        "Mutiny at Meerut",
+        "Siege of Kanpur",
+        "Battle of Lucknow"
+      ],
+      "correct_answer": "Mutiny at Meerut",
+      "solution": "The Revolt of 1857 began with the mutiny at Meerut on May 10, 1857, when sepoys rebelled against their British officers."
+    },
+    {
+      "question": "Who was the leader of the revolt in Kanpur?",
+      "options": [
+        "Nana Saheb",
+        "Tatya Tope",
+        "Rani Lakshmibai",
+        "Begum Hazrat Mahal"
+      ],
+      "correct_answer": "Nana Saheb",
+      "solution": "Nana Saheb was a prominent leader of the revolt in Kanpur and played a significant role in the uprising against the British."
+    },
+    {
+      "question": "What was the role of the press during the Revolt of 1857?",
+      "options": [
+        "To support the British",
+        "To spread revolutionary ideas",
+        "To remain neutral",
+        "To report on military strategies"
+      ],
+      "correct_answer": "To spread revolutionary ideas",
+      "solution": "The press played a role in spreading revolutionary ideas and mobilizing support for the revolt against British rule."
+    },
+    {
+      "question": "Which of the following was a reason for the failure of the Revolt of 1857?",
+      "options": [
+        "Lack of unity among rebels",
+        "Strong British military presence",
+        "Poor leadership",
+        "All of the above"
+      ],
+      "correct_answer": "All of the above",
+      "solution": "The failure of the Revolt of 1857 can be attributed to a lack of unity among the rebels, a strong British military presence, and poor leadership."
+    },
+    {
+      "question": "Which famous poem was inspired by the Revolt of 1857?",
+      "options": [
+        "Ghazals by Ghalib",
+        "The Song of the Revolt",
+        "The First War of Independence",
+        "The Ballad of the Sepoys"
+      ],
+      "correct_answer": "Ghazals by Ghalib",
+      "solution": "The famous Urdu poet Ghalib wrote ghazals that reflected the sentiments and struggles during the Revolt of 1857."
+    },
+    {
+      "question": "What was the British response to the Revolt of 1857?",
+      "options": [
+        "Immediate withdrawal from India",
+        "Increased military presence",
+        "Negotiation with leaders",
+        "Recognition of Indian rights"
+      ],
+      "correct_answer": "Increased military presence",
+      "solution": "In response to the Revolt of 1857, the British increased their military presence and established direct control over India."
+    },
+    {
+      "question": "Which of the following was NOT a cause of the Revolt of 1857?",
+      "options": [
+        "Economic hardship",
+        "Political discontent",
+        "Religious intolerance",
+        "Support from foreign powers"
+      ],
+      "correct_answer": "Support from foreign powers",
+      "solution": "Support from foreign powers was not a cause of the Revolt of 1857; the revolt was primarily driven by internal discontent."
+    },
+    {
+      "question": "Who was the prominent female leader during the Revolt of 1857?",
+      "options": [
+        "Begum Hazrat Mahal",
+        "Rani Lakshmibai",
+        "Annie Besant",
+        "Indira Gandhi"
+      ],
+      "correct_answer": "Rani Lakshmibai",
+      "solution": "Rani Lakshmibai of Jhansi was a prominent female leader during the Revolt of 1857, known for her valor and leadership."
+    },
+    {
+      "question": "What was the impact of the Revolt of 1857 on British policy in India?",
+      "options": [
+        "Increased autonomy for Indians",
+        "Establishment of the British Raj",
+        "Immediate independence for India",
+        "Formation of Indian political parties"
+      ],
+      "correct_answer": "Establishment of the British Raj",
+      "solution": "The Revolt of 1857 led to the establishment of the British Raj, marking the end of the East India Company's rule."
+    },
+    {
+      "question": "Which of the following was a military leader during the Revolt of 1857?",
+      "options": [
+        "Tatya Tope",
+        "Mangal Pandey",
+        "Bahadur Shah Zafar",
+        "Nana Saheb"
+      ],
+      "correct_answer": "Tatya Tope",
+      "solution": "Tatya Tope was a key military leader during the Revolt of 1857, known for his strategic acumen and guerrilla warfare tactics."
+    },
+    {
+      "question": "What was the role of the Indian National Congress in relation to the Revolt of 1857?",
+      "options": [
+        "It was formed during the revolt",
+        "It supported the British",
+        "It emerged later as a political party",
+        "It was directly involved in the revolt"
+      ],
+      "correct_answer": "It emerged later as a political party",
+      "solution": "The Indian National Congress was formed later, in 1885, as a response to the political climate shaped by events like the Revolt of 1857."
+    },
+    {
+      "question": "Which of the following was a major consequence of the Revolt of 1857?",
+      "options": [
+        "Increased British control",
+        "Formation of Indian states",
+        "End of British colonial rule",
+        "Rise of Indian nationalism"
+      ],
+      "correct_answer": "Increased British control",
+      "solution": "One of the major consequences of the Revolt of 1857 was the increased control of the British government over India, leading to the British Raj."
+    }
+  ]
