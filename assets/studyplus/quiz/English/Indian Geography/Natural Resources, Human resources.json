@@ -1,0 +1,188 @@
+[
+    {
+      "question": "What is the primary source of energy in India?",
+      "options": ["Solar Energy", "Wind Energy", "Coal", "Hydro Energy"],
+      "correct_answer": "Coal",
+      "solution": "Coal is the primary source of energy in India, accounting for a significant portion of the country's energy needs."
+    },
+    {
+      "question": "Which state in India is the largest producer of iron ore?",
+      "options": ["Karnataka", "Odisha", "Chhattisgarh", "Maharashtra"],
+      "correct_answer": "Odisha",
+      "solution": "Odisha is the largest producer of iron ore in India, contributing significantly to the country's mineral resources."
+    },
+    {
+      "question": "Which river is known as the lifeline of India?",
+      "options": ["Ganga", "Yamuna", "Brahmaputra", "Godavari"],
+      "correct_answer": "Ganga",
+      "solution": "The Ganga River is often referred to as the lifeline of India due to its historical, cultural, and economic significance."
+    },
+    {
+      "question": "Which mineral is found in the largest quantity in India?",
+      "options": ["Bauxite", "Iron ore", "Mica", "Copper"],
+      "correct_answer": "Iron ore",
+      "solution": "Iron ore is found in the largest quantity in India, making it a key resource for the country's industrial sector."
+    },
+    {
+      "question": "What type of forest covers the largest area in India?",
+      "options": ["Tropical Rainforest", "Deciduous Forest", "Coniferous Forest", "Mangrove Forest"],
+      "correct_answer": "Deciduous Forest",
+      "solution": "Deciduous forests, which shed their leaves in the dry season, cover the largest area in India."
+    },
+    {
+      "question": "Which state is known for the production of tea in India?",
+      "options": ["Assam", "Darjeeling", "Kerala", "Punjab"],
+      "correct_answer": "Assam",
+      "solution": "Assam is renowned for its tea production, contributing significantly to India's tea exports."
+    },
+    {
+      "question": "What is the primary agricultural product of Punjab?",
+      "options": ["Rice", "Wheat", "Sugarcane", "Cotton"],
+      "correct_answer": "Wheat",
+      "solution": "Wheat is the primary agricultural product of Punjab, often referred to as the 'Granary of India.'"
+    },
+    {
+      "question": "Which mineral is primarily used for aluminum production?",
+      "options": ["Bauxite", "Iron ore", "Copper", "Zinc"],
+      "correct_answer": "Bauxite",
+      "solution": "Bauxite is the primary mineral used for aluminum production in India."
+    },
+    {
+      "question": "Which renewable energy source has seen significant growth in India recently?",
+      "options": ["Wind Energy", "Geothermal Energy", "Nuclear Energy", "Natural Gas"],
+      "correct_answer": "Wind Energy",
+      "solution": "Wind energy has seen significant growth in India, making it one of the leading countries in wind power generation."
+    },
+    {
+      "question": "Which state has the highest forest cover in India?",
+      "options": ["Madhya Pradesh", "Mizoram", "Uttarakhand", "Himachal Pradesh"],
+      "correct_answer": "Mizoram",
+      "solution": "Mizoram has the highest forest cover in India as a percentage of its total land area."
+    },
+    {
+      "question": "Which mineral is essential for the production of fertilizers?",
+      "options": ["Phosphate", "Iron ore", "Bauxite", "Mica"],
+      "correct_answer": "Phosphate",
+      "solution": "Phosphate is essential for the production of fertilizers, crucial for agricultural productivity."
+    },
+    {
+      "question": "What is the primary use of limestone in India?",
+      "options": ["Cement production", "Glass making", "Steel manufacturing", "Paper production"],
+      "correct_answer": "Cement production",
+      "solution": "Limestone is primarily used in cement production, a key component in the construction industry."
+    },
+    {
+      "question": "Which energy resource is considered non-conventional in India?",
+      "options": ["Coal", "Natural Gas", "Solar Energy", "Petroleum"],
+      "correct_answer": "Solar Energy",
+      "solution": "Solar energy is considered a non-conventional energy resource, gaining importance due to its sustainability."
+    },
+    {
+      "question": "Which state is the largest producer of cotton in India?",
+      "options": ["Gujarat", "Maharashtra", "Punjab", "Rajasthan"],
+      "correct_answer": "Gujarat",
+      "solution": "Gujarat is the largest producer of cotton in India, contributing significantly to the textile industry."
+    },
+    {
+      "question": "What is the main source of freshwater in India?",
+      "options": ["Rivers", "Lakes", "Groundwater", "Rainwater"],
+      "correct_answer": "Groundwater",
+      "solution": "Groundwater is the main source of freshwater in India, essential for agriculture and drinking water."
+    },
+    {
+      "question": "Which mineral is primarily mined in Jharkhand?",
+      "options": ["Iron ore", "Mica", "Bauxite", "Coal"],
+      "correct_answer": "Coal",
+      "solution": "Coal is primarily mined in Jharkhand, which has some of the largest coal reserves in India."
+    },
+    {
+      "question": "Which type of energy is harnessed from the sun?",
+      "options": ["Nuclear Energy", "Wind Energy", "Solar Energy", "Geothermal Energy"],
+      "correct_answer": "Solar Energy",
+      "solution": "Solar energy is harnessed from the sun, and India has made significant investments in solar power."
+    },
+    {
+      "question": "Which state is known for its production of spices?",
+      "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+      "correct_answer": "Kerala",
+      "solution": "Kerala is known for its diverse production of spices, including black pepper and cardamom."
+    },
+    {
+      "question": "What is the significance of the Western Ghats in terms of biodiversity?",
+      "options": ["High mineral deposits", "Rich in endemic species", "Major agricultural zone", "Urban development"],
+      "correct_answer": "Rich in endemic species",
+      "solution": "The Western Ghats are recognized for their rich biodiversity and high number of endemic species."
+    },
+    {
+      "question": "Which mineral is primarily associated with the production of batteries?",
+      "options": ["Lithium", "Copper", "Iron", "Aluminum"],
+      "correct_answer": "Lithium",
+      "solution": "Lithium is primarily associated with the production of batteries, especially for electric vehicles."
+    },
+    {
+      "question": "What is the primary use of natural gas in India?",
+      "options": ["Heating", "Electricity generation", "Transportation", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Natural gas is used for heating, electricity generation, and as a transportation fuel in India."
+    },
+    {
+      "question": "Which state is famous for its diamond mines?",
+      "options": ["Madhya Pradesh", "Gujarat", "Chhattisgarh", "Karnataka"],
+      "correct_answer": "Madhya Pradesh",
+      "solution": "Madhya Pradesh is famous for its diamond mines, particularly in the Panna district."
+    },
+    {
+      "question": "Which type of energy is derived from the movement of water?",
+      "options": ["Solar Energy", "Hydro Energy", "Wind Energy", "Geothermal Energy"],
+      "correct_answer": "Hydro Energy",
+      "solution": "Hydro energy is derived from the movement of water, primarily used in electricity generation."
+    },
+    {
+      "question": "Which state has the largest area under horticulture in India?",
+      "options": ["Maharashtra", "Uttar Pradesh", "Himachal Pradesh", "Karnataka"],
+      "correct_answer": "Maharashtra",
+      "solution": "Maharashtra has the largest area under horticulture, producing a variety of fruits and vegetables."
+    },
+    {
+      "question": "What is the primary factor affecting the distribution of natural resources in India?",
+      "options": ["Climate", "Population density", "Geological features", "Government policies"],
+      "correct_answer": "Geological features",
+      "solution": "Geological features significantly affect the distribution of natural resources across India."
+    },
+    {
+      "question": "Which state is known for its rich deposits of mica?",
+      "options": ["Rajasthan", "Jharkhand", "Bihar", "Odisha"],
+      "correct_answer": "Jharkhand",
+      "solution": "Jharkhand is known for its rich deposits of mica, which is used in various industries."
+    },
+    {
+      "question": "Which renewable energy source is harnessed using wind turbines?",
+      "options": ["Solar Energy", "Biomass", "Wind Energy", "Hydro Energy"],
+      "correct_answer": "Wind Energy",
+      "solution": "Wind energy is harnessed using wind turbines, and India has significant wind energy potential."
+    },
+    {
+      "question": "Which mineral is crucial for the steel industry?",
+      "options": ["Bauxite", "Iron ore", "Copper", "Zinc"],
+      "correct_answer": "Iron ore",
+      "solution": "Iron ore is crucial for the steel industry, forming the primary raw material for steel production."
+    },
+    {
+      "question": "What is the main use of gypsum in India?",
+      "options": ["Fertilizers", "Cement production", "Glass making", "Steel manufacturing"],
+      "correct_answer": "Cement production",
+      "solution": "Gypsum is primarily used in cement production as a setting regulator."
+    },
+    {
+      "question": "Which state is known for its rich biodiversity and wildlife?",
+      "options": ["Uttarakhand", "Rajasthan", "Kerala", "Madhya Pradesh"],
+      "correct_answer": "Madhya Pradesh",
+      "solution": "Madhya Pradesh is known for its rich biodiversity and numerous wildlife sanctuaries."
+    },
+    {
+      "question": "What is the primary challenge in managing India's natural resources?",
+      "options": ["Overconsumption", "Pollution", "Climate change", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Overconsumption, pollution, and climate change are primary challenges in managing India's natural resources."
+    }
+  ]

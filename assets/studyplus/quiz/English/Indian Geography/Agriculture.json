@@ -1,1 +1,188 @@
-
+[
+    {
+    "question": "Which state has the largest area under rice cultivation in India?",
+    "options": ["Uttar Pradesh", "West Bengal", "Punjab", "Andhra Pradesh"],
+    "correct_answer": "West Bengal",
+    "solution": "West Bengal has the largest area under rice cultivation in India."
+    },
+    {
+    "question": "Which country is the leading producer of rice in the world?",
+    "options": ["India", "China", "Brazil", "United States"],
+    "correct_answer": "China",
+    "solution": "China is the leading producer of rice in the world."
+    },
+    {
+    "question": "Which country is the leading exporter of rice in the world?",
+    "options": ["India", "Thailand", "Vietnam", "Pakistan"],
+    "correct_answer": "Thailand",
+    "solution": "Thailand is the leading exporter of rice in the world."
+    },
+    {
+    "question": "Which of the following states has the highest cropping intensity in India?",
+    "options": ["Uttar Pradesh", "Bihar", "Punjab", "Haryana"],
+    "correct_answer": "Uttar Pradesh",
+    "solution": "The correct sequence of agricultural intensity in increasing order among various states in India is Maharashtra → Assam → Bihar → Uttar Pradesh."
+    },
+    {
+    "question": "Which of the following is not a cash crop in India?",
+    "options": ["Sugarcane", "Cashew", "Tobacco", "Wheat"],
+    "correct_answer": "Wheat",
+    "solution": "Wheat is not a cash crop in India, while sugarcane, cashew, and tobacco are cash crops."
+    },
+    {
+    "question": "Which state is the largest cotton growing state in India?",
+    "options": ["Gujarat", "Maharashtra", "Rajasthan", "Madhya Pradesh"],
+    "correct_answer": "Gujarat",
+    "solution": "Gujarat is the largest cotton growing state in India."
+    },
+    {
+    "question": "Which of the following is not a cause of soil erosion?",
+    "options": ["Deforestation", "Overgrazing", "Excessive use of fertilizers", "Heavy rainfall"],
+    "correct_answer": "Excessive use of fertilizers",
+    "solution": "Excessive use of fertilizers is not a cause of soil erosion. Deforestation, overgrazing, and heavy rainfall are some of the main causes of soil erosion."
+    },
+    {
+    "question": "Which of the following is not a tropical type of soil?",
+    "options": ["Laterite soil", "Red soil", "Black soil", "Alluvial soil"],
+    "correct_answer": "Alluvial soil",
+    "solution": "Alluvial soil is not a tropical type of soil. It is found in river basins and is the most fertile soil in India."
+    },
+    {
+    "question": "Which of the following is the principal cause of soil damage in Punjab and Haryana?",
+    "options": ["Overuse of pesticides", "Excessive irrigation", "Salinization", "Waterlogging"],
+    "correct_answer": "Salinization",
+    "solution": "Salinization is the principal cause of soil damage in Punjab and Haryana due to excessive irrigation and poor drainage."
+    },
+    {
+    "question": "Which of the following statements about alluvial soil is true?",
+    "options": ["It is generally confined to river basins", "It is rich in phosphorus and poor in potash", "It is the most fertile soil", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "All of the statements about alluvial soil are true: it is generally confined to river basins, has been deposited by rivers, is rich in phosphorus and poor in potash, and is the most fertile soil in India."
+    },
+    {
+    "question": "Under which climatic conditions do laterite soils develop?",
+    "options": ["Hot and humid", "Cold and dry", "Temperate", "Tropical"],
+    "correct_answer": "Hot and humid",
+    "solution": "Laterite soils develop under hot and humid climatic conditions with high rainfall and temperature."
+    },
+    {
+    "question": "Which one of the following soil types of India is rendered infertile by the presence of excess iron?",
+    "options": ["Alluvial soil", "Black soil", "Red soil", "Laterite soil"],
+    "correct_answer": "Laterite soil",
+    "solution": "Laterite soil is rendered infertile by the presence of excess iron, which is leached out by heavy rainfall."
+    },
+    {
+    "question": "Which of the following is not a tropical pulse crop?",
+    "options": ["Pigeon pea", "Chickpea", "Lentil", "Green gram"],
+    "correct_answer": "Lentil",
+    "solution": "Lentil is not a tropical pulse crop. It is a rabi pulse that was domesticated in South East Asia."
+    },
+    {
+    "question": "Which of the following is the most nutritious pulse after chickpea (gram)?",
+    "options": ["Pigeon pea", "Lentil", "Green gram", "Black gram"],
+    "correct_answer": "Lentil",
+    "solution": "Lentil is the most nutritious pulse after chickpea (gram)."
+    },
+    {
+    "question": "Which of the following is not a cash crop in India?",
+    "options": ["Sugarcane", "Jute", "Cotton", "Wheat"],
+    "correct_answer": "Wheat",
+    "solution": "Wheat is not a cash crop in India. Sugarcane, jute, and cotton are important cash crops."
+    },
+    {
+    "question": "Which of the following is the principal cause of soil damage in Punjab and Haryana?",
+    "options": ["Overuse of pesticides", "Excessive irrigation", "Salinization", "Waterlogging"],
+    "correct_answer": "Salinization",
+    "solution": "Salinization is the principal cause of soil damage in Punjab and Haryana due to excessive irrigation and poor drainage."
+    },
+    {
+    "question": "Which of the following is not a cause of soil erosion?",
+    "options": ["Deforestation", "Overgrazing", "Excessive use of fertilizers", "Heavy rainfall"],
+    "correct_answer": "Excessive use of fertilizers",
+    "solution": "Excessive use of fertilizers is not a cause of soil erosion. Deforestation, overgrazing, and heavy rainfall are some of the main causes of soil erosion."
+    },
+    {
+    "question": "Which of the following is the largest producer of sugarcane in India?",
+    "options": ["Uttar Pradesh", "Maharashtra", "Tamil Nadu", "Karnataka"],
+    "correct_answer": "Uttar Pradesh",
+    "solution": "Uttar Pradesh is the largest producer of sugarcane in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of tea in India?",
+    "options": ["Assam", "West Bengal", "Tamil Nadu", "Kerala"],
+    "correct_answer": "Assam",
+    "solution": "Assam is the largest producer of tea in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of coffee in India?",
+    "options": ["Karnataka", "Kerala", "Tamil Nadu", "Andhra Pradesh"],
+    "correct_answer": "Karnataka",
+    "solution": "Karnataka is the largest producer of coffee in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of spices in India?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+    "correct_answer": "Kerala",
+    "solution": "Kerala is the largest producer of spices in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of fruits in India?",
+    "options": ["Andhra Pradesh", "Maharashtra", "Uttar Pradesh", "Tamil Nadu"],
+    "correct_answer": "Andhra Pradesh",
+    "solution": "Andhra Pradesh is the largest producer of fruits in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of vegetables in India?",
+    "options": ["West Bengal", "Uttar Pradesh", "Madhya Pradesh", "Bihar"],
+    "correct_answer": "West Bengal",
+    "solution": "West Bengal is the largest producer of vegetables in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of oilseeds in India?",
+    "options": ["Rajasthan", "Madhya Pradesh", "Maharashtra", "Gujarat"],
+    "correct_answer": "Rajasthan",
+    "solution": "Rajasthan is the largest producer of oilseeds in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of pulses in India?",
+    "options": ["Madhya Pradesh", "Maharashtra", "Uttar Pradesh", "Rajasthan"],
+    "correct_answer": "Madhya Pradesh",
+    "solution": "Madhya Pradesh is the largest producer of pulses in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of wheat in India?",
+    "options": ["Uttar Pradesh", "Punjab", "Madhya Pradesh", "Rajasthan"],
+    "correct_answer": "Uttar Pradesh",
+    "solution": "Uttar Pradesh is the largest producer of wheat in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of rice in India?",
+    "options": ["West Bengal", "Uttar Pradesh", "Andhra Pradesh", "Punjab"],
+    "correct_answer": "West Bengal",
+    "solution": "West Bengal is the largest producer of rice in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of cotton in India?",
+    "options": ["Gujarat", "Maharashtra", "Rajasthan", "Madhya Pradesh"],
+    "correct_answer": "Gujarat",
+    "solution": "Gujarat is the largest producer of cotton in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of jute in India?",
+    "options": ["West Bengal", "Bihar", "Assam", "Odisha"],
+    "correct_answer": "West Bengal",
+    "solution": "West Bengal is the largest producer of jute in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of rubber in India?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Tripura"],
+    "correct_answer": "Kerala",
+    "solution": "Kerala is the largest producer of rubber in India."
+    },
+    {
+    "question": "Which of the following is the largest producer of coconut in India?",
+    "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+    "correct_answer": "Kerala",
+    "solution": "Kerala is the largest producer of coconut in India."
+    }
+    ]

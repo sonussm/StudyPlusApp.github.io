@@ -1,0 +1,170 @@
+[
+    {
+      "question": "What is the third planet from the Sun?",
+      "options": ["Mercury", "Venus", "Earth", "Mars"],
+      "correct_answer": "Earth",
+      "solution": "Earth is the third planet from the Sun and the only known planet to support life."
+    },
+    {
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Mars",
+      "solution": "Mars is often referred to as the Red Planet due to its reddish appearance caused by iron oxide on its surface."
+    },
+    {
+      "question": "What is the largest planet in our solar system?",
+      "options": ["Earth", "Jupiter", "Saturn", "Neptune"],
+      "correct_answer": "Jupiter",
+      "solution": "Jupiter is the largest planet in our solar system, known for its Great Red Spot and many moons."
+    },
+    {
+      "question": "Which planet is known as Earth's twin?",
+      "options": ["Mercury", "Venus", "Mars", "Saturn"],
+      "correct_answer": "Venus",
+      "solution": "Venus is often called Earth's twin because of its similar size and composition."
+    },
+    {
+      "question": "What is the hottest planet in our solar system?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "correct_answer": "Venus",
+      "solution": "Venus is the hottest planet due to its thick atmosphere that traps heat."
+    },
+    {
+      "question": "Which planet has the most extensive ring system?",
+      "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+      "correct_answer": "Saturn",
+      "solution": "Saturn is famous for its extensive and bright ring system made of ice and rock particles."
+    },
+    {
+      "question": "Which planet is known for its Great Red Spot?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Jupiter",
+      "solution": "The Great Red Spot is a giant storm on Jupiter that has been raging for centuries."
+    },
+    {
+      "question": "What is the smallest planet in our solar system?",
+      "options": ["Mercury", "Mars", "Venus", "Earth"],
+      "correct_answer": "Mercury",
+      "solution": "Mercury is the smallest planet in our solar system and closest to the Sun."
+    },
+    {
+      "question": "Which planet is known for its tilted axis?",
+      "options": ["Earth", "Mars", "Uranus", "Neptune"],
+      "correct_answer": "Uranus",
+      "solution": "Uranus is unique for its extreme tilt, causing it to rotate on its side."
+    },
+    {
+      "question": "What celestial body orbits the Earth?",
+      "options": ["Sun", "Moon", "Mars", "Venus"],
+      "correct_answer": "Moon",
+      "solution": "The Moon is Earth's only natural satellite and orbits the planet."
+    },
+    {
+      "question": "Which planet is known for its blue color due to methane in its atmosphere?",
+      "options": ["Earth", "Uranus", "Neptune", "Mars"],
+      "correct_answer": "Neptune",
+      "solution": "Neptune appears blue because of the methane in its atmosphere, which absorbs red light."
+    },
+    {
+      "question": "What is the main component of the Sun?",
+      "options": ["Oxygen", "Hydrogen", "Helium", "Carbon"],
+      "correct_answer": "Hydrogen",
+      "solution": "The Sun is primarily composed of hydrogen, which undergoes nuclear fusion to produce energy."
+    },
+    {
+      "question": "Which planet has the longest day?",
+      "options": ["Earth", "Venus", "Mars", "Jupiter"],
+      "correct_answer": "Venus",
+      "solution": "A day on Venus (one rotation on its axis) takes longer than a year on Venus (one orbit around the Sun)."
+    },
+    {
+      "question": "What is the term for the path a planet takes around the Sun?",
+      "options": ["Orbit", "Rotation", "Revolution", "Axis"],
+      "correct_answer": "Orbit",
+      "solution": "An orbit is the path a planet takes as it revolves around the Sun."
+    },
+    {
+      "question": "Which planet is known for having a large number of moons?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Jupiter",
+      "solution": "Jupiter has the most moons of any planet in our solar system, with over 79 confirmed moons."
+    },
+    {
+      "question": "What is the term for a planet's year?",
+      "options": ["Rotation", "Revolution", "Orbit", "Cycle"],
+      "correct_answer": "Revolution",
+      "solution": "A revolution refers to the time it takes for a planet to complete one orbit around the Sun."
+    },
+    {
+      "question": "Which planet is known for its extreme seasons due to its axial tilt?",
+      "options": ["Earth", "Mars", "Uranus", "Neptune"],
+      "correct_answer": "Mars",
+      "solution": "Mars experiences extreme seasonal changes due to its axial tilt similar to Earth's."
+    },
+    {
+      "question": "What is the primary reason for the seasons on Earth?",
+      "options": ["Distance from the Sun", "Tilt of the Earth's axis", "Revolution around the Sun", "Rotation of the Earth"],
+      "correct_answer": "Tilt of the Earth's axis",
+      "solution": "The tilt of the Earth's axis relative to its orbit around the Sun causes the seasons."
+    },
+    {
+      "question": "Which planet has a day longer than its year?",
+      "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+      "correct_answer": "Venus",
+      "solution": "Venus has a very slow rotation, making its day longer than its year."
+    },
+    {
+      "question": "Which planet is known for having the largest volcano in the solar system?",
+      "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+      "correct_answer": "Mars",
+      "solution": "Mars is home to Olympus Mons, the largest volcano in the solar system."
+    },
+    {
+      "question": "What is the main reason Pluto is no longer classified as a planet?",
+      "options": ["It is too small", "It has no moons", "It does not clear its orbit", "It is too far from the Sun"],
+      "correct_answer": "It does not clear its orbit",
+      "solution": "Pluto was reclassified as a dwarf planet because it does not clear its orbital path of other debris."
+    },
+    {
+      "question": "Which planet is known for its strong winds and storms?",
+      "options": ["Earth", "Mars", "Jupiter", "Neptune"],
+      "correct_answer": "Neptune",
+      "solution": "Neptune has the strongest winds in the solar system, reaching speeds of over 1,200 miles per hour."
+    },
+    {
+      "question": "What is the name of the first artificial satellite launched into space?",
+      "options": ["Apollo 11", "Vostok 1", "Sputnik 1", "Explorer 1"],
+      "correct_answer": "Sputnik 1",
+      "solution": "Sputnik 1 was the first artificial satellite launched by the Soviet Union in 1957."
+    },
+    {
+      "question": "Which planet is known for its prominent blue color?",
+      "options": ["Earth", "Uranus", "Neptune", "Mars"],
+      "correct_answer": "Neptune",
+      "solution": "Neptune is known for its striking blue color due to the absorption of red light by methane in its atmosphere."
+    },
+    {
+      "question": "What is the term used for the study of celestial bodies?",
+      "options": ["Geology", "Astronomy", "Astrophysics", "Meteorology"],
+      "correct_answer": "Astronomy",
+      "solution": "Astronomy is the scientific study of celestial bodies such as stars, planets, comets, and galaxies."
+    },
+    {
+      "question": "Which planet has the most extensive atmosphere?",
+      "options": ["Earth", "Mars", "Venus", "Jupiter"],
+      "correct_answer": "Venus",
+      "solution": "Venus has a thick atmosphere composed mainly of carbon dioxide, creating a strong greenhouse effect."
+    },
+    {
+      "question": "What is the shape of the orbits of planets around the Sun?",
+      "options": ["Circular", "Elliptical", "Spiral", "Random"],
+      "correct_answer": "Elliptical",
+      "solution": "The orbits of planets around the Sun are elliptical in shape, as described by Kepler's laws of planetary motion."
+    },
+    {
+      "question": "Which planet is known for its unique hexagonal storm at the north pole?",
+      "options": ["Earth", "Saturn", "Jupiter", "Uranus"],
+      "correct_answer": "Saturn",
+      "solution": "Saturn has a unique hexagonal storm pattern at its north pole, a phenomenon not seen on other planets."
+    }
+  ]

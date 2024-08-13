@@ -1,0 +1,176 @@
+[
+    {
+      "question": "What is the southernmost point of mainland India?",
+      "options": ["Kanyakumari", "Cape Comorin", "Rameswaram", "Cuddalore"],
+      "correct_answer": "Kanyakumari",
+      "solution": "Kanyakumari is the southernmost point of mainland India, located at the confluence of the Arabian Sea, the Indian Ocean, and the Bay of Bengal."
+    },
+    {
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": ["Ganga", "Kosi", "Yamuna", "Saraswati"],
+      "correct_answer": "Kosi",
+      "solution": "The Kosi River is referred to as the 'Sorrow of Bihar' due to its frequent flooding, which causes significant damage to the region."
+    },
+    {
+      "question": "Which state has the largest area under forest cover in India?",
+      "options": ["Madhya Pradesh", "Chhattisgarh", "Odisha", "Uttarakhand"],
+      "correct_answer": "Madhya Pradesh",
+      "solution": "Madhya Pradesh has the largest area under forest cover in India, accounting for a significant portion of its geographical area."
+    },
+    {
+      "question": "What is the capital of the Indian state of Maharashtra?",
+      "options": ["Mumbai", "Pune", "Nagpur", "Nashik"],
+      "correct_answer": "Mumbai",
+      "solution": "Mumbai is the capital city of the Indian state of Maharashtra and is also the financial capital of India."
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of Five Rivers'?",
+      "options": ["Punjab", "Haryana", "Uttar Pradesh", "Bihar"],
+      "correct_answer": "Punjab",
+      "solution": "Punjab is known as the 'Land of Five Rivers' due to the five major rivers that flow through the state: Beas, Chenab, Jhelum, Ravi, and Sutlej."
+    },
+    {
+      "question": "Which is the longest river in India?",
+      "options": ["Ganga", "Brahmaputra", "Indus", "Godavari"],
+      "correct_answer": "Ganga",
+      "solution": "The Ganga is the longest river in India, flowing over 2,500 kilometers from the Himalayas to the Bay of Bengal."
+    },
+    {
+      "question": "Which desert is located in India?",
+      "options": ["Thar", "Gobi", "Karakum", "Sonoran"],
+      "correct_answer": "Thar",
+      "solution": "The Thar Desert, also known as the Great Indian Desert, is located in the northwestern part of India, primarily in Rajasthan."
+    },
+    {
+      "question": "What is the official language of the Indian state of Tamil Nadu?",
+      "options": ["Telugu", "Tamil", "Kannada", "Malayalam"],
+      "correct_answer": "Tamil",
+      "solution": "Tamil is the official language of the Indian state of Tamil Nadu and is one of the oldest languages in the world."
+    },
+    {
+      "question": "Which mountain range separates India from Nepal?",
+      "options": ["Himalayas", "Western Ghats", "Aravalli", "Vindhya"],
+      "correct_answer": "Himalayas",
+      "solution": "The Himalayas form the northern boundary of India and separate it from Nepal."
+    },
+    {
+      "question": "Which Indian city is known as the 'Silicon Valley of India'?",
+      "options": ["Bangalore", "Hyderabad", "Pune", "Chennai"],
+      "correct_answer": "Bangalore",
+      "solution": "Bangalore, now known as Bengaluru, is referred to as the 'Silicon Valley of India' due to its prominent role in the IT industry."
+    },
+    {
+      "question": "Which state is the largest producer of tea in India?",
+      "options": ["Assam", "West Bengal", "Kerala", "Tamil Nadu"],
+      "correct_answer": "Assam",
+      "solution": "Assam is the largest producer of tea in India, known for its strong and malty flavor."
+    },
+    {
+      "question": "Which is the smallest state in India by area?",
+      "options": ["Goa", "Sikkim", "Tripura", "Nagaland"],
+      "correct_answer": "Goa",
+      "solution": "Goa is the smallest state in India by area, located on the western coast along the Arabian Sea."
+    },
+    {
+      "question": "What is the capital of India?",
+      "options": ["Mumbai", "New Delhi", "Kolkata", "Chennai"],
+      "correct_answer": "New Delhi",
+      "solution": "New Delhi is the capital of India and serves as the seat of the government."
+    },
+    {
+      "question": "Which state in India is famous for its backwaters?",
+      "options": ["Kerala", "Goa", "Maharashtra", "Andhra Pradesh"],
+      "correct_answer": "Kerala",
+      "solution": "Kerala is renowned for its backwaters, a network of lagoons and lakes along the Arabian Sea coast."
+    },
+    {
+      "question": "Which Indian river is known as the 'Holy River'?",
+      "options": ["Ganga", "Yamuna", "Saraswati", "Godavari"],
+      "correct_answer": "Ganga",
+      "solution": "The Ganga is often referred to as the 'Holy River' in India, revered in Hinduism."
+    },
+    {
+      "question": "Which state is known for the dance form 'Kathakali'?",
+      "options": ["Kerala", "Odisha", "Punjab", "Bihar"],
+      "correct_answer": "Kerala",
+      "solution": "Kathakali is a classical dance form that originated in Kerala, known for its elaborate costumes and storytelling."
+    },
+    {
+      "question": "What is the main occupation of people in rural India?",
+      "options": ["Agriculture", "Manufacturing", "Service", "Mining"],
+      "correct_answer": "Agriculture",
+      "solution": "Agriculture is the primary occupation of people in rural India, providing livelihood to a majority of the population."
+    },
+    {
+      "question": "Which is the highest peak in India?",
+      "options": ["K2", "Kangchenjunga", "Nanda Devi", "Mount Everest"],
+      "correct_answer": "Kangchenjunga",
+      "solution": "Kangchenjunga, located on the India-Nepal border, is the highest peak in India at 8,586 meters."
+    },
+    {
+      "question": "Which Indian state is known as the 'Land of the Rising Sun'?",
+      "options": ["Arunachal Pradesh", "Assam", "Nagaland", "Manipur"],
+      "correct_answer": "Arunachal Pradesh",
+      "solution": "Arunachal Pradesh is referred to as the 'Land of the Rising Sun' because it is the easternmost state in India."
+    },
+    {
+      "question": "Which is the largest lake in India?",
+      "options": ["Vembanad Lake", "Sambhar Lake", "Chilika Lake", "Wular Lake"],
+      "correct_answer": "Vembanad Lake",
+      "solution": "Vembanad Lake is the largest lake in India, located in Kerala, and is known for its backwaters."
+    },
+    {
+      "question": "Which is the most populous state in India?",
+      "options": ["Uttar Pradesh", "Maharashtra", "Bihar", "West Bengal"],
+      "correct_answer": "Uttar Pradesh",
+      "solution": "Uttar Pradesh is the most populous state in India, with a population exceeding 200 million."
+    },
+    {
+      "question": "Which Indian festival is known as the 'Festival of Lights'?",
+      "options": ["Holi", "Diwali", "Eid", "Christmas"],
+      "correct_answer": "Diwali",
+      "solution": "Diwali, also known as the 'Festival of Lights', is celebrated by millions across India, symbolizing the victory of light over darkness."
+    },
+    {
+      "question": "Which is the national animal of India?",
+      "options": ["Lion", "Tiger", "Elephant", "Peacock"],
+      "correct_answer": "Tiger",
+      "solution": "The Tiger is the national animal of India, symbolizing strength and grace."
+    },
+    {
+      "question": "Which is the largest river island in India?",
+      "options": ["Majuli", "Sundarbans", "Dum Duma", "Kakdwip"],
+      "correct_answer": "Majuli",
+      "solution": "Majuli is the largest river island in India, located in the Brahmaputra River in Assam."
+    },
+    {
+      "question": "Which state is famous for its 'Golden Temple'?",
+      "options": ["Uttar Pradesh", "Punjab", "Haryana", "Rajasthan"],
+      "correct_answer": "Punjab",
+      "solution": "The Golden Temple, also known as Harmandir Sahib, is located in Amritsar, Punjab, and is a sacred site for Sikhs."
+    },
+    {
+      "question": "Which is the main crop of India?",
+      "options": ["Wheat", "Rice", "Sugarcane", "Cotton"],
+      "correct_answer": "Rice",
+      "solution": "Rice is the main crop of India, serving as a staple food for a large part of the population."
+    },
+    {
+      "question": "Which Indian state is known for its biodiversity and wildlife sanctuaries?",
+      "options": ["Uttarakhand", "Madhya Pradesh", "Kerala", "Rajasthan"],
+      "correct_answer": "Madhya Pradesh",
+      "solution": "Madhya Pradesh is known for its rich biodiversity and numerous wildlife sanctuaries, including Kanha and Bandhavgarh."
+    },
+    {
+      "question": "What is the primary source of livelihood for coastal communities in India?",
+      "options": ["Agriculture", "Fishing", "Tourism", "Mining"],
+      "correct_answer": "Fishing",
+      "solution": "Fishing is the primary source of livelihood for many coastal communities in India, providing food and income."
+    },
+    {
+      "question": "Which Indian state is famous for its silk production?",
+      "options": ["Karnataka", "Tamil Nadu", "Assam", "West Bengal"],
+      "correct_answer": "Karnataka",
+      "solution": "Karnataka is famous for its silk production, particularly in the city of Mysore, known for its silk sarees."
+    }
+  ]

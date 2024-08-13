@@ -1,0 +1,176 @@
+[
+    {
+    "question": "Which of the following is the largest continent in the world?",
+    "options": ["Asia", "Africa", "Europe", "North America"],
+    "correct_answer": "Asia",
+    "solution": "Asia is the largest continent in the world, covering an area of about 17,212,000 square miles (44,579,000 square kilometers)."
+    },
+    {
+    "question": "What is the total number of continents on Earth?",
+    "options": ["5", "6", "7", "8"],
+    "correct_answer": "7",
+    "solution": "There are 7 continents on Earth: Asia, Africa, Europe, North America, South America, Australia, and Antarctica."
+    },
+    {
+    "question": "Which of the following is the smallest continent in the world?",
+    "options": ["Asia", "Africa", "Europe", "Australia"],
+    "correct_answer": "Australia",
+    "solution": "Australia is the smallest continent in the world, covering an area of about 2,941,300 square miles (7,618,500 square kilometers)."
+    },
+    {
+    "question": "Which of the following is the largest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correct_answer": "Pacific Ocean",
+    "solution": "The Pacific Ocean is the largest ocean in the world, covering an area of about 63,800,000 square miles (165,250,000 square kilometers)."
+    },
+    {
+    "question": "What is the total number of oceans on Earth?",
+    "options": ["3", "4", "5", "7"],
+    "correct_answer": "5",
+    "solution": "There are 5 oceans on Earth: Pacific Ocean, Atlantic Ocean, Indian Ocean, Arctic Ocean, and Southern Ocean."
+    },
+    {
+    "question": "Which of the following is the smallest ocean in the world?",
+    "options": ["Pacific Ocean", "Atlantic Ocean", "Indian Ocean", "Arctic Ocean"],
+    "correct_answer": "Arctic Ocean",
+    "solution": "The Arctic Ocean is the smallest ocean in the world, covering an area of about 5,400,000 square miles (14,056,000 square kilometers)."
+    },
+    {
+    "question": "What is the name of the imaginary line that divides the Earth into two equal halves?",
+    "options": ["Equator", "Prime Meridian", "Tropic of Cancer", "Tropic of Capricorn"],
+    "correct_answer": "Equator",
+    "solution": "The Equator is the imaginary line that divides the Earth into two equal halves, running east-west and passing through the middle of the Earth."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs from the North Pole to the South Pole?",
+    "options": ["Equator", "Prime Meridian", "International Date Line", "Longitude"],
+    "correct_answer": "Prime Meridian",
+    "solution": "The Prime Meridian is the imaginary line that runs from the North Pole to the South Pole, passing through Greenwich, England. It is used as the reference point for measuring longitude."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs from the North Pole to the South Pole, perpendicular to the Equator?",
+    "options": ["Equator", "Prime Meridian", "International Date Line", "Longitude"],
+    "correct_answer": "Longitude",
+    "solution": "Longitude is the imaginary line that runs from the North Pole to the South Pole, perpendicular to the Equator. It is used to measure the east-west position of a point on the Earth's surface."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the North Pole?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Arctic Circle",
+    "solution": "The Arctic Circle is the imaginary line that runs parallel to the Equator, passing through the North Pole. It marks the southernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the South Pole?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Antarctic Circle",
+    "solution": "The Antarctic Circle is the imaginary line that runs parallel to the Equator, passing through the South Pole. It marks the northernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Tropic of Cancer?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Tropic of Cancer",
+    "solution": "The Tropic of Cancer is the imaginary line that runs parallel to the Equator, passing through the Tropic of Cancer. It marks the northernmost point where the sun is directly overhead during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Tropic of Capricorn?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Tropic of Capricorn",
+    "solution": "The Tropic of Capricorn is the imaginary line that runs parallel to the Equator, passing through the Tropic of Capricorn. It marks the southernmost point where the sun is directly overhead during the winter solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Arctic Circle?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Arctic Circle",
+    "solution": "The Arctic Circle is the imaginary line that runs parallel to the Equator, passing through the Arctic Circle. It marks the southernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Antarctic Circle?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Antarctic Circle",
+    "solution": "The Antarctic Circle is the imaginary line that runs parallel to the Equator, passing through the Antarctic Circle. It marks the northernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the North Pole?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Arctic Circle",
+    "solution": "The Arctic Circle is the imaginary line that runs parallel to the Equator, passing through the North Pole. It marks the southernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the South Pole?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Antarctic Circle",
+    "solution": "The Antarctic Circle is the imaginary line that runs parallel to the Equator, passing through the South Pole. It marks the northernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Tropic of Cancer?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Tropic of Cancer",
+    "solution": "The Tropic of Cancer is the imaginary line that runs parallel to the Equator, passing through the Tropic of Cancer. It marks the northernmost point where the sun is directly overhead during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Tropic of Capricorn?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Tropic of Capricorn",
+    "solution": "The Tropic of Capricorn is the imaginary line that runs parallel to the Equator, passing through the Tropic of Capricorn. It marks the southernmost point where the sun is directly overhead during the winter solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Arctic Circle?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Arctic Circle",
+    "solution": "The Arctic Circle is the imaginary line that runs parallel to the Equator, passing through the Arctic Circle. It marks the southernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Antarctic Circle?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Antarctic Circle",
+    "solution": "The Antarctic Circle is the imaginary line that runs parallel to the Equator, passing through the Antarctic Circle. It marks the northernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the North Pole?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Arctic Circle",
+    "solution": "The Arctic Circle is the imaginary line that runs parallel to the Equator, passing through the North Pole. It marks the southernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the South Pole?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Antarctic Circle",
+    "solution": "The Antarctic Circle is the imaginary line that runs parallel to the Equator, passing through the South Pole. It marks the northernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Tropic of Cancer?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Tropic of Cancer",
+    "solution": "The Tropic of Cancer is the imaginary line that runs parallel to the Equator, passing through the Tropic of Cancer. It marks the northernmost point where the sun is directly overhead during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Tropic of Capricorn?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Tropic of Capricorn",
+    "solution": "The Tropic of Capricorn is the imaginary line that runs parallel to the Equator, passing through the Tropic of Capricorn. It marks the southernmost point where the sun is directly overhead during the winter solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Arctic Circle?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Arctic Circle",
+    "solution": "The Arctic Circle is the imaginary line that runs parallel to the Equator, passing through the Arctic Circle. It marks the southernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the Antarctic Circle?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Antarctic Circle",
+    "solution": "The Antarctic Circle is the imaginary line that runs parallel to the Equator, passing through the Antarctic Circle. It marks the northernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the North Pole?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Arctic Circle",
+    "solution": "The Arctic Circle is the imaginary line that runs parallel to the Equator, passing through the North Pole. It marks the southernmost point where the sun is visible for 24 hours during the summer solstice."
+    },
+    {
+    "question": "What is the name of the imaginary line that runs parallel to the Equator, passing through the South Pole?",
+    "options": ["Arctic Circle", "Tropic of Cancer", "Tropic of Capricorn", "Antarctic Circle"],
+    "correct_answer": "Antarctic Circle",
+    "solution": "The Antarctic Circle is the imaginary line that runs parallel to the Equator, passing through the South Pole. It marks the northernmost point where the sun is visible for 24 hours during the summer solstice."
+    }
+    ]

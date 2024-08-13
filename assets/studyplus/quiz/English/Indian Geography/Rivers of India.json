@@ -1,0 +1,158 @@
+[
+    {
+      "question": "Which river is known as the 'Sorrow of Bihar'?",
+      "options": ["Brahmaputra", "Yamuna", "Kosi", "Kaveri"],
+      "correct_answer": "Kosi",
+      "solution": "The Kosi River is known as the 'Sorrow of Bihar' due to its frequent flooding, which affects thousands of lives and disrupts agriculture."
+    },
+    {
+      "question": "Which river originates from the Gangotri Glacier?",
+      "options": ["Godavari", "Ganges", "Narmada", "Krishna"],
+      "correct_answer": "Ganges",
+      "solution": "The Ganges River originates from the Gangotri Glacier in the Himalayas and flows through northern India."
+    },
+    {
+      "question": "Which river is also known as Dakshin Ganga?",
+      "options": ["Ganges", "Yamuna", "Godavari", "Brahmaputra"],
+      "correct_answer": "Godavari",
+      "solution": "The Godavari River is referred to as Dakshin Ganga, meaning 'Ganga of the South', and is the largest river in peninsular India."
+    },
+    {
+      "question": "The river which forms the famous Jog Falls is:",
+      "options": ["Krishna", "Tungabhadra", "Cauvery", "Sharavati"],
+      "correct_answer": "Sharavati",
+      "solution": "Jog Falls is created by the Sharavati River, which drops 253 m, making it one of the highest waterfalls in India."
+    },
+    {
+      "question": "Which river is known as the 'Lifeline of Gujarat'?",
+      "options": ["Narmada", "Tapi", "Mahi", "Sabarmati"],
+      "correct_answer": "Narmada",
+      "solution": "The Narmada River is often called the 'Lifeline of Gujarat' due to its significance for irrigation and water supply in the region."
+    },
+    {
+      "question": "Which river is the longest in India?",
+      "options": ["Ganges", "Godavari", "Brahmaputra", "Yamuna"],
+      "correct_answer": "Ganges",
+      "solution": "The Ganges is the longest river in India, flowing approximately 2,525 kilometers from its source at the Gangotri Glacier."
+    },
+    {
+      "question": "Which river is known as the 'Ganga of the South'?",
+      "options": ["Yamuna", "Brahmaputra", "Godavari", "Narmada"],
+      "correct_answer": "Godavari",
+      "solution": "The Godavari River is referred to as the 'Ganga of the South' due to its cultural and economic significance."
+    },
+    {
+      "question": "The confluence of three rivers is called a:",
+      "options": ["Delta", "Tributary", "Estuary", "Sangam"],
+      "correct_answer": "Sangam",
+      "solution": "The term 'Sangam' refers to the confluence of three rivers, a significant cultural and geographical feature in India."
+    },
+    {
+      "question": "Which river is known for the majestic Sardar Sarovar Dam?",
+      "options": ["Narmada", "Tapi", "Mahi", "Sabarmati"],
+      "correct_answer": "Narmada",
+      "solution": "The Sardar Sarovar Dam is built on the Narmada River, which plays a crucial role in irrigation and hydroelectric power generation."
+    },
+    {
+      "question": "Which river is referred to as the 'Tsangpo' in Tibet?",
+      "options": ["Ganges", "Brahmaputra", "Yamuna", "Godavari"],
+      "correct_answer": "Brahmaputra",
+      "solution": "The Brahmaputra River is known as 'Tsangpo' in Tibet and is one of the major rivers of Asia."
+    },
+    {
+      "question": "Which river is the main tributary of the Ganges?",
+      "options": ["Yamuna", "Brahmaputra", "Godavari", "Krishna"],
+      "correct_answer": "Yamuna",
+      "solution": "The Yamuna River is the main tributary of the Ganges, contributing significantly to its water flow."
+    },
+    {
+      "question": "Which river is known for its frequent floods in West Bengal?",
+      "options": ["Ganges", "Brahmaputra", "Mahanadi", "Damodar"],
+      "correct_answer": "Damodar",
+      "solution": "The Damodar River is infamous for its floods, earning it the nickname 'Sorrow of Bengal'."
+    },
+    {
+      "question": "The river which is also known as the 'Lifeline of Punjab' is:",
+      "options": ["Indus", "Ravi", "Beas", "Chenab"],
+      "correct_answer": "Ravi",
+      "solution": "The Ravi River is often referred to as the 'Lifeline of Punjab' due to its importance for irrigation and agriculture."
+    },
+    {
+      "question": "Which river is the main source of water for the Sundarbans mangrove forest?",
+      "options": ["Ganga", "Mahanadi", "Krishna", "Brahmaputra"],
+      "correct_answer": "Brahmaputra",
+      "solution": "The Brahmaputra River is a major source of water for the Sundarbans, supporting its unique ecosystem."
+    },
+    {
+      "question": "Which river is known for the famous Kaveri Water Disputes?",
+      "options": ["Godavari", "Krishna", "Kaveri", "Narmada"],
+      "correct_answer": "Kaveri",
+      "solution": "The Kaveri River has been the center of significant water disputes between the states of Karnataka and Tamil Nadu."
+    },
+    {
+      "question": "Which river flows through the city of Varanasi?",
+      "options": ["Ganges", "Yamuna", "Saraswati", "Brahmaputra"],
+      "correct_answer": "Ganges",
+      "solution": "The Ganges River flows through Varanasi, a city considered sacred in Hinduism."
+    },
+    {
+      "question": "Which river is known for its delta formed at the Bay of Bengal?",
+      "options": ["Ganges", "Brahmaputra", "Mahanadi", "Godavari"],
+      "correct_answer": "Ganges",
+      "solution": "The Ganges River forms a vast delta at the Bay of Bengal, known as the Sundarbans Delta."
+    },
+    {
+      "question": "Which river is the main tributary of the Brahmaputra?",
+      "options": ["Teesta", "Yamuna", "Ganges", "Godavari"],
+      "correct_answer": "Teesta",
+      "solution": "The Teesta River is one of the main tributaries of the Brahmaputra, flowing through Sikkim and West Bengal."
+    },
+    {
+      "question": "Which river is known for the famous Hirakud Dam?",
+      "options": ["Mahanadi", "Krishna", "Godavari", "Narmada"],
+      "correct_answer": "Mahanadi",
+      "solution": "The Hirakud Dam is built on the Mahanadi River, which is crucial for irrigation and flood control in Odisha."
+    },
+    {
+      "question": "Which river is the main source of water for the Thar Desert?",
+      "options": ["Indus", "Brahmaputra", "Luni", "Mahanadi"],
+      "correct_answer": "Luni",
+      "solution": "The Luni River is the primary source of water for the Thar Desert region in Rajasthan."
+    },
+    {
+      "question": "Which river is known for the famous Bhakra Nangal Dam?",
+      "options": ["Sutlej", "Beas", "Ravi", "Chenab"],
+      "correct_answer": "Sutlej",
+      "solution": "The Bhakra Nangal Dam is built on the Sutlej River, which is vital for irrigation and hydroelectric power in northern India."
+    },
+    {
+      "question": "Which river is known as the 'Ganges of the South'?",
+      "options": ["Krishna", "Cauvery", "Godavari", "Brahmaputra"],
+      "correct_answer": "Cauvery",
+      "solution": "The Cauvery River is often referred to as the 'Ganges of the South' due to its significance in southern India."
+    },
+    {
+      "question": "Which river is the largest in terms of discharge in India?",
+      "options": ["Ganges", "Brahmaputra", "Godavari", "Krishna"],
+      "correct_answer": "Brahmaputra",
+      "solution": "The Brahmaputra River has the largest discharge among Indian rivers, making it one of the most powerful rivers in the world."
+    },
+    {
+      "question": "Which river is known for the famous Koyna Dam?",
+      "options": ["Godavari", "Krishna", "Tapi", "Mahi"],
+      "correct_answer": "Krishna",
+      "solution": "The Koyna Dam is built on the Krishna River, which is crucial for irrigation and hydroelectric power in Maharashtra."
+    },
+    {
+      "question": "Which river is known for the famous Pamba River?",
+      "options": ["Kaveri", "Godavari", "Krishna", "Yamuna"],
+      "correct_answer": "Kaveri",
+      "solution": "The Pamba River is a tributary of the Kaveri and is significant for the Sabarimala pilgrimage in Kerala."
+    },
+    {
+      "question": "Which river is known for its sacred significance in Hinduism?",
+      "options": ["Ganges", "Brahmaputra", "Yamuna", "Godavari"],
+      "correct_answer": "Ganges",
+      "solution": "The Ganges River is considered sacred in Hinduism, and many rituals and ceremonies are performed along its banks."
+    }
+  ]

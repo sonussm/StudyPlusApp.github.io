@@ -1,0 +1,182 @@
+[
+    {
+    "question": "Which of the following gases makes up the largest percentage of the Earth's atmosphere?",
+    "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Water vapor"],
+    "correct_answer": "Nitrogen",
+    "solution": "Nitrogen makes up approximately 78% of the Earth's atmosphere by volume."
+    },
+    {
+    "question": "What is the primary cause of acid rain?",
+    "options": ["Sulfur dioxide and nitrogen oxides", "Carbon monoxide", "Methane", "Ozone"],
+    "correct_answer": "Sulfur dioxide and nitrogen oxides",
+    "solution": "Sulfur dioxide and nitrogen oxides released from the burning of fossil fuels are the main causes of acid rain."
+    },
+    {
+    "question": "Which of the following is a greenhouse gas?",
+    "options": ["Oxygen", "Nitrogen", "Argon", "Carbon dioxide"],
+    "correct_answer": "Carbon dioxide",
+    "solution": "Carbon dioxide is a greenhouse gas that absorbs and emits infrared radiation, contributing to the greenhouse effect and global warming."
+    },
+    {
+    "question": "What is the main source of freshwater on Earth?",
+    "options": ["Oceans", "Groundwater", "Glaciers and ice caps", "Lakes and rivers"],
+    "correct_answer": "Glaciers and ice caps",
+    "solution": "Glaciers and ice caps contain the largest amount of freshwater on Earth, accounting for approximately 69% of the world's freshwater resources."
+    },
+    {
+    "question": "Which of the following is a major cause of water pollution?",
+    "options": ["Pesticides", "Industrial waste", "Sewage", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Pesticides, industrial waste, and sewage are all major contributors to water pollution, as they introduce harmful chemicals, heavy metals, and pathogens into water bodies."
+    },
+    {
+    "question": "What is the process by which water evaporates from the Earth's surface and condenses in the atmosphere?",
+    "options": ["Transpiration", "Infiltration", "Percolation", "The water cycle"],
+    "correct_answer": "The water cycle",
+    "solution": "The water cycle, also known as the hydrologic cycle, is the continuous movement of water on, above, and below the Earth's surface, driven by the sun's energy and gravity."
+    },
+    {
+    "question": "Which of the following is a characteristic of alluvial soil?",
+    "options": ["High fertility", "Coarse texture", "Low water-holding capacity", "Poor drainage"],
+    "correct_answer": "High fertility",
+    "solution": "Alluvial soils are known for their high fertility due to the presence of a large amount of organic matter and nutrients deposited by rivers during floods."
+    },
+    {
+    "question": "What is the main component of soil?",
+    "options": ["Organic matter", "Water", "Air", "Minerals"],
+    "correct_answer": "Minerals",
+    "solution": "Minerals make up the largest component of soil, typically accounting for 45-50% of its composition."
+    },
+    {
+    "question": "Which of the following is a type of soil erosion?",
+    "options": ["Leaching", "Compaction", "Salinization", "Sheet erosion"],
+    "correct_answer": "Sheet erosion",
+    "solution": "Sheet erosion is a type of water erosion where a thin layer of soil is removed from the surface by the uniform flow of water."
+    },
+    {
+    "question": "What is the main purpose of soil conservation?",
+    "options": ["Increasing soil fertility", "Preventing soil erosion", "Improving water infiltration", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "The main purposes of soil conservation are to prevent soil erosion, maintain soil fertility, improve water infiltration, and ensure sustainable land use."
+    },
+    {
+    "question": "Which of the following is a method of soil conservation?",
+    "options": ["Terracing", "Crop rotation", "Cover cropping", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Terracing, crop rotation, and cover cropping are all effective methods of soil conservation that help prevent erosion and maintain soil health."
+    },
+    {
+    "question": "What is the main purpose of a windbreak?",
+    "options": ["Reducing wind erosion", "Increasing soil moisture", "Providing shade for crops", "Attracting wildlife"],
+    "correct_answer": "Reducing wind erosion",
+    "solution": "The primary purpose of a windbreak, which is a row of trees or shrubs planted to block wind, is to reduce wind erosion and protect crops and soil from the damaging effects of strong winds."
+    },
+    {
+    "question": "Which of the following is a characteristic of black soil?",
+    "options": ["High water-holding capacity", "Low fertility", "Coarse texture", "Poor drainage"],
+    "correct_answer": "High water-holding capacity",
+    "solution": "Black soil, also known as Regur soil, is characterized by its high water-holding capacity due to its fine texture and high clay content."
+    },
+    {
+    "question": "What is the main cause of soil salinization?",
+    "options": ["Excessive irrigation", "Deforestation", "Overgrazing", "Soil erosion"],
+    "correct_answer": "Excessive irrigation",
+    "solution": "Soil salinization, the accumulation of soluble salts in the soil, is primarily caused by excessive irrigation, especially in arid and semi-arid regions where evaporation exceeds precipitation."
+    },
+    {
+    "question": "Which of the following is a method of water conservation?",
+    "options": ["Rainwater harvesting", "Drip irrigation", "Mulching", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Rainwater harvesting, drip irrigation, and mulching are all effective methods of water conservation that help reduce water usage and improve water efficiency in agriculture."
+    },
+    {
+    "question": "What is the main purpose of a wetland?",
+    "options": ["Flood control", "Groundwater recharge", "Wildlife habitat", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Wetlands serve multiple purposes, including flood control, groundwater recharge, and providing habitat for a diverse array of plant and animal species."
+    },
+    {
+    "question": "Which of the following is a characteristic of desert soil?",
+    "options": ["High organic matter content", "High fertility", "Poor water-holding capacity", "Thick vegetation"],
+    "correct_answer": "Poor water-holding capacity",
+    "solution": "Desert soils are characterized by their poor water-holding capacity due to the low organic matter content and coarse texture, which makes them unsuitable for agriculture without irrigation."
+    },
+    {
+    "question": "What is the main cause of groundwater depletion?",
+    "options": ["Excessive pumping", "Drought", "Pollution", "Overuse of fertilizers"],
+    "correct_answer": "Excessive pumping",
+    "solution": "Groundwater depletion is primarily caused by excessive pumping of groundwater for irrigation, industrial use, and domestic purposes, which exceeds the natural recharge rate."
+    },
+    {
+    "question": "Which of the following is a characteristic of laterite soil?",
+    "options": ["High fertility", "Acidic nature", "Coarse texture", "High water-holding capacity"],
+    "correct_answer": "Acidic nature",
+    "solution": "Laterite soils are characterized by their acidic nature due to the leaching of bases and the accumulation of iron and aluminum oxides, which makes them less suitable for agriculture without proper management."
+    },
+    {
+    "question": "What is the main purpose of a check dam?",
+    "options": ["Flood control", "Groundwater recharge", "Soil erosion control", "Irrigation"],
+    "correct_answer": "Groundwater recharge",
+    "solution": "The primary purpose of a check dam is to slow down the flow of water and allow it to percolate into the ground, thereby recharging groundwater resources and reducing soil erosion."
+    },
+    {
+    "question": "Which of the following is a method of air pollution control?",
+    "options": ["Scrubbers", "Catalytic converters", "Electrostatic precipitators", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Scrubbers, catalytic converters, and electrostatic precipitators are all effective methods of air pollution control that help remove harmful pollutants from industrial emissions and vehicle exhaust."
+    },
+    {
+    "question": "What is the main purpose of a sewage treatment plant?",
+    "options": ["Removing pathogens", "Reducing organic matter", "Removing nutrients", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "The main purposes of a sewage treatment plant are to remove pathogens, reduce organic matter, and remove nutrients like nitrogen and phosphorus from wastewater before it is discharged into water bodies."
+    },
+    {
+    "question": "Which of the following is a characteristic of red soil?",
+    "options": ["High fertility", "Fine texture", "High water-holding capacity", "Presence of iron oxide"],
+    "correct_answer": "Presence of iron oxide",
+    "solution": "Red soils derive their color from the presence of iron oxide, which is formed by the weathering of underlying rocks rich in iron."
+    },
+    {
+    "question": "What is the main purpose of a green belt?",
+    "options": ["Reducing noise pollution", "Improving air quality", "Providing habitat for wildlife", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "A green belt, which is a strip of land planted with trees and vegetation, serves multiple purposes, including reducing noise pollution, improving air quality by absorbing pollutants, and providing habitat for wildlife."
+    },
+    {
+    "question": "Which of the following is a characteristic of alluvial soil?",
+    "options": ["High fertility", "Coarse texture", "Low water-holding capacity", "Poor drainage"],
+    "correct_answer": "High fertility",
+    "solution": "Alluvial soils are known for their high fertility due to the presence of a large amount of organic matter and nutrients deposited by rivers during floods."
+    },
+    {
+    "question": "What is the main purpose of a wetland?",
+    "options": ["Flood control", "Groundwater recharge", "Wildlife habitat", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Wetlands serve multiple purposes, including flood control, groundwater recharge, and providing habitat for a diverse array of plant and animal species."
+    },
+    {
+    "question": "Which of the following is a method of soil conservation?",
+    "options": ["Terracing", "Crop rotation", "Cover cropping", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Terracing, crop rotation, and cover cropping are all effective methods of soil conservation that help prevent erosion and maintain soil health."
+    },
+    {
+    "question": "What is the main cause of groundwater depletion?",
+    "options": ["Excessive pumping", "Drought", "Pollution", "Overuse of fertilizers"],
+    "correct_answer": "Excessive pumping",
+    "solution": "Groundwater depletion is primarily caused by excessive pumping of groundwater for irrigation, industrial use, and domestic purposes, which exceeds the natural recharge rate."
+    },
+    {
+    "question": "Which of the following is a characteristic of black soil?",
+    "options": ["High water-holding capacity", "Low fertility", "Coarse texture", "Poor drainage"],
+    "correct_answer": "High water-holding capacity",
+    "solution": "Black soil, also known as Regur soil, is characterized by its high water-holding capacity due to its fine texture and high clay content."
+    },
+    {
+    "question": "What is the main purpose of a green belt?",
+    "options": ["Reducing noise pollution", "Improving air quality", "Providing habitat for wildlife", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "A green belt, which is a strip of land planted with trees and vegetation, serves multiple purposes, including reducing noise pollution, improving air quality by absorbing pollutants, and providing habitat for wildlife."
+    }
+    ]
