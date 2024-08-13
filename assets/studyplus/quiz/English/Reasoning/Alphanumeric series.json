@@ -1,0 +1,176 @@
+[
+    {
+      "question": "What comes next in the series: A1, B2, C3, D4, ?",
+      "options": ["E5", "F6", "G7", "H8"],
+      "correct_answer": "E5",
+      "solution": "The series follows a pattern where each letter is followed by its corresponding position number in the alphabet."
+    },
+    {
+      "question": "What comes next in the series: 1A, 2B, 3C, 4D, ?",
+      "options": ["5E", "6F", "7G", "8H"],
+      "correct_answer": "5E",
+      "solution": "The series alternates between numbers increasing by 1 and letters following the sequence of the alphabet."
+    },
+    {
+      "question": "Which of the following is missing in the series: A1, C3, E5, ?",
+      "options": ["G7", "F6", "H8", "I9"],
+      "correct_answer": "G7",
+      "solution": "The series skips one letter and increases the number by 2 each time."
+    },
+    {
+      "question": "What comes next in the series: Z26, Y25, X24, ?",
+      "options": ["W23", "V22", "U21", "T20"],
+      "correct_answer": "W23",
+      "solution": "The series decreases the letter by one and the number by one."
+    },
+    {
+      "question": "Identify the next element: A@1, B#2, C$3, ?",
+      "options": ["D%4", "E^5", "F&6", "G*7"],
+      "correct_answer": "D%4",
+      "solution": "The series alternates letters with symbols and numbers increasing by one."
+    },
+    {
+      "question": "What comes next in the series: 5A, 10B, 15C, ?",
+      "options": ["20D", "25E", "30F", "35G"],
+      "correct_answer": "20D",
+      "solution": "The number increases by 5 while the letter progresses sequentially."
+    },
+    {
+      "question": "Fill in the blank: 1A, 3C, 5E, ?",
+      "options": ["7G", "6F", "8H", "9I"],
+      "correct_answer": "7G",
+      "solution": "The series consists of odd numbers followed by the corresponding letters."
+    },
+    {
+      "question": "What follows: A1, B2, C3, D4, E5, ?",
+      "options": ["F6", "G7", "H8", "I9"],
+      "correct_answer": "F6",
+      "solution": "The pattern continues with the next letter and number."
+    },
+    {
+      "question": "What is the next in the series: 2B, 4D, 6F, ?",
+      "options": ["8H", "10J", "12K", "14L"],
+      "correct_answer": "8H",
+      "solution": "The numbers increase by 2 and the letters follow the sequence of the alphabet."
+    },
+    {
+      "question": "What comes next: 1A, 4D, 7G, ?",
+      "options": ["10J", "11K", "12L", "13M"],
+      "correct_answer": "10J",
+      "solution": "The numbers increase by 3 and the letters follow the alphabetical order."
+    },
+    {
+      "question": "Identify the missing element: A2, C4, E6, ?",
+      "options": ["G8", "H9", "F7", "I10"],
+      "correct_answer": "G8",
+      "solution": "The series consists of letters increasing by 2 and numbers increasing by 2."
+    },
+    {
+      "question": "What is the next in the series: 9Z, 8Y, 7X, ?",
+      "options": ["6W", "5V", "4U", "3T"],
+      "correct_answer": "6W",
+      "solution": "The letters decrease while the numbers decrease by 1."
+    },
+    {
+      "question": "What follows in the series: A1, B2, C3, D4, E5, F6, ?",
+      "options": ["G7", "H8", "I9", "J10"],
+      "correct_answer": "G7",
+      "solution": "The series continues with the next letter and number."
+    },
+    {
+      "question": "What comes next in the series: 1A, 2B, 3C, 4D, 5E, ?",
+      "options": ["6F", "7G", "8H", "9I"],
+      "correct_answer": "6F",
+      "solution": "The pattern follows the sequence of numbers and letters."
+    },
+    {
+      "question": "Identify the next element: 3C, 6F, 9I, ?",
+      "options": ["12L", "15O", "18R", "21U"],
+      "correct_answer": "12L",
+      "solution": "The numbers increase by 3 and the letters follow the alphabetical order."
+    },
+    {
+      "question": "What is the next in the series: 2A, 4B, 6C, ?",
+      "options": ["8D", "10E", "12F", "14G"],
+      "correct_answer": "8D",
+      "solution": "The numbers increase by 2 while the letters progress sequentially."
+    },
+    {
+      "question": "What follows in the series: A1, C3, E5, ?",
+      "options": ["G7", "H8", "F6", "I9"],
+      "correct_answer": "G7",
+      "solution": "The series consists of letters skipping one and numbers increasing by 2."
+    },
+    {
+      "question": "What comes next: 5B, 10D, 15F, ?",
+      "options": ["20H", "25J", "30K", "35L"],
+      "correct_answer": "20H",
+      "solution": "The numbers increase by 5 and the letters follow the sequence of the alphabet."
+    },
+    {
+      "question": "Identify the missing element: A1, B2, C3, D4, E5, F6, ?",
+      "options": ["G7", "H8", "I9", "J10"],
+      "correct_answer": "G7",
+      "solution": "The series continues with the next letter and number."
+    },
+    {
+      "question": "What is the next in the series: 1A, 3C, 5E, ?",
+      "options": ["7G", "8H", "9I", "10J"],
+      "correct_answer": "7G",
+      "solution": "The numbers increase by 2 and the letters follow the alphabetical order."
+    },
+    {
+      "question": "What follows in the series: 2B, 4D, 6F, ?",
+      "options": ["8H", "10J", "12K", "14L"],
+      "correct_answer": "8H",
+      "solution": "The numbers increase by 2 and the letters follow the sequence of the alphabet."
+    },
+    {
+      "question": "What comes next: Z26, Y25, X24, ?",
+      "options": ["W23", "V22", "U21", "T20"],
+      "correct_answer": "W23",
+      "solution": "The letters decrease while the numbers decrease by 1."
+    },
+    {
+      "question": "Identify the next element: A@1, B#2, C$3, ?",
+      "options": ["D%4", "E^5", "F&6", "G*7"],
+      "correct_answer": "D%4",
+      "solution": "The series alternates letters with symbols and numbers increasing by one."
+    },
+    {
+      "question": "What follows in the series: 1A, 2B, 3C, 4D, 5E, ?",
+      "options": ["6F", "7G", "8H", "9I"],
+      "correct_answer": "6F",
+      "solution": "The pattern follows the sequence of numbers and letters."
+    },
+    {
+      "question": "What is the next in the series: 1A, 2B, 3C, 4D, 5E, ?",
+      "options": ["6F", "7G", "8H", "9I"],
+      "correct_answer": "6F",
+      "solution": "The series continues with the next letter and number."
+    },
+    {
+      "question": "Identify the missing element: 1A, 3C, 5E, ?",
+      "options": ["7G", "8H", "9I", "10J"],
+      "correct_answer": "7G",
+      "solution": "The series consists of letters skipping one and numbers increasing by 2."
+    },
+    {
+      "question": "What is the next in the series: 2B, 4D, 6F, ?",
+      "options": ["8H", "10J", "12K", "14L"],
+      "correct_answer": "8H",
+      "solution": "The numbers increase by 2 and the letters follow the sequence of the alphabet."
+    },
+    {
+      "question": "What follows in the series: 9Z, 8Y, 7X, ?",
+      "options": ["6W", "5V", "4U", "3T"],
+      "correct_answer": "6W",
+      "solution": "The letters decrease while the numbers decrease by 1."
+    },
+    {
+      "question": "What comes next: A1, B2, C3, D4, E5, ?",
+      "options": ["F6", "G7", "H8", "I9"],
+      "correct_answer": "F6",
+      "solution": "The series continues with the next letter and number."
+    }
+  ]

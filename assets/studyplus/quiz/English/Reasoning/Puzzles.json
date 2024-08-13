@@ -1,1 +1,152 @@
-
+[
+    {
+      "question": "In a family of six members A, B, C, D, E, and F, there are two married couples. A is a teacher and is married to B. C is the doctor and is the brother of D. E is the sister of A. F is the mother of D. How is E related to C?",
+      "options": ["Sister", "Aunt", "Mother", "Sister-in-law"],
+      "correct_answer": "Sister-in-law",
+      "solution": "E is the sister of A, who is married to B. Since C is the brother of D, E is C's sister-in-law."
+    },
+    {
+      "question": "Five friends A, B, C, D, and E are sitting in a row. A is sitting to the left of B. C is sitting to the right of D. E is sitting at the end of the row. Who is sitting in the middle?",
+      "options": ["A", "B", "C", "D"],
+      "correct_answer": "B",
+      "solution": "The arrangement is D, C, B, A, E. B is in the middle."
+    },
+    {
+      "question": "There are three boxes: one contains only apples, one contains only oranges, and one contains both apples and oranges. All boxes are labeled incorrectly. You can open one box and take out one fruit. How can you label all boxes correctly?",
+      "options": ["Open the box labeled 'Apples and Oranges'", "Open the box labeled 'Oranges'", "Open the box labeled 'Apples'", "Open any box"],
+      "correct_answer": "Open the box labeled 'Apples and Oranges'",
+      "solution": "Since all boxes are labeled incorrectly, opening the box labeled 'Apples and Oranges' will give you either an apple or an orange. You can then deduce the correct labels for all boxes."
+    },
+    {
+      "question": "A clock shows the time as 3:15. What is the angle between the hour and the minute hand?",
+      "options": ["30 degrees", "45 degrees", "52.5 degrees", "90 degrees"],
+      "correct_answer": "52.5 degrees",
+      "solution": "The angle is calculated as |(30*hour - (11/2)*minutes)| = |(30*3 - (11/2)*15)| = |90 - 82.5| = 7.5 degrees."
+    },
+    {
+      "question": "If A is taller than B, and B is taller than C, who is the shortest?",
+      "options": ["A", "B", "C", "Cannot be determined"],
+      "correct_answer": "C",
+      "solution": "Since A > B > C, C is the shortest."
+    },
+    {
+      "question": "In a certain code language, 'CAT' is written as '3120'. How is 'DOG' written in that language?",
+      "options": ["4157", "4156", "4158", "4160"],
+      "correct_answer": "4157",
+      "solution": "In the code, C=3, A=1, T=20. Therefore, D=4, O=15, G=7, which gives 'DOG' as 4157."
+    },
+    {
+      "question": "A man is looking at a picture of someone. His friend asks him, 'Whose picture are you looking at?' The man replies, 'Brothers and sisters, I have none. But that man's father is my father's son.' Who is in the picture?",
+      "options": ["His son", "His brother", "Himself", "His father"],
+      "correct_answer": "His son",
+      "solution": "The man is referring to his son when he says 'my father's son'."
+    },
+    {
+      "question": "A group of friends is sitting in a circle. If A is to the immediate left of B and C is to the immediate right of A, who is sitting directly opposite A?",
+      "options": ["B", "C", "D", "E"],
+      "correct_answer": "D",
+      "solution": "The arrangement can be visualized, and D is opposite A."
+    },
+    {
+      "question": "A is twice as old as B. If B is 10 years old, how old will A be in 5 years?",
+      "options": ["15", "20", "25", "30"],
+      "correct_answer": "25",
+      "solution": "If B is 10, A is 20. In 5 years, A will be 25."
+    },
+    {
+      "question": "If all roses are flowers and some flowers fade quickly, can we conclude that some roses fade quickly?",
+      "options": ["Yes", "No", "Cannot be determined", "All roses fade quickly"],
+      "correct_answer": "Cannot be determined",
+      "solution": "The information is insufficient to conclude about roses specifically."
+    },
+    {
+      "question": "In a family of four members A, B, C, and D, A is the father of B. C is the mother of B. D is the sister of B. How is D related to A?",
+      "options": ["Daughter", "Son", "Niece", "Sister"],
+      "correct_answer": "Daughter",
+      "solution": "D is the daughter of A."
+    },
+    {
+      "question": "If the first day of the year is a Sunday, what day of the week will it be on the last day of the year?",
+      "options": ["Monday", "Tuesday", "Wednesday", "Sunday"],
+      "correct_answer": "Sunday",
+      "solution": "A non-leap year has 365 days, which is 52 weeks and 1 day, so it will also be a Sunday."
+    },
+    {
+      "question": "A train leaves a station and travels at a speed of 60 km/h. How far will it travel in 2.5 hours?",
+      "options": ["120 km", "150 km", "180 km", "200 km"],
+      "correct_answer": "150 km",
+      "solution": "Distance = Speed × Time = 60 km/h × 2.5 h = 150 km."
+    },
+    {
+      "question": "If you rearrange the letters 'CIFAIPC' you would have the name of a(n):",
+      "options": ["City", "Animal", "Ocean", "Country"],
+      "correct_answer": "Ocean",
+      "solution": "Rearranging the letters gives 'PACIFIC'."
+    },
+    {
+      "question": "In a certain code language, 'HELLO' is coded as 'KHOOR'. What is the code for 'WORLD'?",
+      "options": ["YQTNF", "YQTOF", "YQTOE", "YQTOG"],
+      "correct_answer": "YQTOE",
+      "solution": "Each letter is shifted by 3 positions forward in the alphabet."
+    },
+    {
+      "question": "If 5 cats can catch 5 mice in 5 minutes, how many cats are needed to catch 100 mice in 50 minutes?",
+      "options": ["10", "20", "25", "50"],
+      "correct_answer": "10",
+      "solution": "5 cats catch 5 mice in 5 minutes, so 10 cats can catch 100 mice in 50 minutes."
+    },
+    {
+      "question": "A farmer has 17 sheep, and all but 9 die. How many are left?",
+      "options": ["8", "9", "17", "None"],
+      "correct_answer": "9",
+      "solution": "If all but 9 die, that means 9 sheep are still alive."
+    },
+    {
+      "question": "If a rectangle has a length of 10 cm and a width of 5 cm, what is its area?",
+      "options": ["15 cm²", "25 cm²", "50 cm²", "100 cm²"],
+      "correct_answer": "50 cm²",
+      "solution": "Area = Length × Width = 10 cm × 5 cm = 50 cm²."
+    },
+    {
+      "question": "If you have a basket with 5 apples and you take away 3, how many do you have?",
+      "options": ["2", "3", "5", "8"],
+      "correct_answer": "3",
+      "solution": "You took away 3 apples, so you have 3."
+    },
+    {
+      "question": "If a clock shows 6:00, what is the angle between the hour and minute hands?",
+      "options": ["30 degrees", "180 degrees", "90 degrees", "60 degrees"],
+      "correct_answer": "180 degrees",
+      "solution": "At 6:00, the hands are opposite each other, forming a 180-degree angle."
+    },
+    {
+      "question": "A box contains 5 red balls, 6 blue balls, and 4 green balls. What is the probability of drawing a blue ball?",
+      "options": ["1/5", "1/3", "1/2", "3/5"],
+      "correct_answer": "1/3",
+      "solution": "Total balls = 5 + 6 + 4 = 15. Probability of blue = 6/15 = 1/3."
+    },
+    {
+      "question": "If a person is 20 years old now, how old will they be in 10 years?",
+      "options": ["20", "30", "40", "50"],
+      "correct_answer": "30",
+      "solution": "In 10 years, they will be 30."
+    },
+    {
+      "question": "If a triangle has sides of length 3 cm, 4 cm, and 5 cm, what type of triangle is it?",
+      "options": ["Equilateral", "Isosceles", "Scalene", "Right-angled"],
+      "correct_answer": "Right-angled",
+      "solution": "It follows the Pythagorean theorem, so it is a right-angled triangle."
+    },
+    {
+      "question": "In a class of 30 students, 18 like math, 15 like science, and 10 like both. How many students like only math?",
+      "options": ["8", "10", "15", "18"],
+      "correct_answer": "8",
+      "solution": "Students who like only math = 18 - 10 = 8."
+    },
+    {
+      "question": "If today is Monday, what day will it be in 100 days?",
+      "options": ["Monday", "Tuesday", "Wednesday", "Thursday"],
+      "correct_answer": "Wednesday",
+      "solution": "100 mod 7 = 2, so it will be Wednesday."
+    }
+  ]

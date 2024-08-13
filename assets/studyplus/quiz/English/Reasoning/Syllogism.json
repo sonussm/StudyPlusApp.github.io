@@ -1,0 +1,182 @@
+[
+    {
+      "question": "All cats are animals. Some animals are dogs. Therefore, some cats are dogs.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not necessarily follow as the premises do not establish a direct relationship between cats and dogs."
+    },
+    {
+      "question": "All fruits are sweet. Some sweet things are cakes. Therefore, some fruits are cakes.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow because the premises do not connect fruits directly to cakes."
+    },
+    {
+      "question": "All birds can fly. Some birds are sparrows. Therefore, some sparrows can fly.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion follows logically since all sparrows are included in the category of birds."
+    },
+    {
+      "question": "No mammals are reptiles. All snakes are reptiles. Therefore, no snakes are mammals.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion follows logically from the premises."
+    },
+    {
+      "question": "Some teachers are strict. All strict people are disciplined. Therefore, some teachers are disciplined.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion logically follows from the premises."
+    },
+    {
+      "question": "All students are learners. Some learners are intelligent. Therefore, some students are intelligent.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not necessarily follow as not all students are included in the intelligent category."
+    },
+    {
+      "question": "All cars are vehicles. Some vehicles are electric. Therefore, some cars are electric.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow as the premises do not establish a direct relationship between cars and electric vehicles."
+    },
+    {
+      "question": "No flowers are fruits. Some fruits are apples. Therefore, some apples are not flowers.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion follows logically from the premises."
+    },
+    {
+      "question": "All dogs are pets. Some pets are cats. Therefore, some dogs are cats.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow as the premises do not connect dogs directly to cats."
+    },
+    {
+      "question": "Some athletes are runners. All runners are fit. Therefore, some athletes are fit.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion logically follows from the premises."
+    },
+    {
+      "question": "All pencils are writing instruments. Some writing instruments are pens. Therefore, some pencils are pens.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow as the premises do not establish a direct relationship between pencils and pens."
+    },
+    {
+      "question": "No birds are mammals. Some mammals are dogs. Therefore, some dogs are not birds.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion follows logically from the premises."
+    },
+    {
+      "question": "All squares are rectangles. Some rectangles are blue. Therefore, some squares are blue.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not necessarily follow as not all squares are included in the blue rectangles."
+    },
+    {
+      "question": "All computers are machines. Some machines are old. Therefore, some computers are old.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow as the premises do not connect computers directly to old machines."
+    },
+    {
+      "question": "Some fruits are bananas. All bananas are yellow. Therefore, some fruits are yellow.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion logically follows from the premises."
+    },
+    {
+      "question": "All mammals are warm-blooded. Some warm-blooded animals are birds. Therefore, some mammals are birds.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow as the premises do not connect mammals directly to birds."
+    },
+    {
+      "question": "No cars are bicycles. Some bicycles are fast. Therefore, some fast things are not cars.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion follows logically from the premises."
+    },
+    {
+      "question": "Some teachers are women. All women are human. Therefore, some teachers are human.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion logically follows from the premises."
+    },
+    {
+      "question": "All apples are fruits. Some fruits are red. Therefore, some apples are red.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not necessarily follow as not all apples are included in the red fruits."
+    },
+    {
+      "question": "No fish are mammals. Some mammals are dolphins. Therefore, some dolphins are not fish.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion follows logically from the premises."
+    },
+    {
+      "question": "All birds can sing. Some singing things are loud. Therefore, some birds are loud.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow as the premises do not connect singing birds directly to loud things."
+    },
+    {
+      "question": "Some doctors are women. All women are mothers. Therefore, some doctors are mothers.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not necessarily follow as not all doctors are included in the mothers category."
+    },
+    {
+      "question": "All trees are plants. Some plants are green. Therefore, some trees are green.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not necessarily follow as not all trees are included in the green plants."
+    },
+    {
+      "question": "Some students are hardworking. All hardworking people succeed. Therefore, some students succeed.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion logically follows from the premises."
+    },
+    {
+      "question": "All humans are mortal. Some mortals are wise. Therefore, some humans are wise.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not necessarily follow as not all humans are included in the wise mortals."
+    },
+    {
+      "question": "No cats are dogs. Some dogs are friendly. Therefore, some friendly animals are not cats.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion follows logically from the premises."
+    },
+    {
+      "question": "All cars are vehicles. Some vehicles are fast. Therefore, some cars are fast.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow as the premises do not connect cars directly to fast vehicles."
+    },
+    {
+      "question": "Some flowers are red. All red things are beautiful. Therefore, some flowers are beautiful.",
+      "options": ["True", "False"],
+      "correct_answer": "True",
+      "solution": "The conclusion logically follows from the premises."
+    },
+    {
+      "question": "All teachers are educated. Some educated people are rich. Therefore, some teachers are rich.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not necessarily follow as not all teachers are included in the rich category."
+    },
+    {
+      "question": "All mammals are animals. Some animals are dangerous. Therefore, some mammals are dangerous.",
+      "options": ["True", "False"],
+      "correct_answer": "False",
+      "solution": "The conclusion does not follow as the premises do not connect mammals directly to dangerous animals."
+    }
+  ]

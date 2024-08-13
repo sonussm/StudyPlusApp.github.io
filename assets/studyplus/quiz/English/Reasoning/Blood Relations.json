@@ -1,0 +1,170 @@
+[
+    {
+      "question": "A's mother is the mother-in-law of the father of 'B'. 'B' is the brother of 'C' while 'A' is the father of 'M'. How is 'A' related to 'C'?",
+      "options": ["Uncle", "Father", "Brother", "Grandfather"],
+      "correct_answer": "Uncle",
+      "solution": "A is the uncle of C."
+    },
+    {
+      "question": "A is B's sister. C is B's mother. D is C's father. E is D's mother. Then how is A related to D?",
+      "options": ["Granddaughter", "Daughter", "Sister", "Niece"],
+      "correct_answer": "Granddaughter",
+      "solution": "A is the granddaughter of D."
+    },
+    {
+      "question": "In a certain code language, A + B means ‘A is the Brother’s Wife of B’. A – B means ‘A is the Sister of B’. A × B means ‘A is the Wife of B’. A ÷ B means ‘A is the Daughter of B’. Based on the above, how is G related to Q if ‘G + K – L ÷ M × Q’?",
+      "options": ["Son's wife", "Daughter", "Sister", "Niece"],
+      "correct_answer": "Son's wife",
+      "solution": "G is the son's wife of Q."
+    },
+    {
+      "question": "At a wedding reception, a man called out to his grandfather's son's son's brother. What does that man look like?",
+      "options": ["Brother", "Cousin", "Nephew", "Son"],
+      "correct_answer": "Brother",
+      "solution": "The man is calling his brother."
+    },
+    {
+      "question": "X introduces Y saying, 'He is the husband of the granddaughter of the father of my father'. How is Y related to X?",
+      "options": ["Brother-in-law", "Cousin", "Son", "Nephew"],
+      "correct_answer": "Brother-in-law",
+      "solution": "Y is X's brother-in-law."
+    },
+    {
+      "question": "There are six members, P, Q, R, S, T and U, in a family. T is the brother of P’s husband. U is the mother of T. Q is the daughter of S and P and the granddaughter of R. How is R related to T?",
+      "options": ["Father", "Grandfather", "Uncle", "Brother"],
+      "correct_answer": "Father",
+      "solution": "R is the father of T."
+    },
+    {
+      "question": "Bravo and Priya are siblings. Angel is Kajal's granddaughter, Kajal who is Priya's mother-in-law. Ziva is a married woman and is older than Tim. Tim is the son of Sam who is the brother-in-law of Bravo. How is Bravo related to Ziva?",
+      "options": ["Cousin", "Brother", "Son", "Uncle"],
+      "correct_answer": "Uncle",
+      "solution": "Bravo is Ziva's uncle."
+    },
+    {
+      "question": "If Nicholas said, 'This girl is the wife of the grandson of my mother.' Who is Nicholas to this girl?",
+      "options": ["Father", "Husband", "Grandfather", "Father-in-law"],
+      "correct_answer": "Grandfather",
+      "solution": "Nicholas is the girl's grandfather."
+    },
+    {
+      "question": "If Parth says, 'Shaikh’s mother is the only daughter of my own mother,' how is Parth related to Shaikh?",
+      "options": ["Father", "Brother", "Grandfather", "None of the above"],
+      "correct_answer": "Father",
+      "solution": "Parth is Shaikh's father."
+    },
+    {
+      "question": "The brother of Snehansh is Rajesh. Shreya is the sister of Hrithik. Snehansh is the son of Shreya. What is the relation of Rajesh with Shreya?",
+      "options": ["Father", "Brother", "Son", "Grandfather"],
+      "correct_answer": "Uncle",
+      "solution": "Rajesh is Shreya's brother."
+    },
+    {
+      "question": "A is the brother of B and C is the sister of D. While Q is the daughter of B, P is the brother of Q. Determine A’s cousins.",
+      "options": ["(Q and P)", "(A and P)", "(C and P)", "(B and C)"],
+      "correct_answer": "(Q and P)",
+      "solution": "A's cousins are Q and P."
+    },
+    {
+      "question": "In a family of 3 generations, there are 8 members: P, Q, R, S, T, U, V, W. R is the daughter and T is the son of Q and both are unmarried. 4 members of the family are females. V is the sister of H whose father is S. P is the son-in-law of V, who belongs to the 3rd generation. Q is the brother-in-law of W and P belongs to the 3rd generation. If A is the child of T, determine how R is related to the child.",
+      "options": ["Father", "Uncle (Paternal)", "Grandfather", "Uncle (Maternal)", "Can’t determine"],
+      "correct_answer": "Aunt",
+      "solution": "R is the aunt of A."
+    },
+    {
+      "question": "Looking at a portrait of a man, Harsh said, 'His mother is the wife of my father's son. Brothers and sisters I have none.' At whose portrait was Harsh looking?",
+      "options": ["His son", "His brother", "His father", "His cousin"],
+      "correct_answer": "His son",
+      "solution": "Harsh is looking at his son's portrait."
+    },
+    {
+      "question": "A woman introduces a man as the son of the brother of her mother. How is the man related to the woman?",
+      "options": ["Cousin", "Brother", "Nephew", "Son"],
+      "correct_answer": "Cousin",
+      "solution": "The man is the woman's cousin."
+    },
+    {
+      "question": "P is the brother of Q and R. S is R's mother. T is P's father. Which of the following statements cannot be definitely true?",
+      "options": ["P, Q, R are children of same parents.", "S is R's mother.", "T is P's father.", "Q is male."],
+      "correct_answer": "Q is male.",
+      "solution": "It cannot be determined if Q is male or female."
+    },
+    {
+      "question": "There are six persons A, B, C, D, E and F. C is the sister of F. B is the brother of E's husband. D is the father of A and grandfather of F. How is E related to C?",
+      "options": ["Mother", "Sister", "Aunt", "Grandmother"],
+      "correct_answer": "Mother",
+      "solution": "E is the mother of C."
+    },
+    {
+      "question": "A girl introduced a boy as the son of the daughter of the father of her uncle. The boy is girl's?",
+      "options": ["Brother", "Cousin", "Nephew", "Son"],
+      "correct_answer": "Cousin",
+      "solution": "The boy is the girl's cousin."
+    },
+    {
+      "question": "A's father is B's brother. C is D's sister. How is A related to D?",
+      "options": ["Cousin", "Sister", "Brother", "None of the above"],
+      "correct_answer": "Cousin",
+      "solution": "A is D's cousin."
+    },
+    {
+      "question": "If M is the sister of N and N is the brother of O, how is O related to M?",
+      "options": ["Brother", "Sister", "Cousin", "None of the above"],
+      "correct_answer": "Brother",
+      "solution": "O is the brother of M."
+    },
+    {
+      "question": "A's mother is the sister of B's father. What is the relationship between A and B?",
+      "options": ["Cousins", "Siblings", "Friends", "None of the above"],
+      "correct_answer": "Cousins",
+      "solution": "A and B are cousins."
+    },
+    {
+      "question": "If X is the daughter of Y and Y is the son of Z, how is Z related to X?",
+      "options": ["Grandfather", "Father", "Uncle", "Brother"],
+      "correct_answer": "Grandfather",
+      "solution": "Z is the grandfather of X."
+    },
+    {
+      "question": "A is the son of B. C is the daughter of D. If A and C are siblings, how is D related to B?",
+      "options": ["Father-in-law", "Brother-in-law", "Cousin", "None of the above"],
+      "correct_answer": "Father-in-law",
+      "solution": "D is the father-in-law of B."
+    },
+    {
+      "question": "If E is the uncle of F and F is the son of G, how is G related to E?",
+      "options": ["Brother", "Sister", "Cousin", "None of the above"],
+      "correct_answer": "Brother",
+      "solution": "G is the brother of E."
+    },
+    {
+      "question": "A's sister is B's mother. How is A related to B?",
+      "options": ["Uncle", "Aunt", "Cousin", "None of the above"],
+      "correct_answer": "Aunt",
+      "solution": "A is the aunt of B."
+    },
+    {
+      "question": "If H is the daughter of I and I is the brother of J, how is J related to H?",
+      "options": ["Aunt", "Uncle", "Cousin", "None of the above"],
+      "correct_answer": "Uncle",
+      "solution": "J is the uncle of H."
+    },
+    {
+      "question": "A is the father of B. B is the mother of C. How is A related to C?",
+      "options": ["Grandfather", "Father", "Uncle", "None of the above"],
+      "correct_answer": "Grandfather",
+      "solution": "A is the grandfather of C."
+    },
+    {
+      "question": "If K is the sister of L and L is the brother of M, how is M related to K?",
+      "options": ["Brother", "Sister", "Cousin", "None of the above"],
+      "correct_answer": "Brother",
+      "solution": "M is the brother of K."
+    },
+    {
+      "question": "A is B's father. C is B's mother. D is C's father. How is D related to A?",
+      "options": ["Father-in-law", "Brother-in-law", "Cousin", "None of the above"],
+      "correct_answer": "Father-in-law",
+      "solution": "D is the father-in-law of A."
+    }
+  ]

@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Dog", "Cat", "Tiger", "Elephant"],
+      "correct_answer": "Elephant",
+      "solution": "All except Elephant are domesticated animals."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Rose", "Tulip", "Daisy", "Oak"],
+      "correct_answer": "Oak",
+      "solution": "All except Oak are types of flowers; Oak is a tree."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Mercury", "Venus", "Earth", "Sun"],
+      "correct_answer": "Sun",
+      "solution": "All except Sun are planets; Sun is a star."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Car", "Bicycle", "Train", "Airplane"],
+      "correct_answer": "Bicycle",
+      "solution": "All except Bicycle require fuel to operate."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Piano", "Guitar", "Violin", "Drum"],
+      "correct_answer": "Drum",
+      "solution": "All except Drum are string instruments; Drum is a percussion instrument."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Red", "Blue", "Green", "Circle"],
+      "correct_answer": "Circle",
+      "solution": "All except Circle are colors; Circle is a shape."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Apple", "Banana", "Carrot", "Grapes"],
+      "correct_answer": "Carrot",
+      "solution": "All except Carrot are fruits; Carrot is a vegetable."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["January", "February", "March", "Sunday"],
+      "correct_answer": "Sunday",
+      "solution": "All except Sunday are months; Sunday is a day of the week."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Table", "Chair", "Sofa", "Carpet"],
+      "correct_answer": "Carpet",
+      "solution": "All except Carpet are types of furniture; Carpet is a floor covering."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Jupiter", "Saturn", "Earth", "Moon"],
+      "correct_answer": "Moon",
+      "solution": "All except Moon are planets; Moon is a satellite."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Football", "Basketball", "Tennis", "Cricket Bat"],
+      "correct_answer": "Cricket Bat",
+      "solution": "All except Cricket Bat are sports; Cricket Bat is equipment."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Shirt", "Pants", "Dress", "Scarf"],
+      "correct_answer": "Scarf",
+      "solution": "All except Scarf are types of clothing worn on the lower body."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Shark", "Dolphin", "Whale", "Crocodile"],
+      "correct_answer": "Crocodile",
+      "solution": "All except Crocodile are marine mammals; Crocodile is a reptile."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Pine", "Oak", "Maple", "Rose"],
+      "correct_answer": "Rose",
+      "solution": "All except Rose are types of trees; Rose is a flower."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Red", "Green", "Blue", "Triangle"],
+      "correct_answer": "Triangle",
+      "solution": "All except Triangle are colors; Triangle is a shape."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Oxygen", "Hydrogen", "Water", "Nitrogen"],
+      "correct_answer": "Water",
+      "solution": "All except Water are elements; Water is a compound."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Cheetah", "Lion", "Tiger", "Eagle"],
+      "correct_answer": "Eagle",
+      "solution": "All except Eagle are big cats; Eagle is a bird."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Pasta", "Rice", "Bread", "Cheese"],
+      "correct_answer": "Cheese",
+      "solution": "All except Cheese are carbohydrate sources; Cheese is a dairy product."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Hockey", "Football", "Basketball", "Chess"],
+      "correct_answer": "Chess",
+      "solution": "All except Chess are physical sports; Chess is a board game."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Gold", "Silver", "Copper", "Plastic"],
+      "correct_answer": "Plastic",
+      "solution": "All except Plastic are metals; Plastic is a synthetic material."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Laptop", "Desktop", "Tablet", "Printer"],
+      "correct_answer": "Printer",
+      "solution": "All except Printer are computing devices; Printer is a peripheral."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Fiction", "Biography", "Novel", "Poem"],
+      "correct_answer": "Biography",
+      "solution": "All except Biography are fictional works; Biography is non-fiction."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Spoon", "Fork", "Knife", "Plate"],
+      "correct_answer": "Plate",
+      "solution": "All except Plate are utensils; Plate is a dish."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Winter", "Spring", "Summer", "December"],
+      "correct_answer": "December",
+      "solution": "All except December are seasons; December is a month."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Cabbage", "Spinach", "Lettuce", "Potato"],
+      "correct_answer": "Potato",
+      "solution": "All except Potato are leafy vegetables; Potato is a tuber."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Couch", "Chair", "Table", "Bed"],
+      "correct_answer": "Table",
+      "solution": "All except Table are types of seating; Table is a surface for working."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Mercury", "Venus", "Mars", "Pluto"],
+      "correct_answer": "Pluto",
+      "solution": "All except Pluto are classified as planets; Pluto is a dwarf planet."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Tennis", "Cricket", "Hockey", "Swimming"],
+      "correct_answer": "Swimming",
+      "solution": "All except Swimming are team sports; Swimming is an individual sport."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Red", "Yellow", "Blue", "Square"],
+      "correct_answer": "Square",
+      "solution": "All except Square are colors; Square is a geometric shape."
+    },
+    {
+      "question": "Which of the following is the odd one out?",
+      "options": ["Pineapple", "Mango", "Banana", "Cucumber"],
+      "correct_answer": "Cucumber",
+      "solution": "All except Cucumber are fruits; Cucumber is a vegetable."
+    }
+  ]

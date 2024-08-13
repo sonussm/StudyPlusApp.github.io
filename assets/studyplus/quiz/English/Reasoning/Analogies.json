@@ -1,0 +1,194 @@
+[
+    {
+      "question": "Train : Track :: Plane : ?",
+      "options": ["Sky", "Road", "Runway", "Air"],
+      "correct_answer": "Runway",
+      "solution": "A train runs on tracks, just as a plane takes off and lands on a runway."
+    },
+    {
+      "question": "Bird : Nest :: Bee : ?",
+      "options": ["Hive", "Flower", "Tree", "Honey"],
+      "correct_answer": "Hive",
+      "solution": "A bird lives in a nest, similarly, a bee lives in a hive."
+    },
+    {
+      "question": "Fire : Heat :: Ice : ?",
+      "options": ["Cold", "Water", "Solid", "Snow"],
+      "correct_answer": "Cold",
+      "solution": "Fire produces heat, while ice is associated with cold."
+    },
+    {
+      "question": "Book : Read :: Movie : ?",
+      "options": ["Watch", "See", "View", "Listen"],
+      "correct_answer": "Watch",
+      "solution": "You read a book, just as you watch a movie."
+    },
+    {
+      "question": "Fish : Water :: Bird : ?",
+      "options": ["Air", "Sky", "Nest", "Tree"],
+      "correct_answer": "Air",
+      "solution": "Fish live in water, while birds live in the air."
+    },
+    {
+      "question": "Artist : Paint :: Writer : ?",
+      "options": ["Words", "Books", "Paper", "Pens"],
+      "correct_answer": "Words",
+      "solution": "An artist uses paint, just as a writer uses words."
+    },
+    {
+      "question": "Doctor : Patient :: Teacher : ?",
+      "options": ["Student", "Class", "School", "Lesson"],
+      "correct_answer": "Student",
+      "solution": "A doctor treats patients, similarly, a teacher instructs students."
+    },
+    {
+      "question": "Piano : Music :: Canvas : ?",
+      "options": ["Art", "Painting", "Brush", "Color"],
+      "correct_answer": "Painting",
+      "solution": "A piano is used to create music, just as a canvas is used for painting."
+    },
+    {
+      "question": "Tree : Forest :: Star : ?",
+      "options": ["Galaxy", "Sky", "Night", "Planet"],
+      "correct_answer": "Galaxy",
+      "solution": "A tree is part of a forest, similarly, a star is part of a galaxy."
+    },
+    {
+      "question": "Pen : Write :: Brush : ?",
+      "options": ["Paint", "Color", "Draw", "Sketch"],
+      "correct_answer": "Paint",
+      "solution": "A pen is used to write, just as a brush is used to paint."
+    },
+    {
+      "question": "Sun : Day :: Moon : ?",
+      "options": ["Night", "Sky", "Star", "Light"],
+      "correct_answer": "Night",
+      "solution": "The sun is associated with day, while the moon is associated with night."
+    },
+    {
+      "question": "Cat : Meow :: Dog : ?",
+      "options": ["Bark", "Growl", "Howl", "Whine"],
+      "correct_answer": "Bark",
+      "solution": "A cat makes a meow sound, while a dog makes a bark sound."
+    },
+    {
+      "question": "Key : Lock :: Password : ?",
+      "options": ["Account", "Computer", "Security", "Access"],
+      "correct_answer": "Access",
+      "solution": "A key opens a lock, just as a password provides access."
+    },
+    {
+      "question": "Foot : Shoe :: Hand : ?",
+      "options": ["Glove", "Ring", "Wrist", "Arm"],
+      "correct_answer": "Glove",
+      "solution": "A foot is covered by a shoe, while a hand is covered by a glove."
+    },
+    {
+      "question": "Heart : Love :: Brain : ?",
+      "options": ["Thought", "Knowledge", "Mind", "Intelligence"],
+      "correct_answer": "Thought",
+      "solution": "The heart is often associated with love, while the brain is associated with thought."
+    },
+    {
+      "question": "Water : Thirst :: Food : ?",
+      "options": ["Hunger", "Taste", "Nutrition", "Health"],
+      "correct_answer": "Hunger",
+      "solution": "Water quenches thirst, just as food satisfies hunger."
+    },
+    {
+      "question": "Clock : Time :: Thermometer : ?",
+      "options": ["Temperature", "Weather", "Degree", "Heat"],
+      "correct_answer": "Temperature",
+      "solution": "A clock measures time, while a thermometer measures temperature."
+    },
+    {
+      "question": "Teacher : School :: Doctor : ?",
+      "options": ["Hospital", "Clinic", "Patient", "Medicine"],
+      "correct_answer": "Hospital",
+      "solution": "A teacher works in a school, while a doctor works in a hospital."
+    },
+    {
+      "question": "Cup : Drink :: Plate : ?",
+      "options": ["Food", "Meal", "Serve", "Dish"],
+      "correct_answer": "Food",
+      "solution": "A cup holds a drink, just as a plate holds food."
+    },
+    {
+      "question": "Mountain : Peak :: River : ?",
+      "options": ["Flow", "Bank", "Source", "Mouth"],
+      "correct_answer": "Mouth",
+      "solution": "The peak is the top of a mountain, while the mouth is the end of a river."
+    },
+    {
+      "question": "Butterfly : Caterpillar :: Frog : ?",
+      "options": ["Tadpole", "Egg", "Lizard", "Toad"],
+      "correct_answer": "Tadpole",
+      "solution": "A butterfly emerges from a caterpillar, just as a frog emerges from a tadpole."
+    },
+    {
+      "question": "Nurse : Care :: Chef : ?",
+      "options": ["Cook", "Prepare", "Serve", "Meal"],
+      "correct_answer": "Cook",
+      "solution": "A nurse provides care, while a chef provides cooking."
+    },
+    {
+      "question": "Sculptor : Sculpture :: Painter : ?",
+      "options": ["Canvas", "Painting", "Art", "Brush"],
+      "correct_answer": "Painting",
+      "solution": "A sculptor creates a sculpture, just as a painter creates a painting."
+    },
+    {
+      "question": "Laptop : Computer :: Smartphone : ?",
+      "options": ["Device", "Tablet", "Phone", "Gadget"],
+      "correct_answer": "Phone",
+      "solution": "A laptop is a type of computer, just as a smartphone is a type of phone."
+    },
+    {
+      "question": "Candle : Light :: Refrigerator : ?",
+      "options": ["Cold", "Food", "Preserve", "Cool"],
+      "correct_answer": "Cold",
+      "solution": "A candle provides light, just as a refrigerator provides cold."
+    },
+    {
+      "question": "Glasses : Vision :: Hearing Aid : ?",
+      "options": ["Sound", "Ears", "Noise", "Listen"],
+      "correct_answer": "Sound",
+      "solution": "Glasses help with vision, while a hearing aid helps with sound."
+    },
+    {
+      "question": "Chisel : Wood :: Knife : ?",
+      "options": ["Food", "Cut", "Blade", "Metal"],
+      "correct_answer": "Food",
+      "solution": "A chisel is used to carve wood, just as a knife is used to cut food."
+    },
+    {
+      "question": "Keyboard : Type :: Mouse : ?",
+      "options": ["Click", "Select", "Point", "Move"],
+      "correct_answer": "Click",
+      "solution": "A keyboard is used to type, while a mouse is used to click."
+    },
+    {
+      "question": "Hammer : Nail :: Screwdriver : ?",
+      "options": ["Screw", "Bolt", "Nut", "Wrench"],
+      "correct_answer": "Screw",
+      "solution": "A hammer is used to drive a nail, just as a screwdriver is used to drive a screw."
+    },
+    {
+      "question": "Car : Road :: Boat : ?",
+      "options": ["Water", "Ocean", "River", "Lake"],
+      "correct_answer": "Water",
+      "solution": "A car travels on a road, while a boat travels on water."
+    },
+    {
+      "question": "Doctor : Medicine :: Teacher : ?",
+      "options": ["Knowledge", "Education", "School", "Learning"],
+      "correct_answer": "Education",
+      "solution": "A doctor prescribes medicine, just as a teacher provides education."
+    },
+    {
+      "question": "Fire : Smoke :: Ice : ?",
+      "options": ["Cold", "Water", "Frost", "Steam"],
+      "correct_answer": "Steam",
+      "solution": "Fire produces smoke, while ice can produce steam when melted."
+    }
+  ]
