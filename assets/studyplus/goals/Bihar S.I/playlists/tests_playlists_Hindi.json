@@ -45,252 +45,251 @@
       "image": "https://studyplusapp.github.io/assets/studyplus/images/gk.png"
     }
   ],
-
-    "Mathematics": {
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOVZfRSx4ry-NTV2Qlev7vIR",
-    "description": "Master mathematics with Rojgar with Ankit's comprehensive practice lectures."
+  "Mathematics": {
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOVZfRSx4ry-NTV2Qlev7vIR",
+      "description": "रोजगार विद अंकित के व्यापक अभ्यास व्याख्यानों के साथ गणित में महारत हासिल करें।"
+    },
+    "PW": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLUNpbYw8C6VbaHGejT4cljhS6jDKZ7rRr",
+      "description": "PW के विशेषज्ञ मार्गदर्शन के साथ गणितीय अवधारणाओं में गहराई से गोता लगाएं।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLnYwbPGnlZJLWrCfhtOFc7jKCBKXdcLP7",
+      "description": "एग्ज़ामपुर के विस्तृत व्याख्यानों के साथ अपने गणित कौशल को मजबूत करें।"
+    },
+    "Gyan Bindu": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/gyanbindu.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLlkcM2vYrsD321YUQMs1pp5TKEb1LdUig",
+      "description": "ज्ञान बिंदु के साथ जटिल गणितीय सिद्धांत सीखें।"
+    },
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PL6BBXnh4uqgCGU6a1fvP8DIS4lY1ayePB",
+      "description": "अड्डा 247 की अभिनव विधियों के साथ गणितीय रहस्यों को उजागर करें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PL4V6S1dH6UjerV_jYVa40grYAE-guyY6u",
+      "description": "उत्कर्ष के आकर्षक व्याख्यानों के साथ गणित में उत्कृष्टता प्राप्त करें।"
+    }
   },
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLUNpbYw8C6VbaHGejT4cljhS6jDKZ7rRr",
-    "description": "Dive deep into mathematical concepts with PW's expert guidance."
+  "Chemistry": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPcM0oX-yrVDUv5v7wHwhzc",
+      "description": "अड्डा 247 के उच्च-गुणवत्ता वाले व्याख्यानों के साथ मौलिक रसायन विज्ञान की अवधारणाओं को सीखें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOUy_9TnGlXEv8wWZbP53xAz",
+      "description": "रोजगार विद अंकित के विस्तृत स्पष्टीकरणों के साथ उन्नत रसायन विज्ञान विषयों का अन्वेषण करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_PvE_Kd7i4GLIZqNipP-GzD",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ जटिल रसायन विज्ञान अवधारणाओं को समझें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSGnKeht3E0jxtBM-Eojm6Eq",
+      "description": "उत्कर्ष के व्यापक व्याख्यानों के साथ रसायन विज्ञान का गहन ज्ञान प्राप्त करें।"
+    }
   },
-  "Exampur": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLnYwbPGnlZJLWrCfhtOFc7jKCBKXdcLP7",
-    "description": "Strengthen your math skills with Exampur's detailed lectures."
+  "Physics": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaN6OXyhPlx-BcBGotSLjioV",
+      "description": "अड्डा 247 के उच्च-गुणवत्ता वाले व्याख्यानों के साथ मौलिक भौतिकी की अवधारणाओं को सीखें।"
+    },
+    "PW": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLQPP9d6dj3YHLiBNJp5rapIkX_CtbTSES",
+      "description": "PW के विस्तृत स्पष्टीकरणों के साथ भौतिकी के नियमों का अन्वेषण करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_MGfvwQctdv5Jtq3VTpuWqh",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ जटिल भौतिक घटनाओं को समझें।"
+    }
   },
-  "Gyan Bindu": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/gyanbindu.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLlkcM2vYrsD321YUQMs1pp5TKEb1LdUig",
-    "description": "Learn complex mathematical theories with Gyan Bindu."
+  "Biology": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPryT3QbUKqaXoGyXrVOgn6",
+      "description": "अड्डा 247 के उच्च-गुणवत्ता वाले व्याख्यानों के साथ जीव विज्ञान की मूल बातें सीखें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOVDH77EcI3UVdEB2xhcx3fB",
+      "description": "रोजगार विद अंकित के विस्तृत पाठों के साथ जीव विज्ञान की अवधारणाओं का अन्वेषण करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_M3YDoVUQ00zf7oLpKyGcRD",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ जीव विज्ञान के विभिन्न पहलुओं को समझें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSHifJIpB7AAYTPbMdhNLBG_",
+      "description": "उत्कर्ष के गहन व्याख्यानों के साथ जीव विज्ञान में महारत हासिल करें।"
+    }
   },
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL6BBXnh4uqgCGU6a1fvP8DIS4lY1ayePB",
-    "description": "Unlock mathematical secrets with Adda 247's innovative methods."
+  "History": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaOTXIHp-ZyIsEYjF-tkP3oH",
+      "description": "अड्डा 247 के साथ इतिहास की प्रमुख घटनाओं और अवधारणाओं को जानें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOUDBOiNN8s5DrYzoJs8eDpI",
+      "description": "रोजगार विद अंकित के विस्तृत स्पष्टीकरणों के साथ इतिहास का अन्वेषण करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_MtGy7QHDt9Xfp9blEAmU-J",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ इतिहास की गहरी समझ प्राप्त करें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSE3v92K_6t7IcXFTXn6yfRA",
+      "description": "उत्कर्ष के व्यापक व्याख्यानों के साथ इतिहास की महत्वपूर्ण घटनाओं को जानें।"
+    }
   },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL4V6S1dH6UjerV_jYVa40grYAE-guyY6u",
-    "description": "Achieve mathematical excellence with Utkarsh's engaging lectures."
+  "Polity": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaO6A0b9TTfi_G9cu-WIGGOy",
+      "description": "अड्डा 247 के साथ राजनीति विज्ञान की प्रमुख अवधारणाओं को सीखें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOUdW4Lb9Tmxw1JBo8V0OLX6",
+      "description": "रोजगार विद अंकित के व्यापक स्पष्टीकरणों के साथ राजनीति विज्ञान का अध्ययन करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_NNt3c8iFZn31EZGDfMCchU",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ राजनीति विज्ञान की गहरी समझ प्राप्त करें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSF_C14nQWg0YkNi58HgSy5S",
+      "description": "उत्कर्ष के व्यापक व्याख्यानों के साथ राजनीति विज्ञान का ज्ञान प्राप्त करें।"
+    }
+  },
+  "Economics": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaP_yRbUHEmsUoPTv2TKN9S1",
+      "description": "अड्डा 247 के साथ अर्थशास्त्र की मौलिक अवधारणाओं को जानें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOV8TQ0hbK_1rT75ZhYqCUF6",
+      "description": "रोजगार विद अंकित के विस्तृत स्पष्टीकरणों के साथ अर्थशास्त्र का अध्ययन करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_OdV2nCz9T7PP5t9sqPRy96",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ अर्थशास्त्र की गहरी समझ प्राप्त करें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSHAGj5aqjzJleAcAE5qQGcv",
+      "description": "उत्कर्ष के व्यापक व्याख्यानों के साथ अर्थशास्त्र की प्रमुख अवधारणाओं को जानें।"
+    }
+  },
+  "Reasoning": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaNCV4F7vP0qSPZpBeO26DoI",
+      "description": "अड्डा 247 के साथ तर्कशक्ति के मौलिक सिद्धांतों को सीखें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOU7FXyD6YUn2vYz2zklf9Hw",
+      "description": "रोजगार विद अंकित के विस्तृत व्याख्यानों के साथ तर्कशक्ति का अध्ययन करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_PESkDQOynOwD9pyD6_VpX3",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ तर्कशक्ति की गहरी समझ प्राप्त करें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSHLVJkeA3RtK8nhoGxHtSBP",
+      "description": "उत्कर्ष के व्यापक व्याख्यानों के साथ तर्कशक्ति का ज्ञान प्राप्त करें।"
+    }
+  },
+  "Geography": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaNMFak91CXYowcBLWyASZIr",
+      "description": "अड्डा 247 के साथ भूगोल की प्रमुख अवधारणाओं को जानें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOU5Oe7XfJ5hL5Gp3Tl2r7ek",
+      "description": "रोजगार विद अंकित के विस्तृत स्पष्टीकरणों के साथ भूगोल का अध्ययन करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_PmqJZpFfR0Q4zMVHMRgfKD",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ भूगोल की गहरी समझ प्राप्त करें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSHSs_m64C9X8Bh1AkI7T2r4",
+      "description": "उत्कर्ष के व्यापक व्याख्यानों के साथ भूगोल का ज्ञान प्राप्त करें।"
+    }
+  },
+  "English": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaOPuJfEZ23ZRHQyL8tEZdZf",
+      "description": "अड्डा 247 के साथ अंग्रेजी भाषा की प्रमुख अवधारणाओं को सीखें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOXrxCJcz6YZLBuQ3OHXqTiv",
+      "description": "रोजगार विद अंकित के विस्तृत व्याख्यानों के साथ अंग्रेजी भाषा का अध्ययन करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_NWt2nYXtjsuDWmAi6QHeKJ",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ अंग्रेजी भाषा की गहरी समझ प्राप्त करें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSHLz8N5UtXZtD90Ki_x2F1T",
+      "description": "उत्कर्ष के व्यापक व्याख्यानों के साथ अंग्रेजी भाषा का ज्ञान प्राप्त करें।"
+    }
+  },
+  "General Knowledge": {
+    "Adda 247": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaNocErbhPHNSYucsyAWKHMB",
+      "description": "अड्डा 247 के साथ सामान्य ज्ञान की प्रमुख अवधारणाओं को जानें।"
+    },
+    "Rojgar with Ankit": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOVRdFfRX-m6O9B6K-gsPr5I",
+      "description": "रोजगार विद अंकित के विस्तृत स्पष्टीकरणों के साथ सामान्य ज्ञान का अध्ययन करें।"
+    },
+    "Exampur": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_M-Y8RBJpt5APbsh52F4UKc",
+      "description": "एग्ज़ामपुर के विशेषज्ञ मार्गदर्शन के साथ सामान्य ज्ञान की गहरी समझ प्राप्त करें।"
+    },
+    "Utkarsh": {
+      "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSFJkWftlKDZoHXu35HVgPS8",
+      "description": "उत्कर्ष के व्यापक व्याख्यानों के साथ सामान्य ज्ञान का ज्ञान प्राप्त करें।"
+    }
   }
-},
-"Chemistry": {
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPcM0oX-yrVDUv5v7wHwhzc",
-    "description": "Learn fundamental Chemistry concepts with Adda 247's top-notch lectures."
-  },
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOUy_9TnGlXEv8wWZbP53xAz",
-    "description": "Explore advanced chemistry topics with Rojgar with Ankit's detailed explanations."
-  },
-  "Exampur": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_PvE_Kd7i4GLIZqNipP-GzD",
-    "description": "Understand complex chemistry concepts with Exampur's expert guidance."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSGnKeht3E0jxtBM-Eojm6Eq",
-    "description": "Gain in-depth knowledge of chemistry with Utkarsh's comprehensive lectures."
-  }
-},
-"Physics": {
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaN6OXyhPlx-BcBGotSLjioV",
-    "description": "Learn fundamental physics concepts with Adda 247's top-notch lectures."
-  },
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLQPP9d6dj3YHLiBNJp5rapIkX_CtbTSES",
-    "description": "Explore the laws of physics with PW's detailed explanations."
-  },
-  "Exampur": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_MGfvwQctdv5Jtq3VTpuWqh",
-    "description": "Understand complex physical phenomena with Exampur's expert guidance."
-  }
-},
-"Biology": {
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPryT3QbUKqaXoGyXrVOgn6",
-    "description": "Learn the basics of biology with Adda 247's high-quality lectures."
-  },
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOVDH77EcI3UVdEB2xhcx3fB",
-    "description": "Explore biological concepts with Rojgar with Ankit's detailed lessons."
-  },
-  "Exampur": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLk93o2oQAL_M3YDoVUQ00zf7oLpKyGcRD",
-    "description": "Understand complex biology topics with Exampur's expert guidance."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax-TzhstnaDSGxwf6WSGx8QC",
-    "description": "Gain in-depth knowledge of biology with Utkarsh's comprehensive lectures."
-  }
-},
-"History": {
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaPUq8siX_9lxUZsSwZglOHG",
-    "description": "Explore historical events and eras with Adda 247's expert lectures."
-  },
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLYnvO8ZuCuNpG7SCMTw-CjU1zxEXlGLg8",
-    "description": "Delve into the past with PW's engaging history lessons."
-  },
-  "Kautilya": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL_TgcskF4KihM7lyEslOqGRRId04dRDPq",
-    "description": "Unlock the secrets of ancient civilizations with Kautilya's in-depth lectures."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL89GpKIC8cq4IksdXBLp2L4sxCgB9VwO_",
-    "description": "Learn history through engaging and informative lectures by Utkarsh."
-  }
-},
-"Polity": {
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLcAL23e3ukIpGBlj7hzpzomLBVhwi5BGj",
-    "description": "Understand political systems and theories with Adda 247's lectures."
-  },
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLX083ADM0OtBb8o3467t1xE45OwoKq33d",
-    "description": "Explore the intricacies of polity with PW's detailed courses."
-  },
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLuq_pUnYbxXmGkRs028g_rCT3itoX1oyh",
-    "description": "Unlock the complexities of political science with Rojgar with Ankit's expert guidance."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL89GpKIC8cq6yNirxn7-Yq9sFRkiRjgk2",
-    "description": "Master polity concepts with Utkarsh's engaging and informative lectures."
-  }
-},
-"Economics": {
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLv9P5G8zaeaM_hdZXveFqXwhmVg1eXpUj",
-    "description": "Learn the fundamentals of economics with Adda 247's comprehensive lectures."
-  },
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLuq_pUnYbxXk8iZAwiLotxKcPRA3GquAj",
-    "description": "Understand economic principles with Rojgar with Ankit's in-depth lessons."
-  },
-  "Exampur": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/exampur.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL-VIcU_4rurVBKkC9Iz1AJKPVGC6Qfhm4",
-    "description": "Explore the world of economics with Exampur's expert guidance."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL4V6S1dH6UjcqekfCbstPHU-odymli9g1",
-    "description": "Master economic concepts with Utkarsh's engaging and detailed lectures."
-  }
-},
-    "Reasoning": {
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOV6hTDh1BcxGfW2n1xQHh2U",
-    "description": "Enhance your reasoning skills with Rojgar with Ankit's top-notch lectures."
-  },
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORFWKvTgDJSvlid-or-oP3AL",
-    "description": "Develop critical thinking with PW's comprehensive reasoning courses."
-  },
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL6BBXnh4uqgBmm7jU45J0v1bbdrxWIXHK",
-    "description": "Sharpen your logical reasoning with Adda 247's expert lectures."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax_kMfir7r4ORBV8D4YSEAUz",
-    "description": "Excel in reasoning with Utkarsh's engaging and informative lessons."
-  }
-},
-"Geography": {
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOU5joPMR63JY1L1Fx9DFHJ_",
-    "description": "Explore geographical concepts with Geography's detailed lectures."
-  },
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLcAL23e3ukIpClXj3VVBlRo4_JE1OLzvC",
-    "description": "Understand the world around you with Adda 247's comprehensive geography lessons."
-  },
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLhrq-fv7kVgc5GauW15oawuZGNUrhBnOp",
-    "description": "Unlock geographical knowledge with PWa's expert guidance."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax9Httjs8VQncrt5teSXXRpb",
-    "description": "Master geography with Utkarsh's engaging and informative lectures."
-  }
-},
-"English": {
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORHPnNp_MCdz-vQ6RKVWOZeu",
-    "description": "Explore English concepts with PW's detailed lectures."
-  },
-  "Adda 247": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ada247.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLQYgCxDYkIszXb2J_rKwDFzT5FQEH9fBy",
-    "description": "Understand the world around you with Adda 247's comprehensive English lessons."
-  },
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOX55VB2EnrqlMRpauDmlQOQ",
-    "description": "Unlock English knowledge with Rojgar with Ankit's expert guidance."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax-W-0dppWfaao6j-KWUHBkF",
-    "description": "Master English with Utkarsh's engaging and informative lectures."
-  }
-},
-"General Knowledge": {
-  "Rojgar with Ankit": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/ankit.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLw2ZiQ6OwlOXgo1pj2L0XCL51WZaeWryM",
-    "description": "Explore General knowledge concepts with Rojgar with Ankit's detailed lectures."
-  },
-  "PW": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORGhhJh50SgtnoV7GmSHtjRw",
-    "description": "Understand the world around you with Gyan Bindu's comprehensive General knowledge lessons."
-  },
-  "Kautilya": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/kautilya.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PL_TgcskF4Kii-uCn2xQYSUOlh9Dn2Nvyn",
-    "description": "Unlock General knowledge knowledge with Kautilya's expert guidance."
-  },
-  "Utkarsh": {
-    "image": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
-    "playlistUrl": "https://youtube.com/playlist?list=PLJufHx830ax8zq33vP16XSYT07JHE3JKJ",
-    "description": "Master General knowledge with Utkarsh's engaging and informative lectures."
-  }
-}
 }
