@@ -1,0 +1,158 @@
+[
+    {
+      "question": "What type of soil is predominantly found in the northern plains of India?",
+      "options": ["Black soil", "Red soil", "Alluvial soil", "Laterite soil"],
+      "correct_answer": "Alluvial soil",
+      "solution": "Alluvial soil is the most widespread soil type in the northern plains of India, formed by the deposition of sediments by rivers."
+    },
+    {
+      "question": "Which soil type is known for its high water retention capacity?",
+      "options": ["Sandy soil", "Black soil", "Clay soil", "Loamy soil"],
+      "correct_answer": "Black soil",
+      "solution": "Black soil, also known as Regur soil, has a high water retention capacity, making it suitable for cotton cultivation."
+    },
+    {
+      "question": "Which type of soil is primarily found in the desert regions of India?",
+      "options": ["Alluvial soil", "Red soil", "Arid soil", "Laterite soil"],
+      "correct_answer": "Arid soil",
+      "solution": "Arid soil is found in desert regions and is characterized by low moisture content and poor fertility."
+    },
+    {
+      "question": "What is the other name for Regur soil?",
+      "options": ["Black soil", "Red soil", "Laterite soil", "Sandy soil"],
+      "correct_answer": "Black soil",
+      "solution": "Regur soil is commonly referred to as Black soil due to its dark color and is rich in iron, calcium, and magnesium."
+    },
+    {
+      "question": "Which soil is known for being rich in iron and aluminum?",
+      "options": ["Alluvial soil", "Red soil", "Laterite soil", "Clay soil"],
+      "correct_answer": "Laterite soil",
+      "solution": "Laterite soil is rich in iron and aluminum and is formed under conditions of high rainfall and temperature."
+    },
+    {
+      "question": "Which soil type is most suitable for the cultivation of rice?",
+      "options": ["Black soil", "Alluvial soil", "Red soil", "Laterite soil"],
+      "correct_answer": "Alluvial soil",
+      "solution": "Alluvial soil is highly fertile and ideal for the cultivation of rice, especially in river valleys."
+    },
+    {
+      "question": "In which region of India is Red soil predominantly found?",
+      "options": ["Himalayas", "Deccan Plateau", "Gangetic Plains", "Thar Desert"],
+      "correct_answer": "Deccan Plateau",
+      "solution": "Red soil is mainly found in the Deccan Plateau region and is formed from the weathering of ancient crystalline rocks."
+    },
+    {
+      "question": "Which soil has the highest phosphorus-fixing capacity?",
+      "options": ["Black soil", "Red soil", "Laterite soil", "Clay soil"],
+      "correct_answer": "Laterite soil",
+      "solution": "Laterite soil has a high phosphorus-fixing capacity due to its rich mineral content and is often used for various crops."
+    },
+    {
+      "question": "What type of soil is primarily found in the hilly regions of India?",
+      "options": ["Alluvial soil", "Black soil", "Forest soil", "Desert soil"],
+      "correct_answer": "Forest soil",
+      "solution": "Forest soil is found in hilly regions and is rich in organic matter, making it suitable for various types of vegetation."
+    },
+    {
+      "question": "Which soil type is characterized by a high content of calcium carbonate?",
+      "options": ["Black soil", "Saline soil", "Desert soil", "Clay soil"],
+      "correct_answer": "Saline soil",
+      "solution": "Saline soil contains a high amount of calcium carbonate and is often found in arid and semi-arid regions."
+    },
+    {
+      "question": "Which soil is formed by the weathering of basaltic lava flows?",
+      "options": ["Red soil", "Black soil", "Laterite soil", "Sandy soil"],
+      "correct_answer": "Black soil",
+      "solution": "Black soil is formed from the weathering of basaltic lava flows and is known for its moisture-retaining properties."
+    },
+    {
+      "question": "Which type of soil is predominantly found in the coastal areas of India?",
+      "options": ["Alluvial soil", "Sandy soil", "Clay soil", "Peaty soil"],
+      "correct_answer": "Peaty soil",
+      "solution": "Peaty soil is found in coastal areas and is characterized by a high organic matter content, making it very fertile."
+    },
+    {
+      "question": "What is the primary characteristic of sandy soil?",
+      "options": ["High water retention", "Low fertility", "High clay content", "High organic matter"],
+      "correct_answer": "Low fertility",
+      "solution": "Sandy soil has low fertility due to its coarse texture and inability to retain moisture and nutrients."
+    },
+    {
+      "question": "Which soil type is most prevalent in the Indo-Gangetic plains?",
+      "options": ["Black soil", "Alluvial soil", "Red soil", "Laterite soil"],
+      "correct_answer": "Alluvial soil",
+      "solution": "Alluvial soil is the most prevalent type in the Indo-Gangetic plains, formed by sediment deposition from rivers."
+    },
+    {
+      "question": "Which type of soil is known for its high acidity?",
+      "options": ["Black soil", "Laterite soil", "Red soil", "Clay soil"],
+      "correct_answer": "Laterite soil",
+      "solution": "Laterite soil is known for its high acidity, especially in regions with heavy rainfall."
+    },
+    {
+      "question": "What is the primary use of black soil in agriculture?",
+      "options": ["Rice cultivation", "Cotton cultivation", "Wheat cultivation", "Sugarcane cultivation"],
+      "correct_answer": "Cotton cultivation",
+      "solution": "Black soil is primarily used for cotton cultivation due to its moisture retention capability."
+    },
+    {
+      "question": "Which soil type is considered the most fertile in India?",
+      "options": ["Red soil", "Black soil", "Alluvial soil", "Laterite soil"],
+      "correct_answer": "Alluvial soil",
+      "solution": "Alluvial soil is considered the most fertile soil in India, supporting a variety of crops."
+    },
+    {
+      "question": "Which soil is typically found in the Himalayan region?",
+      "options": ["Black soil", "Forest soil", "Alluvial soil", "Desert soil"],
+      "correct_answer": "Forest soil",
+      "solution": "Forest soil is typically found in the Himalayan region and is rich in organic material due to dense vegetation."
+    },
+    {
+      "question": "What type of soil is known for its high salinity?",
+      "options": ["Black soil", "Saline soil", "Red soil", "Clay soil"],
+      "correct_answer": "Saline soil",
+      "solution": "Saline soil is characterized by high salinity and is often found in arid and coastal regions."
+    },
+    {
+      "question": "Which soil is most suitable for growing pulses?",
+      "options": ["Black soil", "Alluvial soil", "Red soil", "Clay soil"],
+      "correct_answer": "Red soil",
+      "solution": "Red soil is suitable for growing pulses due to its moderate fertility and good drainage."
+    },
+    {
+      "question": "Which soil type is formed from the weathering of granite?",
+      "options": ["Red soil", "Black soil", "Clay soil", "Sandy soil"],
+      "correct_answer": "Red soil",
+      "solution": "Red soil is formed from the weathering of granite and is rich in iron, giving it its characteristic color."
+    },
+    {
+      "question": "What is the primary characteristic of clay soil?",
+      "options": ["High drainage", "High fertility", "Low water retention", "High moisture retention"],
+      "correct_answer": "High moisture retention",
+      "solution": "Clay soil is known for its high moisture retention capacity, making it suitable for various crops."
+    },
+    {
+      "question": "Which soil type is most affected by erosion?",
+      "options": ["Black soil", "Alluvial soil", "Sandy soil", "Clay soil"],
+      "correct_answer": "Sandy soil",
+      "solution": "Sandy soil is most affected by erosion due to its loose texture and low cohesion."
+    },
+    {
+      "question": "Which soil is primarily used for horticulture?",
+      "options": ["Clay soil", "Sandy soil", "Loamy soil", "Peaty soil"],
+      "correct_answer": "Loamy soil",
+      "solution": "Loamy soil, a mixture of sand, silt, and clay, is primarily used for horticulture due to its balanced properties."
+    },
+    {
+      "question": "Which soil type is known for its ability to expand and contract?",
+      "options": ["Black soil", "Clay soil", "Sandy soil", "Loamy soil"],
+      "correct_answer": "Clay soil",
+      "solution": "Clay soil is known for its ability to expand when wet and contract when dry, affecting its structure."
+    },
+    {
+      "question": "What type of soil is typically found in marshy areas?",
+      "options": ["Sandy soil", "Peaty soil", "Clay soil", "Alluvial soil"],
+      "correct_answer": "Peaty soil",
+      "solution": "Peaty soil is typically found in marshy areas and is rich in organic matter, making it very fertile."
+    }
+  ]

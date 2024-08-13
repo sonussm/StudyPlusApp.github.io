@@ -1,0 +1,164 @@
+[
+    {
+      "question": "What disease is characterized by the deficiency of red blood cells or hemoglobin in the blood?",
+      "options": ["Anemia", "Diabetes", "Hypertension", "Asthma"],
+      "correct_answer": "Anemia",
+      "solution": "Anemia is a condition that leads to fatigue and weakness due to a deficiency of red blood cells or hemoglobin in the blood."
+    },
+    {
+      "question": "Which disease is caused by the bite of an infected Anopheles mosquito?",
+      "options": ["Dengue", "Malaria", "Zika", "Chikungunya"],
+      "correct_answer": "Malaria",
+      "solution": "Malaria is a life-threatening disease caused by parasites transmitted to people through the bites of infected female Anopheles mosquitoes."
+    },
+    {
+      "question": "What is the main cause of Tuberculosis?",
+      "options": ["Bacteria", "Virus", "Fungi", "Parasite"],
+      "correct_answer": "Bacteria",
+      "solution": "Tuberculosis is primarily caused by the bacterium Mycobacterium tuberculosis, which affects the lungs and other parts of the body."
+    },
+    {
+      "question": "Which of the following diseases is caused by a virus?",
+      "options": ["Typhoid", "Cholera", "Influenza", "Malaria"],
+      "correct_answer": "Influenza",
+      "solution": "Influenza, commonly known as the flu, is a viral infection that attacks the respiratory system."
+    },
+    {
+      "question": "What condition is characterized by high blood sugar levels?",
+      "options": ["Hypoglycemia", "Diabetes", "Hypertension", "Hyperlipidemia"],
+      "correct_answer": "Diabetes",
+      "solution": "Diabetes is a chronic condition that occurs when the body cannot effectively use insulin, leading to high blood sugar levels."
+    },
+    {
+      "question": "Which disease is known as the 'silent killer' due to its asymptomatic nature?",
+      "options": ["Diabetes", "Hypertension", "Asthma", "Cancer"],
+      "correct_answer": "Hypertension",
+      "solution": "Hypertension, or high blood pressure, is often asymptomatic, which is why it is referred to as the 'silent killer'."
+    },
+    {
+      "question": "Which of the following is a common symptom of asthma?",
+      "options": ["Chest tightness", "Rash", "Fever", "Nausea"],
+      "correct_answer": "Chest tightness",
+      "solution": "Chest tightness is a common symptom of asthma, which is a chronic condition that affects the airways."
+    },
+    {
+      "question": "What is the primary cause of malaria?",
+      "options": ["Bacteria", "Virus", "Protozoa", "Fungi"],
+      "correct_answer": "Protozoa",
+      "solution": "Malaria is caused by protozoan parasites of the genus Plasmodium, which are transmitted through mosquito bites."
+    },
+    {
+      "question": "Which disease is characterized by inflammation of the protective membranes covering the brain and spinal cord?",
+      "options": ["Meningitis", "Encephalitis", "Cerebral palsy", "Multiple sclerosis"],
+      "correct_answer": "Meningitis",
+      "solution": "Meningitis is an inflammation of the protective membranes (meninges) covering the brain and spinal cord, often caused by infection."
+    },
+    {
+      "question": "Which disease is caused by the bacterium Yersinia pestis?",
+      "options": ["Plague", "Typhoid", "Cholera", "Diphtheria"],
+      "correct_answer": "Plague",
+      "solution": "The plague is caused by the bacterium Yersinia pestis, which is transmitted through flea bites or contact with infected animals."
+    },
+    {
+      "question": "What is the primary treatment for bacterial infections?",
+      "options": ["Antibiotics", "Antivirals", "Vaccines", "Antifungals"],
+      "correct_answer": "Antibiotics",
+      "solution": "Antibiotics are medications used to treat bacterial infections by killing bacteria or inhibiting their growth."
+    },
+    {
+      "question": "Which of the following is a chronic inflammatory disease of the airways?",
+      "options": ["Asthma", "Bronchitis", "Pneumonia", "Tuberculosis"],
+      "correct_answer": "Asthma",
+      "solution": "Asthma is a chronic condition characterized by inflammation and narrowing of the airways, leading to difficulty in breathing."
+    },
+    {
+      "question": "What is the most common cause of food poisoning?",
+      "options": ["Bacteria", "Viruses", "Parasites", "Fungi"],
+      "correct_answer": "Bacteria",
+      "solution": "Bacterial contamination, such as Salmonella or E. coli, is the most common cause of food poisoning."
+    },
+    {
+      "question": "Which disease is characterized by the uncontrolled growth of abnormal cells?",
+      "options": ["Cancer", "Diabetes", "Hypertension", "Asthma"],
+      "correct_answer": "Cancer",
+      "solution": "Cancer is a disease where abnormal cells divide uncontrollably and can invade nearby tissues."
+    },
+    {
+      "question": "What is the primary vector for dengue fever?",
+      "options": ["Housefly", "Aedes mosquito", "Anopheles mosquito", "Culex mosquito"],
+      "correct_answer": "Aedes mosquito",
+      "solution": "Dengue fever is primarily transmitted by the Aedes mosquito, particularly Aedes aegypti."
+    },
+    {
+      "question": "Which vitamin deficiency causes scurvy?",
+      "options": ["Vitamin A", "Vitamin B12", "Vitamin C", "Vitamin D"],
+      "correct_answer": "Vitamin C",
+      "solution": "Scurvy is caused by a deficiency of Vitamin C, leading to symptoms such as fatigue, swollen gums, and joint pain."
+    },
+    {
+      "question": "What is the primary cause of hepatitis?",
+      "options": ["Bacteria", "Virus", "Alcohol", "Toxins"],
+      "correct_answer": "Virus",
+      "solution": "Hepatitis is primarily caused by viral infections, including hepatitis A, B, and C viruses."
+    },
+    {
+      "question": "Which of the following diseases is caused by a protozoan parasite?",
+      "options": ["Malaria", "Tuberculosis", "HIV", "Influenza"],
+      "correct_answer": "Malaria",
+      "solution": "Malaria is caused by protozoan parasites of the genus Plasmodium, transmitted through mosquito bites."
+    },
+    {
+      "question": "What is the leading cause of death worldwide?",
+      "options": ["Heart disease", "Cancer", "Respiratory diseases", "Infectious diseases"],
+      "correct_answer": "Heart disease",
+      "solution": "Heart disease is the leading cause of death globally, often related to lifestyle factors such as diet and exercise."
+    },
+    {
+      "question": "Which disease is characterized by the body's inability to produce insulin?",
+      "options": ["Type 1 Diabetes", "Type 2 Diabetes", "Hypertension", "Asthma"],
+      "correct_answer": "Type 1 Diabetes",
+      "solution": "Type 1 Diabetes is an autoimmune condition where the body does not produce insulin, leading to high blood sugar levels."
+    },
+    {
+      "question": "What is the primary function of the liver in relation to alcohol?",
+      "options": ["Digestion", "Detoxification", "Storage", "Production"],
+      "correct_answer": "Detoxification",
+      "solution": "The liver detoxifies harmful substances, including alcohol, through complex chemical reactions."
+    },
+    {
+      "question": "Which of the following is a common symptom of a heart attack?",
+      "options": ["Chest pain", "Headache", "Nausea", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Common symptoms of a heart attack include chest pain, nausea, and sometimes headache."
+    },
+    {
+      "question": "What is the primary treatment for allergic reactions?",
+      "options": ["Antihistamines", "Antibiotics", "Vaccines", "Steroids"],
+      "correct_answer": "Antihistamines",
+      "solution": "Antihistamines are commonly used to treat allergic reactions by blocking the action of histamine."
+    },
+    {
+      "question": "Which disease is often associated with a high fever and rash in children?",
+      "options": ["Measles", "Mumps", "Chickenpox", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Measles, mumps, and chickenpox are all viral infections that can cause high fever and rash in children."
+    },
+    {
+      "question": "Which of the following is a common cause of chronic cough?",
+      "options": ["Asthma", "Cold", "Flu", "Allergy"],
+      "correct_answer": "Asthma",
+      "solution": "Asthma is a common cause of chronic cough due to inflammation and narrowing of the airways."
+    },
+    {
+      "question": "What is the primary method of preventing the spread of infectious diseases?",
+      "options": ["Vaccination", "Antibiotics", "Surgery", "Diet"],
+      "correct_answer": "Vaccination",
+      "solution": "Vaccination is the most effective method of preventing the spread of infectious diseases."
+    },
+    {
+      "question": "Which disease is characterized by the formation of cysts in the kidneys?",
+      "options": ["Polycystic kidney disease", "Diabetes", "Hypertension", "Cancer"],
+      "correct_answer": "Polycystic kidney disease",
+      "solution": "Polycystic kidney disease is a genetic disorder characterized by the formation of numerous cysts in the kidneys."
+    }
+  ]

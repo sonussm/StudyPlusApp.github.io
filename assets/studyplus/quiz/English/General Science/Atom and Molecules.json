@@ -1,0 +1,188 @@
+[
+    {
+    "question": "What is the smallest particle of matter that can exist independently?",
+    "options": ["Atom", "Molecule", "Ion", "Electron"],
+    "correct_answer": "Molecule",
+    "solution": "A molecule is the smallest particle of an element or compound that can exist independently and still retain its chemical properties."
+    },
+    {
+    "question": "What is the law of constant proportion?",
+    "options": ["Elements always combine in whole number ratios", "Elements always combine in fixed proportions", "Elements always combine in variable proportions", "Elements always combine to form compounds"],
+    "correct_answer": "Elements always combine in fixed proportions",
+    "solution": "The law of constant proportion states that in a chemical compound, the elements are always present in definite proportions by mass."
+    },
+    {
+    "question": "Who proposed the atomic theory?",
+    "options": ["Dalton", "Rutherford", "Bohr", "Democritus"],
+    "correct_answer": "Dalton",
+    "solution": "The atomic theory was proposed by John Dalton in 1803."
+    },
+    {
+    "question": "What is the atomic mass unit (amu)?",
+    "options": ["1/12 the mass of a carbon-12 atom", "1/16 the mass of an oxygen atom", "1/6.022 x 10^23 the mass of a mole", "The mass of a proton"],
+    "correct_answer": "1/12 the mass of a carbon-12 atom",
+    "solution": "The atomic mass unit (amu) is defined as 1/12 the mass of a carbon-12 atom."
+    },
+    {
+    "question": "What is the number of atoms in one mole of any substance?",
+    "options": ["6.022 x 10^23", "1.66 x 10^-24", "1.38 x 10^-23", "3.14 x 10^22"],
+    "correct_answer": "6.022 x 10^23",
+    "solution": "Avogadro's number, which is 6.022 x 10^23, represents the number of particles (atoms, molecules or ions) present in one mole of any substance."
+    },
+    {
+    "question": "What is the formula for water?",
+    "options": ["H2O", "CO2", "NaCl", "CH4"],
+    "correct_answer": "H2O",
+    "solution": "The chemical formula for water is H2O, which indicates that each molecule of water consists of two hydrogen atoms and one oxygen atom."
+    },
+    {
+    "question": "What is the difference between an atom and an ion?",
+    "options": ["Ions are smaller than atoms", "Ions are larger than atoms", "Ions are electrically charged particles", "There is no difference"],
+    "correct_answer": "Ions are electrically charged particles",
+    "solution": "An ion is a charged particle, either positively charged (cation) or negatively charged (anion), while an atom is electrically neutral."
+    },
+    {
+    "question": "What is the law of multiple proportions?",
+    "options": ["Elements always combine in whole number ratios", "Elements always combine in fixed proportions", "Elements always combine in variable proportions", "Elements always combine to form compounds"],
+    "correct_answer": "Elements always combine in whole number ratios",
+    "solution": "The law of multiple proportions states that when two elements combine to form more than one compound, the masses of one element that combine with a fixed mass of the other element are in the ratio of small whole numbers."
+    },
+    {
+    "question": "What is the formula for carbon dioxide?",
+    "options": ["H2O", "CO2", "NaCl", "CH4"],
+    "correct_answer": "CO2",
+    "solution": "The chemical formula for carbon dioxide is CO2, which indicates that each molecule of carbon dioxide consists of one carbon atom and two oxygen atoms."
+    },
+    {
+    "question": "What is the formula for methane?",
+    "options": ["H2O", "CO2", "NaCl", "CH4"],
+    "correct_answer": "CH4",
+    "solution": "The chemical formula for methane is CH4, which indicates that each molecule of methane consists of one carbon atom and four hydrogen atoms."
+    },
+    {
+    "question": "What is the formula for sodium chloride?",
+    "options": ["H2O", "CO2", "NaCl", "CH4"],
+    "correct_answer": "NaCl",
+    "solution": "The chemical formula for sodium chloride (table salt) is NaCl, which indicates that each molecule of sodium chloride consists of one sodium atom and one chlorine atom."
+    },
+    {
+    "question": "What is the formula for ammonia?",
+    "options": ["NH3", "O2", "N2", "H2"],
+    "correct_answer": "NH3",
+    "solution": "The chemical formula for ammonia is NH3, which indicates that each molecule of ammonia consists of one nitrogen atom and three hydrogen atoms."
+    },
+    {
+    "question": "What is the formula for oxygen gas?",
+    "options": ["NH3", "O2", "N2", "H2"],
+    "correct_answer": "O2",
+    "solution": "The chemical formula for oxygen gas is O2, which indicates that each molecule of oxygen gas consists of two oxygen atoms."
+    },
+    {
+    "question": "What is the formula for nitrogen gas?",
+    "options": ["NH3", "O2", "N2", "H2"],
+    "correct_answer": "N2",
+    "solution": "The chemical formula for nitrogen gas is N2, which indicates that each molecule of nitrogen gas consists of two nitrogen atoms."
+    },
+    {
+    "question": "What is the formula for hydrogen gas?",
+    "options": ["NH3", "O2", "N2", "H2"],
+    "correct_answer": "H2",
+    "solution": "The chemical formula for hydrogen gas is H2, which indicates that each molecule of hydrogen gas consists of two hydrogen atoms."
+    },
+    {
+    "question": "What is the formula for glucose?",
+    "options": ["C6H12O6", "C12H22O11", "C2H5OH", "CH3COOH"],
+    "correct_answer": "C6H12O6",
+    "solution": "The chemical formula for glucose is C6H12O6, which indicates that each molecule of glucose consists of six carbon atoms, twelve hydrogen atoms, and six oxygen atoms."
+    },
+    {
+    "question": "What is the formula for sucrose?",
+    "options": ["C6H12O6", "C12H22O11", "C2H5OH", "CH3COOH"],
+    "correct_answer": "C12H22O11",
+    "solution": "The chemical formula for sucrose (table sugar) is C12H22O11, which indicates that each molecule of sucrose consists of twelve carbon atoms, twenty-two hydrogen atoms, and eleven oxygen atoms."
+    },
+    {
+    "question": "What is the formula for ethanol?",
+    "options": ["C6H12O6", "C12H22O11", "C2H5OH", "CH3COOH"],
+    "correct_answer": "C2H5OH",
+    "solution": "The chemical formula for ethanol is C2H5OH, which indicates that each molecule of ethanol consists of two carbon atoms, six hydrogen atoms, and one oxygen atom."
+    },
+    {
+    "question": "What is the formula for acetic acid?",
+    "options": ["C6H12O6", "C12H22O11", "C2H5OH", "CH3COOH"],
+    "correct_answer": "CH3COOH",
+    "solution": "The chemical formula for acetic acid is CH3COOH, which indicates that each molecule of acetic acid consists of one carbon atom, four hydrogen atoms, and two oxygen atoms."
+    },
+    {
+    "question": "What is the formula for sodium hydroxide?",
+    "options": ["NaOH", "HCl", "H2SO4", "NH3"],
+    "correct_answer": "NaOH",
+    "solution": "The chemical formula for sodium hydroxide is NaOH, which indicates that each molecule of sodium hydroxide consists of one sodium atom and one hydroxide group (OH)."
+    },
+    {
+    "question": "What is the formula for hydrochloric acid?",
+    "options": ["NaOH", "HCl", "H2SO4", "NH3"],
+    "correct_answer": "HCl",
+    "solution": "The chemical formula for hydrochloric acid is HCl, which indicates that each molecule of hydrochloric acid consists of one hydrogen atom and one chlorine atom."
+    },
+    {
+    "question": "What is the formula for sulfuric acid?",
+    "options": ["NaOH", "HCl", "H2SO4", "NH3"],
+    "correct_answer": "H2SO4",
+    "solution": "The chemical formula for sulfuric acid is H2SO4, which indicates that each molecule of sulfuric acid consists of two hydrogen atoms, one sulfur atom, and four oxygen atoms."
+    },
+    {
+    "question": "What is the formula for ammonia?",
+    "options": ["NaOH", "HCl", "H2SO4", "NH3"],
+    "correct_answer": "NH3",
+    "solution": "The chemical formula for ammonia is NH3, which indicates that each molecule of ammonia consists of one nitrogen atom and three hydrogen atoms."
+    },
+    {
+    "question": "What is the formula for calcium carbonate?",
+    "options": ["CaCO3", "NaCl", "H2O", "CH4"],
+    "correct_answer": "CaCO3",
+    "solution": "The chemical formula for calcium carbonate is CaCO3, which indicates that each molecule of calcium carbonate consists of one calcium atom, one carbon atom, and three oxygen atoms."
+    },
+    {
+    "question": "What is the formula for sodium chloride?",
+    "options": ["CaCO3", "NaCl", "H2O", "CH4"],
+    "correct_answer": "NaCl",
+    "solution": "The chemical formula for sodium chloride (table salt) is NaCl, which indicates that each molecule of sodium chloride consists of one sodium atom and one chlorine atom."
+    },
+    {
+    "question": "What is the formula for water?",
+    "options": ["CaCO3", "NaCl", "H2O", "CH4"],
+    "correct_answer": "H2O",
+    "solution": "The chemical formula for water is H2O, which indicates that each molecule of water consists of two hydrogen atoms and one oxygen atom."
+    },
+    {
+    "question": "What is the formula for methane?",
+    "options": ["CaCO3", "NaCl", "H2O", "CH4"],
+    "correct_answer": "CH4",
+    "solution": "The chemical formula for methane is CH4, which indicates that each molecule of methane consists of one carbon atom and four hydrogen atoms."
+    },
+    {
+    "question": "What is the formula for carbon monoxide?",
+    "options": ["CO", "CO2", "NO", "NO2"],
+    "correct_answer": "CO",
+    "solution": "The chemical formula for carbon monoxide is CO, which indicates that each molecule of carbon monoxide consists of one carbon atom and one oxygen atom."
+    },
+    {
+    "question": "What is the formula for carbon dioxide?",
+    "options": ["CO", "CO2", "NO", "NO2"],
+    "correct_answer": "CO2",
+    "solution": "The chemical formula for carbon dioxide is CO2, which indicates that each molecule of carbon dioxide consists of one carbon atom and two oxygen atoms."
+    },
+    {
+    "question": "What is the formula for nitric oxide?",
+    "options": ["CO", "CO2", "NO", "NO2"],
+    "correct_answer": "NO",
+    "solution": "The chemical formula for nitric oxide is NO, which indicates that each molecule of nitric oxide consists of one nitrogen atom and one oxygen atom."
+    },
+    {
+    "question": "What is the formula for nitrogen dioxide?",
+    "options": ["CO", "CO2", "NO", "NO2"],
+    "correct_answer": "NO2",
+    "solution": "The chemical formula for nitrogen dioxide is NO2, which indicates that each molecule of nitrogen dioxide consists of one nitrogen atom and two oxygen atoms."
+    }
+    ]

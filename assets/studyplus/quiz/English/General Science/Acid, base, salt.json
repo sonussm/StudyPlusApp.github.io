@@ -1,0 +1,182 @@
+[
+    {
+    "question": "What is the pH range for acids?",
+    "options": ["0-7", "7-14", "0-14", "1-13"],
+    "correct_answer": "0-7",
+    "solution": "The pH scale ranges from 0 to 14. Acids have a pH less than 7, with 0 being the most acidic."
+    },
+    {
+    "question": "Which of the following is a strong acid?",
+    "options": ["Acetic acid", "Carbonic acid", "Hydrochloric acid", "Citric acid"],
+    "correct_answer": "Hydrochloric acid",
+    "solution": "Hydrochloric acid (HCl) is a strong acid that completely dissociates in water to produce hydrogen ions (H+). Acetic acid (CH3COOH), carbonic acid (H2CO3), and citric acid (C6H8O7) are weak acids."
+    },
+    {
+    "question": "What is the chemical formula for sodium hydroxide (lye)?",
+    "options": ["NaOH", "KOH", "Ca(OH)2", "NH4OH"],
+    "correct_answer": "NaOH",
+    "solution": "Sodium hydroxide (NaOH) is a strong base with the chemical formula NaOH."
+    },
+    {
+    "question": "Which of the following is a salt?",
+    "options": ["Vinegar", "Baking soda", "Table salt", "Lemon juice"],
+    "correct_answer": "Table salt",
+    "solution": "Table salt, or sodium chloride (NaCl), is a salt formed by the neutralization reaction between the strong acid hydrochloric acid (HCl) and the strong base sodium hydroxide (NaOH)."
+    },
+    {
+    "question": "What is the pH of a neutral solution?",
+    "options": ["0", "7", "14", "Between 0 and 7"],
+    "correct_answer": "7",
+    "solution": "A neutral solution has a pH of 7, which is the midpoint of the pH scale. Solutions with a pH less than 7 are acidic, while solutions with a pH greater than 7 are basic."
+    },
+    {
+    "question": "Which of the following is a weak base?",
+    "options": ["Sodium hydroxide", "Potassium hydroxide", "Calcium hydroxide", "Ammonia"],
+    "correct_answer": "Ammonia",
+    "solution": "Ammonia (NH3) is a weak base that partially dissociates in water to produce hydroxide ions (OH-). Sodium hydroxide (NaOH), potassium hydroxide (KOH), and calcium hydroxide (Ca(OH)2) are strong bases."
+    },
+    {
+    "question": "What is the chemical formula for ammonium chloride?",
+    "options": ["NH4Cl", "NH3Cl", "NH4OH", "NH3OH"],
+    "correct_answer": "NH4Cl",
+    "solution": "Ammonium chloride has the chemical formula NH4Cl. It is formed by the reaction between the weak base ammonia (NH3) and the strong acid hydrochloric acid (HCl)."
+    },
+    {
+    "question": "Which of the following is used as an antacid?",
+    "options": ["Hydrochloric acid", "Sulfuric acid", "Sodium hydroxide", "Sodium bicarbonate"],
+    "correct_answer": "Sodium bicarbonate",
+    "solution": "Sodium bicarbonate (NaHCO3), also known as baking soda, is a weak base that can be used as an antacid to neutralize excess stomach acid."
+    },
+    {
+    "question": "What is the chemical formula for calcium carbonate?",
+    "options": ["CaCO3", "CaO", "CO2", "Ca(OH)2"],
+    "correct_answer": "CaCO3",
+    "solution": "Calcium carbonate has the chemical formula CaCO3. It is a salt formed by the reaction between the strong base calcium hydroxide (Ca(OH)2) and carbonic acid (H2CO3)."
+    },
+    {
+    "question": "Which of the following is a neutralization reaction?",
+    "options": ["HCl + NaOH → NaCl + H2O", "Zn + 2HCl → ZnCl2 + H2", "2Na + 2HCl → 2NaCl + H2", "CH4 + 2O2 → CO2 + 2H2O"],
+    "correct_answer": "HCl + NaOH → NaCl + H2O",
+    "solution": "The reaction between the strong acid hydrochloric acid (HCl) and the strong base sodium hydroxide (NaOH) to form the salt sodium chloride (NaCl) and water (H2O) is a neutralization reaction."
+    },
+    {
+    "question": "What is the chemical formula for copper sulfate?",
+    "options": ["CuSO4", "Cu2SO4", "CuSO4·5H2O", "Cu(OH)2"],
+    "correct_answer": "CuSO4·5H2O",
+    "solution": "Copper sulfate pentahydrate, with the chemical formula CuSO4·5H2O, is the most common form of copper sulfate. It consists of copper sulfate (CuSO4) crystals with five water molecules attached."
+    },
+    {
+    "question": "Which of the following is a salt of a strong acid and a weak base?",
+    "options": ["Ammonium chloride", "Sodium chloride", "Copper sulfate", "Calcium carbonate"],
+    "correct_answer": "Ammonium chloride",
+    "solution": "Ammonium chloride (NH4Cl) is a salt formed by the reaction between the strong acid hydrochloric acid (HCl) and the weak base ammonia (NH3)."
+    },
+    {
+    "question": "What is the chemical formula for calcium hydroxide (slaked lime)?",
+    "options": ["CaO", "Ca(OH)2", "CaCO3", "CaSO4"],
+    "correct_answer": "Ca(OH)2",
+    "solution": "Calcium hydroxide, also known as slaked lime, has the chemical formula Ca(OH)2. It is formed when calcium oxide (CaO) reacts with water."
+    },
+    {
+    "question": "Which of the following is a salt of a weak acid and a strong base?",
+    "options": ["Sodium chloride", "Ammonium chloride", "Sodium acetate", "Copper sulfate"],
+    "correct_answer": "Sodium acetate",
+    "solution": "Sodium acetate is a salt formed by the reaction between the weak acid acetic acid (CH3COOH) and the strong base sodium hydroxide (NaOH)."
+    },
+    {
+    "question": "What is the chemical formula for baking soda?",
+    "options": ["NaHCO3", "Na2CO3", "NaOH", "NaCl"],
+    "correct_answer": "NaHCO3",
+    "solution": "Baking soda, or sodium bicarbonate, has the chemical formula NaHCO3. It is a salt formed by the reaction between carbonic acid (H2CO3) and sodium hydroxide (NaOH)."
+    },
+    {
+    "question": "Which of the following is a salt of a strong acid and a strong base?",
+    "options": ["Ammonium chloride", "Sodium acetate", "Sodium chloride", "Copper sulfate"],
+    "correct_answer": "Sodium chloride",
+    "solution": "Sodium chloride (NaCl) is a salt formed by the reaction between the strong acid hydrochloric acid (HCl) and the strong base sodium hydroxide (NaOH)."
+    },
+    {
+    "question": "What is the chemical formula for calcium oxide (quicklime)?",
+    "options": ["CaO", "Ca(OH)2", "CaCO3", "CaSO4"],
+    "correct_answer": "CaO",
+    "solution": "Calcium oxide, also known as quicklime, has the chemical formula CaO. It is formed when limestone (CaCO3) is heated to a high temperature."
+    },
+    {
+    "question": "Which of the following is a neutralization reaction?",
+    "options": ["Zn + 2HCl → ZnCl2 + H2", "2Na + 2HCl → 2NaCl + H2", "CH4 + 2O2 → CO2 + 2H2O", "NaOH + HCl → NaCl + H2O"],
+    "correct_answer": "NaOH + HCl → NaCl + H2O",
+    "solution": "The reaction between the strong base sodium hydroxide (NaOH) and the strong acid hydrochloric acid (HCl) to form the salt sodium chloride (NaCl) and water (H2O) is a neutralization reaction."
+    },
+    {
+    "question": "What is the chemical formula for ammonium hydroxide?",
+    "options": ["NH4Cl", "NH3Cl", "NH4OH", "NH3OH"],
+    "correct_answer": "NH4OH",
+    "solution": "Ammonium hydroxide has the chemical formula NH4OH. It is formed when ammonia (NH3) dissolves in water."
+    },
+    {
+    "question": "Which of the following is a salt of a weak acid and a weak base?",
+    "options": ["Sodium chloride", "Ammonium chloride", "Sodium acetate", "Copper sulfate"],
+    "correct_answer": "Ammonium acetate",
+    "solution": "Ammonium acetate is a salt formed by the reaction between the weak acid acetic acid (CH3COOH) and the weak base ammonia (NH3)."
+    },
+    {
+    "question": "What is the chemical formula for calcium sulfate (gypsum)?",
+    "options": ["CaSO4", "CaSO4·2H2O", "CaSO4·5H2O", "CaSO4·7H2O"],
+    "correct_answer": "CaSO4·2H2O",
+    "solution": "Calcium sulfate dihydrate, or gypsum, has the chemical formula CaSO4·2H2O. It consists of calcium sulfate (CaSO4) crystals with two water molecules attached."
+    },
+    {
+    "question": "Which of the following is a salt of a weak acid and a weak base?",
+    "options": ["Sodium chloride", "Ammonium chloride", "Ammonium acetate", "Copper sulfate"],
+    "correct_answer": "Ammonium acetate",
+    "solution": "Ammonium acetate is a salt formed by the reaction between the weak acid acetic acid (CH3COOH) and the weak base ammonia (NH3)."
+    },
+    {
+    "question": "What is the chemical formula for calcium carbonate (limestone)?",
+    "options": ["CaCO3", "CaO", "CO2", "Ca(OH)2"],
+    "correct_answer": "CaCO3",
+    "solution": "Calcium carbonate, the main component of limestone, has the chemical formula CaCO3."
+    },
+    {
+    "question": "Which of the following is a salt of a strong acid and a weak base?",
+    "options": ["Sodium chloride", "Ammonium chloride", "Sodium acetate", "Copper sulfate"],
+    "correct_answer": "Ammonium chloride",
+    "solution": "Ammonium chloride (NH4Cl) is a salt formed by the reaction between the strong acid hydrochloric acid (HCl) and the weak base ammonia (NH3)."
+    },
+    {
+    "question": "What is the chemical formula for calcium sulfate (anhydrite)?",
+    "options": ["CaSO4", "CaSO4·2H2O", "CaSO4·5H2O", "CaSO4·7H2O"],
+    "correct_answer": "CaSO4",
+    "solution": "Anhydrite is the anhydrous form of calcium sulfate, with the chemical formula CaSO4."
+    },
+    {
+    "question": "Which of the following is a salt of a weak acid and a strong base?",
+    "options": ["Sodium chloride", "Ammonium chloride", "Sodium acetate", "Copper sulfate"],
+    "correct_answer": "Sodium acetate",
+    "solution": "Sodium acetate is a salt formed by the reaction between the weak acid acetic acid (CH3COOH) and the strong base sodium hydroxide (NaOH)."
+    },
+    {
+    "question": "What is the chemical formula for calcium hydroxide (slaked lime)?",
+    "options": ["CaO", "Ca(OH)2", "CaCO3", "CaSO4"],
+    "correct_answer": "Ca(OH)2",
+    "solution": "Calcium hydroxide, also known as slaked lime, has the chemical formula Ca(OH)2. It is formed when calcium oxide (CaO) reacts with water."
+    },
+    {
+    "question": "Which of the following is a salt of a strong acid and a strong base?",
+    "options": ["Ammonium chloride", "Sodium acetate", "Sodium chloride", "Copper sulfate"],
+    "correct_answer": "Sodium chloride",
+    "solution": "Sodium chloride (NaCl) is a salt formed by the reaction between the strong acid hydrochloric acid (HCl) and the strong base sodium hydroxide (NaOH)."
+    },
+    {
+    "question": "What is the chemical formula for calcium oxide (quicklime)?",
+    "options": ["CaO", "Ca(OH)2", "CaCO3", "CaSO4"],
+    "correct_answer": "CaO",
+    "solution": "Calcium oxide, also known as quicklime, has the chemical formula CaO. It is formed when limestone (CaCO3) is heated to a high temperature."
+    },
+    {
+    "question": "Which of the following is a neutralization reaction?",
+    "options": ["Zn + 2HCl → ZnCl2 + H2", "2Na + 2HCl → 2NaCl + H2", "CH4 + 2O2 → CO2 + 2H2O", "NaOH + HCl → NaCl + H2O"],
+    "correct_answer": "NaOH + HCl → NaCl + H2O",
+    "solution": "The reaction between the strong base sodium hydroxide (NaOH) and the strong acid hydrochloric acid (HCl) to form the salt sodium chloride (NaCl) and water (H2O) is a neutralization reaction."
+    }
+    ]

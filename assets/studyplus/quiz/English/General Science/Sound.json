@@ -1,0 +1,176 @@
+[
+    {
+      "question": "What type of waves are sound waves?",
+      "options": ["Transverse waves", "Longitudinal waves", "Surface waves", "Electromagnetic waves"],
+      "correct_answer": "Longitudinal waves",
+      "solution": "Sound waves are classified as longitudinal waves because the particle displacement is parallel to the direction of wave propagation."
+    },
+    {
+      "question": "What is the speed of sound in air at room temperature?",
+      "options": ["343 m/s", "300 m/s", "1500 m/s", "1200 m/s"],
+      "correct_answer": "343 m/s",
+      "solution": "The speed of sound in air at room temperature (20°C) is approximately 343 meters per second."
+    },
+    {
+      "question": "Which of the following mediums does sound travel fastest?",
+      "options": ["Air", "Water", "Wood", "Steel"],
+      "correct_answer": "Steel",
+      "solution": "Sound travels fastest in solids, with steel being one of the fastest mediums due to its tightly packed particles."
+    },
+    {
+      "question": "What is the frequency range of audible sound for humans?",
+      "options": ["20 Hz to 20 kHz", "20 kHz to 20 MHz", "0 Hz to 20 Hz", "100 Hz to 10 kHz"],
+      "correct_answer": "20 Hz to 20 kHz",
+      "solution": "The audible range for humans is typically from 20 Hz to 20 kHz."
+    },
+    {
+      "question": "What phenomenon occurs when sound waves reflect off a surface?",
+      "options": ["Refraction", "Diffraction", "Echo", "Absorption"],
+      "correct_answer": "Echo",
+      "solution": "An echo is produced when sound waves reflect off a surface and return to the listener."
+    },
+    {
+      "question": "What is the unit of sound intensity?",
+      "options": ["Hertz", "Decibel", "Newton", "Joule"],
+      "correct_answer": "Decibel",
+      "solution": "The intensity of sound is measured in decibels (dB)."
+    },
+    {
+      "question": "What type of sound wave has a frequency below 20 Hz?",
+      "options": ["Ultrasonic", "Infrasonic", "Audible", "Subsonic"],
+      "correct_answer": "Infrasonic",
+      "solution": "Sound waves with frequencies below 20 Hz are referred to as infrasonic waves."
+    },
+    {
+      "question": "What is the term for the time taken for one complete wave cycle to pass a point?",
+      "options": ["Wavelength", "Frequency", "Amplitude", "Period"],
+      "correct_answer": "Period",
+      "solution": "The period is the time taken for one complete wave cycle to pass a given point."
+    },
+    {
+      "question": "What is the effect of temperature on the speed of sound in air?",
+      "options": ["Increases with temperature", "Decreases with temperature", "Remains constant", "Varies randomly"],
+      "correct_answer": "Increases with temperature",
+      "solution": "The speed of sound in air increases as the temperature rises."
+    },
+    {
+      "question": "Which animal is known for its ability to hear ultrasonic sounds?",
+      "options": ["Dog", "Cat", "Bat", "Elephant"],
+      "correct_answer": "Bat",
+      "solution": "Bats are known for their ability to hear ultrasonic sounds, which are above the audible range for humans."
+    },
+    {
+      "question": "What is the term for the bending of sound waves around obstacles?",
+      "options": ["Reflection", "Refraction", "Diffraction", "Interference"],
+      "correct_answer": "Diffraction",
+      "solution": "Diffraction refers to the bending of sound waves around obstacles and openings."
+    },
+    {
+      "question": "What is the relationship between frequency and pitch?",
+      "options": ["Directly proportional", "Inversely proportional", "No relation", "Equal"],
+      "correct_answer": "Directly proportional",
+      "solution": "Pitch is directly proportional to frequency; higher frequencies produce higher pitches."
+    },
+    {
+      "question": "What is the term for a sound that is produced by a vibrating object?",
+      "options": ["Noise", "Tone", "Sound wave", "Echo"],
+      "correct_answer": "Sound wave",
+      "solution": "A sound wave is produced by the vibration of an object, creating pressure variations in a medium."
+    },
+    {
+      "question": "Which of the following is not a characteristic of sound waves?",
+      "options": ["Frequency", "Amplitude", "Velocity", "Color"],
+      "correct_answer": "Color",
+      "solution": "Color is not a characteristic of sound waves; it is associated with light waves."
+    },
+    {
+      "question": "What is the phenomenon called when sound waves overlap and combine?",
+      "options": ["Interference", "Diffraction", "Refraction", "Reflection"],
+      "correct_answer": "Interference",
+      "solution": "Interference occurs when two or more sound waves overlap and combine, affecting the resulting sound."
+    },
+    {
+      "question": "What is the primary reason sound cannot travel through a vacuum?",
+      "options": ["Lack of medium", "Absence of air", "Low temperature", "High pressure"],
+      "correct_answer": "Lack of medium",
+      "solution": "Sound requires a medium (solid, liquid, or gas) to travel; it cannot propagate through a vacuum."
+    },
+    {
+      "question": "What is the term for the maximum displacement of particles in a sound wave?",
+      "options": ["Frequency", "Amplitude", "Wavelength", "Velocity"],
+      "correct_answer": "Amplitude",
+      "solution": "Amplitude refers to the maximum displacement of particles in a sound wave, which relates to its loudness."
+    },
+    {
+      "question": "What type of sound wave has a frequency above 20 kHz?",
+      "options": ["Infrasonic", "Audible", "Ultrasonic", "Subsonic"],
+      "correct_answer": "Ultrasonic",
+      "solution": "Ultrasonic waves are sound waves with frequencies above 20 kHz, beyond the audible range for humans."
+    },
+    {
+      "question": "What is the term for the distance between successive crests of a wave?",
+      "options": ["Frequency", "Amplitude", "Wavelength", "Period"],
+      "correct_answer": "Wavelength",
+      "solution": "Wavelength is the distance between successive crests (or troughs) of a wave."
+    },
+    {
+      "question": "What happens to sound waves as they pass through different mediums?",
+      "options": ["Speed changes", "Frequency changes", "Wavelength changes", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "As sound waves pass through different mediums, their speed, frequency, and wavelength can change."
+    },
+    {
+      "question": "What is the effect of increasing the amplitude of a sound wave?",
+      "options": ["Increases pitch", "Decreases pitch", "Increases loudness", "Decreases loudness"],
+      "correct_answer": "Increases loudness",
+      "solution": "Increasing the amplitude of a sound wave results in a louder sound."
+    },
+    {
+      "question": "What is the term for the phenomenon where sound is absorbed by materials?",
+      "options": ["Reflection", "Refraction", "Absorption", "Transmission"],
+      "correct_answer": "Absorption",
+      "solution": "Absorption occurs when sound energy is taken in by materials, reducing the intensity of the sound."
+    },
+    {
+      "question": "What is the primary factor that affects the speed of sound in a medium?",
+      "options": ["Density", "Temperature", "Humidity", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "The speed of sound is influenced by the density, temperature, and humidity of the medium."
+    },
+    {
+      "question": "What type of sound is produced by a vibrating tuning fork?",
+      "options": ["Noise", "Musical sound", "Infrasonic sound", "Ultrasonic sound"],
+      "correct_answer": "Musical sound",
+      "solution": "A vibrating tuning fork produces a musical sound, characterized by a clear pitch."
+    },
+    {
+      "question": "What is the term for the change in frequency of a wave in relation to an observer moving relative to the source?",
+      "options": ["Doppler effect", "Interference", "Refraction", "Diffraction"],
+      "correct_answer": "Doppler effect",
+      "solution": "The Doppler effect refers to the change in frequency of a wave in relation to an observer moving relative to the source."
+    },
+    {
+      "question": "Which of the following describes sound waves?",
+      "options": ["Transverse waves", "Longitudinal waves", "Electromagnetic waves", "None of the above"],
+      "correct_answer": "Longitudinal waves",
+      "solution": "Sound waves are longitudinal waves where particle displacement is parallel to the direction of wave propagation."
+    },
+    {
+      "question": "What is the primary cause of sound in musical instruments?",
+      "options": ["Vibration", "Pressure", "Temperature", "Density"],
+      "correct_answer": "Vibration",
+      "solution": "Sound in musical instruments is primarily caused by the vibration of strings, air columns, or membranes."
+    },
+    {
+      "question": "What is the term for the sound produced when an object vibrates?",
+      "options": ["Echo", "Noise", "Sound wave", "Resonance"],
+      "correct_answer": "Sound wave",
+      "solution": "A sound wave is produced when an object vibrates, creating pressure variations in the surrounding medium."
+    },
+    {
+      "question": "Which of the following is a characteristic of sound waves?",
+      "options": ["They can travel through a vacuum", "They require a medium", "They are electromagnetic waves", "They have no speed"],
+      "correct_answer": "They require a medium",
+      "solution": "Sound waves require a medium (solid, liquid, or gas) to travel; they cannot propagate through a vacuum."
+    }
+  ]

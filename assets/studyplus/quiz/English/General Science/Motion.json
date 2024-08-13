@@ -1,0 +1,146 @@
+[
+    {
+      "question": "What is the definition of motion?",
+      "options": ["Change in position", "Change in speed", "Change in direction", "All of the above"],
+      "correct_answer": "Change in position",
+      "solution": "Motion is defined as the change in the position of an object with respect to time."
+    },
+    {
+      "question": "Which of the following is a vector quantity?",
+      "options": ["Speed", "Distance", "Velocity", "Time"],
+      "correct_answer": "Velocity",
+      "solution": "Velocity is a vector quantity as it has both magnitude and direction."
+    },
+    {
+      "question": "What does the slope of a distance-time graph represent?",
+      "options": ["Acceleration", "Speed", "Velocity", "Displacement"],
+      "correct_answer": "Speed",
+      "solution": "The slope of a distance-time graph gives the speed of the object."
+    },
+    {
+      "question": "What is uniform motion?",
+      "options": ["Motion with constant speed", "Motion with changing speed", "Motion in a circular path", "None of the above"],
+      "correct_answer": "Motion with constant speed",
+      "solution": "Uniform motion occurs when an object travels equal distances in equal intervals of time."
+    },
+    {
+      "question": "Which law states that an object in motion stays in motion unless acted upon by an external force?",
+      "options": ["Second Law of Motion", "Third Law of Motion", "Law of Inertia", "None of the above"],
+      "correct_answer": "Law of Inertia",
+      "solution": "The first law of motion, also known as the law of inertia, states that an object will remain at rest or in uniform motion unless acted upon by an external force."
+    },
+    {
+      "question": "What is the unit of acceleration?",
+      "options": ["m/s", "m/s²", "km/h", "m"],
+      "correct_answer": "m/s²",
+      "solution": "Acceleration is measured in meters per second squared (m/s²)."
+    },
+    {
+      "question": "If a car travels 100 meters in 5 seconds, what is its speed?",
+      "options": ["20 m/s", "15 m/s", "25 m/s", "10 m/s"],
+      "correct_answer": "20 m/s",
+      "solution": "Speed is calculated as distance divided by time, so 100 m / 5 s = 20 m/s."
+    },
+    {
+      "question": "What type of motion does a pendulum exhibit?",
+      "options": ["Linear motion", "Circular motion", "Oscillatory motion", "Random motion"],
+      "correct_answer": "Oscillatory motion",
+      "solution": "A pendulum exhibits oscillatory motion as it swings back and forth."
+    },
+    {
+      "question": "Which of the following describes non-uniform motion?",
+      "options": ["Equal distance in equal time", "Varying speed", "Constant speed", "Straight line motion"],
+      "correct_answer": "Varying speed",
+      "solution": "Non-uniform motion occurs when an object travels unequal distances in equal time intervals."
+    },
+    {
+      "question": "What is the formula for calculating speed?",
+      "options": ["Distance × Time", "Distance / Time", "Time / Distance", "None of the above"],
+      "correct_answer": "Distance / Time",
+      "solution": "Speed is calculated using the formula: Speed = Distance / Time."
+    },
+    {
+      "question": "What does a velocity-time graph's slope represent?",
+      "options": ["Speed", "Distance", "Acceleration", "Displacement"],
+      "correct_answer": "Acceleration",
+      "solution": "The slope of a velocity-time graph indicates the acceleration of the object."
+    },
+    {
+      "question": "Which of the following is an example of circular motion?",
+      "options": ["A car driving in a straight line", "A satellite orbiting the Earth", "A ball thrown vertically", "A person walking"],
+      "correct_answer": "A satellite orbiting the Earth",
+      "solution": "A satellite in orbit is an example of circular motion."
+    },
+    {
+      "question": "What is the term for the total distance traveled divided by the total time taken?",
+      "options": ["Speed", "Velocity", "Displacement", "Acceleration"],
+      "correct_answer": "Speed",
+      "solution": "The average speed is calculated as the total distance traveled divided by the total time taken."
+    },
+    {
+      "question": "What is the acceleration of an object in free fall?",
+      "options": ["0 m/s²", "9.8 m/s²", "15 m/s²", "Varies with height"],
+      "correct_answer": "9.8 m/s²",
+      "solution": "The acceleration due to gravity for an object in free fall near the Earth's surface is approximately 9.8 m/s²."
+    },
+    {
+      "question": "Which of the following is true about displacement?",
+      "options": ["It is always positive", "It can be zero", "It is a scalar quantity", "None of the above"],
+      "correct_answer": "It can be zero",
+      "solution": "Displacement can be zero if the initial and final positions are the same, regardless of the distance traveled."
+    },
+    {
+      "question": "What type of motion is exhibited by a car moving around a circular track?",
+      "options": ["Linear motion", "Uniform motion", "Non-uniform motion", "Circular motion"],
+      "correct_answer": "Circular motion",
+      "solution": "A car moving around a circular track is an example of circular motion."
+    },
+    {
+      "question": "What is the relationship between mass and acceleration according to Newton's second law?",
+      "options": ["Directly proportional", "Inversely proportional", "Independent", "None of the above"],
+      "correct_answer": "Inversely proportional",
+      "solution": "According to Newton's second law, acceleration is inversely proportional to mass when force is constant (F=ma)."
+    },
+    {
+      "question": "What happens to the speed of an object if the net force acting on it is zero?",
+      "options": ["It increases", "It decreases", "It remains constant", "It becomes negative"],
+      "correct_answer": "It remains constant",
+      "solution": "If the net force acting on an object is zero, its speed remains constant."
+    },
+    {
+      "question": "What type of motion does a spinning top exhibit?",
+      "options": ["Linear motion", "Rotational motion", "Translational motion", "Oscillatory motion"],
+      "correct_answer": "Rotational motion",
+      "solution": "A spinning top exhibits rotational motion around its axis."
+    },
+    {
+      "question": "If an object moves in a straight line and speeds up, what type of acceleration is it experiencing?",
+      "options": ["Negative acceleration", "Positive acceleration", "Zero acceleration", "Centripetal acceleration"],
+      "correct_answer": "Positive acceleration",
+      "solution": "When an object speeds up in a straight line, it is experiencing positive acceleration."
+    },
+    {
+      "question": "Which of the following best describes a projectile?",
+      "options": ["An object in circular motion", "An object thrown into the air", "An object at rest", "An object moving in a straight line"],
+      "correct_answer": "An object thrown into the air",
+      "solution": "A projectile is any object that is thrown into the air and is subject to gravitational force."
+    },
+    {
+      "question": "What is the effect of friction on motion?",
+      "options": ["It increases speed", "It decreases speed", "It has no effect", "It changes direction"],
+      "correct_answer": "It decreases speed",
+      "solution": "Friction opposes motion, thus it generally decreases the speed of moving objects."
+    },
+    {
+      "question": "What is the average speed of a runner who completes a 400m lap in 50 seconds?",
+      "options": ["8 m/s", "10 m/s", "12 m/s", "15 m/s"],
+      "correct_answer": "8 m/s",
+      "solution": "Average speed is calculated as total distance divided by total time, so 400 m / 50 s = 8 m/s."
+    },
+    {
+      "question": "Which of the following describes the motion of a leaf falling from a tree?",
+      "options": ["Uniform motion", "Non-uniform motion", "Circular motion", "Oscillatory motion"],
+      "correct_answer": "Non-uniform motion",
+      "solution": "A leaf falling from a tree experiences non-uniform motion due to varying speeds and directions."
+    }
+  ]

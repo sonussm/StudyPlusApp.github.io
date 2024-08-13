@@ -1,0 +1,170 @@
+[
+    {
+      "question": "What is the most abundant metal in the Earth's crust?",
+      "options": ["Iron", "Aluminium", "Copper", "Gold"],
+      "correct_answer": "Aluminium",
+      "solution": "Aluminium is the most abundant metal in the Earth's crust, making up about 8% by weight."
+    },
+    {
+      "question": "Which of the following metals can be cut with a knife?",
+      "options": ["Sodium", "Iron", "Copper", "Lead"],
+      "correct_answer": "Sodium",
+      "solution": "Sodium is a soft metal that can be easily cut with a knife."
+    },
+    {
+      "question": "What property of metals allows them to be drawn into wires?",
+      "options": ["Malleability", "Ductility", "Conductivity", "Sonorousness"],
+      "correct_answer": "Ductility",
+      "solution": "Ductility is the property that allows metals to be drawn into wires."
+    },
+    {
+      "question": "Which non-metal is a good conductor of electricity?",
+      "options": ["Carbon", "Sulfur", "Phosphorus", "Oxygen"],
+      "correct_answer": "Carbon",
+      "solution": "Graphite, a form of carbon, is a good conductor of electricity."
+    },
+    {
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Ag", "Au", "Pb", "Fe"],
+      "correct_answer": "Au",
+      "solution": "The chemical symbol for gold is Au, derived from the Latin word 'aurum'."
+    },
+    {
+      "question": "Which of the following is a property of non-metals?",
+      "options": ["Malleable", "Ductile", "Brittle", "Sonorous"],
+      "correct_answer": "Brittle",
+      "solution": "Non-metals are generally brittle in solid form."
+    },
+    {
+      "question": "Which metal is liquid at room temperature?",
+      "options": ["Gallium", "Mercury", "Sodium", "Potassium"],
+      "correct_answer": "Mercury",
+      "solution": "Mercury is the only metal that is liquid at room temperature."
+    },
+    {
+      "question": "Which of the following metals is used in making aircraft?",
+      "options": ["Iron", "Copper", "Aluminium", "Lead"],
+      "correct_answer": "Aluminium",
+      "solution": "Aluminium is widely used in the aerospace industry due to its lightweight and strength."
+    },
+    {
+      "question": "What type of oxide do metals typically form?",
+      "options": ["Acidic", "Basic", "Neutral", "Amphoteric"],
+      "correct_answer": "Basic",
+      "solution": "Metals typically form basic oxides when they react with oxygen."
+    },
+    {
+      "question": "What is the main component of stainless steel?",
+      "options": ["Iron", "Copper", "Nickel", "Zinc"],
+      "correct_answer": "Nickel",
+      "solution": "Stainless steel is primarily made from iron, chromium, and nickel."
+    },
+    {
+      "question": "Which of the following is a property of metals?",
+      "options": ["Poor conductors of heat", "Brittle", "Lustrous", "Gaseous at room temperature"],
+      "correct_answer": "Lustrous",
+      "solution": "Metals are typically lustrous, meaning they have a shiny appearance."
+    },
+    {
+      "question": "What happens when zinc reacts with hydrochloric acid?",
+      "options": ["No reaction", "Produces hydrogen gas", "Forms a precipitate", "Releases heat"],
+      "correct_answer": "Produces hydrogen gas",
+      "solution": "When zinc reacts with hydrochloric acid, it produces hydrogen gas and zinc chloride."
+    },
+    {
+      "question": "Which metal is known for its corrosion resistance?",
+      "options": ["Iron", "Copper", "Aluminium", "Lead"],
+      "correct_answer": "Aluminium",
+      "solution": "Aluminium is known for its corrosion resistance due to the formation of a protective oxide layer."
+    },
+    {
+      "question": "Which of the following is a non-metal?",
+      "options": ["Copper", "Iron", "Sulfur", "Gold"],
+      "correct_answer": "Sulfur",
+      "solution": "Sulfur is a non-metal that is commonly found in nature."
+    },
+    {
+      "question": "What is the primary use of copper?",
+      "options": ["Construction", "Electrical wiring", "Jewelry", "Automobiles"],
+      "correct_answer": "Electrical wiring",
+      "solution": "Copper is primarily used in electrical wiring due to its excellent conductivity."
+    },
+    {
+      "question": "Which metal is used to galvanize iron?",
+      "options": ["Zinc", "Lead", "Tin", "Nickel"],
+      "correct_answer": "Zinc",
+      "solution": "Zinc is used to galvanize iron to prevent rusting."
+    },
+    {
+      "question": "Which of the following elements is a metalloid?",
+      "options": ["Silicon", "Aluminium", "Iron", "Oxygen"],
+      "correct_answer": "Silicon",
+      "solution": "Silicon is classified as a metalloid, possessing properties of both metals and non-metals."
+    },
+    {
+      "question": "What is the chemical formula for rust?",
+      "options": ["FeO", "Fe2O3", "Fe2O3·nH2O", "Fe3O4"],
+      "correct_answer": "Fe2O3·nH2O",
+      "solution": "Rust is primarily composed of hydrated iron(III) oxide, represented as Fe2O3·nH2O."
+    },
+    {
+      "question": "Which gas is produced when an acid reacts with a metal?",
+      "options": ["Oxygen", "Hydrogen", "Nitrogen", "Carbon Dioxide"],
+      "correct_answer": "Hydrogen",
+      "solution": "Hydrogen gas is produced when an acid reacts with a metal."
+    },
+    {
+      "question": "Which of the following metals is the most reactive?",
+      "options": ["Gold", "Sodium", "Iron", "Copper"],
+      "correct_answer": "Sodium",
+      "solution": "Sodium is one of the most reactive metals, readily reacting with water."
+    },
+    {
+      "question": "What is the main use of lead?",
+      "options": ["Batteries", "Construction", "Jewelry", "Electronics"],
+      "correct_answer": "Batteries",
+      "solution": "Lead is primarily used in lead-acid batteries."
+    },
+    {
+      "question": "Which metal is known for its ability to conduct electricity?",
+      "options": ["Silver", "Gold", "Copper", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Silver, gold, and copper are all excellent conductors of electricity."
+    },
+    {
+      "question": "What type of bond is typically formed between metals?",
+      "options": ["Ionic", "Covalent", "Metallic", "Hydrogen"],
+      "correct_answer": "Metallic",
+      "solution": "Metals typically form metallic bonds, characterized by a sea of delocalized electrons."
+    },
+    {
+      "question": "Which of the following is a characteristic of non-metals?",
+      "options": ["Good conductors of heat", "Malleable", "Brittle", "Shiny"],
+      "correct_answer": "Brittle",
+      "solution": "Non-metals are usually brittle in their solid state."
+    },
+    {
+      "question": "What is the main component of brass?",
+      "options": ["Copper and Zinc", "Copper and Tin", "Copper and Lead", "Copper and Iron"],
+      "correct_answer": "Copper and Zinc",
+      "solution": "Brass is an alloy primarily made of copper and zinc."
+    },
+    {
+      "question": "Which metal is used in thermometers?",
+      "options": ["Lead", "Mercury", "Aluminium", "Copper"],
+      "correct_answer": "Mercury",
+      "solution": "Mercury is used in thermometers due to its high thermal expansion and liquid state at room temperature."
+    },
+    {
+      "question": "Which non-metal is essential for respiration?",
+      "options": ["Oxygen", "Nitrogen", "Carbon", "Hydrogen"],
+      "correct_answer": "Oxygen",
+      "solution": "Oxygen is essential for respiration in most living organisms."
+    },
+    {
+      "question": "Which of the following metals is used in making coins?",
+      "options": ["Aluminium", "Copper", "Nickel", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Coins are often made from a combination of metals including aluminium, copper, and nickel."
+    }
+  ]

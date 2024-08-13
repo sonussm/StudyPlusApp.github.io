@@ -1,0 +1,146 @@
+[
+    {
+      "question": "What is lightning?",
+      "options": ["A weather phenomenon", "A type of earthquake", "A solar event", "A volcanic eruption"],
+      "correct_answer": "A weather phenomenon",
+      "solution": "Lightning is a natural electrical discharge that occurs during thunderstorms, resulting from the buildup of electric charges in clouds."
+    },
+    {
+      "question": "What causes thunder?",
+      "options": ["Lightning", "Wind", "Rain", "Snow"],
+      "correct_answer": "Lightning",
+      "solution": "Thunder is the sound produced by the rapid expansion of air surrounding a lightning bolt."
+    },
+    {
+      "question": "What is an earthquake?",
+      "options": ["A sudden shaking of the ground", "A type of storm", "A volcanic eruption", "A tidal wave"],
+      "correct_answer": "A sudden shaking of the ground",
+      "solution": "An earthquake is caused by the movement of tectonic plates beneath the Earth's surface."
+    },
+    {
+      "question": "What is a tsunami?",
+      "options": ["A type of earthquake", "A large ocean wave", "A volcanic eruption", "A weather phenomenon"],
+      "correct_answer": "A large ocean wave",
+      "solution": "A tsunami is a series of ocean waves caused by large disturbances such as earthquakes or volcanic eruptions under the sea."
+    },
+    {
+      "question": "What is the primary cause of tornadoes?",
+      "options": ["Earthquakes", "Thunderstorms", "Volcanic eruptions", "Floods"],
+      "correct_answer": "Thunderstorms",
+      "solution": "Tornadoes form from severe thunderstorms when warm, moist air meets cold, dry air."
+    },
+    {
+      "question": "What is a hurricane?",
+      "options": ["A type of tornado", "A tropical cyclone", "A winter storm", "An earthquake"],
+      "correct_answer": "A tropical cyclone",
+      "solution": "A hurricane is a large storm system characterized by strong winds and heavy rain, forming over warm ocean waters."
+    },
+    {
+      "question": "What phenomenon is caused by the Earth's rotation?",
+      "options": ["Tsunami", "Tornado", "Coriolis effect", "Earthquake"],
+      "correct_answer": "Coriolis effect",
+      "solution": "The Coriolis effect is the deflection of moving objects caused by the rotation of the Earth."
+    },
+    {
+      "question": "What are aftershocks?",
+      "options": ["Initial tremors", "Secondary tremors after an earthquake", "Volcanic eruptions", "Lightning strikes"],
+      "correct_answer": "Secondary tremors after an earthquake",
+      "solution": "Aftershocks are smaller earthquakes that occur in the same area after a larger earthquake."
+    },
+    {
+      "question": "What is the Richter scale used for?",
+      "options": ["Measuring wind speed", "Measuring earthquake magnitude", "Measuring rainfall", "Measuring temperature"],
+      "correct_answer": "Measuring earthquake magnitude",
+      "solution": "The Richter scale quantifies the amount of energy released by an earthquake."
+    },
+    {
+      "question": "What is a blizzard?",
+      "options": ["A type of tornado", "A severe snowstorm", "A type of earthquake", "A volcanic eruption"],
+      "correct_answer": "A severe snowstorm",
+      "solution": "A blizzard is characterized by strong winds and heavy snowfall, reducing visibility."
+    },
+    {
+      "question": "What is a flood?",
+      "options": ["A sudden rise in water level", "A type of earthquake", "A volcanic eruption", "A weather phenomenon"],
+      "correct_answer": "A sudden rise in water level",
+      "solution": "Floods occur when water overflows onto normally dry land, often due to heavy rainfall or melting snow."
+    },
+    {
+      "question": "What is the eye of a hurricane?",
+      "options": ["The center of the storm", "The outer edge", "The area of highest wind speed", "The area of calm winds"],
+      "correct_answer": "The center of the storm",
+      "solution": "The eye of a hurricane is a region of calm weather at the center of the storm, surrounded by the eyewall."
+    },
+    {
+      "question": "What natural phenomenon is caused by the gravitational pull of the moon?",
+      "options": ["Earthquake", "Tsunami", "Tide", "Volcano"],
+      "correct_answer": "Tide",
+      "solution": "Tides are the rise and fall of sea levels caused by the gravitational forces exerted by the moon and the sun."
+    },
+    {
+      "question": "What is an avalanche?",
+      "options": ["A large wave", "A sudden flow of snow", "A type of earthquake", "A volcanic eruption"],
+      "correct_answer": "A sudden flow of snow",
+      "solution": "An avalanche is a rapid flow of snow down a slope, often triggered by disturbances such as earthquakes or human activity."
+    },
+    {
+      "question": "What is the main cause of volcanic eruptions?",
+      "options": ["Earthquakes", "Pressure from magma", "Wind", "Rain"],
+      "correct_answer": "Pressure from magma",
+      "solution": "Volcanic eruptions occur when pressure from magma builds up beneath the Earth's surface and is released."
+    },
+    {
+      "question": "What is a dust storm?",
+      "options": ["A type of flood", "A strong wind carrying dust", "A type of earthquake", "A volcanic eruption"],
+      "correct_answer": "A strong wind carrying dust",
+      "solution": "A dust storm is a meteorological phenomenon where strong winds lift and carry dust particles over large distances."
+    },
+    {
+      "question": "What is a solar eclipse?",
+      "options": ["The moon blocks the sun", "The sun blocks the moon", "A type of storm", "A volcanic eruption"],
+      "correct_answer": "The moon blocks the sun",
+      "solution": "A solar eclipse occurs when the moon passes between the Earth and the sun, blocking the sun's light."
+    },
+    {
+      "question": "What is a lunar eclipse?",
+      "options": ["The sun blocks the moon", "The moon blocks the sun", "The Earth blocks the sun", "The Earth blocks the moon"],
+      "correct_answer": "The Earth blocks the moon",
+      "solution": "A lunar eclipse occurs when the Earth passes between the sun and the moon, casting a shadow on the moon."
+    },
+    {
+      "question": "What is the greenhouse effect?",
+      "options": ["A type of storm", "A natural phenomenon that warms the Earth", "A volcanic eruption", "A type of earthquake"],
+      "correct_answer": "A natural phenomenon that warms the Earth",
+      "solution": "The greenhouse effect is the warming of the Earth's surface due to the trapping of heat by greenhouse gases in the atmosphere."
+    },
+    {
+      "question": "What is a drought?",
+      "options": ["A prolonged period of low rainfall", "A type of flood", "A volcanic eruption", "A snowstorm"],
+      "correct_answer": "A prolonged period of low rainfall",
+      "solution": "A drought is a prolonged dry period in the natural climate cycle that can lead to water shortages."
+    },
+    {
+      "question": "What is a heatwave?",
+      "options": ["A sudden drop in temperature", "A prolonged period of excessively hot weather", "A type of storm", "A volcanic eruption"],
+      "correct_answer": "A prolonged period of excessively hot weather",
+      "solution": "A heatwave is characterized by high temperatures that last for an extended period, often leading to health risks."
+    },
+    {
+      "question": "What is a meteor shower?",
+      "options": ["A type of storm", "A phenomenon where many meteors are visible", "A volcanic eruption", "An earthquake"],
+      "correct_answer": "A phenomenon where many meteors are visible",
+      "solution": "A meteor shower occurs when numerous meteors enter the Earth's atmosphere and are visible as streaks of light."
+    },
+    {
+      "question": "What is the main cause of climate change?",
+      "options": ["Natural disasters", "Human activities", "Solar activity", "Volcanic eruptions"],
+      "correct_answer": "Human activities",
+      "solution": "Climate change is primarily driven by human activities, especially the burning of fossil fuels which increases greenhouse gas concentrations."
+    },
+    {
+      "question": "What is the term for the movement of the Earth's plates?",
+      "options": ["Plate tectonics", "Seismic activity", "Volcanism", "Weathering"],
+      "correct_answer": "Plate tectonics",
+      "solution": "Plate tectonics refers to the large-scale movement of the Earth's lithosphere, which can lead to earthquakes and volcanic activity."
+    }
+  ]

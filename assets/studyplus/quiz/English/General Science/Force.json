@@ -1,0 +1,164 @@
+[
+    {
+      "question": "What is a force?",
+      "options": ["A push or pull", "A type of energy", "A mass", "A speed"],
+      "correct_answer": "A push or pull",
+      "solution": "A force is any action that changes or maintains the motion of an object."
+    },
+    {
+      "question": "What is the SI unit of force?",
+      "options": ["Joule", "Newton", "Pascal", "Watt"],
+      "correct_answer": "Newton",
+      "solution": "The SI unit of force is the newton, denoted by the symbol N."
+    },
+    {
+      "question": "What does F = ma represent?",
+      "options": ["Force equals mass times acceleration", "Force equals mass divided by acceleration", "Force equals mass plus acceleration", "Force equals acceleration divided by mass"],
+      "correct_answer": "Force equals mass times acceleration",
+      "solution": "F = ma is the formula that defines the relationship between force, mass, and acceleration."
+    },
+    {
+      "question": "What is the first law of motion?",
+      "options": ["Law of Acceleration", "Law of Inertia", "Law of Action-Reaction", "Law of Gravity"],
+      "correct_answer": "Law of Inertia",
+      "solution": "Newton's first law states that an object at rest stays at rest, and an object in motion stays in motion unless acted upon by an external force."
+    },
+    {
+      "question": "What is the net force?",
+      "options": ["The total force acting on an object", "The force of gravity", "The force of friction", "The force of tension"],
+      "correct_answer": "The total force acting on an object",
+      "solution": "The net force is the vector sum of all forces acting on an object."
+    },
+    {
+      "question": "What is friction?",
+      "options": ["A type of force", "A type of energy", "A type of motion", "A type of mass"],
+      "correct_answer": "A type of force",
+      "solution": "Friction is a force that opposes the relative motion of two surfaces in contact."
+    },
+    {
+      "question": "What is weight?",
+      "options": ["Mass times velocity", "Mass times acceleration due to gravity", "Force divided by area", "Force times distance"],
+      "correct_answer": "Mass times acceleration due to gravity",
+      "solution": "Weight is the force exerted by gravity on an object, calculated as W = mg."
+    },
+    {
+      "question": "What is the effect of increasing mass on friction?",
+      "options": ["Increases friction", "Decreases friction", "No effect", "Changes direction of friction"],
+      "correct_answer": "Increases friction",
+      "solution": "Frictional force increases as the mass of an object increases due to the increased weight."
+    },
+    {
+      "question": "What is the gravitational force?",
+      "options": ["A non-contact force", "A contact force", "A magnetic force", "An electrical force"],
+      "correct_answer": "A non-contact force",
+      "solution": "Gravitational force is the attraction between two masses and acts at a distance."
+    },
+    {
+      "question": "What is the formula for calculating pressure?",
+      "options": ["Pressure = Force / Area", "Pressure = Area / Force", "Pressure = Force + Area", "Pressure = Force - Area"],
+      "correct_answer": "Pressure = Force / Area",
+      "solution": "Pressure is defined as the force applied per unit area."
+    },
+    {
+      "question": "What happens to the pressure if the area decreases while the force remains constant?",
+      "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+      "correct_answer": "Increases",
+      "solution": "When force is applied to a smaller area, the pressure increases."
+    },
+    {
+      "question": "What is Newton's third law of motion?",
+      "options": ["For every action, there is an equal and opposite reaction", "An object at rest stays at rest", "Force equals mass times acceleration", "Energy cannot be created or destroyed"],
+      "correct_answer": "For every action, there is an equal and opposite reaction",
+      "solution": "Newton's third law states that for every action, there is an equal and opposite reaction."
+    },
+    {
+      "question": "What type of force is tension?",
+      "options": ["Contact force", "Non-contact force", "Frictional force", "Gravitational force"],
+      "correct_answer": "Contact force",
+      "solution": "Tension is a contact force that is transmitted through a string, rope, or wire when it is pulled tight."
+    },
+    {
+      "question": "What is the relationship between force and acceleration?",
+      "options": ["Directly proportional", "Inversely proportional", "No relationship", "Dependent on mass only"],
+      "correct_answer": "Directly proportional",
+      "solution": "According to Newton's second law, force is directly proportional to acceleration when mass is constant."
+    },
+    {
+      "question": "What does the term 'net force' refer to?",
+      "options": ["The total force acting on an object", "The force of gravity", "The force of friction", "The force of tension"],
+      "correct_answer": "The total force acting on an object",
+      "solution": "Net force is the vector sum of all individual forces acting on an object."
+    },
+    {
+      "question": "What is the force that opposes motion between two surfaces?",
+      "options": ["Gravity", "Friction", "Tension", "Normal force"],
+      "correct_answer": "Friction",
+      "solution": "Friction is the force that resists the sliding motion of two surfaces in contact."
+    },
+    {
+      "question": "What is the effect of an unbalanced force on an object?",
+      "options": ["It remains at rest", "It moves in the direction of the force", "It moves in the opposite direction", "It does not change its state"],
+      "correct_answer": "It moves in the direction of the force",
+      "solution": "An unbalanced force causes an object to accelerate in the direction of the net force."
+    },
+    {
+      "question": "What is the normal force?",
+      "options": ["The force of gravity", "The support force exerted by a surface", "The force of friction", "The force of tension"],
+      "correct_answer": "The support force exerted by a surface",
+      "solution": "The normal force is the force exerted by a surface to support the weight of an object resting on it."
+    },
+    {
+      "question": "What is the formula for calculating work done?",
+      "options": ["Work = Force x Distance", "Work = Force / Distance", "Work = Force + Distance", "Work = Distance / Force"],
+      "correct_answer": "Work = Force x Distance",
+      "solution": "Work is defined as the product of the force applied and the distance moved in the direction of the force."
+    },
+    {
+      "question": "What is inertia?",
+      "options": ["Resistance to change in motion", "A type of force", "A type of energy", "A type of mass"],
+      "correct_answer": "Resistance to change in motion",
+      "solution": "Inertia is the property of an object to resist changes in its state of motion."
+    },
+    {
+      "question": "What does an object in free fall experience?",
+      "options": ["Only gravitational force", "Only air resistance", "Both gravitational force and air resistance", "No forces"],
+      "correct_answer": "Only gravitational force",
+      "solution": "An object in free fall experiences only the force of gravity acting on it."
+    },
+    {
+      "question": "What is the relationship between mass and weight?",
+      "options": ["Mass is greater than weight", "Weight is greater than mass", "They are the same", "Weight is mass times gravity"],
+      "correct_answer": "Weight is mass times gravity",
+      "solution": "Weight is the force of gravity acting on an object's mass, calculated as W = mg."
+    },
+    {
+      "question": "What is the force that keeps planets in orbit around the sun?",
+      "options": ["Magnetic force", "Frictional force", "Gravitational force", "Tension force"],
+      "correct_answer": "Gravitational force",
+      "solution": "The gravitational force between the sun and planets keeps them in orbit."
+    },
+    {
+      "question": "What happens to an object at rest when a balanced force is applied?",
+      "options": ["It moves", "It remains at rest", "It accelerates", "It changes direction"],
+      "correct_answer": "It remains at rest",
+      "solution": "An object at rest will remain at rest if the forces acting on it are balanced."
+    },
+    {
+      "question": "What is the effect of air resistance on a falling object?",
+      "options": ["Increases its speed", "Decreases its speed", "Has no effect", "Reverses its direction"],
+      "correct_answer": "Decreases its speed",
+      "solution": "Air resistance opposes the motion of a falling object, decreasing its speed."
+    },
+    {
+      "question": "What is the force that acts on an object in a circular motion?",
+      "options": ["Centripetal force", "Frictional force", "Gravitational force", "Tension force"],
+      "correct_answer": "Centripetal force",
+      "solution": "Centripetal force is the force that keeps an object moving in a circular path."
+    },
+    {
+      "question": "What happens to the gravitational force between two objects if the distance between them increases?",
+      "options": ["Increases", "Decreases", "Remains the same", "Becomes zero"],
+      "correct_answer": "Decreases",
+      "solution": "The gravitational force decreases as the distance between two objects increases."
+    }
+  ]

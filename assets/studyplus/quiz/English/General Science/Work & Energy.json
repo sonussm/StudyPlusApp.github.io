@@ -1,1 +1,158 @@
-
+[
+    {
+      "question": "What is the SI unit of work?",
+      "options": ["Joule", "Newton", "Watt", "Pascal"],
+      "correct_answer": "Joule",
+      "solution": "The SI unit of work is the Joule (J), which is defined as the work done when a force of one newton displaces an object by one meter in the direction of the force."
+    },
+    {
+      "question": "Which of the following is a form of kinetic energy?",
+      "options": ["Chemical energy", "Thermal energy", "Nuclear energy", "Mechanical energy"],
+      "correct_answer": "Mechanical energy",
+      "solution": "Mechanical energy is the sum of kinetic and potential energy in an object, and it is associated with the motion and position of an object."
+    },
+    {
+      "question": "What type of energy is stored in a compressed spring?",
+      "options": ["Kinetic energy", "Potential energy", "Thermal energy", "Chemical energy"],
+      "correct_answer": "Potential energy",
+      "solution": "The energy stored in a compressed spring is potential energy, specifically elastic potential energy, which is due to its position."
+    },
+    {
+      "question": "If a 2 kg object is lifted to a height of 5 meters, what is its potential energy?",
+      "options": ["10 J", "20 J", "30 J", "50 J"],
+      "correct_answer": "20 J",
+      "solution": "Potential energy (PE) can be calculated using the formula PE = mgh. Here, m = 2 kg, g = 9.8 m/s², and h = 5 m. Thus, PE = 2 * 9.8 * 5 = 98 J."
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "options": ["Work is done only when there is displacement", "Work is done even without displacement", "Work is done only in vertical motion", "Work is done only against gravity"],
+      "correct_answer": "Work is done only when there is displacement",
+      "solution": "Work is defined as the product of force and displacement in the direction of the force. Therefore, work is only done when an object is displaced."
+    },
+    {
+      "question": "What is the formula for kinetic energy?",
+      "options": ["KE = mv", "KE = mv^2", "KE = 1/2 mv^2", "KE = mgh"],
+      "correct_answer": "KE = 1/2 mv^2",
+      "solution": "The formula for kinetic energy (KE) is KE = 1/2 mv², where m is the mass of the object and v is its velocity."
+    },
+    {
+      "question": "A car accelerates from rest to a speed of 20 m/s. What is its kinetic energy if its mass is 1000 kg?",
+      "options": ["10,000 J", "20,000 J", "30,000 J", "40,000 J"],
+      "correct_answer": "20,000 J",
+      "solution": "Using the kinetic energy formula KE = 1/2 mv², we get KE = 1/2 * 1000 kg * (20 m/s)² = 200,000 J."
+    },
+    {
+      "question": "What happens to the kinetic energy of an object if its speed doubles?",
+      "options": ["It doubles", "It triples", "It quadruples", "It remains the same"],
+      "correct_answer": "It quadruples",
+      "solution": "Kinetic energy is proportional to the square of the velocity. Therefore, if the speed doubles, the kinetic energy increases by a factor of four."
+    },
+    {
+      "question": "In a closed system, what happens to the total energy?",
+      "options": ["It increases", "It decreases", "It remains constant", "It fluctuates"],
+      "correct_answer": "It remains constant",
+      "solution": "According to the law of conservation of energy, the total energy in a closed system remains constant; energy can neither be created nor destroyed."
+    },
+    {
+      "question": "What is the work done when a force of 10 N moves an object 5 m in the direction of the force?",
+      "options": ["10 J", "20 J", "50 J", "100 J"],
+      "correct_answer": "50 J",
+      "solution": "Work done (W) is calculated as W = F * d, where F is the force and d is the displacement. Here, W = 10 N * 5 m = 50 J."
+    },
+    {
+      "question": "Which of the following is not a form of energy?",
+      "options": ["Mechanical", "Electrical", "Magnetic", "Liquid"],
+      "correct_answer": "Liquid",
+      "solution": "Liquid is a state of matter, not a form of energy. Mechanical, electrical, and magnetic are all forms of energy."
+    },
+    {
+      "question": "What is the work-energy principle?",
+      "options": ["Work done is equal to the change in kinetic energy", "Work done is equal to the change in potential energy", "Work done is equal to the total energy", "None of the above"],
+      "correct_answer": "Work done is equal to the change in kinetic energy",
+      "solution": "The work-energy principle states that the work done on an object is equal to the change in its kinetic energy."
+    },
+    {
+      "question": "Which of the following is an example of potential energy?",
+      "options": ["A moving car", "A stretched rubber band", "A flowing river", "A spinning top"],
+      "correct_answer": "A stretched rubber band",
+      "solution": "A stretched rubber band stores elastic potential energy due to its position, while the other options represent kinetic energy."
+    },
+    {
+      "question": "What type of energy does a moving bicycle possess?",
+      "options": ["Potential energy", "Kinetic energy", "Chemical energy", "Thermal energy"],
+      "correct_answer": "Kinetic energy",
+      "solution": "A moving bicycle possesses kinetic energy, which is the energy of motion."
+    },
+    {
+      "question": "What is the gravitational potential energy of a 10 kg object at a height of 10 m?",
+      "options": ["100 J", "200 J", "500 J", "1000 J"],
+      "correct_answer": "1000 J",
+      "solution": "Gravitational potential energy (PE) is calculated using PE = mgh. Here, PE = 10 kg * 9.8 m/s² * 10 m = 980 J."
+    },
+    {
+      "question": "Which of the following is a renewable source of energy?",
+      "options": ["Coal", "Natural gas", "Solar energy", "Nuclear energy"],
+      "correct_answer": "Solar energy",
+      "solution": "Solar energy is a renewable source of energy, while coal and natural gas are fossil fuels, and nuclear energy is derived from non-renewable sources."
+    },
+    {
+      "question": "What type of energy transformation occurs in a hydroelectric power plant?",
+      "options": ["Kinetic to electrical", "Potential to kinetic", "Electrical to thermal", "Chemical to mechanical"],
+      "correct_answer": "Potential to kinetic",
+      "solution": "In a hydroelectric power plant, potential energy of water stored at height is transformed into kinetic energy as it flows down, which is then converted into electrical energy."
+    },
+    {
+      "question": "Which of the following equations represents the conservation of mechanical energy?",
+      "options": ["KE_initial + PE_initial = KE_final + PE_final", "KE_initial = PE_initial + PE_final", "PE_initial = KE_final + PE_final", "None of the above"],
+      "correct_answer": "KE_initial + PE_initial = KE_final + PE_final",
+      "solution": "The conservation of mechanical energy states that the total mechanical energy (kinetic + potential) remains constant in the absence of non-conservative forces."
+    },
+    {
+      "question": "What is the work done by a constant force of 15 N moving an object 3 m?",
+      "options": ["15 J", "30 J", "45 J", "60 J"],
+      "correct_answer": "45 J",
+      "solution": "Work done (W) is calculated as W = F * d. Here, W = 15 N * 3 m = 45 J."
+    },
+    {
+      "question": "If a force is applied but there is no displacement, what is the work done?",
+      "options": ["Positive work", "Negative work", "Zero work", "Infinite work"],
+      "correct_answer": "Zero work",
+      "solution": "If there is no displacement, the work done is zero, regardless of the amount of force applied."
+    },
+    {
+      "question": "What is the formula for calculating gravitational potential energy?",
+      "options": ["PE = mv", "PE = mgh", "PE = 1/2 mv^2", "PE = Fd"],
+      "correct_answer": "PE = mgh",
+      "solution": "Gravitational potential energy is calculated using the formula PE = mgh, where m is mass, g is the acceleration due to gravity, and h is height."
+    },
+    {
+      "question": "A 5 kg object is dropped from a height of 20 m. What is its kinetic energy just before it hits the ground?",
+      "options": ["50 J", "100 J", "200 J", "500 J"],
+      "correct_answer": "1000 J",
+      "solution": "Using the conservation of energy, the potential energy at height is converted to kinetic energy. PE = mgh = 5 kg * 9.8 m/s² * 20 m = 980 J."
+    },
+    {
+      "question": "What is the relationship between work and energy?",
+      "options": ["Work is a form of energy", "Energy is a form of work", "Work and energy are unrelated", "Work is the transfer of energy"],
+      "correct_answer": "Work is the transfer of energy",
+      "solution": "Work is defined as the transfer of energy that occurs when an object is moved over a distance by an external force."
+    },
+    {
+      "question": "A cyclist accelerates from 5 m/s to 15 m/s. What happens to their kinetic energy?",
+      "options": ["It decreases", "It remains the same", "It increases", "It becomes zero"],
+      "correct_answer": "It increases",
+      "solution": "As the cyclist accelerates, their speed increases, resulting in an increase in kinetic energy, calculated using KE = 1/2 mv²."
+    },
+    {
+      "question": "What is the total mechanical energy of an object?",
+      "options": ["Sum of potential and kinetic energy", "Sum of all forms of energy", "Only kinetic energy", "Only potential energy"],
+      "correct_answer": "Sum of potential and kinetic energy",
+      "solution": "Total mechanical energy is defined as the sum of potential energy and kinetic energy in an object."
+    },
+    {
+      "question": "What is the work done against gravity when lifting an object?",
+      "options": ["It is zero", "It is equal to the weight of the object", "It is equal to the potential energy gained", "It is equal to the kinetic energy gained"],
+      "correct_answer": "It is equal to the potential energy gained",
+      "solution": "The work done against gravity when lifting an object is equal to the potential energy gained by the object."
+    }
+  ]

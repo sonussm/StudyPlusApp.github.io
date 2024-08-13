@@ -1,0 +1,158 @@
+[
+    {
+      "question": "What is the SI unit of electric current?",
+      "options": ["Volt", "Ohm", "Ampere", "Watt"],
+      "correct_answer": "Ampere",
+      "solution": "The SI unit of electric current is the Ampere, which is defined as the flow of one coulomb of charge per second."
+    },
+    {
+      "question": "What does Ohm's Law state?",
+      "options": ["V = IR", "P = IV", "I = V/R", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Ohm's Law states that the current (I) through a conductor between two points is directly proportional to the voltage (V) across the two points and inversely proportional to the resistance (R)."
+    },
+    {
+      "question": "What is a closed circuit?",
+      "options": ["A circuit with a break", "A complete circuit", "A circuit with no current", "A circuit with high resistance"],
+      "correct_answer": "A complete circuit",
+      "solution": "A closed circuit is a complete electrical circuit around which current flows or circulates."
+    },
+    {
+      "question": "What is the main function of a resistor?",
+      "options": ["To store energy", "To limit current", "To increase voltage", "To convert AC to DC"],
+      "correct_answer": "To limit current",
+      "solution": "The main function of a resistor is to limit the flow of electric current in a circuit."
+    },
+    {
+      "question": "Which component is used to store electrical energy?",
+      "options": ["Resistor", "Capacitor", "Inductor", "Transformer"],
+      "correct_answer": "Capacitor",
+      "solution": "A capacitor is used to store electrical energy temporarily in an electric field."
+    },
+    {
+      "question": "What is the purpose of a fuse in an electrical circuit?",
+      "options": ["To increase current", "To protect against overload", "To decrease voltage", "To store energy"],
+      "correct_answer": "To protect against overload",
+      "solution": "A fuse is designed to protect electrical circuits by breaking the circuit if the current exceeds a certain level."
+    },
+    {
+      "question": "What is the difference between series and parallel circuits?",
+      "options": ["Series circuits have multiple paths", "Parallel circuits have multiple paths", "Both are the same", "None of the above"],
+      "correct_answer": "Parallel circuits have multiple paths",
+      "solution": "In series circuits, components are connected end-to-end, while in parallel circuits, components are connected across common points providing multiple paths for current."
+    },
+    {
+      "question": "What is the formula for calculating electrical power?",
+      "options": ["P = VI", "P = I/R", "P = V/R", "P = IR"],
+      "correct_answer": "P = VI",
+      "solution": "The formula for calculating electrical power (P) is P = VI, where V is voltage and I is current."
+    },
+    {
+      "question": "What is the role of a switch in a circuit?",
+      "options": ["To increase resistance", "To control current flow", "To store energy", "To generate electricity"],
+      "correct_answer": "To control current flow",
+      "solution": "A switch is used to open or close a circuit, thereby controlling the flow of current."
+    },
+    {
+      "question": "What does a voltmeter measure?",
+      "options": ["Current", "Resistance", "Voltage", "Power"],
+      "correct_answer": "Voltage",
+      "solution": "A voltmeter is an instrument used to measure the voltage across two points in an electric circuit."
+    },
+    {
+      "question": "What is the effect of increasing resistance in a circuit?",
+      "options": ["Increases current", "Decreases current", "No effect", "Increases voltage"],
+      "correct_answer": "Decreases current",
+      "solution": "According to Ohm's Law, increasing resistance in a circuit decreases the current if the voltage remains constant."
+    },
+    {
+      "question": "What type of current is supplied by batteries?",
+      "options": ["Alternating current", "Direct current", "Both", "None"],
+      "correct_answer": "Direct current",
+      "solution": "Batteries supply direct current (DC), which flows in one direction."
+    },
+    {
+      "question": "What is a short circuit?",
+      "options": ["A circuit with high resistance", "A circuit with low resistance", "A circuit that is open", "A circuit with a fuse"],
+      "correct_answer": "A circuit with low resistance",
+      "solution": "A short circuit occurs when there is a low-resistance connection between two points in a circuit, causing excessive current flow."
+    },
+    {
+      "question": "What is the unit of electrical resistance?",
+      "options": ["Volt", "Ampere", "Ohm", "Watt"],
+      "correct_answer": "Ohm",
+      "solution": "The unit of electrical resistance is the Ohm, which quantifies how much a material opposes the flow of electric current."
+    },
+    {
+      "question": "What is the function of an inductor?",
+      "options": ["To store energy in a magnetic field", "To limit current", "To measure voltage", "To convert AC to DC"],
+      "correct_answer": "To store energy in a magnetic field",
+      "solution": "An inductor stores energy in a magnetic field when electric current flows through it."
+    },
+    {
+      "question": "What happens to the total resistance in a series circuit when more resistors are added?",
+      "options": ["It decreases", "It increases", "It stays the same", "It doubles"],
+      "correct_answer": "It increases",
+      "solution": "In a series circuit, adding more resistors increases the total resistance."
+    },
+    {
+      "question": "What is the purpose of a transformer?",
+      "options": ["To increase or decrease voltage", "To store energy", "To measure current", "To limit current"],
+      "correct_answer": "To increase or decrease voltage",
+      "solution": "A transformer is used to increase or decrease the voltage in an AC circuit."
+    },
+    {
+      "question": "What does Kirchhoff's Current Law state?",
+      "options": ["Total voltage in a circuit is zero", "Total current entering a junction equals total current leaving", "Current is constant in a series circuit", "None of the above"],
+      "correct_answer": "Total current entering a junction equals total current leaving",
+      "solution": "Kirchhoff's Current Law states that the total current entering a junction in a circuit equals the total current leaving the junction."
+    },
+    {
+      "question": "What is the primary function of a circuit breaker?",
+      "options": ["To increase voltage", "To protect against overload", "To measure current", "To convert AC to DC"],
+      "correct_answer": "To protect against overload",
+      "solution": "A circuit breaker automatically interrupts the flow of current in a circuit to prevent overload and potential damage."
+    },
+    {
+      "question": "What is the principle behind electric motors?",
+      "options": ["Electromagnetic induction", "Ohm's Law", "Kirchhoff's Law", "Capacitance"],
+      "correct_answer": "Electromagnetic induction",
+      "solution": "Electric motors operate on the principle of electromagnetic induction, converting electrical energy into mechanical energy."
+    },
+    {
+      "question": "What is the effect of temperature on resistance?",
+      "options": ["Resistance increases with temperature", "Resistance decreases with temperature", "No effect", "Resistance doubles"],
+      "correct_answer": "Resistance increases with temperature",
+      "solution": "In most conductors, resistance increases as temperature rises due to increased atomic vibrations that impede electron flow."
+    },
+    {
+      "question": "What is the purpose of a diode in a circuit?",
+      "options": ["To allow current to flow in both directions", "To allow current to flow in one direction", "To store energy", "To measure voltage"],
+      "correct_answer": "To allow current to flow in one direction",
+      "solution": "A diode is a semiconductor device that allows current to flow in one direction only, providing rectification in circuits."
+    },
+    {
+      "question": "What is the relationship between voltage, current, and resistance known as?",
+      "options": ["Ohm's Law", "Kirchhoff's Law", "Faraday's Law", "Ampere's Law"],
+      "correct_answer": "Ohm's Law",
+      "solution": "The relationship between voltage, current, and resistance is described by Ohm's Law, which states V = IR."
+    },
+    {
+      "question": "What is the function of a potentiometer?",
+      "options": ["To measure resistance", "To vary voltage", "To store charge", "To increase current"],
+      "correct_answer": "To vary voltage",
+      "solution": "A potentiometer is used to vary voltage in a circuit by adjusting the resistance."
+    },
+    {
+      "question": "What happens to the total current in a parallel circuit when more branches are added?",
+      "options": ["It decreases", "It increases", "It stays the same", "It is halved"],
+      "correct_answer": "It increases",
+      "solution": "In a parallel circuit, adding more branches increases the total current flowing through the circuit."
+    },
+    {
+      "question": "What is the purpose of a relay in a circuit?",
+      "options": ["To store energy", "To switch circuits on and off", "To measure voltage", "To increase current"],
+      "correct_answer": "To switch circuits on and off",
+      "solution": "A relay is an electromechanical switch used to control a circuit by a low-power signal or to control multiple circuits with one signal."
+    }
+  ]

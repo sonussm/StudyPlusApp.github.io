@@ -1,0 +1,152 @@
+[
+    {
+      "question": "What is the process called when a solid turns into a liquid?",
+      "options": ["Freezing", "Condensation", "Melting", "Sublimation"],
+      "correct_answer": "Melting",
+      "solution": "Melting is the process where a solid changes into a liquid when heat is applied, overcoming the forces holding the particles together."
+    },
+    {
+      "question": "What is the term for the change from gas to liquid?",
+      "options": ["Evaporation", "Condensation", "Sublimation", "Deposition"],
+      "correct_answer": "Condensation",
+      "solution": "Condensation is the process where gas transforms into a liquid, typically when the gas is cooled."
+    },
+    {
+      "question": "Which of the following describes sublimation?",
+      "options": ["Solid to liquid", "Liquid to gas", "Solid to gas", "Gas to solid"],
+      "correct_answer": "Solid to gas",
+      "solution": "Sublimation is the direct transition of a substance from solid to gas without passing through the liquid phase."
+    },
+    {
+      "question": "What happens to water when it freezes?",
+      "options": ["It expands", "It contracts", "It evaporates", "It melts"],
+      "correct_answer": "It expands",
+      "solution": "When water freezes, it expands due to the formation of a crystalline structure, which makes ice less dense than liquid water."
+    },
+    {
+      "question": "What is vaporization?",
+      "options": ["Solid to liquid", "Liquid to gas", "Gas to liquid", "Solid to gas"],
+      "correct_answer": "Liquid to gas",
+      "solution": "Vaporization is the process where a liquid changes into a gas, which can occur through boiling or evaporation."
+    },
+    {
+      "question": "What is the freezing point of water?",
+      "options": ["0°C", "100°C", "32°F", "212°F"],
+      "correct_answer": "0°C",
+      "solution": "The freezing point of water is 0°C (32°F), where it changes from liquid to solid."
+    },
+    {
+      "question": "Which change of state occurs when ice is heated?",
+      "options": ["Melting", "Freezing", "Sublimation", "Condensation"],
+      "correct_answer": "Melting",
+      "solution": "When ice is heated, it absorbs energy and undergoes melting, transforming into liquid water."
+    },
+    {
+      "question": "What is deposition in terms of state change?",
+      "options": ["Gas to solid", "Solid to liquid", "Liquid to gas", "Gas to liquid"],
+      "correct_answer": "Gas to solid",
+      "solution": "Deposition is the process where a gas transforms directly into a solid without passing through the liquid state."
+    },
+    {
+      "question": "What is the boiling point of water at sea level?",
+      "options": ["0°C", "100°C", "32°F", "212°F"],
+      "correct_answer": "100°C",
+      "solution": "The boiling point of water at sea level is 100°C (212°F), where it changes from liquid to gas."
+    },
+    {
+      "question": "What is the main factor that affects changes in the state of matter?",
+      "options": ["Pressure", "Color", "Shape", "Size"],
+      "correct_answer": "Pressure",
+      "solution": "Changes in the state of matter are primarily influenced by temperature and pressure, which affect the energy and arrangement of particles."
+    },
+    {
+      "question": "What is a physical change?",
+      "options": ["A change that alters the identity of a substance", "A change that does not alter the identity of a substance", "A change that produces gas", "A change that produces heat"],
+      "correct_answer": "A change that does not alter the identity of a substance",
+      "solution": "A physical change involves a change in physical properties without altering the chemical identity of the substance."
+    },
+    {
+      "question": "What occurs during evaporation?",
+      "options": ["Liquid to gas", "Gas to liquid", "Solid to liquid", "Liquid to solid"],
+      "correct_answer": "Liquid to gas",
+      "solution": "Evaporation is the process where molecules at the surface of a liquid gain enough energy to enter the gas phase."
+    },
+    {
+      "question": "What is an example of a chemical change?",
+      "options": ["Melting ice", "Boiling water", "Rusting iron", "Dissolving sugar"],
+      "correct_answer": "Rusting iron",
+      "solution": "Rusting iron is a chemical change as it results in the formation of a new substance, iron oxide."
+    },
+    {
+      "question": "What happens to the energy of particles during condensation?",
+      "options": ["Energy is absorbed", "Energy is released", "Energy remains constant", "Energy increases"],
+      "correct_answer": "Energy is released",
+      "solution": "During condensation, gas particles lose energy and come closer together to form a liquid."
+    },
+    {
+      "question": "What is the term for the temperature at which a liquid becomes a gas?",
+      "options": ["Melting point", "Freezing point", "Boiling point", "Condensation point"],
+      "correct_answer": "Boiling point",
+      "solution": "The boiling point is the temperature at which a liquid turns into a gas."
+    },
+    {
+      "question": "Which state of matter has a definite shape and volume?",
+      "options": ["Solid", "Liquid", "Gas", "Plasma"],
+      "correct_answer": "Solid",
+      "solution": "Solids have a definite shape and volume due to the closely packed arrangement of their particles."
+    },
+    {
+      "question": "What is the process called when a gas turns into a solid?",
+      "options": ["Sublimation", "Condensation", "Deposition", "Evaporation"],
+      "correct_answer": "Deposition",
+      "solution": "Deposition is the direct transition of a gas into a solid without passing through the liquid phase."
+    },
+    {
+      "question": "What is the primary reason ice floats on water?",
+      "options": ["It is less dense than water", "It is more dense than water", "It has a different chemical composition", "It is a solid"],
+      "correct_answer": "It is less dense than water",
+      "solution": "Ice floats on water because it is less dense than liquid water due to its crystalline structure."
+    },
+    {
+      "question": "What happens during the process of freezing?",
+      "options": ["Liquid turns into gas", "Solid turns into liquid", "Liquid turns into solid", "Gas turns into liquid"],
+      "correct_answer": "Liquid turns into solid",
+      "solution": "Freezing is the process where a liquid loses energy and transforms into a solid."
+    },
+    {
+      "question": "What is the term for the energy required to change a substance from solid to liquid?",
+      "options": ["Heat of fusion", "Heat of vaporization", "Sublimation energy", "Condensation energy"],
+      "correct_answer": "Heat of fusion",
+      "solution": "The heat of fusion is the energy required to change a substance from solid to liquid at its melting point."
+    },
+    {
+      "question": "What is the process called when a liquid changes to a gas at temperatures below its boiling point?",
+      "options": ["Evaporation", "Vaporization", "Condensation", "Sublimation"],
+      "correct_answer": "Evaporation",
+      "solution": "Evaporation is the process where molecules at the surface of a liquid gain enough energy to become gas, occurring below the boiling point."
+    },
+    {
+      "question": "Which of the following is a characteristic of gases?",
+      "options": ["Definite shape and volume", "Definite volume but no definite shape", "No definite shape or volume", "Definite shape but no definite volume"],
+      "correct_answer": "No definite shape or volume",
+      "solution": "Gases have neither a definite shape nor a definite volume; they expand to fill their container."
+    },
+    {
+      "question": "What is the main difference between physical and chemical changes?",
+      "options": ["Physical changes are reversible, chemical changes are not", "Chemical changes are reversible, physical changes are not", "Both are irreversible", "Both are reversible"],
+      "correct_answer": "Physical changes are reversible, chemical changes are not",
+      "solution": "Physical changes can often be reversed, while chemical changes result in new substances that cannot easily revert to their original form."
+    },
+    {
+      "question": "What is the process of changing from a gas to a solid without becoming a liquid called?",
+      "options": ["Sublimation", "Deposition", "Condensation", "Evaporation"],
+      "correct_answer": "Deposition",
+      "solution": "Deposition is the process where a gas transforms directly into a solid without passing through the liquid phase."
+    },
+    {
+      "question": "What happens to the temperature of a substance during a phase change?",
+      "options": ["It increases", "It decreases", "It remains constant", "It fluctuates"],
+      "correct_answer": "It remains constant",
+      "solution": "During a phase change, the temperature of a substance remains constant as energy is used to change the state rather than increase temperature."
+    }
+  ]

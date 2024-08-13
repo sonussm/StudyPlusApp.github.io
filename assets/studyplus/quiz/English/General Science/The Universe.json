@@ -1,0 +1,158 @@
+[
+    {
+        "question": "What is the closest planet to the Sun?",
+        "options": ["Earth", "Venus", "Mercury", "Mars"],
+        "correct_answer": "Mercury",
+        "solution": "Mercury is the closest planet to the Sun, completing an orbit in approximately 88 Earth days."
+    },
+    {
+        "question": "What galaxy do we live in?",
+        "options": ["Andromeda", "Milky Way", "Parallax", "Sombrero"],
+        "correct_answer": "Milky Way",
+        "solution": "Our solar system is located in the Milky Way galaxy, which is a spiral galaxy."
+    },
+    {
+        "question": "How many planets are there in our solar system?",
+        "options": ["8", "9", "10", "7"],
+        "correct_answer": "8",
+        "solution": "There are eight recognized planets in our solar system, from Mercury to Neptune."
+    },
+    {
+        "question": "What force keeps the planets in orbit around the Sun?",
+        "options": ["Magnetic Force", "Inertia", "Gravitational Force", "Frictional Force"],
+        "correct_answer": "Gravitational Force",
+        "solution": "The gravitational force is the attraction between the Sun and the planets, keeping them in orbit."
+    },
+    {
+        "question": "Which planet is known as the Red Planet?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Mars",
+        "solution": "Mars is often referred to as the Red Planet because of its reddish appearance due to iron oxide on its surface."
+    },
+    {
+        "question": "What is a black hole?",
+        "options": ["A filled-in star", "A dense star with strong gravity that not even light can escape", "A cold star", "A star that has exploded"],
+        "correct_answer": "A dense star with strong gravity that not even light can escape",
+        "solution": "A black hole is formed when a massive star collapses under its own gravity, creating a point in space with gravitational pull so strong that nothing, including light, can escape."
+    },
+    {
+        "question": "What is the largest planet in our solar system?",
+        "options": ["Mars", "Saturn", "Jupiter", "Earth"],
+        "correct_answer": "Jupiter",
+        "solution": "Jupiter is the largest planet in our solar system, known for its Great Red Spot and numerous moons."
+    },
+    {
+        "question": "What is the ozone layer?",
+        "options": ["A layer of water vapor", "A layer in the stratosphere that absorbs UV radiation", "A layer of carbon dioxide", "A layer of nitrogen"],
+        "correct_answer": "A layer in the stratosphere that absorbs UV radiation",
+        "solution": "The ozone layer is located in the stratosphere and protects life on Earth by absorbing harmful ultraviolet (UV) radiation from the Sun."
+    },
+    {
+        "question": "How long does it take for sunlight to reach Earth?",
+        "options": ["8 minutes", "12 minutes", "10 minutes", "5 minutes"],
+        "correct_answer": "8 minutes",
+        "solution": "Sunlight takes about 8 minutes and 20 seconds to reach Earth, traveling at a speed of 299,792 km/s."
+    },
+    {
+        "question": "What celestial object is at the center of our solar system?",
+        "options": ["Earth", "Moon", "Sun", "Mars"],
+        "correct_answer": "Sun",
+        "solution": "The Sun is the central star of our solar system, around which all planets orbit."
+    },
+    {
+        "question": "What is the Milky Way?",
+        "options": ["A type of star", "Our galaxy", "A black hole", "A planet"],
+        "correct_answer": "Our galaxy",
+        "solution": "The Milky Way is the galaxy that contains our solar system and billions of other stars and planetary systems."
+    },
+    {
+        "question": "What is a light-year?",
+        "options": ["A year of light exposure", "A measure of distance", "A star", "A planet"],
+        "correct_answer": "A measure of distance",
+        "solution": "A light-year is the distance that light travels in one year, about 5.88 trillion miles (9.5 trillion kilometers)."
+    },
+    {
+        "question": "How many moons does Earth have?",
+        "options": ["1", "2", "3", "None"],
+        "correct_answer": "1",
+        "solution": "Earth has one natural moon, often simply referred to as 'the Moon'."
+    },
+    {
+        "question": "What is the name of the force that holds galaxies together?",
+        "options": ["Electromagnetic Force", "Nuclear Force", "Gravity", "Inertia"],
+        "correct_answer": "Gravity",
+        "solution": "Gravity is the force that holds galaxies together by attracting all the matter within the galaxy."
+    },
+    {
+        "question": "Which planet is known for its rings?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Saturn",
+        "solution": "Saturn is well known for its stunning rings made primarily of ice particles and rock debris."
+    },
+    {
+        "question": "What is a comet?",
+        "options": ["A star", "A small celestial body made of ice and dust", "A planet", "Asteroid"],
+        "correct_answer": "A small celestial body made of ice and dust",
+        "solution": "A comet is a small solar system body that, when close to the Sun, displays a visible atmosphere or coma and sometimes a tail."
+    },
+    {
+        "question": "What causes day and night?",
+        "options": ["Earth’s rotation", "Earth’s revolution", "The Sun’s position", "The Moon’s position"],
+        "correct_answer": "Earth’s rotation",
+        "solution": "Day and night are caused by the rotation of the Earth on its axis, which takes approximately 24 hours."
+    },
+    {
+        "question": "What is the hottest planet in our solar system?",
+        "options": ["Mars", "Venus", "Jupiter", "Uranus"],
+        "correct_answer": "Venus",
+        "solution": "Venus is the hottest planet in our solar system due to its thick atmosphere that traps heat."
+    },
+    {
+        "question": "What is the main component of the Sun?",
+        "options": ["Hydrogen", "Helium", "Oxygen", "Carbon"],
+        "correct_answer": "Hydrogen",
+        "solution": "The Sun is primarily composed of hydrogen, which makes up about 74% of its mass."
+    },
+    {
+        "question": "Which planet has the most moons?",
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "correct_answer": "Saturn",
+        "solution": "Saturn has the most moons of any planet in our solar system, with over 80 confirmed moons."
+    },
+    {
+        "question": "What is the asteroid belt?",
+        "options": ["A belt of ice", "A region of space between Mars and Jupiter filled with asteroids", "A type of star", "A planet"],
+        "correct_answer": "A region of space between Mars and Jupiter filled with asteroids",
+        "solution": "The asteroid belt is located between the orbits of Mars and Jupiter and contains numerous small rocky bodies."
+    },
+    {
+        "question": "What is the speed of light?",
+        "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "600,000 km/s"],
+        "correct_answer": "300,000 km/s",
+        "solution": "The speed of light in a vacuum is approximately 300,000 kilometers per second."
+    },
+    {
+        "question": "What is the largest moon in our solar system?",
+        "options": ["Titan", "Ganymede", "Europa", "Callisto"],
+        "correct_answer": "Ganymede",
+        "solution": "Ganymede, a moon of Jupiter, is the largest moon in our solar system."
+    },
+    {
+        "question": "What is a supernova?",
+        "options": ["A type of black hole", "An exploding star", "A planet", "A comet"],
+        "correct_answer": "An exploding star",
+        "solution": "A supernova is a powerful and luminous explosion of a star, marking the end of its life cycle."
+    },
+    {
+        "question": "Which planet is known for having a day longer than its year?",
+        "options": ["Mercury", "Venus", "Mars", "Jupiter"],
+        "correct_answer": "Venus",
+        "solution": "A day on Venus (one rotation on its axis) takes longer than a year (one orbit around the Sun)."
+    },
+    {
+        "question": "What is the Kuiper Belt?",
+        "options": ["A region of space beyond Neptune filled with icy bodies", "A type of star", "A planet", "A black hole"],
+        "correct_answer": "A region of space beyond Neptune filled with icy bodies",
+        "solution": "The Kuiper Belt is a region of the solar system beyond the orbit of Neptune, populated with many small icy bodies."
+    }
+]

@@ -1,0 +1,164 @@
+[
+    {
+      "question": "What is the best benefit of wind power?",
+      "options": ["It creates electricity that is safe for the environment", "It takes up too much space", "Some say it is an eyesore", "Some say it hurts birds and bats"],
+      "correct_answer": "It creates electricity that is safe for the environment",
+      "solution": "Wind power generates electricity without emitting greenhouse gases, making it a clean and renewable energy source."
+    },
+    {
+      "question": "Which two gases produce acid rain?",
+      "options": ["Nitrogen and sulfur", "Sulfur and magnesium", "Magnesium and nitrogen", "Nitrogen and oxygen"],
+      "correct_answer": "Nitrogen and sulfur",
+      "solution": "Acid rain is primarily caused by sulfur dioxide and nitrogen oxides, which react with water vapor in the atmosphere."
+    },
+    {
+      "question": "What is a source of energy formed from the remains of plants and animals that lived millions of years ago?",
+      "options": ["Solar Power", "Hydroelectricity", "Biofuels", "Fossil Fuels"],
+      "correct_answer": "Fossil Fuels",
+      "solution": "Fossil fuels, such as coal, oil, and natural gas, are derived from the decomposed remains of ancient organisms."
+    },
+    {
+      "question": "What is overgrazing?",
+      "options": ["The process of consuming forests", "The excessive feeding of livestock on a pasture", "The planting of too many crops", "The use of fertilizers"],
+      "correct_answer": "The excessive feeding of livestock on a pasture",
+      "solution": "Overgrazing occurs when animals graze on land beyond its capacity to regenerate, leading to soil degradation and loss of biodiversity."
+    },
+    {
+      "question": "What is the primary purpose of conservation of natural resources?",
+      "options": ["To increase production", "To maintain biodiversity", "To exploit resources", "To promote urbanization"],
+      "correct_answer": "To maintain biodiversity",
+      "solution": "Conservation aims to protect ecosystems and ensure the sustainability of natural resources for future generations."
+    },
+    {
+      "question": "Which of the following is a renewable resource?",
+      "options": ["Coal", "Natural Gas", "Wind", "Oil"],
+      "correct_answer": "Wind",
+      "solution": "Wind energy is renewable as it is naturally replenished and does not deplete over time."
+    },
+    {
+      "question": "What are the three Rs of resource conservation?",
+      "options": ["Reduce, Reuse, Recycle", "Replant, Restore, Revive", "Rebuild, Recycle, Renew", "Reduce, Replace, Reuse"],
+      "correct_answer": "Reduce, Reuse, Recycle",
+      "solution": "These three principles help minimize waste and conserve natural resources."
+    },
+    {
+      "question": "Which of the following is an exhaustible resource?",
+      "options": ["Air", "Sunlight", "Fossil Fuels", "Water"],
+      "correct_answer": "Fossil Fuels",
+      "solution": "Fossil fuels are limited in supply and cannot be replenished within a human timescale."
+    },
+    {
+      "question": "What is the main cause of deforestation?",
+      "options": ["Urbanization", "Agricultural expansion", "Natural disasters", "Climate change"],
+      "correct_answer": "Agricultural expansion",
+      "solution": "The demand for agricultural land is a leading cause of deforestation, impacting biodiversity and carbon storage."
+    },
+    {
+      "question": "What is the role of lichens in environmental monitoring?",
+      "options": ["They produce oxygen", "They indicate air quality", "They decompose organic matter", "They absorb water"],
+      "correct_answer": "They indicate air quality",
+      "solution": "Lichens are sensitive to air pollutants, particularly sulfur dioxide, making them useful indicators of air quality."
+    },
+    {
+      "question": "What is the nitrogen cycle?",
+      "options": ["A cycle of water in the environment", "A cycle of carbon in the atmosphere", "A cycle of nitrogen through the ecosystem", "A cycle of oxygen in the air"],
+      "correct_answer": "A cycle of nitrogen through the ecosystem",
+      "solution": "The nitrogen cycle describes the movement of nitrogen through the atmosphere, soil, and living organisms."
+    },
+    {
+      "question": "Which natural resource is essential for photosynthesis?",
+      "options": ["Soil", "Water", "Air", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Photosynthesis requires sunlight, carbon dioxide from the air, and water from the soil."
+    },
+    {
+      "question": "What is the primary source of energy for the Earth?",
+      "options": ["Geothermal energy", "Nuclear energy", "Solar energy", "Wind energy"],
+      "correct_answer": "Solar energy",
+      "solution": "The sun is the primary source of energy for the Earth's climate and ecosystems."
+    },
+    {
+      "question": "What is the impact of climate change on natural resources?",
+      "options": ["Increased biodiversity", "Decreased agricultural productivity", "Improved water quality", "None of the above"],
+      "correct_answer": "Decreased agricultural productivity",
+      "solution": "Climate change can lead to changes in rainfall patterns and increased temperatures, adversely affecting crop yields."
+    },
+    {
+      "question": "Which of the following is a non-renewable resource?",
+      "options": ["Wind", "Solar", "Coal", "Hydro"],
+      "correct_answer": "Coal",
+      "solution": "Coal is a fossil fuel that takes millions of years to form and is therefore non-renewable."
+    },
+    {
+      "question": "What is the main benefit of recycling?",
+      "options": ["Increases waste", "Saves energy", "Creates pollution", "None of the above"],
+      "correct_answer": "Saves energy",
+      "solution": "Recycling reduces the need for raw materials, which in turn saves energy and reduces pollution."
+    },
+    {
+      "question": "What are fossil fuels primarily composed of?",
+      "options": ["Minerals", "Organic matter", "Water", "Air"],
+      "correct_answer": "Organic matter",
+      "solution": "Fossil fuels are formed from the remains of ancient plants and animals that have decomposed over millions of years."
+    },
+    {
+      "question": "What is sustainable development?",
+      "options": ["Development that meets present needs without compromising future generations", "Development that focuses on economic growth only", "Development that ignores environmental concerns", "Development that is only beneficial for developed countries"],
+      "correct_answer": "Development that meets present needs without compromising future generations",
+      "solution": "Sustainable development aims to balance economic growth with environmental protection and social equity."
+    },
+    {
+      "question": "Which of the following practices can lead to soil erosion?",
+      "options": ["Crop rotation", "Overgrazing", "Planting cover crops", "Conservation tillage"],
+      "correct_answer": "Overgrazing",
+      "solution": "Overgrazing removes vegetation cover, leading to increased soil erosion and degradation."
+    },
+    {
+      "question": "What is the primary cause of water pollution?",
+      "options": ["Industrial discharge", "Natural processes", "Rainfall", "Sunlight"],
+      "correct_answer": "Industrial discharge",
+      "solution": "Industrial activities often release pollutants into water bodies, significantly impacting water quality."
+    },
+    {
+      "question": "What is the effect of deforestation on the carbon cycle?",
+      "options": ["Increases carbon sequestration", "Reduces carbon dioxide levels", "Increases carbon dioxide levels", "No effect"],
+      "correct_answer": "Increases carbon dioxide levels",
+      "solution": "Deforestation reduces the number of trees that can absorb carbon dioxide, leading to higher atmospheric CO2 levels."
+    },
+    {
+      "question": "Which of the following is a method of conserving water?",
+      "options": ["Drip irrigation", "Flood irrigation", "Open wells", "None of the above"],
+      "correct_answer": "Drip irrigation",
+      "solution": "Drip irrigation delivers water directly to plant roots, minimizing waste and conserving water."
+    },
+    {
+      "question": "What is the primary use of geothermal energy?",
+      "options": ["Heating buildings", "Generating electricity", "Both A and B", "None of the above"],
+      "correct_answer": "Both A and B",
+      "solution": "Geothermal energy can be used for both heating and electricity generation."
+    },
+    {
+      "question": "What is the main advantage of using solar panels?",
+      "options": ["They are expensive", "They require fossil fuels", "They provide renewable energy", "They produce noise"],
+      "correct_answer": "They provide renewable energy",
+      "solution": "Solar panels harness sunlight to generate electricity, making them a clean and renewable energy source."
+    },
+    {
+      "question": "What is a key characteristic of non-renewable resources?",
+      "options": ["They can be replenished quickly", "They are abundant", "They have a limited supply", "They are environmentally friendly"],
+      "correct_answer": "They have a limited supply",
+      "solution": "Non-renewable resources, such as fossil fuels, cannot be replenished within a human timescale."
+    },
+    {
+      "question": "Which of the following is an example of a biodegradable resource?",
+      "options": ["Plastic", "Glass", "Food waste", "Metal"],
+      "correct_answer": "Food waste",
+      "solution": "Food waste can decompose naturally, making it biodegradable, unlike plastics or metals."
+    },
+    {
+      "question": "What is the primary goal of environmental education?",
+      "options": ["To promote industrial growth", "To raise awareness about environmental issues", "To increase resource consumption", "To ignore sustainability"],
+      "correct_answer": "To raise awareness about environmental issues",
+      "solution": "Environmental education aims to inform individuals about their impact on the environment and promote sustainable practices."
+    }
+  ]

@@ -1,0 +1,188 @@
+[
+    {
+    "question": "Which of the following elements forms the maximum number of compounds?",
+    "options": ["Carbon", "Hydrogen", "Oxygen", "Nitrogen"],
+    "correct_answer": "Carbon",
+    "solution": "Carbon forms the maximum number of compounds due to its ability to form four covalent bonds and exhibit catenation."
+    },
+    {
+    "question": "Which of the following is an allotrope of carbon?",
+    "options": ["Diamond", "Graphite", "Fullerenes", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Diamond, graphite, and fullerenes are all allotropic forms of carbon."
+    },
+    {
+    "question": "Which of the following is used as a lubricant?",
+    "options": ["Diamond", "Graphite", "Charcoal", "Fullerenes"],
+    "correct_answer": "Graphite",
+    "solution": "Graphite is used as a lubricant due to its soft and slippery nature."
+    },
+    {
+    "question": "Which of the following is the most abundant element in the human body?",
+    "options": ["Oxygen", "Carbon", "Hydrogen", "Nitrogen"],
+    "correct_answer": "Oxygen",
+    "solution": "Oxygen is the most abundant element in the human body, making up about 65% of the total body weight."
+    },
+    {
+    "question": "What is the common name of ethanoic acid?",
+    "options": ["Acetic acid", "Formic acid", "Propionic acid", "Butanoic acid"],
+    "correct_answer": "Acetic acid",
+    "solution": "The common name of ethanoic acid is acetic acid."
+    },
+    {
+    "question": "Which of the following is used as a fuel in cars along with petrol?",
+    "options": ["Methane", "Ethane", "Butane", "Ethanol"],
+    "correct_answer": "Ethanol",
+    "solution": "Ethanol is used as a fuel in cars along with petrol."
+    },
+    {
+    "question": "Which of the following is a use of ethanol?",
+    "options": ["Manufacturing paints", "In cough syrups", "In alcoholic drinks", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Ethanol is used in manufacturing paints, as an ingredient in cough syrups, and in alcoholic drinks."
+    },
+    {
+    "question": "Which of the following organic compound has a triple bond?",
+    "options": ["C3H8", "C3H6", "C3H4", "C3H2"],
+    "correct_answer": "C3H4",
+    "solution": "C3H4 (propyne) is an organic compound that contains a triple bond."
+    },
+    {
+    "question": "Diamond is an insulator because of",
+    "options": ["It is tough", "It has no free electrons to conduct electric current", "It is not soluble in water", "Its structure is very consolidated"],
+    "correct_answer": "It has no free electrons to conduct electric current",
+    "solution": "Diamond is an insulator because it has a rigid tetrahedral structure with strong covalent bonds, leaving no free electrons to conduct electric current."
+    },
+    {
+    "question": "How many covalent bonds are there in a molecule of ethane (C2H6)?",
+    "options": ["Four", "Five", "Seven", "Eight"],
+    "correct_answer": "Seven",
+    "solution": "In a molecule of ethane (C2H6), there are seven covalent bonds: one C-C bond and six C-H bonds."
+    },
+    {
+    "question": "Which of the following functional group is present in CH3COOH organic compound?",
+    "options": ["Alcohol", "Aldehyde", "Ketone", "Carboxylic acid"],
+    "correct_answer": "Carboxylic acid",
+    "solution": "The functional group present in CH3COOH (acetic acid) is the carboxylic acid group (-COOH)."
+    },
+    {
+    "question": "Name two allotropes of carbon.",
+    "options": ["Diamond and Graphite", "Charcoal and Coke", "Fullerenes and Nanotubes", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "The two main allotropes of carbon are diamond and graphite. Other allotropes include charcoal, coke, fullerenes, and nanotubes."
+    },
+    {
+    "question": "What is denatured alcohol?",
+    "options": ["Ethanol with added impurities", "Ethanol with added dye", "Ethanol with added methanol", "Ethanol with added water"],
+    "correct_answer": "Ethanol with added methanol",
+    "solution": "Denatured alcohol is ethanol that has been mixed with methanol or other additives to make it unfit for human consumption."
+    },
+    {
+    "question": "What is the role of concentrated sulphuric acid in the esterification reaction?",
+    "options": ["Catalyst", "Oxidizing agent", "Dehydrating agent", "Reducing agent"],
+    "correct_answer": "Dehydrating agent",
+    "solution": "In the esterification reaction, concentrated sulphuric acid acts as a dehydrating agent by removing water molecules and facilitating the formation of esters."
+    },
+    {
+    "question": "Which of the following is made up of carbon?",
+    "options": ["Kevlar", "Lexan", "Spider silk", "Graphene"],
+    "correct_answer": "Graphene",
+    "solution": "Graphene is a one-atom-thick sheet of carbon atoms arranged in a hexagonal lattice."
+    },
+    {
+    "question": "Does pencil lead contain which of the given options?",
+    "options": ["Charcoal", "Coal", "Graphite", "Lexan"],
+    "correct_answer": "Graphite",
+    "solution": "Pencil lead contains graphite, not actual lead."
+    },
+    {
+    "question": "The highest percentage of carbon is found in which among the following options?",
+    "options": ["Steel", "Pig Iron", "Wrought Iron", "Alloy Steel"],
+    "correct_answer": "Pig Iron",
+    "solution": "Pig iron contains the highest percentage of carbon, ranging from 3.8% to 4.5%, among the given options."
+    },
+    {
+    "question": "Which of the following does not contain carbon?",
+    "options": ["Diamond", "Graphite", "Peat coal", "Sand"],
+    "correct_answer": "Sand",
+    "solution": "Sand is primarily composed of silicon dioxide (SiO2) and does not contain carbon."
+    },
+    {
+    "question": "Which among the following bonds are present in diamond?",
+    "options": ["Ionic bond", "Covalent bond", "Both covalent and ionic bond", "None of these"],
+    "correct_answer": "Covalent bond",
+    "solution": "Diamond has a crystalline structure with strong covalent bonds between carbon atoms."
+    },
+    {
+    "question": "Wood Charcoal is an allotrope of which of the given options?",
+    "options": ["Nitrogen", "Hydrogen", "Carbon", "Phosphorus"],
+    "correct_answer": "Carbon",
+    "solution": "Wood charcoal is an allotropic form of carbon produced by the incomplete combustion of wood."
+    },
+    {
+    "question": "Which of the given options is known as a hard substance?",
+    "options": ["Fullerenes", "Graphite", "Silicon", "Diamond"],
+    "correct_answer": "Diamond",
+    "solution": "Diamond is known as the hardest naturally occurring substance on Earth."
+    },
+    {
+    "question": "Lignite is a common type of",
+    "options": ["Charcoal", "Coal", "Diamond", "Borax"],
+    "correct_answer": "Coal",
+    "solution": "Lignite is a type of coal, the lowest rank of coal due to its high moisture content and low carbon content."
+    },
+    {
+    "question": "Which of the following is responsible for the carbon cycle?",
+    "options": ["Respiration", "Photosynthesis", "Fossil fuels", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Respiration, photosynthesis, and the burning of fossil fuels are all major components of the carbon cycle, which involves the exchange of carbon between the biosphere, lithosphere, hydrosphere, and atmosphere."
+    },
+    {
+    "question": "Which of the following is a use of carbon nanotubes?",
+    "options": ["Drug delivery", "Bullet-proof vests", "Transistors", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Carbon nanotubes have a wide range of applications, including drug delivery, bullet-proof vests, and transistors, due to their unique properties such as high strength, low weight, and excellent electrical conductivity."
+    },
+    {
+    "question": "What is the role of carbon in the human body?",
+    "options": ["Structural support", "Energy storage", "Signaling molecules", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Carbon plays a crucial role in the human body, providing structural support in the form of bones and teeth, storing energy in the form of fats, and participating in signaling processes through various organic compounds."
+    },
+    {
+    "question": "Which of the following is a property of carbon that allows it to form a large number of compounds?",
+    "options": ["Catenation", "Tetravalency", "Ability to form multiple bonds", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Carbon's ability to form four covalent bonds (tetravalency), its tendency to form stable bonds with other carbon atoms (catenation), and its capacity to form single, double, and triple bonds contribute to its ability to form a vast number of compounds."
+    },
+    {
+    "question": "What is the role of carbon in the greenhouse effect?",
+    "options": ["Absorbs infrared radiation", "Reflects sunlight", "Releases oxygen", "Stores carbon dioxide"],
+    "correct_answer": "Absorbs infrared radiation",
+    "solution": "Carbon dioxide, a greenhouse gas, absorbs infrared radiation emitted by the Earth's surface, contributing to the greenhouse effect and global warming."
+    },
+    {
+    "question": "Which of the following is a use of activated charcoal?",
+    "options": ["Water filtration", "Air purification", "Poison antidote", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Activated charcoal is used for water filtration, air purification, and as a poison antidote due to its high surface area and adsorption properties."
+    },
+    {
+    "question": "What is the role of carbon in the formation of fossil fuels?",
+    "options": ["Decomposition of organic matter", "Compression over time", "Heating under high pressure", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Fossil fuels, such as coal, oil, and natural gas, are formed from the decomposition of organic matter, compression over time, and heating under high pressure, all of which involve carbon compounds."
+    },
+    {
+    "question": "Which of the following is a property of graphite that allows it to be used as a lubricant?",
+    "options": ["Soft and slippery nature", "High melting point", "Electrical conductivity", "Insolubility in water"],
+    "correct_answer": "Soft and slippery nature",
+    "solution": "Graphite's soft and slippery nature, caused by the weak van der Waals forces between its layers, allows it to act as an effective lubricant."
+    },
+    {
+    "question": "What is the role of carbon in the formation of diamonds?",
+    "options": ["High temperature and pressure", "Presence of impurities", "Slow cooling", "All of the above"],
+    "correct_answer": "All of the above",
+    "solution": "Diamonds are formed from carbon under conditions of extremely high temperature and pressure, often in the presence of impurities, and with slow cooling, which allows the carbon atoms to crystallize into a tetrahedral structure."
+    }
+    ]

@@ -1,0 +1,170 @@
+[
+    {
+      "question": "What is the main cause of global warming?",
+      "options": ["Deforestation", "Greenhouse gases", "Ozone depletion", "Acid rain"],
+      "correct_answer": "Greenhouse gases",
+      "solution": "Global warming is primarily caused by the increased concentration of greenhouse gases in the atmosphere, mainly from human activities such as burning fossil fuels and deforestation."
+    },
+    {
+      "question": "What is biomagnification?",
+      "options": ["Increase in biodiversity", "Accumulation of toxins in food chains", "Reduction of species", "Ozone layer depletion"],
+      "correct_answer": "Accumulation of toxins in food chains",
+      "solution": "Biomagnification refers to the increasing concentration of toxic substances in organisms at each successive level of the food chain."
+    },
+    {
+      "question": "Which of the following is a renewable energy source?",
+      "options": ["Coal", "Natural gas", "Solar energy", "Nuclear energy"],
+      "correct_answer": "Solar energy",
+      "solution": "Solar energy is considered a renewable energy source because it is derived from the sun, which is inexhaustible on a human timescale."
+    },
+    {
+      "question": "What is the primary consequence of deforestation?",
+      "options": ["Increased biodiversity", "Soil erosion", "Improved air quality", "More rainfall"],
+      "correct_answer": "Soil erosion",
+      "solution": "Deforestation leads to soil erosion as trees that anchor the soil are removed, making the land more susceptible to degradation."
+    },
+    {
+      "question": "What is acid rain primarily caused by?",
+      "options": ["Carbon dioxide", "Sulfur dioxide and nitrogen oxides", "Ozone", "Methane"],
+      "correct_answer": "Sulfur dioxide and nitrogen oxides",
+      "solution": "Acid rain is primarily caused by sulfur dioxide and nitrogen oxides released into the atmosphere, which combine with water vapor to form sulfuric and nitric acids."
+    },
+    {
+      "question": "Which gas is a significant contributor to the greenhouse effect?",
+      "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"],
+      "correct_answer": "Carbon dioxide",
+      "solution": "Carbon dioxide is a significant greenhouse gas that contributes to the greenhouse effect by trapping heat in the atmosphere."
+    },
+    {
+      "question": "What is the ozone layer's primary function?",
+      "options": ["To absorb UV radiation", "To produce oxygen", "To regulate climate", "To trap greenhouse gases"],
+      "correct_answer": "To absorb UV radiation",
+      "solution": "The ozone layer protects life on Earth by absorbing the majority of the sun's harmful ultraviolet (UV) radiation."
+    },
+    {
+      "question": "What does biodiversity conservation aim to achieve?",
+      "options": ["Increase in population", "Protection of species and ecosystems", "Reduction of pollution", "Enhancement of urban areas"],
+      "correct_answer": "Protection of species and ecosystems",
+      "solution": "Biodiversity conservation aims to protect and manage species and ecosystems to ensure their sustainability for future generations."
+    },
+    {
+      "question": "What is the main cause of soil pollution?",
+      "options": ["Industrial waste", "Organic matter", "Natural processes", "Rainfall"],
+      "correct_answer": "Industrial waste",
+      "solution": "Industrial waste is a major contributor to soil pollution, as it often contains hazardous substances that contaminate the soil."
+    },
+    {
+      "question": "Which of the following is an effect of climate change?",
+      "options": ["Increased biodiversity", "More stable weather patterns", "Rising sea levels", "Decreased temperatures"],
+      "correct_answer": "Rising sea levels",
+      "solution": "Climate change leads to rising sea levels due to the melting of polar ice and the thermal expansion of seawater."
+    },
+    {
+      "question": "What is the process of reforestation?",
+      "options": ["Planting new trees in deforested areas", "Cutting down trees", "Conserving existing forests", "Planting trees in urban areas"],
+      "correct_answer": "Planting new trees in deforested areas",
+      "solution": "Reforestation is the process of planting new trees in areas that have been deforested to restore the ecosystem."
+    },
+    {
+      "question": "What is the primary source of freshwater on Earth?",
+      "options": ["Rivers", "Lakes", "Glaciers", "Groundwater"],
+      "correct_answer": "Glaciers",
+      "solution": "Glaciers store the majority of the Earth's freshwater, making them a crucial resource for water supply."
+    },
+    {
+      "question": "What is e-waste?",
+      "options": ["Waste from food", "Electronic waste", "Construction debris", "Plastic waste"],
+      "correct_answer": "Electronic waste",
+      "solution": "E-waste refers to discarded electronic appliances such as computers, smartphones, and televisions, which can be hazardous if not disposed of properly."
+    },
+    {
+      "question": "Which of the following is a consequence of overfishing?",
+      "options": ["Increased fish populations", "Depletion of fish stocks", "Improved marine biodiversity", "Enhanced ecosystem stability"],
+      "correct_answer": "Depletion of fish stocks",
+      "solution": "Overfishing leads to the depletion of fish stocks, disrupting marine ecosystems and threatening species survival."
+    },
+    {
+      "question": "What is the primary goal of sustainable development?",
+      "options": ["Economic growth", "Environmental protection", "Social equity", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Sustainable development aims to balance economic growth, environmental protection, and social equity for future generations."
+    },
+    {
+      "question": "What is the primary cause of the greenhouse effect?",
+      "options": ["Natural cycles", "Human activities", "Solar radiation", "Volcanic eruptions"],
+      "correct_answer": "Human activities",
+      "solution": "The greenhouse effect is primarily caused by human activities that increase the concentration of greenhouse gases in the atmosphere."
+    },
+    {
+      "question": "Which of the following is a major air pollutant?",
+      "options": ["Oxygen", "Nitrogen", "Carbon monoxide", "Argon"],
+      "correct_answer": "Carbon monoxide",
+      "solution": "Carbon monoxide is a major air pollutant produced by the incomplete combustion of fossil fuels."
+    },
+    {
+      "question": "What is the significance of wetlands?",
+      "options": ["Habitat for wildlife", "Water filtration", "Flood control", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Wetlands are significant for providing habitat for wildlife, filtering water, and controlling floods."
+    },
+    {
+      "question": "What is the main effect of climate change on polar regions?",
+      "options": ["Increased ice formation", "Melting ice caps", "Stable temperatures", "Increased biodiversity"],
+      "correct_answer": "Melting ice caps",
+      "solution": "Climate change leads to the melting of ice caps in polar regions, which contributes to rising sea levels."
+    },
+    {
+      "question": "What is the primary purpose of the Kyoto Protocol?",
+      "options": ["Promote biodiversity", "Reduce greenhouse gas emissions", "Increase fossil fuel use", "Enhance economic growth"],
+      "correct_answer": "Reduce greenhouse gas emissions",
+      "solution": "The Kyoto Protocol aims to reduce greenhouse gas emissions globally to combat climate change."
+    },
+    {
+      "question": "What is the main contributor to ocean acidification?",
+      "options": ["Plastic pollution", "Carbon dioxide absorption", "Overfishing", "Oil spills"],
+      "correct_answer": "Carbon dioxide absorption",
+      "solution": "Ocean acidification is primarily caused by the absorption of carbon dioxide from the atmosphere, which lowers the pH of ocean water."
+    },
+    {
+      "question": "What is the impact of invasive species on ecosystems?",
+      "options": ["Increase in biodiversity", "Disruption of local species", "Improvement of habitats", "Stabilization of ecosystems"],
+      "correct_answer": "Disruption of local species",
+      "solution": "Invasive species can disrupt local ecosystems by outcompeting native species for resources."
+    },
+    {
+      "question": "What is the primary function of the carbon cycle?",
+      "options": ["To recycle water", "To maintain oxygen levels", "To regulate Earth's temperature", "To cycle carbon through the environment"],
+      "correct_answer": "To cycle carbon through the environment",
+      "solution": "The carbon cycle is essential for cycling carbon through the environment, which is crucial for life on Earth."
+    },
+    {
+      "question": "What is the main goal of the Paris Agreement?",
+      "options": ["To increase fossil fuel use", "To limit global warming", "To promote deforestation", "To enhance industrial growth"],
+      "correct_answer": "To limit global warming",
+      "solution": "The Paris Agreement aims to limit global warming to well below 2 degrees Celsius compared to pre-industrial levels."
+    },
+    {
+      "question": "What is the primary cause of desertification?",
+      "options": ["Overgrazing", "Urbanization", "Deforestation", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Desertification is caused by various factors, including overgrazing, urbanization, and deforestation, leading to land degradation."
+    },
+    {
+      "question": "What is the significance of the Ramsar Convention?",
+      "options": ["Protection of forests", "Conservation of wetlands", "Reduction of air pollution", "Promotion of renewable energy"],
+      "correct_answer": "Conservation of wetlands",
+      "solution": "The Ramsar Convention is an international treaty focused on the conservation and sustainable use of wetlands."
+    },
+    {
+      "question": "What is the primary benefit of recycling?",
+      "options": ["Increased waste", "Conservation of resources", "Higher pollution levels", "More landfill space"],
+      "correct_answer": "Conservation of resources",
+      "solution": "Recycling conserves natural resources by reusing materials, reducing the need for new resource extraction."
+    },
+    {
+      "question": "What is the main threat to coral reefs?",
+      "options": ["Overfishing", "Pollution", "Climate change", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "Coral reefs face multiple threats, including overfishing, pollution, and climate change, which impact their health and survival."
+    }
+  ]

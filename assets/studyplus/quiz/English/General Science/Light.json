@@ -1,0 +1,182 @@
+[
+    {
+    "question": "What is the speed of light in a vacuum?",
+    "options": ["1.8 × 10^8 m/s", "2.4 × 10^8 m/s", "2.9 × 10^8 m/s", "3.0 × 10^8 m/s"],
+    "correct_answer": "3.0 × 10^8 m/s",
+    "solution": "The speed of light in a vacuum is exactly 3.0 × 10^8 m/s, one of the fundamental constants of nature."
+    },
+    {
+    "question": "What is the name of the phenomenon where white light is separated into its constituent colors?",
+    "options": ["Reflection", "Refraction", "Dispersion", "Diffraction"],
+    "correct_answer": "Dispersion",
+    "solution": "The splitting of white light into its constituent colors when passed through a prism is called dispersion."
+    },
+    {
+    "question": "Which type of mirror is used in a car's rear-view mirror to provide a wide angle view?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Convex mirror",
+    "solution": "Convex mirrors are used as rear-view mirrors in cars because they provide a wider field of view compared to plane mirrors."
+    },
+    {
+    "question": "What is the name of the phenomenon where light bends when passing from one medium to another?",
+    "options": ["Reflection", "Refraction", "Dispersion", "Diffraction"],
+    "correct_answer": "Refraction",
+    "solution": "The change in direction of a light ray when it passes from one medium to another is called refraction."
+    },
+    {
+    "question": "Which type of mirror is used in a torchlight or headlight of a vehicle?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Parabolic mirror",
+    "solution": "Parabolic mirrors are used in torchlight and vehicle headlights to produce a parallel beam of light."
+    },
+    {
+    "question": "What is the name of the phenomenon where light bends around the edges of an obstacle?",
+    "options": ["Reflection", "Refraction", "Dispersion", "Diffraction"],
+    "correct_answer": "Diffraction",
+    "solution": "The bending of light around the edges of an obstacle or aperture is called diffraction."
+    },
+    {
+    "question": "Which type of mirror is used in a shaving mirror to magnify the image?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Concave mirror",
+    "solution": "Concave mirrors are used in shaving mirrors to magnify the image of the face."
+    },
+    {
+    "question": "What is the name of the phenomenon where light is bent towards the normal when passing from a rarer to a denser medium?",
+    "options": ["Total internal reflection", "Refraction towards the normal", "Refraction away from the normal", "Snell's law"],
+    "correct_answer": "Refraction towards the normal",
+    "solution": "When light passes from a rarer medium to a denser medium, it bends towards the normal, a phenomenon known as refraction towards the normal."
+    },
+    {
+    "question": "Which type of mirror is used in a solar furnace to focus sunlight?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Concave mirror",
+    "solution": "Concave mirrors are used in solar furnaces to focus sunlight and produce high temperatures."
+    },
+    {
+    "question": "What is the name of the phenomenon where light is bent away from the normal when passing from a denser to a rarer medium?",
+    "options": ["Total internal reflection", "Refraction towards the normal", "Refraction away from the normal", "Snell's law"],
+    "correct_answer": "Refraction away from the normal",
+    "solution": "When light passes from a denser medium to a rarer medium, it bends away from the normal, a phenomenon known as refraction away from the normal."
+    },
+    {
+    "question": "Which type of mirror is used in a dentist's mirror to provide a magnified and erect image?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Concave mirror",
+    "solution": "Concave mirrors are used in dentists' mirrors to provide a magnified and erect image of the teeth."
+    },
+    {
+    "question": "What is the name of the phenomenon where light is bent back into the denser medium when passing from a denser to a rarer medium at an angle greater than the critical angle?",
+    "options": ["Total internal reflection", "Refraction towards the normal", "Refraction away from the normal", "Snell's law"],
+    "correct_answer": "Total internal reflection",
+    "solution": "When light passes from a denser medium to a rarer medium at an angle greater than the critical angle, it is bent back into the denser medium, a phenomenon known as total internal reflection."
+    },
+    {
+    "question": "Which type of mirror is used in a reflecting telescope to form an image?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Concave mirror",
+    "solution": "Reflecting telescopes use concave mirrors to form an image of distant objects."
+    },
+    {
+    "question": "What is the name of the law that describes the relationship between the angles of incidence and refraction?",
+    "options": ["Snell's law", "Brewster's law", "Fermat's principle", "Huygens' principle"],
+    "correct_answer": "Snell's law",
+    "solution": "Snell's law describes the relationship between the angles of incidence and refraction when light passes from one medium to another."
+    },
+    {
+    "question": "Which type of mirror is used in a car's side-view mirror to provide a wide angle view?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Convex mirror",
+    "solution": "Convex mirrors are used in car side-view mirrors to provide a wider field of view compared to plane mirrors."
+    },
+    {
+    "question": "What is the name of the principle that states that light travels from one point to another in the least time possible?",
+    "options": ["Snell's law", "Brewster's law", "Fermat's principle", "Huygens' principle"],
+    "correct_answer": "Fermat's principle",
+    "solution": "Fermat's principle states that light travels from one point to another in the least time possible, which explains the laws of reflection and refraction."
+    },
+    {
+    "question": "Which type of mirror is used in a reflecting telescope to correct spherical aberration?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Parabolic mirror",
+    "solution": "Reflecting telescopes use parabolic mirrors to correct spherical aberration and produce sharper images."
+    },
+    {
+    "question": "What is the name of the principle that describes the propagation of light waves using secondary wavelets?",
+    "options": ["Snell's law", "Brewster's law", "Fermat's principle", "Huygens' principle"],
+    "correct_answer": "Huygens' principle",
+    "solution": "Huygens' principle describes the propagation of light waves using secondary wavelets, which explains the laws of reflection and refraction."
+    },
+    {
+    "question": "Which type of mirror is used in a reflecting telescope to form a real image?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Concave mirror",
+    "solution": "Reflecting telescopes use concave mirrors to form a real image of distant objects."
+    },
+    {
+    "question": "What is the name of the phenomenon where light is polarized by reflection at a particular angle?",
+    "options": ["Brewster's angle", "Snell's angle", "Polarization angle", "Reflection angle"],
+    "correct_answer": "Brewster's angle",
+    "solution": "The angle at which light is completely polarized by reflection is called Brewster's angle."
+    },
+    {
+    "question": "Which type of mirror is used in a reflecting telescope to reduce spherical aberration?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Parabolic mirror",
+    "solution": "Reflecting telescopes use parabolic mirrors to reduce spherical aberration and produce sharper images."
+    },
+    {
+    "question": "What is the name of the phenomenon where light is bent towards the normal when passing from a denser to a rarer medium?",
+    "options": ["Total internal reflection", "Refraction towards the normal", "Refraction away from the normal", "Snell's law"],
+    "correct_answer": "Refraction away from the normal",
+    "solution": "When light passes from a denser medium to a rarer medium, it bends away from the normal, a phenomenon known as refraction away from the normal."
+    },
+    {
+    "question": "Which type of mirror is used in a reflecting telescope to form a virtual image?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Convex mirror",
+    "solution": "Reflecting telescopes use convex mirrors to form a virtual image of distant objects."
+    },
+    {
+    "question": "What is the name of the law that describes the relationship between the angles of incidence and reflection?",
+    "options": ["Snell's law", "Brewster's law", "Fermat's principle", "Laws of reflection"],
+    "correct_answer": "Laws of reflection",
+    "solution": "The laws of reflection describe the relationship between the angles of incidence and reflection when light is reflected from a surface."
+    },
+    {
+    "question": "Which type of mirror is used in a reflecting telescope to correct chromatic aberration?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Parabolic mirror",
+    "solution": "Reflecting telescopes use parabolic mirrors to correct chromatic aberration and produce sharper images."
+    },
+    {
+    "question": "What is the name of the phenomenon where light is bent back into the denser medium when passing from a denser to a rarer medium at an angle greater than the critical angle?",
+    "options": ["Total internal reflection", "Refraction towards the normal", "Refraction away from the normal", "Snell's law"],
+    "correct_answer": "Total internal reflection",
+    "solution": "When light passes from a denser medium to a rarer medium at an angle greater than the critical angle, it is bent back into the denser medium, a phenomenon known as total internal reflection."
+    },
+    {
+    "question": "Which type of mirror is used in a reflecting telescope to form a real image?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Concave mirror",
+    "solution": "Reflecting telescopes use concave mirrors to form a real image of distant objects."
+    },
+    {
+    "question": "What is the name of the principle that states that light travels from one point to another in the least time possible?",
+    "options": ["Snell's law", "Brewster's law", "Fermat's principle", "Huygens' principle"],
+    "correct_answer": "Fermat's principle",
+    "solution": "Fermat's principle states that light travels from one point to another in the least time possible, which explains the laws of reflection and refraction."
+    },
+    {
+    "question": "Which type of mirror is used in a reflecting telescope to correct spherical aberration?",
+    "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"],
+    "correct_answer": "Parabolic mirror",
+    "solution": "Reflecting telescopes use parabolic mirrors to correct spherical aberration and produce sharper images."
+    },
+    {
+    "question": "What is the name of the principle that describes the propagation of light waves using secondary wavelets?",
+    "options": ["Snell's law", "Brewster's law", "Fermat's principle", "Huygens' principle"],
+    "correct_answer": "Huygens' principle",
+    "solution": "Huygens' principle describes the propagation of light waves using secondary wavelets, which explains the laws of reflection and refraction."
+    }
+    ]

@@ -1,0 +1,158 @@
+[
+    {
+      "question": "What is the primary gas responsible for air pollution from vehicle emissions?",
+      "options": ["Carbon Dioxide", "Nitrogen Dioxide", "Sulphur Dioxide", "Ozone"],
+      "correct_answer": "Nitrogen Dioxide",
+      "solution": "Nitrogen dioxide (NO2) is a significant air pollutant resulting from combustion processes, particularly from vehicles and power plants."
+    },
+    {
+      "question": "Which of the following is a major source of water pollution?",
+      "options": ["Industrial Discharges", "Solar Energy", "Wind Energy", "Geothermal Energy"],
+      "correct_answer": "Industrial Discharges",
+      "solution": "Industrial discharges often contain harmful chemicals that contaminate water bodies, making them a major source of water pollution."
+    },
+    {
+      "question": "What is the main component of smog?",
+      "options": ["Ozone", "Carbon Dioxide", "Methane", "Nitrogen"],
+      "correct_answer": "Ozone",
+      "solution": "Ozone is a key component of smog, formed through photochemical reactions involving sunlight and pollutants."
+    },
+    {
+      "question": "Which pollutant is primarily responsible for acid rain?",
+      "options": ["Carbon Monoxide", "Sulphur Dioxide", "Methane", "Ozone"],
+      "correct_answer": "Sulphur Dioxide",
+      "solution": "Sulphur dioxide (SO2) reacts with water vapor in the atmosphere to form sulfuric acid, leading to acid rain."
+    },
+    {
+      "question": "What is the term for the layer of gases surrounding the Earth?",
+      "options": ["Lithosphere", "Hydrosphere", "Atmosphere", "Biosphere"],
+      "correct_answer": "Atmosphere",
+      "solution": "The atmosphere is the layer of gases that surrounds the Earth, playing a crucial role in air quality and climate."
+    },
+    {
+      "question": "Which of the following is a greenhouse gas?",
+      "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"],
+      "correct_answer": "Carbon Dioxide",
+      "solution": "Carbon dioxide (CO2) is a significant greenhouse gas that contributes to the greenhouse effect and global warming."
+    },
+    {
+      "question": "What is the primary cause of noise pollution in urban areas?",
+      "options": ["Construction Activities", "Natural Disasters", "Agricultural Practices", "Wildlife"],
+      "correct_answer": "Construction Activities",
+      "solution": "Construction activities contribute significantly to noise pollution in urban areas due to heavy machinery and ongoing work."
+    },
+    {
+      "question": "Which of the following is a consequence of air pollution?",
+      "options": ["Increased Biodiversity", "Respiratory Diseases", "Improved Crop Yields", "Enhanced Climate Stability"],
+      "correct_answer": "Respiratory Diseases",
+      "solution": "Air pollution is linked to various respiratory diseases, including asthma and chronic obstructive pulmonary disease (COPD)."
+    },
+    {
+      "question": "What is the process of removing pollutants from air called?",
+      "options": ["Filtration", "Absorption", "Scrubbing", "Condensation"],
+      "correct_answer": "Scrubbing",
+      "solution": "Scrubbing is a process used to remove pollutants from industrial exhaust gases before they are released into the atmosphere."
+    },
+    {
+      "question": "Which of the following is a major contributor to soil pollution?",
+      "options": ["Plastic Waste", "Wind Erosion", "Natural Fertilizers", "Rainwater"],
+      "correct_answer": "Plastic Waste",
+      "solution": "Plastic waste contributes significantly to soil pollution as it does not decompose and can leach harmful chemicals into the soil."
+    },
+    {
+      "question": "What is the main source of indoor air pollution?",
+      "options": ["Outdoor Air", "Household Cleaners", "Natural Gas", "Solar Panels"],
+      "correct_answer": "Household Cleaners",
+      "solution": "Household cleaners release volatile organic compounds (VOCs) that contribute to indoor air pollution."
+    },
+    {
+      "question": "Which gas is primarily responsible for the depletion of the ozone layer?",
+      "options": ["Carbon Dioxide", "Chlorofluorocarbons (CFCs)", "Methane", "Nitrous Oxide"],
+      "correct_answer": "Chlorofluorocarbons (CFCs)",
+      "solution": "CFCs are known to deplete the ozone layer, leading to increased UV radiation reaching the Earth's surface."
+    },
+    {
+      "question": "What is the term for the measure of how clean or polluted the air is?",
+      "options": ["Air Quality Index", "Pollution Level", "Environmental Score", "Health Index"],
+      "correct_answer": "Air Quality Index",
+      "solution": "The Air Quality Index (AQI) is a measure used to communicate how polluted the air currently is or how polluted it is forecast to become."
+    },
+    {
+      "question": "Which of the following is a non-renewable source of energy contributing to air pollution?",
+      "options": ["Wind Power", "Solar Power", "Coal", "Hydropower"],
+      "correct_answer": "Coal",
+      "solution": "Coal is a non-renewable energy source that, when burned, releases significant amounts of pollutants into the air."
+    },
+    {
+      "question": "What is the primary cause of global warming?",
+      "options": ["Deforestation", "Increased Greenhouse Gas Emissions", "Natural Climate Cycles", "Solar Radiation"],
+      "correct_answer": "Increased Greenhouse Gas Emissions",
+      "solution": "Increased greenhouse gas emissions, particularly from fossil fuel combustion, are the primary cause of global warming."
+    },
+    {
+      "question": "Which pollutant is commonly associated with cigarette smoke?",
+      "options": ["Carbon Dioxide", "Formaldehyde", "Nitrogen Dioxide", "Ozone"],
+      "correct_answer": "Formaldehyde",
+      "solution": "Cigarette smoke contains formaldehyde, a harmful pollutant that can cause respiratory issues."
+    },
+    {
+      "question": "What is the main effect of acid rain on the environment?",
+      "options": ["Increased Soil Fertility", "Damage to Aquatic Ecosystems", "Enhanced Plant Growth", "Reduction of Carbon Footprint"],
+      "correct_answer": "Damage to Aquatic Ecosystems",
+      "solution": "Acid rain can severely damage aquatic ecosystems by lowering the pH of water bodies, harming fish and other organisms."
+    },
+    {
+      "question": "Which of the following is a method to reduce air pollution?",
+      "options": ["Increased Use of Fossil Fuels", "Planting Trees", "Burning Waste", "Using Plastic Bags"],
+      "correct_answer": "Planting Trees",
+      "solution": "Planting trees helps absorb carbon dioxide and other pollutants, thereby reducing air pollution."
+    },
+    {
+      "question": "What is the primary role of the ozone layer?",
+      "options": ["To trap heat", "To absorb UV radiation", "To produce oxygen", "To filter pollutants"],
+      "correct_answer": "To absorb UV radiation",
+      "solution": "The ozone layer absorbs harmful ultraviolet (UV) radiation from the sun, protecting living organisms on Earth."
+    },
+    {
+      "question": "Which of the following is a common air pollutant from industrial processes?",
+      "options": ["Oxygen", "Carbon Dioxide", "Sulphur Dioxide", "Nitrogen"],
+      "correct_answer": "Sulphur Dioxide",
+      "solution": "Sulphur dioxide (SO2) is commonly released from industrial processes, particularly those involving fossil fuels."
+    },
+    {
+      "question": "What is the main cause of plastic pollution in oceans?",
+      "options": ["Natural Disasters", "Improper Waste Disposal", "Marine Life", "Climate Change"],
+      "correct_answer": "Improper Waste Disposal",
+      "solution": "Improper waste disposal practices lead to plastic entering waterways and eventually the oceans, causing significant pollution."
+    },
+    {
+      "question": "Which of the following is a secondary air pollutant?",
+      "options": ["Carbon Monoxide", "Sulphur Dioxide", "Ozone", "Nitrogen Dioxide"],
+      "correct_answer": "Ozone",
+      "solution": "Ozone is considered a secondary air pollutant as it forms in the atmosphere through chemical reactions involving primary pollutants."
+    },
+    {
+      "question": "What is the primary purpose of air pollution control devices?",
+      "options": ["To increase emissions", "To reduce pollutants", "To improve fuel efficiency", "To monitor air quality"],
+      "correct_answer": "To reduce pollutants",
+      "solution": "Air pollution control devices are designed to capture and reduce pollutants before they are released into the atmosphere."
+    },
+    {
+      "question": "Which of the following practices can help reduce soil pollution?",
+      "options": ["Using Chemical Fertilizers", "Recycling Waste", "Deforestation", "Burning Plastics"],
+      "correct_answer": "Recycling Waste",
+      "solution": "Recycling waste reduces the amount of waste that ends up in landfills, thereby minimizing soil pollution."
+    },
+    {
+      "question": "What is a common effect of thermal pollution in water bodies?",
+      "options": ["Increased Oxygen Levels", "Decreased Water Temperature", "Harm to Aquatic Life", "Improved Water Quality"],
+      "correct_answer": "Harm to Aquatic Life",
+      "solution": "Thermal pollution can lead to elevated water temperatures, which can harm aquatic life by reducing oxygen levels and altering habitats."
+    },
+    {
+      "question": "Which of the following is a method of controlling noise pollution?",
+      "options": ["Increasing Traffic", "Planting Vegetation", "Using More Machinery", "Building Highways"],
+      "correct_answer": "Planting Vegetation",
+      "solution": "Planting vegetation can act as a buffer to absorb sound and reduce noise pollution in urban areas."
+    }
+  ]
