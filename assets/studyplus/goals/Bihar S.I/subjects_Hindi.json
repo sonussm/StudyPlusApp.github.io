@@ -30,6 +30,11 @@
     "image_url": "https://studyplusapp.github.io/assets/studyplus/images/geography.png"
   },
   {
+    "name": "Hindi",
+    "description": "हिंदी में भारत की एक आधिकारिक भाषा की सुंदरता और समृद्धि को अपनाएं।",
+    "image_url": "https://studyplusapp.github.io/assets/studyplus/images/hindi.png"
+  },
+  {
     "name": "सामान्य ज्ञान",
     "description": "दुनिया के बारे में तथ्यों और सामान्य ज्ञान के साथ अपनी समझ बढ़ाएं।",
     "image_url": "https://studyplusapp.github.io/assets/studyplus/images/gk.png"
