@@ -1,0 +1,46 @@
+{
+  "teachers": [
+    {
+      "name": "Prashant Dhawan sir",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/studyiq.png",
+      "description": "Learn from the best Study IQ lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR41K9MMF5acnlBeh-CdWPij"
+    },
+    {
+      "name": "PW SSC",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
+      "description": "Learn from the best PW SSC lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PL22tVRPdgORFAHu2IFkYgt9Tr3cuf2FeK"
+    },
+    {
+      "name": "Drishti IAS",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/drishti.png",
+      "description": "Learn from the best Drishti IAS lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLNdRsMqHda587wM1k9ZAJ4n0Hqs5s4tjn"
+    },
+    {
+      "name": "Parcham Classes",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/parcham.png",
+      "description": "Explore the depths of knowledge with Parcham classes.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLJ0PDUtEYgazFxbqwaCWsVc4RDJGGHYtz"
+    },
+    {
+      "name": "Prashant tiwari",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/prashantsir.png",
+      "description": "Learn from the best Banker's UnAcademy lectures.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLpuxPG4TUOR4VHsceopVQtj73aJ0idtpI"
+    },
+    {
+      "name": "PW Only IAS",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/pw.png",
+      "description": "Explore the depths of knowledge with PW.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLXLsXwBXH6BnuWQumt_YmmdkaQodDaA7l"
+    },
+    {
+      "name": "Utkarsh Classes",
+      "image_url": "https://studyplusapp.github.io/assets/studyplus/images/utkarsh.png",
+      "description": "Elevate your learning with Utkarsh.",
+      "playlistUrl": "https://youtube.com/playlist?list=PLoZP2WsNfBSFodHx7J-2kRKkABNsxtZ_R"
+    }
+  ]
+}
