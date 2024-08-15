@@ -1,1 +1,176 @@
-
+[
+    {
+    "question": "Which Indian cricketer has scored the most runs in Test cricket?",
+    "options": ["Sachin Tendulkar", "Virat Kohli", "Rahul Dravid", "Sunil Gavaskar"],
+    "correct_answer": "Sachin Tendulkar",
+    "solution": "Sachin Tendulkar is the leading run-scorer in Test cricket history with 15,921 runs in 200 matches."
+    },
+    {
+    "question": "Which country has won the most FIFA World Cup titles?",
+    "options": ["Brazil", "Germany", "Italy", "Argentina"],
+    "correct_answer": "Brazil",
+    "solution": "Brazil has won the FIFA World Cup a record 5 times (1958, 1962, 1970, 1994, 2002)."
+    },
+    {
+    "question": "Who is the only Indian male boxer to win an Olympic medal?",
+    "options": ["Vijender Singh", "Mary Kom", "Vikas Krishan Yadav", "Manoj Kumar"],
+    "correct_answer": "Vijender Singh",
+    "solution": "Vijender Singh is the only Indian male boxer to win an individual Olympic medal, a bronze at the 2008 Beijing Olympics."
+    },
+    {
+    "question": "Which Indian badminton player became the first Indian to win an Olympic medal in the sport?",
+    "options": ["Saina Nehwal", "PV Sindhu", "Kidambi Srikanth", "Prakash Padukone"],
+    "correct_answer": "Saina Nehwal",
+    "solution": "Saina Nehwal is the first Indian badminton player to win an Olympic medal, a bronze at the 2012 London Olympics."
+    },
+    {
+    "question": "Which Indian athlete is known as the 'Flying Sikh' for his exceptional speed in athletics?",
+    "options": ["PT Usha", "Milkha Singh", "Neeraj Chopra", "Manoj Tiwari"],
+    "correct_answer": "Milkha Singh",
+    "solution": "Milkha Singh, nicknamed the 'Flying Sikh', is an Indian athlete who was a champion sprinter and is considered the 'Flying Sikh' of India due to his achievements in athletics."
+    },
+    {
+    "question": "Which sport uses the term 'Grand Slam'?",
+    "options": ["Cricket", "Football", "Tennis", "Golf"],
+    "correct_answer": "Tennis",
+    "solution": "The term 'Grand Slam' is used in tennis to refer to the four major championships: Wimbledon, US Open, Australian Open, and French Open."
+    },
+    {
+    "question": "Who captained India to its first-ever Cricket World Cup victory in 1983?",
+    "options": ["Sunil Gavaskar", "Kapil Dev", "Sachin Tendulkar", "Sourav Ganguly"],
+    "correct_answer": "Kapil Dev",
+    "solution": "Kapil Dev captained the Indian cricket team to its first-ever Cricket World Cup victory in 1983."
+    },
+    {
+    "question": "Which sport is associated with the Ranji Trophy?",
+    "options": ["Football", "Hockey", "Cricket", "Kabaddi"],
+    "correct_answer": "Cricket",
+    "solution": "The Ranji Trophy is a domestic first-class cricket championship played in India, named after the famous Indian cricketer Ranjitsinhji."
+    },
+    {
+    "question": "Which country has most frequently hosted the Olympic Winter Games?",
+    "options": ["Canada", "Norway", "Switzerland", "United States"],
+    "correct_answer": "United States",
+    "solution": "The United States has hosted the Olympic Winter Games four times, more than any other country."
+    },
+    {
+    "question": "Who is the current president of the Board of Control for Cricket in India (BCCI)?",
+    "options": ["Sourav Ganguly", "Roger Binny", "Rahul Dravid", "Jay Shah"],
+    "correct_answer": "Roger Binny",
+    "solution": "Roger Binny is the current president of the Board of Control for Cricket in India (BCCI), succeeding Sourav Ganguly."
+    },
+    {
+    "question": "Which sport is the national sport of India?",
+    "options": ["Hockey", "Cricket", "Kabaddi", "Kho Kho"],
+    "correct_answer": "Hockey",
+    "solution": "While hockey is often considered the national sport of India, there is no officially designated national sport of the country."
+    },
+    {
+    "question": "Who is the first and currently the only batsman to score double hundreds in four consecutive test series?",
+    "options": ["Sachin Tendulkar", "Virat Kohli", "Rohit Sharma", "Ricky Ponting"],
+    "correct_answer": "Virat Kohli",
+    "solution": "Virat Kohli is the first and currently the only batsman to score double hundreds in four consecutive test series."
+    },
+    {
+    "question": "Which Indian chess player holds the prestigious title of Grandmaster?",
+    "options": ["Viswanathan Anand", "Harikrishna Koneru", "Pentala Harikrishna", "Adhiban Baskaran"],
+    "correct_answer": "Viswanathan Anand",
+    "solution": "Viswanathan Anand is an Indian chess grandmaster and former World Chess Champion."
+    },
+    {
+    "question": "Which Indian paralympic athlete won the gold medal in men's discus throw F64 at the Tokyo Paralympics 2020?",
+    "options": ["Mariyappan Thangavelu", "Singhraj Adhana", "Sumit Antil", "Devendra Jhajharia"],
+    "correct_answer": "Sumit Antil",
+    "solution": "Sumit Antil is an Indian paralympian who won the gold medal in men's discus throw F64 at the Tokyo Paralympics 2020."
+    },
+    {
+    "question": "Which sport is associated with the term 'LBW'?",
+    "options": ["Football", "Cricket", "Tennis", "Volleyball"],
+    "correct_answer": "Cricket",
+    "solution": "LBW (Leg Before Wicket) is a dismissal in cricket where a batsman is out if the ball hits their leg before hitting the bat and would have gone on to hit the stumps."
+    },
+    {
+    "question": "Which Indian badminton player has been selected by the Badminton World Federation (BWF) for the Lifetime Achievement Award?",
+    "options": ["Saina Nehwal", "PV Sindhu", "Prakash Padukone", "Pullela Gopichand"],
+    "correct_answer": "Prakash Padukone",
+    "solution": "Prakash Padukone has been selected by the Badminton World Federation (BWF) for the Lifetime Achievement Award this year."
+    },
+    {
+    "question": "Which Indian cricketer has scored the most centuries in ODI cricket?",
+    "options": ["Sachin Tendulkar", "Virat Kohli", "Rohit Sharma", "Sourav Ganguly"],
+    "correct_answer": "Sachin Tendulkar",
+    "solution": "Sachin Tendulkar has scored the most centuries (49) in ODI cricket history."
+    },
+    {
+    "question": "Which Indian cricketer has the fastest double century in ODI cricket?",
+    "options": ["Sachin Tendulkar", "Virender Sehwag", "Rohit Sharma", "KL Rahul"],
+    "correct_answer": "Rohit Sharma",
+    "solution": "Rohit Sharma holds the record for the fastest double century in ODI cricket, scoring 264 runs off just 173 balls against Sri Lanka in 2014."
+    },
+    {
+    "question": "Which Indian cricketer has the most runs in a single edition of the IPL?",
+    "options": ["Virat Kohli", "KL Rahul", "David Warner", "Shikhar Dhawan"],
+    "correct_answer": "Virat Kohli",
+    "solution": "Virat Kohli holds the record for the most runs scored by a batsman in a single edition of the IPL, amassing 973 runs in the 2016 season."
+    },
+    {
+    "question": "Which Indian cricketer has the most wickets in Test cricket?",
+    "options": ["Anil Kumble", "Ravichandran Ashwin", "Kapil Dev", "Harbhajan Singh"],
+    "correct_answer": "Anil Kumble",
+    "solution": "Anil Kumble is India's leading wicket-taker in Test cricket with 619 wickets in 132 matches."
+    },
+    {
+    "question": "Which Indian cricketer has the most catches in Test cricket?",
+    "options": ["Rahul Dravid", "VVS Laxman", "Sachin Tendulkar", "Sunil Gavaskar"],
+    "correct_answer": "Rahul Dravid",
+    "solution": "Rahul Dravid holds the record for the most catches (210) by a non-wicket-keeper in Test cricket."
+    },
+    {
+    "question": "Which Indian cricketer has the most runs in a single edition of the Ranji Trophy?",
+    "options": ["Wasim Jaffer", "Vijay Hazare", "Sunil Gavaskar", "Vinod Kambli"],
+    "correct_answer": "Wasim Jaffer",
+    "solution": "Wasim Jaffer holds the record for the most runs scored by a batsman in a single edition of the Ranji Trophy, amassing 1,260 runs in the 2008-09 season."
+    },
+    {
+    "question": "Which Indian cricketer has the most wickets in a single edition of the Ranji Trophy?",
+    "options": ["Rajinder Goel", "Bishan Singh Bedi", "Vinoo Mankad", "Bapu Nadkarni"],
+    "correct_answer": "Rajinder Goel",
+    "solution": "Rajinder Goel holds the record for the most wickets taken by a bowler in a single edition of the Ranji Trophy, claiming 64 wickets in the 1974-75 season."
+    },
+    {
+    "question": "Which Indian cricketer has the most runs in a single edition of the Deodhar Trophy?",
+    "options": ["Sunil Gavaskar", "Gundappa Viswanath", "Dilip Vengsarkar", "Vijay Hazare"],
+    "correct_answer": "Vijay Hazare",
+    "solution": "Vijay Hazare holds the record for the most runs scored by a batsman in a single edition of the Deodhar Trophy, amassing 450 runs in the 1940-41 season."
+    },
+    {
+    "question": "Which Indian cricketer has the most wickets in a single edition of the Deodhar Trophy?",
+    "options": ["Vinoo Mankad", "Bapu Nadkarni", "Rajinder Goel", "Bishan Singh Bedi"],
+    "correct_answer": "Vinoo Mankad",
+    "solution": "Vinoo Mankad holds the record for the most wickets taken by a bowler in a single edition of the Deodhar Trophy, claiming 23 wickets in the 1946-47 season."
+    },
+    {
+    "question": "Which Indian cricketer has the most runs in a single edition of the Duleep Trophy?",
+    "options": ["Sunil Gavaskar", "Gundappa Viswanath", "Dilip Vengsarkar", "Vijay Hazare"],
+    "correct_answer": "Sunil Gavaskar",
+    "solution": "Sunil Gavaskar holds the record for the most runs scored by a batsman in a single edition of the Duleep Trophy, amassing 825 runs in the 1975-76 season."
+    },
+    {
+    "question": "Which Indian cricketer has the most wickets in a single edition of the Duleep Trophy?",
+    "options": ["Vinoo Mankad", "Bapu Nadkarni", "Rajinder Goel", "Bishan Singh Bedi"],
+    "correct_answer": "Rajinder Goel",
+    "solution": "Rajinder Goel holds the record for the most wickets taken by a bowler in a single edition of the Duleep Trophy, claiming 35 wickets in the 1973-74 season."
+    },
+    {
+    "question": "Which Indian cricketer has the most runs in a single edition of the Irani Trophy?",
+    "options": ["Sunil Gavaskar", "Gundappa Viswanath", "Dilip Vengsarkar", "Vijay Hazare"],
+    "correct_answer": "Sunil Gavaskar",
+    "solution": "Sunil Gavaskar holds the record for the most runs scored by a batsman in a single edition of the Irani Trophy, amassing 390 runs in the 1976-77 season."
+    },
+    {
+    "question": "Which Indian cricketer has the most wickets in a single edition of the Irani Trophy?",
+    "options": ["Vinoo Mankad", "Bapu Nadkarni", "Rajinder Goel", "Bishan Singh Bedi"],
+    "correct_answer": "Bishan Singh Bedi",
+    "solution": "Bishan Singh Bedi holds the record for the most wickets taken by a bowler in a single edition of the Irani Trophy, claiming 13 wickets in the 1974-75 season."
+    }
+    ]

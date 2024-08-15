@@ -1,0 +1,170 @@
+[
+    {
+      "question": "What is the full form of ATM?",
+      "options": ["Automated Teller Machine", "Automatic Transaction Machine", "Any Time Money", "All Time Machine"],
+      "correct_answer": "Automated Teller Machine",
+      "solution": "ATM stands for Automated Teller Machine, which is an electronic banking outlet that allows customers to complete basic transactions without the need for a branch representative."
+    },
+    {
+      "question": "What does NASA stand for?",
+      "options": ["National Aeronautics and Space Administration", "National Association of Space Administration", "National Aeronautics and Science Association", "National Association of Science and Aeronautics"],
+      "correct_answer": "National Aeronautics and Space Administration",
+      "solution": "NASA stands for National Aeronautics and Space Administration, which is the United States government agency responsible for the nation's civilian space program and for aeronautics and aerospace research."
+    },
+    {
+      "question": "What is the full form of PIN?",
+      "options": ["Personal Identification Number", "Private Identification Number", "Public Identification Number", "Personal Information Number"],
+      "correct_answer": "Personal Identification Number",
+      "solution": "PIN stands for Personal Identification Number, which is a numeric password used to authenticate a user during electronic transactions."
+    },
+    {
+      "question": "What does AIDS stand for?",
+      "options": ["Acquired Immune Deficiency Syndrome", "Acquired Immunodeficiency Syndrome", "Acquired Immune Disease Syndrome", "Acquired Immunity Deficiency Syndrome"],
+      "correct_answer": "Acquired Immune Deficiency Syndrome",
+      "solution": "AIDS stands for Acquired Immune Deficiency Syndrome, which is a disease caused by the human immunodeficiency virus (HIV) that leads to a severe weakening of the immune system."
+    },
+    {
+      "question": "What is the full form of CEO?",
+      "options": ["Chief Executive Officer", "Chief Employment Officer", "Chief Energy Officer", "Chief Engineering Officer"],
+      "correct_answer": "Chief Executive Officer",
+      "solution": "CEO stands for Chief Executive Officer, who is the highest-ranking executive in a company responsible for making major corporate decisions."
+    },
+    {
+      "question": "What does UNESCO stand for?",
+      "options": ["United Nations Educational, Scientific and Cultural Organization", "United Nations Environment, Science and Cultural Organization", "United Nations Economic, Social and Cultural Organization", "United Nations Education, Science and Culture Organization"],
+      "correct_answer": "United Nations Educational, Scientific and Cultural Organization",
+      "solution": "UNESCO stands for United Nations Educational, Scientific and Cultural Organization, which is a specialized agency of the United Nations aimed at promoting world peace and security through international cooperation in education, the sciences, and culture."
+    },
+    {
+      "question": "What is the full form of GPS?",
+      "options": ["Global Positioning System", "Geographic Positioning System", "Global Place System", "Geographic Place System"],
+      "correct_answer": "Global Positioning System",
+      "solution": "GPS stands for Global Positioning System, which is a satellite-based navigation system that provides location and time information anywhere on Earth."
+    },
+    {
+      "question": "What does HTML stand for?",
+      "options": ["Hypertext Markup Language", "Hyperlink and Text Markup Language", "High Text Markup Language", "Hypertext Multi Language"],
+      "correct_answer": "Hypertext Markup Language",
+      "solution": "HTML stands for Hypertext Markup Language, which is the standard markup language for documents designed to be displayed in a web browser."
+    },
+    {
+      "question": "What is the full form of HIV?",
+      "options": ["Human Immunodeficiency Virus", "Human Immune Virus", "Human Infection Virus", "Human Immunity Virus"],
+      "correct_answer": "Human Immunodeficiency Virus",
+      "solution": "HIV stands for Human Immunodeficiency Virus, which attacks the body's immune system and can lead to AIDS."
+    },
+    {
+      "question": "What does FAQ stand for?",
+      "options": ["Frequently Asked Questions", "Frequently Answered Questions", "Frequently Asked Queries", "Frequently Answered Queries"],
+      "correct_answer": "Frequently Asked Questions",
+      "solution": "FAQ stands for Frequently Asked Questions, which is a list of questions and answers pertaining to a particular topic."
+    },
+    {
+      "question": "What is the full form of KYC?",
+      "options": ["Know Your Customer", "Know Your Client", "Know Your Company", "Know Your Cash"],
+      "correct_answer": "Know Your Customer",
+      "solution": "KYC stands for Know Your Customer, which is a process used by businesses to verify the identity of their clients."
+    },
+    {
+      "question": "What does PDF stand for?",
+      "options": ["Portable Document Format", "Portable Data Format", "Personal Document Format", "Public Document Format"],
+      "correct_answer": "Portable Document Format",
+      "solution": "PDF stands for Portable Document Format, which is a file format developed by Adobe that captures document text, fonts, images, and even formatting of documents from a variety of applications."
+    },
+    {
+      "question": "What is the full form of TDS?",
+      "options": ["Tax Deducted at Source", "Tax Deductible Source", "Tax Directly Deducted", "Tax Deduction Service"],
+      "correct_answer": "Tax Deducted at Source",
+      "solution": "TDS stands for Tax Deducted at Source, which is a means of collecting income tax in India, where tax is deducted at the source of income."
+    },
+    {
+      "question": "What does URL stand for?",
+      "options": ["Uniform Resource Locator", "Universal Resource Locator", "Uniform Reference Locator", "Universal Reference Locator"],
+      "correct_answer": "Uniform Resource Locator",
+      "solution": "URL stands for Uniform Resource Locator, which is the address of a resource on the internet."
+    },
+    {
+      "question": "What is the full form of BPO?",
+      "options": ["Business Process Outsourcing", "Business Process Organization", "Business Production Outsourcing", "Business Production Organization"],
+      "correct_answer": "Business Process Outsourcing",
+      "solution": "BPO stands for Business Process Outsourcing, which is the practice of contracting a specific business task to a third-party service provider."
+    },
+    {
+      "question": "What does CBI stand for?",
+      "options": ["Central Bureau of Investigation", "Central Bureau of Intelligence", "Central Bureau of Information", "Central Bureau of Internal Affairs"],
+      "correct_answer": "Central Bureau of Investigation",
+      "solution": "CBI stands for Central Bureau of Investigation, which is the premier investigating agency in India."
+    },
+    {
+      "question": "What is the full form of IPO?",
+      "options": ["Initial Public Offering", "International Public Offering", "Initial Private Offering", "International Private Offering"],
+      "correct_answer": "Initial Public Offering",
+      "solution": "IPO stands for Initial Public Offering, which is the process through which a private company offers shares to the public for the first time."
+    },
+    {
+      "question": "What does WTO stand for?",
+      "options": ["World Trade Organization", "World Transport Organization", "World Tourism Organization", "World Technical Organization"],
+      "correct_answer": "World Trade Organization",
+      "solution": "WTO stands for World Trade Organization, which is an intergovernmental organization that regulates international trade."
+    },
+    {
+      "question": "What is the full form of MNC?",
+      "options": ["Multinational Corporation", "Multi-National Company", "Multi-National Corporation", "Multinational Company"],
+      "correct_answer": "Multinational Corporation",
+      "solution": "MNC stands for Multinational Corporation, which is a company that operates in multiple countries."
+    },
+    {
+      "question": "What does CRM stand for?",
+      "options": ["Customer Relationship Management", "Client Relationship Management", "Customer Resource Management", "Client Resource Management"],
+      "correct_answer": "Customer Relationship Management",
+      "solution": "CRM stands for Customer Relationship Management, which is a technology for managing a company's relationships and interactions with customers."
+    },
+    {
+      "question": "What is the full form of R&D?",
+      "options": ["Research and Development", "Research and Design", "Resources and Development", "Resources and Design"],
+      "correct_answer": "Research and Development",
+      "solution": "R&D stands for Research and Development, which is a business or government activity that is purposely designed to stimulate innovation."
+    },
+    {
+      "question": "What does SMS stand for?",
+      "options": ["Short Message Service", "Simple Message Service", "Standard Message Service", "Secure Message Service"],
+      "correct_answer": "Short Message Service",
+      "solution": "SMS stands for Short Message Service, which is a text messaging service component of most telephone, Internet, and mobile device systems."
+    },
+    {
+      "question": "What is the full form of NDA?",
+      "options": ["National Democratic Alliance", "National Defense Academy", "National Development Authority", "National Defense Association"],
+      "correct_answer": "National Democratic Alliance",
+      "solution": "NDA stands for National Democratic Alliance, which is a coalition of political parties in India."
+    },
+    {
+      "question": "What does CCTV stand for?",
+      "options": ["Closed Circuit Television", "Closed Circuit Transmission", "Closed Circuit Technology", "Closed Circuit Telecommunication"],
+      "correct_answer": "Closed Circuit Television",
+      "solution": "CCTV stands for Closed Circuit Television, which is a system of video cameras used for surveillance."
+    },
+    {
+      "question": "What is the full form of GST?",
+      "options": ["Goods and Services Tax", "General Sales Tax", "Goods and Sales Tax", "General Services Tax"],
+      "correct_answer": "Goods and Services Tax",
+      "solution": "GST stands for Goods and Services Tax, which is a single tax on the supply of goods and services."
+    },
+    {
+      "question": "What does ICICI stand for?",
+      "options": ["Industrial Credit and Investment Corporation of India", "Indian Credit and Investment Corporation of India", "Industrial Corporation of India", "Indian Credit and Investment Company of India"],
+      "correct_answer": "Industrial Credit and Investment Corporation of India",
+      "solution": "ICICI stands for Industrial Credit and Investment Corporation of India, which is a major financial institution in India."
+    },
+    {
+      "question": "What is the full form of SBI?",
+      "options": ["State Bank of India", "Standard Bank of India", "State Banking Institution", "Standard Banking Institution"],
+      "correct_answer": "State Bank of India",
+      "solution": "SBI stands for State Bank of India, which is the largest bank in India."
+    },
+    {
+      "question": "What does WHO stand for?",
+      "options": ["World Health Organization", "World Human Organization", "World Health Office", "World Humanitarian Organization"],
+      "correct_answer": "World Health Organization",
+      "solution": "WHO stands for World Health Organization, which is a specialized agency of the United Nations responsible for international public health."
+    }
+  ]

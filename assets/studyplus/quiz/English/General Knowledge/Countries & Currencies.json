@@ -1,0 +1,182 @@
+[
+    {
+    "question": "What is the national currency of India?",
+    "options": ["Rupiah", "Yuan", "Rupee", "None of the Above"],
+    "correct_answer": "Rupee",
+    "solution": "The national currency of India is the Rupee (INR)."
+    },
+    {
+    "question": "What is the national currency of the United States of America (USA)?",
+    "options": ["Euro", "Dollar", "Rand", "Yen"],
+    "correct_answer": "Dollar",
+    "solution": "The national currency of the United States of America (USA) is the Dollar (USD)."
+    },
+    {
+    "question": "What is the national currency of Russia?",
+    "options": ["Leki", "Ruble", "Peso", "Euro"],
+    "correct_answer": "Ruble",
+    "solution": "The national currency of Russia is the Ruble (RUB)."
+    },
+    {
+    "question": "What is the national currency of the United Kingdom?",
+    "options": ["Taka", "Paise", "Yen", "Pound Sterling"],
+    "correct_answer": "Pound Sterling",
+    "solution": "The national currency of the United Kingdom is the Pound Sterling (GBP)."
+    },
+    {
+    "question": "What is the national currency of Australia?",
+    "options": ["Rupiah", "Yen", "Dollar", "Yuan"],
+    "correct_answer": "Dollar",
+    "solution": "The national currency of Australia is the Dollar (AUD)."
+    },
+    {
+    "question": "What is the national currency of South Africa?",
+    "options": ["Rand", "Pound", "Franc", "Dinar"],
+    "correct_answer": "Rand",
+    "solution": "The national currency of South Africa is the Rand (ZAR)."
+    },
+    {
+    "question": "What is the national currency of New Zealand?",
+    "options": ["Kwanza", "Dinar", "Pound", "Dollar"],
+    "correct_answer": "Dollar",
+    "solution": "The national currency of New Zealand is the Dollar (NZD)."
+    },
+    {
+    "question": "What is the national currency of Afghanistan?",
+    "options": ["Afghani", "Ruble", "Yen", "Dollar"],
+    "correct_answer": "Afghani",
+    "solution": "The national currency of Afghanistan is the Afghani (AFN)."
+    },
+    {
+    "question": "What is the national currency of Bangladesh?",
+    "options": ["Lek", "Slotty", "Taka", "None of the Above"],
+    "correct_answer": "Taka",
+    "solution": "The national currency of Bangladesh is the Taka (BDT)."
+    },
+    {
+    "question": "What is the national currency of Nepal?",
+    "options": ["Rupee", "Taka", "Paise", "Pound"],
+    "correct_answer": "Rupee",
+    "solution": "The national currency of Nepal is the Rupee (NPR)."
+    },
+    {
+    "question": "What is the national currency of China?",
+    "options": ["Peso", "Yuan", "Dollar", "Yen"],
+    "correct_answer": "Yuan",
+    "solution": "The national currency of China is the Yuan (CNY)."
+    },
+    {
+    "question": "What is the national currency of Pakistan?",
+    "options": ["Ruble", "Rupee", "Zloty", "Leu"],
+    "correct_answer": "Rupee",
+    "solution": "The national currency of Pakistan is the Rupee (PKR)."
+    },
+    {
+    "question": "What is the national currency of Saudi Arabia?",
+    "options": ["Riyal", "Shekel", "Riyal", "Rupiah"],
+    "correct_answer": "Riyal",
+    "solution": "The national currency of Saudi Arabia is the Riyal (SAR)."
+    },
+    {
+    "question": "What is the national currency of Bhutan?",
+    "options": ["Rupee", "Dinar", "Dirham", "Ngultrum"],
+    "correct_answer": "Ngultrum",
+    "solution": "The national currency of Bhutan is the Ngultrum (BTN)."
+    },
+    {
+    "question": "What is the national currency of Brazil?",
+    "options": ["Real", "Franc", "Pound", "Yen"],
+    "correct_answer": "Real",
+    "solution": "The national currency of Brazil is the Real (BRL)."
+    },
+    {
+    "question": "What is the national currency of Cambodia?",
+    "options": ["Peso", "Rupee", "Riel", "Taka"],
+    "correct_answer": "Riel",
+    "solution": "The national currency of Cambodia is the Riel (KHR)."
+    },
+    {
+    "question": "What is the national currency of Indonesia?",
+    "options": ["Paise", "Peso", "Rupiah", "Somoni"],
+    "correct_answer": "Rupiah",
+    "solution": "The national currency of Indonesia is the Rupiah (IDR)."
+    },
+    {
+    "question": "What is the national currency of Japan?",
+    "options": ["Yen", "Baht", "Manat", "Wohn"],
+    "correct_answer": "Yen",
+    "solution": "The national currency of Japan is the Yen (JPY)."
+    },
+    {
+    "question": "What is the national currency of Malaysia?",
+    "options": ["Lira", "Dollar", "Kwacha", "Ringgit"],
+    "correct_answer": "Ringgit",
+    "solution": "The national currency of Malaysia is the Ringgit (MYR)."
+    },
+    {
+    "question": "What is the national currency of Maldives?",
+    "options": ["Rufiyaa", "Peso", "Rupiah", "Kip"],
+    "correct_answer": "Rufiyaa",
+    "solution": "The national currency of Maldives is the Rufiyaa (MVR)."
+    },
+    {
+    "question": "What is the national currency of Myanmar?",
+    "options": ["Kyat", "Peso", "Rupee", "Riel"],
+    "correct_answer": "Kyat",
+    "solution": "The national currency of Myanmar is the Kyat (MMK)."
+    },
+    {
+    "question": "What is the national currency of Poland?",
+    "options": ["Zloty", "Leu", "Forint", "Kuna"],
+    "correct_answer": "Zloty",
+    "solution": "The national currency of Poland is the Zloty (PLN)."
+    },
+    {
+    "question": "What is the national currency of Hungary?",
+    "options": ["Forint", "Koruna", "Kuna", "Leu"],
+    "correct_answer": "Forint",
+    "solution": "The national currency of Hungary is the Forint (HUF)."
+    },
+    {
+    "question": "What is the national currency of Sweden?",
+    "options": ["Krona", "Kuna", "Forint", "Lira"],
+    "correct_answer": "Krona",
+    "solution": "The national currency of Sweden is the Krona (SEK)."
+    },
+    {
+    "question": "What is the national currency of the European Union?",
+    "options": ["Dollar", "Pound", "Yen", "Euro"],
+    "correct_answer": "Euro",
+    "solution": "The national currency of the European Union is the Euro (EUR)."
+    },
+    {
+    "question": "What is the national currency of Switzerland?",
+    "options": ["Franc", "Forint", "Kuna", "Lira"],
+    "correct_answer": "Franc",
+    "solution": "The national currency of Switzerland is the Franc (CHF)."
+    },
+    {
+    "question": "What is the national currency of Croatia?",
+    "options": ["Kuna", "Forint", "Koruna", "Leu"],
+    "correct_answer": "Kuna",
+    "solution": "The national currency of Croatia is the Kuna (HRK)."
+    },
+    {
+    "question": "What is the national currency of Israel?",
+    "options": ["New Shekel", "Lira", "Forint", "Koruna"],
+    "correct_answer": "New Shekel",
+    "solution": "The national currency of Israel is the New Shekel (ILS)."
+    },
+    {
+    "question": "What is the national currency of India?",
+    "options": ["Rupee", "Taka", "Dirham", "Riel"],
+    "correct_answer": "Rupee",
+    "solution": "The national currency of India is the Rupee (INR)."
+    },
+    {
+    "question": "What is the national currency of South Korea?",
+    "options": ["Won", "Yen", "Yuan", "Dollar"],
+    "correct_answer": "Won",
+    "solution": "The national currency of South Korea is the Won (KRW)."
+    }
+    ]

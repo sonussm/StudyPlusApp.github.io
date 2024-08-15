@@ -1,0 +1,183 @@
+
+[
+  {
+    "question": "Which vitamin deficiency causes night blindness?",
+    "options": ["Vitamin A", "Vitamin B1", "Vitamin C", "Vitamin D"],
+    "correct_answer": "Vitamin A",
+    "solution": "Vitamin A deficiency is the leading cause of preventable blindness in children and can also cause night blindness in adults. Vitamin A is essential for maintaining the cornea, the clear front part of the eye[1]."
+  },
+  {
+    "question": "Which mineral is essential for the proper functioning of the thyroid gland?",
+    "options": ["Iodine", "Iron", "Zinc", "Calcium"],
+    "correct_answer": "Iodine",
+    "solution": "Iodine is an essential mineral required for the proper functioning of the thyroid gland. Iodine deficiency can lead to hypothyroidism, goiter, and impaired mental function[2]."
+  },
+  {
+    "question": "What is the main cause of scurvy?",
+    "options": ["Vitamin A deficiency", "Vitamin B12 deficiency", "Vitamin C deficiency", "Vitamin D deficiency"],
+    "correct_answer": "Vitamin C deficiency",
+    "solution": "Scurvy is caused by a severe deficiency of vitamin C. Symptoms include bleeding gums, loose teeth, anemia, and skin hemorrhages. Vitamin C is essential for the production of collagen, a protein that provides structure to skin, bones, and blood vessels[1]."
+  },
+  {
+    "question": "Which vitamin is essential for the proper clotting of blood?",
+    "options": ["Vitamin K", "Vitamin E", "Vitamin B6", "Vitamin C"],
+    "correct_answer": "Vitamin K",
+    "solution": "Vitamin K is essential for the proper clotting of blood. It is produced by bacteria in the human intestine and is also found in green leafy vegetables, vegetable oils, and dairy products[2]."
+  },
+  {
+    "question": "Which mineral deficiency can cause anemia?",
+    "options": ["Iron", "Calcium", "Zinc", "Copper"],
+    "correct_answer": "Iron",
+    "solution": "Iron deficiency is the most common cause of anemia worldwide. Iron is necessary for the production of hemoglobin, which carries oxygen in the blood. Symptoms of iron deficiency anemia include fatigue, weakness, pale skin, and shortness of breath[1][3]."
+  },
+  {
+    "question": "What is the main cause of rickets?",
+    "options": ["Vitamin A deficiency", "Vitamin B1 deficiency", "Vitamin C deficiency", "Vitamin D deficiency"],
+    "correct_answer": "Vitamin D deficiency",
+    "solution": "Rickets is a condition caused by a deficiency of vitamin D, which is essential for the absorption of calcium and phosphorus. Symptoms include soft bones, skeletal deformities, and delayed growth[1][2]."
+  },
+  {
+    "question": "Which vitamin is essential for the proper functioning of the nervous system?",
+    "options": ["Vitamin B1", "Vitamin B6", "Vitamin B12", "Vitamin E"],
+    "correct_answer": "Vitamin B12",
+    "solution": "Vitamin B12 is essential for the proper functioning of the nervous system. It is necessary for the production of myelin, which insulates nerve fibers. Vitamin B12 deficiency can cause neurological symptoms such as numbness, tingling, and memory problems[1][3]."
+  },
+  {
+    "question": "What is the main cause of beriberi?",
+    "options": ["Vitamin A deficiency", "Vitamin B1 deficiency", "Vitamin C deficiency", "Vitamin D deficiency"],
+    "correct_answer": "Vitamin B1 deficiency",
+    "solution": "Beriberi is caused by a deficiency of vitamin B1, also known as thiamine. It can lead to neurological and cardiovascular problems. Symptoms include fatigue, muscle weakness, and heart problems[1][3]."
+  },
+  {
+    "question": "Which mineral is essential for the proper functioning of the immune system?",
+    "options": ["Iron", "Zinc", "Copper", "Selenium"],
+    "correct_answer": "Zinc",
+    "solution": "Zinc is essential for the proper functioning of the immune system. It is necessary for the development and function of immune cells. Zinc deficiency can increase the risk of infections[2]."
+  },
+  {
+    "question": "What is the main cause of pellagra?",
+    "options": ["Vitamin A deficiency", "Vitamin B3 deficiency", "Vitamin C deficiency", "Vitamin D deficiency"],
+    "correct_answer": "Vitamin B3 deficiency",
+    "solution": "Pellagra is caused by a deficiency of vitamin B3, also known as niacin. Symptoms include skin rashes, diarrhea, dementia, and eventually death if left untreated. Niacin is essential for the conversion of food into energy[1][3]."
+  },
+  {
+    "question": "Which mineral is essential for the proper functioning of the thyroid gland?",
+    "options": ["Iodine", "Iron", "Zinc", "Selenium"],
+    "correct_answer": "Iodine",
+    "solution": "Iodine is an essential mineral required for the proper functioning of the thyroid gland. It is necessary for the production of thyroid hormones, which regulate metabolism and growth. Iodine deficiency can lead to hypothyroidism and goiter[2]."
+  },
+  {
+    "question": "What is the main cause of megaloblastic anemia?",
+    "options": ["Vitamin B6 deficiency", "Vitamin B9 deficiency", "Vitamin B12 deficiency", "Vitamin E deficiency"],
+    "correct_answer": "Vitamin B12 deficiency",
+    "solution": "Megaloblastic anemia is caused by a deficiency of vitamin B12. It is characterized by the production of large, immature red blood cells. Symptoms include fatigue, weakness, pale skin, and shortness of breath[1][3]."
+  },
+  {
+    "question": "Which vitamin is essential for the proper functioning of the eyes?",
+    "options": ["Vitamin A", "Vitamin B2", "Vitamin C", "Vitamin E"],
+    "correct_answer": "Vitamin A",
+    "solution": "Vitamin A is essential for the proper functioning of the eyes. It is necessary for the production of rhodopsin, a light-sensitive pigment in the retina. Vitamin A deficiency can cause night blindness and dry eyes[1][2]."
+  },
+  {
+    "question": "What is the main cause of osteoporosis?",
+    "options": ["Calcium deficiency", "Vitamin D deficiency", "Vitamin K deficiency", "Magnesium deficiency"],
+    "correct_answer": "Calcium and Vitamin D deficiency",
+    "solution": "Osteoporosis is caused by a combination of calcium and vitamin D deficiency. Calcium is necessary for the maintenance of bone density, while vitamin D is essential for the absorption of calcium. Both nutrients are necessary for the prevention of osteoporosis[2][4]."
+  },
+  {
+    "question": "Which mineral is essential for the proper functioning of the heart?",
+    "options": ["Potassium", "Magnesium", "Calcium", "Sodium"],
+    "correct_answer": "Potassium",
+    "solution": "Potassium is an essential mineral required for the proper functioning of the heart. It is necessary for the regulation of heart rate and blood pressure. Potassium deficiency can lead to irregular heartbeats and muscle weakness[2]."
+  },
+  {
+    "question": "What is the main cause of anemia in pregnant women?",
+    "options": ["Iron deficiency", "Folate deficiency", "Vitamin B12 deficiency", "Vitamin C deficiency"],
+    "correct_answer": "Iron deficiency",
+    "solution": "Iron deficiency is the most common cause of anemia in pregnant women. The increased demand for iron during pregnancy can lead to iron deficiency, which can cause fatigue, weakness, and impaired fetal development[1][3]."
+  },
+  {
+    "question": "Which vitamin is essential for the proper functioning of the nervous system?",
+    "options": ["Vitamin B1", "Vitamin B6", "Vitamin B12", "Vitamin E"],
+    "correct_answer": "Vitamin B12",
+    "solution": "Vitamin B12 is essential for the proper functioning of the nervous system. It is necessary for the production of myelin, which insulates nerve fibers. Vitamin B12 deficiency can cause neurological symptoms such as numbness, tingling, and memory problems[1][3]."
+  },
+  {
+    "question": "What is the main cause of goiter?",
+    "options": ["Iodine deficiency", "Iron deficiency", "Zinc deficiency", "Selenium deficiency"],
+    "correct_answer": "Iodine deficiency",
+    "solution": "Goiter is caused by a deficiency of iodine. Iodine is necessary for the production of thyroid hormones, which regulate metabolism and growth. Iodine deficiency can lead to an enlargement of the thyroid gland, known as a goiter[2]."
+  },
+  {
+    "question": "Which vitamin is essential for the proper functioning of the immune system?",
+    "options": ["Vitamin A", "Vitamin C", "Vitamin E", "Vitamin K"],
+    "correct_answer": "Vitamin C",
+    "solution": "Vitamin C is essential for the proper functioning of the immune system. It is necessary for the development and function of immune cells. Vitamin C deficiency can increase the risk of infections[1][2]."
+  },
+  {
+    "question": "What is the main cause of kwashiorkor?",
+    "options": ["Protein deficiency", "Carbohydrate deficiency", "Fat deficiency", "Vitamin deficiency"],
+    "correct_answer": "Protein deficiency",
+    "solution": "Kwashiorkor is caused by a deficiency of protein in the diet. It is most common in developing countries where children are weaned from breast milk to a diet high in carbohydrates but low in protein. Symptoms include swelling, hair discoloration, and liver enlargement[2][4]."
+  },
+  {
+    "question": "Which mineral is essential for the proper functioning of the thyroid gland?",
+    "options": ["Iodine", "Iron", "Zinc", "Selenium"],
+    "correct_answer": "Iodine",
+    "solution": "Iodine is an essential mineral required for the proper functioning of the thyroid gland. It is necessary for the production of thyroid hormones, which regulate metabolism and growth. Iodine deficiency can lead to hypothyroidism and goiter[2]."
+  },
+  {
+    "question": "What is the main cause of marasmus?",
+    "options": ["Protein deficiency", "Carbohydrate deficiency", "Fat deficiency", "Vitamin deficiency"],
+    "correct_answer": "Protein and calorie deficiency",
+    "solution": "Marasmus is caused by a deficiency of both protein and calories in the diet. It is most common in developing countries where children are weaned from breast milk to a diet low in both protein and calories. Symptoms include severe wasting, muscle loss, and stunted growth[2][4]."
+  },
+  {
+    "question": "Which vitamin is essential for the proper functioning of the skin?",
+    "options": ["Vitamin A", "Vitamin B2", "Vitamin C", "Vitamin E"],
+    "correct_answer": "Vitamin A",
+    "solution": "Vitamin A is essential for the proper functioning of the skin. It is necessary for the maintenance of healthy skin cells and the production of sebum, which keeps the skin moisturized. Vitamin A deficiency can cause dry, flaky skin and increased susceptibility to skin infections[1][2]."
+  },
+  {
+    "question": "What is the main cause of dental caries?",
+    "options": ["Vitamin A deficiency", "Vitamin B deficiency", "Vitamin C deficiency", "Vitamin D deficiency"],
+    "correct_answer": "Vitamin D deficiency",
+    "solution": "Dental caries, or cavities, are caused by a combination of factors, including bacteria, frequent snacking, sipping sugary drinks, and not cleaning teeth well. However, vitamin D deficiency can also contribute to the development of dental caries by weakening tooth enamel and increasing the risk of gum disease[2][4]."
+  },
+  {
+    "question": "Which mineral is essential for the proper functioning of the nervous system?",
+    "options": ["Calcium", "Magnesium", "Zinc", "Copper"],
+    "correct_answer": "Magnesium",
+    "solution": "Magnesium is an essential mineral required for the proper functioning of the nervous system. It is necessary for the transmission of nerve impulses and the regulation of muscle function. Magnesium deficiency can cause muscle cramps, seizures, and mental confusion[2]."
+  },
+  {
+    "question": "What is the main cause of iron deficiency anemia?",
+    "options": ["Blood loss", "Insufficient dietary intake", "Malabsorption", "Increased demand"],
+    "correct_answer": "Blood loss",
+    "solution": "The most common cause of iron deficiency anemia is blood loss, either through heavy menstrual periods, gastrointestinal bleeding, or other sources of chronic blood loss. Insufficient dietary intake of iron-rich foods, malabsorption of iron, and increased demand for iron during pregnancy or growth spurts can also contribute to iron deficiency anemia[1][3]."
+  },
+  {
+    "question": "Which vitamin is essential for the proper functioning of the heart?",
+    "options": ["Vitamin B1", "Vitamin B6", "Vitamin B12", "Vitamin E"],
+    "correct_answer": "Vitamin B1",
+    "solution": "Vitamin B1, also known as thiamine, is essential for the proper functioning of the heart. It is necessary for the conversion of carbohydrates into energy and the regulation of heart function. Vitamin B1 deficiency can lead to a condition called beriberi, which can cause heart failure and other cardiovascular problems[1][3]."
+  },
+  {
+    "question": "What is the main cause of lactose intolerance?",
+    "options": ["Insufficient lactase production", "Milk allergy", "Digestive disorder", "Genetic mutation"],
+    "correct_answer": "Insufficient lactase production",
+    "solution": "Lactose intolerance is caused by the inability to digest lactose, the sugar found in milk and dairy products. This is due to insufficient production of the enzyme lactase, which is responsible for breaking down lactose. Lactose intolerance can cause symptoms such as bloating, gas, diarrhea, and abdominal pain after consuming dairy products[2][4]."
+  },
+  {
+    "question": "Which mineral is essential for the proper functioning of the immune system?",
+    "options": ["Iron", "Zinc", "Copper", "Selenium"],
+    "correct_answer": "Zinc",
+    "solution": "Zinc is an essential mineral required for the proper functioning of the immune system. It is necessary for the development and function of immune cells, as well as the production of antibodies. Zinc deficiency can increase the risk of infections and slow down the healing process[2]."
+  },
+  {
+    "question": "What is the main cause of scurvy?",
+    "options": ["Vitamin A deficiency", "Vitamin B12 deficiency", "Vitamin C deficiency", "Vitamin D deficiency"],
+    "correct_answer": "Vitamin C deficiency",
+    "solution": "Scurvy is caused by a severe deficiency of vitamin C. Vitamin C is essential for the production of collagen, a protein that provides structure to skin, bones, and blood vessels. Symptoms of scurvy include bleeding gums, loose teeth, anemia, and skin hemorrhages[1][3]."
+  }
+]

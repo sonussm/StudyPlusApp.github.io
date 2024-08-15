@@ -1,0 +1,165 @@
+
+[
+  {
+    "question": "Who was the founder of the Bhakti movement in India?",
+    "options": ["Ramanuja", "Shankaracharya", "Namdev", "Ramananda"],
+    "correct_answer": "Ramananda",
+    "solution": "Ramananda, a 14th century saint, is considered the pioneer of the Bhakti movement in northern India. He preached devotion to God and rejected the caste system, allowing people from all castes to become his disciples[1]."
+  },
+  {
+    "question": "Which Mughal emperor established the Ibadat Khana for religious debates?",
+    "options": ["Babur", "Humayun", "Akbar", "Jahangir"],
+    "correct_answer": "Akbar",
+    "solution": "Mughal Emperor Akbar established the Ibadat Khana at Fatehpur Sikri in the 1570s for conducting religious debates and discussions among theologians and professors of different religions, including Ulama, Brahmanas, Jesuit priests, and Zoroastrians[1]."
+  },
+  {
+    "question": "Which Hindu goddess is associated with speech, wisdom and learning?",
+    "options": ["Lakshmi", "Parvati", "Saraswati", "Durga"],
+    "correct_answer": "Saraswati",
+    "solution": "Saraswati is the Hindu goddess of speech, wisdom and learning. She is often depicted as a beautiful woman dressed in pure white, seated on a white lotus, and playing a veena (a musical instrument)[3]."
+  },
+  {
+    "question": "Who was the first Sikh Guru?",
+    "options": ["Guru Angad Dev", "Guru Nanak Dev", "Guru Amar Das", "Guru Ram Das"],
+    "correct_answer": "Guru Nanak Dev",
+    "solution": "Guru Nanak Dev was the first of the ten Sikh Gurus. He was born in 1469 in Talwandi (now Nankana Sahib, Pakistan) and is known for his teachings of equality, social justice, and devotion to God[3]."
+  },
+  {
+    "question": "Which holy book is used by the Parsis?",
+    "options": ["Vedas", "Tripitaka", "Zend Avesta", "Granth Sahib"],
+    "correct_answer": "Zend Avesta",
+    "solution": "The Zend Avesta is the holy book of the Parsis, who follow the Zoroastrian religion. It contains the teachings of the prophet Zoroaster and is written in the Avestan language[3]."
+  },
+  {
+    "question": "In which century was Lord Buddha born?",
+    "options": ["5th century BCE", "6th century BCE", "7th century BCE", "8th century BCE"],
+    "correct_answer": "6th century BCE",
+    "solution": "Lord Buddha, the founder of Buddhism, was born in the 6th century BCE in Lumbini, Nepal[3]."
+  },
+  {
+    "question": "Which temple is known for its intricate carvings and is dedicated to Lord Shiva?",
+    "options": ["Khajuraho Temples", "Konark Sun Temple", "Brihadeeswara Temple", "Dilwara Temples"],
+    "correct_answer": "Dilwara Temples",
+    "solution": "The Dilwara Temples, located in Mount Abu, Rajasthan, are known for their stunning marble carvings and are dedicated to Lord Shiva and the Jain Tirthankaras[3]."
+  },
+  {
+    "question": "Which is the largest Buddhist monastery in India?",
+    "options": ["Nalanda", "Vikramshila", "Tawang", "Thiksey"],
+    "correct_answer": "Tawang",
+    "solution": "The Tawang Monastery, located in Arunachal Pradesh, is the largest Buddhist monastery in India and the second-largest in Asia. It was founded in the 17th century by the 5th Dalai Lama[3]."
+  },
+  {
+    "question": "Which Sikh Guru is known as the 'Martyr Guru'?",
+    "options": ["Guru Arjan Dev", "Guru Tegh Bahadur", "Guru Gobind Singh", "Guru Har Krishan"],
+    "correct_answer": "Guru Tegh Bahadur",
+    "solution": "Guru Tegh Bahadur, the ninth Sikh Guru, is known as the 'Martyr Guru' for sacrificing his life to protect the religious freedom of Hindus against forced conversions by the Mughal emperor Aurangzeb[3]."
+  },
+  {
+    "question": "Which Hindu epic is known as the 'Song of the Lord'?",
+    "options": ["Ramayana", "Mahabharata", "Bhagavad Gita", "Upanishads"],
+    "correct_answer": "Bhagavad Gita",
+    "solution": "The Bhagavad Gita, a part of the epic Mahabharata, is known as the 'Song of the Lord'. It is a dialogue between the warrior Arjuna and Lord Krishna, and is considered a sacred text in Hinduism, containing teachings on duty, action, and spiritual wisdom[4]."
+  },
+  {
+    "question": "Which Hindu god is associated with the concept of 'Nataraja'?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"],
+    "correct_answer": "Shiva",
+    "solution": "Lord Shiva is associated with the concept of 'Nataraja', which depicts him as the cosmic dancer performing the Tandava, a dance that symbolizes the cycle of creation, preservation, and destruction. The most famous Nataraja sculpture is found in the Chidambaram temple in Tamil Nadu[2]."
+  },
+  {
+    "question": "Which Sikh Guru established the Golden Temple in Amritsar?",
+    "options": ["Guru Nanak Dev", "Guru Angad Dev", "Guru Ram Das", "Guru Arjan Dev"],
+    "correct_answer": "Guru Ram Das",
+    "solution": "Guru Ram Das, the fourth Sikh Guru, established the city of Amritsar and laid the foundation of the Golden Temple, also known as Sri Harmandir Sahib, in 1577. It is the most sacred site in Sikhism[3]."
+  },
+  {
+    "question": "Which Hindu goddess is associated with wealth and prosperity?",
+    "options": ["Saraswati", "Parvati", "Lakshmi", "Durga"],
+    "correct_answer": "Lakshmi",
+    "solution": "Lakshmi, the Hindu goddess of wealth, prosperity, fortune, and the embodiment of beauty, is one of the most popular and widely worshipped Hindu deities. She is often depicted as a beautiful woman with four arms, sitting or standing on a lotus flower[4]."
+  },
+  {
+    "question": "Which Sikh Guru compiled the Guru Granth Sahib?",
+    "options": ["Guru Nanak Dev", "Guru Angad Dev", "Guru Arjan Dev", "Guru Gobind Singh"],
+    "correct_answer": "Guru Arjan Dev",
+    "solution": "Guru Arjan Dev, the fifth Sikh Guru, compiled the Guru Granth Sahib, the holy scripture of Sikhism, in 1604. It contains the writings of the first five Sikh Gurus, as well as those of other saints and mystics from different faiths[3]."
+  },
+  {
+    "question": "Which Hindu god is known as the 'Remover of Obstacles'?",
+    "options": ["Shiva", "Vishnu", "Ganesha", "Hanuman"],
+    "correct_answer": "Ganesha",
+    "solution": "Ganesha, the elephant-headed god, is known as the 'Remover of Obstacles' in Hinduism. He is invoked at the beginning of rituals and ceremonies to ensure their success. Ganesha is also the patron of arts, sciences, and wisdom[4]."
+  },
+  {
+    "question": "Which Buddhist text is associated with the Theravada tradition?",
+    "options": ["Sutras", "Tantras", "Tripitaka", "Mahayana Sutras"],
+    "correct_answer": "Tripitaka",
+    "solution": "The Tripitaka, also known as the Pali Canon, is the primary Buddhist text associated with the Theravada tradition. It consists of the Buddha's teachings, monastic discipline, and philosophical treatises, and is written in the Pali language[4]."
+  },
+  {
+    "question": "Which Hindu temple is known for its intricate stone carvings depicting various aspects of life?",
+    "options": ["Konark Sun Temple", "Khajuraho Temples", "Brihadeeswara Temple", "Meenakshi Temple"],
+    "correct_answer": "Khajuraho Temples",
+    "solution": "The Khajuraho Temples, located in Madhya Pradesh, are known for their stunning stone carvings depicting various aspects of life, including erotic scenes. These temples were built between 950 and 1050 CE by the Chandela dynasty and are a UNESCO World Heritage Site[4]."
+  },
+  {
+    "question": "Which Hindu god is associated with the concept of 'Avatara'?",
+    "options": ["Shiva", "Brahma", "Vishnu", "Ganesha"],
+    "correct_answer": "Vishnu",
+    "solution": "Lord Vishnu is associated with the concept of 'Avatara', which refers to his incarnations on Earth to restore dharma (righteousness) and protect the world from evil. Some of the most well-known Avatars of Vishnu include Rama, Krishna, Buddha, and Kalki[4]."
+  },
+  {
+    "question": "Which Sikh Guru established the Akal Takht?",
+    "options": ["Guru Nanak Dev", "Guru Hargobind", "Guru Tegh Bahadur", "Guru Gobind Singh"],
+    "correct_answer": "Guru Hargobind",
+    "solution": "Guru Hargobind, the sixth Sikh Guru, established the Akal Takht in 1609 at the Golden Temple complex in Amritsar. It serves as the supreme decision-making body of Sikhism and is considered the throne of the spiritual and temporal authority of the Sikhs[3]."
+  },
+  {
+    "question": "Which Hindu text is known as the 'Veda of the Vedas'?",
+    "options": ["Upanishads", "Bhagavad Gita", "Brahma Sutras", "Vedanta Sutras"],
+    "correct_answer": "Upanishads",
+    "solution": "The Upanishads are considered the 'Veda of the Vedas' in Hinduism. They are philosophical texts that explore the nature of reality, the self, and the relationship between the individual and the divine. The Upanishads are part of the Vedanta, the concluding portion of the Vedas[4]."
+  },
+  {
+    "question": "Which Buddhist stupa is known for its intricate stone carvings?",
+    "options": ["Sanchi Stupa", "Amaravati Stupa", "Bharhut Stupa", "Borobudur"],
+    "correct_answer": "Sanchi Stupa",
+    "solution": "The Sanchi Stupa, located in Madhya Pradesh, is known for its intricate stone carvings depicting scenes from the life of Buddha and Buddhist mythology. It is one of the oldest stone structures in India and a UNESCO World Heritage Site[4]."
+  },
+  {
+    "question": "Which Hindu god is associated with the concept of 'Trimurti'?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"],
+    "correct_answer": "Brahma",
+    "solution": "In Hinduism, the concept of 'Trimurti' refers to the three principal deities: Brahma, the creator; Vishnu, the preserver; and Shiva, the destroyer. Together, they represent the cycle of creation, preservation, and dissolution in the universe[4]."
+  },
+  {
+    "question": "Which Sikh Guru is known as the 'Lion of the Punjab'?",
+    "options": ["Guru Hargobind", "Guru Tegh Bahadur", "Guru Gobind Singh", "Guru Har Krishan"],
+    "correct_answer": "Guru Hargobind",
+    "solution": "Guru Hargobind, the sixth Sikh Guru, is known as the 'Lion of the Punjab' for his military prowess and leadership. He established the concept of the 'Miri-Piri' doctrine, which combined spiritual and temporal authority, and encouraged Sikhs to be both saints and soldiers[3]."
+  },
+  {
+    "question": "Which Hindu text is known as the 'Veda of the Vedas'?",
+    "options": ["Upanishads", "Bhagavad Gita", "Brahma Sutras", "Vedanta Sutras"],
+    "correct_answer": "Upanishads",
+    "solution": "The Upanishads are considered the 'Veda of the Vedas' in Hinduism. They are philosophical texts that explore the nature of reality, the self, and the relationship between the individual and the divine. The Upanishads are part of the Vedanta, the concluding portion of the Vedas[4]."
+  },
+  {
+    "question": "Which Buddhist stupa is known for its intricate stone carvings?",
+    "options": ["Sanchi Stupa", "Amaravati Stupa", "Bharhut Stupa", "Borobudur"],
+    "correct_answer": "Sanchi Stupa",
+    "solution": "The Sanchi Stupa, located in Madhya Pradesh, is known for its intricate stone carvings depicting scenes from the life of Buddha and Buddhist mythology. It is one of the oldest stone structures in India and a UNESCO World Heritage Site[4]."
+  },
+  {
+    "question": "Which Hindu god is associated with the concept of 'Trimurti'?",
+    "options": ["Shiva", "Vishnu", "Brahma", "Ganesha"],
+    "correct_answer": "Brahma",
+    "solution": "In Hinduism, the concept of 'Trimurti' refers to the three principal deities: Brahma, the creator; Vishnu, the preserver; and Shiva, the destroyer. Together, they represent the cycle of creation, preservation, and dissolution in the universe[4]."
+  },
+  {
+    "question": "Which Sikh Guru is known as the 'Lion of the Punjab'?",
+    "options": ["Guru Hargobind", "Guru Tegh Bahadur", "Guru Gobind Singh", "Guru Har Krishan"],
+    "correct_answer": "Guru Hargobind",
+    "solution": "Guru Hargobind, the sixth Sikh Guru, is known as the 'Lion of the Punjab' for his military prowess and leadership. He established the concept of the 'Miri-Piri' doctrine, which combined spiritual and temporal authority, and encouraged Sikhs to be both saints and soldiers[3]."
+  }
+]

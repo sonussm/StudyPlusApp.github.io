@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Who is known as the 'Father of the Nation' in India?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "B. R. Ambedkar", "Subhas Chandra Bose"],
+      "correct_answer": "Mahatma Gandhi",
+      "solution": "Mahatma Gandhi is referred to as the 'Father of the Nation' in India for his pivotal role in the Indian independence movement."
+    },
+    {
+      "question": "Who was the first Prime Minister of India?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Lal Bahadur Shastri", "Indira Gandhi"],
+      "correct_answer": "Jawaharlal Nehru",
+      "solution": "Jawaharlal Nehru served as the first Prime Minister of India from 1947 until his death in 1964."
+    },
+    {
+      "question": "Who is the famous cricketer known as the 'Master Blaster'?",
+      "options": ["Sachin Tendulkar", "Rahul Dravid", "Sourav Ganguly", "MS Dhoni"],
+      "correct_answer": "Sachin Tendulkar",
+      "solution": "Sachin Tendulkar is known as the 'Master Blaster' for his exceptional batting skills and numerous records in cricket."
+    },
+    {
+      "question": "Who is India’s first woman Prime Minister?",
+      "options": ["Indira Gandhi", "Sonia Gandhi", "Pratibha Patil", "Sarojini Naidu"],
+      "correct_answer": "Indira Gandhi",
+      "solution": "Indira Gandhi was the first and, to date, the only female Prime Minister of India, serving from 1966 to 1977 and then from 1980 until her assassination in 1984."
+    },
+    {
+      "question": "Who is known as the 'Missile Man of India'?",
+      "options": ["A. P. J. Abdul Kalam", "Vikram Sarabhai", "Homi Bhabha", "Dr. Vikram Sarabhai"],
+      "correct_answer": "A. P. J. Abdul Kalam",
+      "solution": "A. P. J. Abdul Kalam earned the title 'Missile Man of India' for his significant contributions to India's missile development programs."
+    },
+    {
+      "question": "Who is the founder of modern nursing in India?",
+      "options": ["Florence Nightingale", "Kasturba Gandhi", "Sarojini Naidu", "Anandi Gopal Joshi"],
+      "correct_answer": "Florence Nightingale",
+      "solution": "Florence Nightingale is often credited with founding modern nursing, though her influence extended globally, including in India."
+    },
+    {
+      "question": "Who is the renowned playback singer known as the 'Nightingale of India'?",
+      "options": ["Lata Mangeshkar", "Asha Bhosle", "Kishore Kumar", "Mukesh"],
+      "correct_answer": "Lata Mangeshkar",
+      "solution": "Lata Mangeshkar, known as the 'Nightingale of India', was a legendary playback singer with a career spanning over seven decades."
+    },
+    {
+      "question": "Who is India’s first woman astronaut?",
+      "options": ["Kalpana Chawla", "Sunita Williams", "Rakesh Sharma", "Sally Ride"],
+      "correct_answer": "Kalpana Chawla",
+      "solution": "Kalpana Chawla was the first woman of Indian origin to go to space, flying on the Space Shuttle Columbia in 1997."
+    },
+    {
+      "question": "Who is the famous Bollywood actor known as the 'King of Romance'?",
+      "options": ["Aamir Khan", "Shah Rukh Khan", "Salman Khan", "Hrithik Roshan"],
+      "correct_answer": "Shah Rukh Khan",
+      "solution": "Shah Rukh Khan is often referred to as the 'King of Romance' for his roles in numerous romantic films in Bollywood."
+    },
+    {
+      "question": "Who is the 'Flying Sikh' known for his achievements in athletics?",
+      "options": ["Milkha Singh", "P. T. Usha", "Bhaichung Bhutia", "Abhinav Bindra"],
+      "correct_answer": "Milkha Singh",
+      "solution": "Milkha Singh, known as the 'Flying Sikh', was an Indian track and field athlete who gained fame for his speed and achievements."
+    },
+    {
+      "question": "Who is the famous tabla maestro?",
+      "options": ["Zakir Hussain", "Ravi Shankar", "Hariprasad Chaurasia", "Amjad Ali Khan"],
+      "correct_answer": "Zakir Hussain",
+      "solution": "Zakir Hussain is a world-renowned tabla player known for his contributions to Indian classical music and fusion."
+    },
+    {
+      "question": "Who is the famous Indian musician and composer of 'Jai Ho' from Slumdog Millionaire?",
+      "options": ["A. R. Rahman", "Ilaiyaraaja", "P. Rahul", "Lata Mangeshkar"],
+      "correct_answer": "A. R. Rahman",
+      "solution": "A. R. Rahman composed 'Jai Ho', which won an Academy Award for Best Original Song."
+    },
+    {
+      "question": "Who is the renowned classical dancer often referred to as 'Nritya Samragini'?",
+      "options": ["Rukmini Devi Arundale", "Madhuri Dixit", "Shobana", "Kuchipudi"],
+      "correct_answer": "Rukmini Devi Arundale",
+      "solution": "Rukmini Devi Arundale was a prominent Indian classical dancer and choreographer who played a key role in reviving Bharatanatyam."
+    },
+    {
+      "question": "Who is the founder of the Reliance Group and a prominent business tycoon?",
+      "options": ["Dhirubhai Ambani", "Mukesh Ambani", "Anil Ambani", "Ratan Tata"],
+      "correct_answer": "Dhirubhai Ambani",
+      "solution": "Dhirubhai Ambani founded the Reliance Group, which has become one of India's largest conglomerates."
+    },
+    {
+      "question": "Who is the famous Indian cricket captain known for his aggressive leadership style?",
+      "options": ["Kapil Dev", "Sourav Ganguly", "MS Dhoni", "Virat Kohli"],
+      "correct_answer": "Sourav Ganguly",
+      "solution": "Sourav Ganguly is known for his aggressive captaincy and for transforming the Indian cricket team into a competitive unit."
+    },
+    {
+      "question": "Who is the Nobel laureate known for his work in economics and the eradication of poverty?",
+      "options": ["Muhammad Yunus", "Amartya Sen", "Paul Krugman", "Joseph Stiglitz"],
+      "correct_answer": "Muhammad Yunus",
+      "solution": "Muhammad Yunus is a Nobel laureate recognized for his pioneering work in microfinance and social business."
+    },
+    {
+      "question": "Who is the famous Indian politician and leader of the Bharatiya Janata Party (BJP)?",
+      "options": ["Atal Bihari Vajpayee", "Narendra Modi", "Rajiv Gandhi", "Amit Shah"],
+      "correct_answer": "Narendra Modi",
+      "solution": "Narendra Modi is the current Prime Minister of India and a prominent leader of the Bharatiya Janata Party."
+    },
+    {
+      "question": "Who is the prominent Indian author known for novels like 'The Namesake'?",
+      "options": ["Jhumpa Lahiri", "Arundhati Roy", "Salman Rushdie", "Kiran Desai"],
+      "correct_answer": "Jhumpa Lahiri",
+      "solution": "Jhumpa Lahiri is an acclaimed author known for her works exploring the Indian-American experience."
+    },
+    {
+      "question": "Who is the famous Indian politician known for his role in the Indian independence movement and as a leader of the Indian National Congress?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Sardar Vallabhbhai Patel", "B. R. Ambedkar"],
+      "correct_answer": "Mahatma Gandhi",
+      "solution": "Mahatma Gandhi was a key figure in the Indian independence movement, advocating for non-violent resistance."
+    },
+    {
+      "question": "Who was the first Indian woman to win the Booker Prize?",
+      "options": ["Arundhati Roy", "Kiran Desai", "Tishani Doshi", "Jhumpa Lahiri"],
+      "correct_answer": "Arundhati Roy",
+      "solution": "Arundhati Roy won the Booker Prize in 1997 for her novel 'The God of Small Things'."
+    },
+    {
+      "question": "Who is the first Indian woman to climb Mount Everest?",
+      "options": ["Bachendri Pal", "Premlata Agarwal", "Arunima Sinha", "Malavath Purna"],
+      "correct_answer": "Bachendri Pal",
+      "solution": "Bachendri Pal became the first Indian woman to reach the summit of Mount Everest on April 22, 1984."
+    },
+    {
+      "question": "Who is known as the 'Iron Man of India'?",
+      "options": ["Sardar Vallabhbhai Patel", "B. R. Ambedkar", "Jawaharlal Nehru", "Mahatma Gandhi"],
+      "correct_answer": "Sardar Vallabhbhai Patel",
+      "solution": "Sardar Vallabhbhai Patel is referred to as the 'Iron Man of India' for his role in unifying the country post-independence."
+    },
+    {
+      "question": "Who was the first Indian to win a gold medal at the Olympics?",
+      "options": ["Hima Das", "Abhinav Bindra", "K.D. Jadhav", "P. T. Usha"],
+      "correct_answer": "K.D. Jadhav",
+      "solution": "K.D. Jadhav won India's first individual Olympic gold medal in wrestling at the 1952 Helsinki Olympics."
+    },
+    {
+      "question": "Who is the first woman to receive the Bharat Ratna?",
+      "options": ["Indira Gandhi", "Mother Teresa", "Sarojini Naidu", "Lata Mangeshkar"],
+      "correct_answer": "Indira Gandhi",
+      "solution": "Indira Gandhi was the first woman to receive the Bharat Ratna, India's highest civilian award, in 1971."
+    },
+    {
+      "question": "Who is known as the 'Father of Indian Cinema'?",
+      "options": ["Dadasaheb Phalke", "Satyajit Ray", "Raj Kapoor", "Guru Dutt"],
+      "correct_answer": "Dadasaheb Phalke",
+      "solution": "Dadasaheb Phalke is regarded as the 'Father of Indian Cinema' for his pioneering work in the film industry."
+    },
+    {
+      "question": "Who was the first Indian woman to win an Olympic medal?",
+      "options": ["Karnam Malleswari", "Mary Kom", "Saina Nehwal", "P. T. Usha"],
+      "correct_answer": "Karnam Malleswari",
+      "solution": "Karnam Malleswari won a bronze medal in weightlifting at the 2000 Sydney Olympics, becoming the first Indian woman to win an Olympic medal."
+    },
+    {
+      "question": "Who is the first Indian to win the Nobel Prize?",
+      "options": ["Rabindranath Tagore", "C. V. Raman", "Amartya Sen", "Venkatraman Ramakrishnan"],
+      "correct_answer": "Rabindranath Tagore",
+      "solution": "Rabindranath Tagore was the first Indian to win the Nobel Prize in Literature in 1913."
+    },
+    {
+      "question": "Who is the first Indian woman to win the Miss World title?",
+      "options": ["Reita Faria", "Aishwarya Rai", "Priyanka Chopra", "Sushmita Sen"],
+      "correct_answer": "Reita Faria",
+      "solution": "Reita Faria was the first Indian woman to win the Miss World title in 1966."
+    },
+    {
+      "question": "Who is known as the 'God of Cricket'?",
+      "options": ["Sachin Tendulkar", "Kapil Dev", "Sunil Gavaskar", "Rahul Dravid"],
+      "correct_answer": "Sachin Tendulkar",
+      "solution": "Sachin Tendulkar is often referred to as the 'God of Cricket' due to his extraordinary achievements in the sport."
+    },
+    {
+      "question": "Who was the first Indian woman to become a pilot?",
+      "options": ["Sarla Thakral", "Kalpana Chawla", "Sunita Williams", "Indira Gandhi"],
+      "correct_answer": "Sarla Thakral",
+      "solution": "Sarla Thakral became the first Indian woman to earn a pilot's license in 1936."
+    }
+  ]

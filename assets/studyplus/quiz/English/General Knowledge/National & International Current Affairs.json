@@ -1,0 +1,146 @@
+[
+    {
+      "question": "Which country has recently appointed Anwaar-ul-Haq Kakar as its caretaker Prime Minister?",
+      "options": ["Pakistan", "Bangladesh", "India", "Nepal"],
+      "correct_answer": "Pakistan",
+      "solution": "Anwaar-ul-Haq Kakar has been named as the new caretaker Prime Minister of Pakistan."
+    },
+    {
+      "question": "Which country launched the 'Sponge City Initiative' to tackle urban flooding?",
+      "options": ["India", "China", "USA", "Brazil"],
+      "correct_answer": "China",
+      "solution": "China initiated the 'Sponge City Initiative' in 2015 to manage urban flooding and improve water management."
+    },
+    {
+      "question": "Which Asian country has introduced a 'Golden Visa programme' to attract foreign investment?",
+      "options": ["India", "Thailand", "UAE", "Japan"],
+      "correct_answer": "UAE",
+      "solution": "The United Arab Emirates has announced a 'Golden Visa programme' to attract foreign investors and skilled professionals."
+    },
+    {
+      "question": "Which country has objected to the incorporation of the phrase 'Vasudhaiva Kutumbakam' in the G-20 logo?",
+      "options": ["China", "Pakistan", "Bangladesh", "Sri Lanka"],
+      "correct_answer": "Pakistan",
+      "solution": "Pakistan has raised objections regarding the inclusion of 'Vasudhaiva Kutumbakam' in the G-20 logo."
+    },
+    {
+      "question": "Which country is constructing the 'Indian Buddhist Culture and Heritage Centre'?",
+      "options": ["Japan", "Nepal", "Sri Lanka", "Bangladesh"],
+      "correct_answer": "Bangladesh",
+      "solution": "Bangladesh is constructing the 'Indian Buddhist Culture and Heritage Centre' to promote Buddhist heritage."
+    },
+    {
+      "question": "How many new members were recently invited to join BRICS?",
+      "options": ["5", "6", "7", "10"],
+      "correct_answer": "6",
+      "solution": "BRICS has recently invited six new members to join the alliance."
+    },
+    {
+      "question": "Which country has introduced the 'Recognized Employer Pilot' to address workforce deficits?",
+      "options": ["Canada", "Australia", "New Zealand", "UK"],
+      "correct_answer": "New Zealand",
+      "solution": "New Zealand has introduced the 'Recognized Employer Pilot' to tackle workforce shortages."
+    },
+    {
+      "question": "Hun Manet has been chosen as the new Prime Minister of which country?",
+      "options": ["Cambodia", "Thailand", "Vietnam", "Laos"],
+      "correct_answer": "Cambodia",
+      "solution": "Hun Manet has been appointed as the new Prime Minister of Cambodia."
+    },
+    {
+      "question": "Evergrande Group, which has been in the news, is based in which country?",
+      "options": ["China", "Japan", "India", "South Korea"],
+      "correct_answer": "China",
+      "solution": "Evergrande Group is a major property developer based in China, known for its financial troubles."
+    },
+    {
+      "question": "Which international organization recently added Israel to its list of countries committing violations against children's rights?",
+      "options": ["UNICEF", "WHO", "UN", "NATO"],
+      "correct_answer": "UN",
+      "solution": "The United Nations has included Israel on a global list for committing violations against children's rights."
+    },
+    {
+      "question": "Which country has been recognized for its efforts in promoting sustainable development through the New Development Bank?",
+      "options": ["India", "Brazil", "Russia", "South Africa"],
+      "correct_answer": "India",
+      "solution": "India has been acknowledged for its role in promoting sustainable development via the New Development Bank."
+    },
+    {
+      "question": "Which country has recently been involved in a dispute over the South China Sea?",
+      "options": ["Vietnam", "Philippines", "China", "Malaysia"],
+      "correct_answer": "China",
+      "solution": "China continues to be involved in territorial disputes in the South China Sea."
+    },
+    {
+      "question": "Which country is set to host the next G-20 summit?",
+      "options": ["India", "Italy", "Indonesia", "Brazil"],
+      "correct_answer": "India",
+      "solution": "India is set to host the upcoming G-20 summit."
+    },
+    {
+      "question": "Which country recently announced a significant increase in military spending?",
+      "options": ["Germany", "Russia", "USA", "UK"],
+      "correct_answer": "USA",
+      "solution": "The United States has announced a substantial increase in military spending for the upcoming fiscal year."
+    },
+    {
+      "question": "Which country has recently seen protests against government policies regarding climate change?",
+      "options": ["France", "Germany", "Australia", "Canada"],
+      "correct_answer": "France",
+      "solution": "France has experienced protests against government policies related to climate change."
+    },
+    {
+      "question": "Which country is known for its recent diplomatic efforts to normalize relations with Saudi Arabia?",
+      "options": ["Iran", "Turkey", "Qatar", "Iraq"],
+      "correct_answer": "Iran",
+      "solution": "Iran has been making diplomatic efforts to normalize relations with Saudi Arabia."
+    },
+    {
+      "question": "Which country recently held a referendum on constitutional changes?",
+      "options": ["Turkey", "Russia", "Venezuela", "Ukraine"],
+      "correct_answer": "Turkey",
+      "solution": "Turkey recently held a referendum to vote on proposed constitutional changes."
+    },
+    {
+      "question": "Which country has been recognized for its leadership in global health initiatives?",
+      "options": ["USA", "Germany", "India", "UK"],
+      "correct_answer": "Germany",
+      "solution": "Germany has been acknowledged for its leadership in global health initiatives."
+    },
+    {
+      "question": "Which country has recently launched a campaign to promote renewable energy?",
+      "options": ["India", "Brazil", "Germany", "Canada"],
+      "correct_answer": "Canada",
+      "solution": "Canada has launched a campaign aimed at promoting renewable energy sources."
+    },
+    {
+      "question": "Which country is facing economic sanctions due to its nuclear program?",
+      "options": ["North Korea", "Iran", "Syria", "Libya"],
+      "correct_answer": "Iran",
+      "solution": "Iran is facing economic sanctions imposed by various countries due to its nuclear program."
+    },
+    {
+      "question": "Which country has recently been in the news for its efforts to combat human trafficking?",
+      "options": ["Thailand", "India", "Philippines", "Nigeria"],
+      "correct_answer": "India",
+      "solution": "India has been making efforts to combat human trafficking and has been in the news for these initiatives."
+    },
+    {
+      "question": "Which country has recently signed a trade agreement with the European Union?",
+      "options": ["UK", "Canada", "Australia", "New Zealand"],
+      "correct_answer": "Australia",
+      "solution": "Australia has recently signed a trade agreement with the European Union."
+    },
+    {
+      "question": "Which country is known for its recent advancements in artificial intelligence regulation?",
+      "options": ["USA", "China", "EU", "India"],
+      "correct_answer": "EU",
+      "solution": "The European Union is known for its recent advancements in regulating artificial intelligence."
+    },
+    {
+      "question": "Which country has recently been involved in peace talks regarding the ongoing conflict in Ukraine?",
+      "options": ["Germany", "Turkey", "USA", "France"],
+      "correct_answer": "Turkey",
+      "solution": "Turkey has been actively involved in peace talks concerning the conflict in Ukraine."
+    }
+  ]

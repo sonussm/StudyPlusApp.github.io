@@ -1,0 +1,176 @@
+[
+    {
+      "question": "Which Indian city is known for the famous Ajanta Caves?",
+      "options": ["Madhya Pradesh", "Maharashtra", "Uttar Pradesh", "Gujarat"],
+      "correct_answer": "Maharashtra",
+      "solution": "The Ajanta Caves, known for their rock-cut Buddhist monuments, are located in Maharashtra."
+    },
+    {
+      "question": "Who built the Taj Mahal?",
+      "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Jahangir"],
+      "correct_answer": "Shah Jahan",
+      "solution": "The Taj Mahal was commissioned by Mughal Emperor Shah Jahan in memory of his wife Mumtaz Mahal."
+    },
+    {
+      "question": "Which of the following is a UNESCO World Heritage Site?",
+      "options": ["Hampi", "Goa", "Delhi", "Mumbai"],
+      "correct_answer": "Hampi",
+      "solution": "Hampi is recognized as a UNESCO World Heritage Site due to its rich history and ancient temples."
+    },
+    {
+      "question": "Where is the Red Fort located?",
+      "options": ["Delhi", "Agra", "Jaipur", "Ludhiana"],
+      "correct_answer": "Delhi",
+      "solution": "The Red Fort is located in Delhi and is a UNESCO World Heritage Site."
+    },
+    {
+      "question": "Which dance form is associated with the state of Karnataka?",
+      "options": ["Kathak", "Bharatanatyam", "Kuchipudi", "Yakshagana"],
+      "correct_answer": "Yakshagana",
+      "solution": "Yakshagana is a traditional dance-drama from Karnataka, known for its vibrant costumes and storytelling."
+    },
+    {
+      "question": "What is the primary theme of the paintings in the Ajanta Caves?",
+      "options": ["Hindu mythology", "Buddhist teachings", "Jain stories", "Islamic art"],
+      "correct_answer": "Buddhist teachings",
+      "solution": "The Ajanta Caves primarily depict scenes from Buddhist teachings and Jataka tales."
+    },
+    {
+      "question": "Which Indian festival is celebrated with the dance form 'Bhangra'?",
+      "options": ["Diwali", "Holi", "Baisakhi", "Eid"],
+      "correct_answer": "Baisakhi",
+      "solution": "Baisakhi is celebrated in Punjab with the energetic dance form Bhangra."
+    },
+    {
+      "question": "Which monument is known as the 'Symbol of Love'?",
+      "options": ["Gateway of India", "Hawa Mahal", "Taj Mahal", "Qutub Minar"],
+      "correct_answer": "Taj Mahal",
+      "solution": "The Taj Mahal is often referred to as the 'Symbol of Love' due to its romantic history."
+    },
+    {
+      "question": "Which of the following is a famous temple in Tamil Nadu?",
+      "options": ["Brihadeeswarar Temple", "Golden Temple", "Jagannath Temple", "Kashi Vishwanath Temple"],
+      "correct_answer": "Brihadeeswarar Temple",
+      "solution": "Brihadeeswarar Temple in Thanjavur is a UNESCO World Heritage Site and a masterpiece of Chola architecture."
+    },
+    {
+      "question": "What is the traditional dance form of Kerala?",
+      "options": ["Kathakali", "Bharatanatyam", "Odissi", "Manipuri"],
+      "correct_answer": "Kathakali",
+      "solution": "Kathakali is a classical dance form from Kerala, known for its elaborate costumes and storytelling."
+    },
+    {
+      "question": "Which Indian state is famous for the dance form 'Mohiniyattam'?",
+      "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+      "correct_answer": "Kerala",
+      "solution": "Mohiniyattam is a classical dance form that originated in Kerala, characterized by graceful movements."
+    },
+    {
+      "question": "Which ancient Indian text is associated with dance?",
+      "options": ["Vedas", "Natya Shastra", "Upanishads", "Puranas"],
+      "correct_answer": "Natya Shastra",
+      "solution": "The Natya Shastra is an ancient Indian treatise on performing arts, including dance and drama."
+    },
+    {
+      "question": "Which city is known for the famous 'Hawa Mahal'?",
+      "options": ["Delhi", "Jaipur", "Agra", "Udaipur"],
+      "correct_answer": "Jaipur",
+      "solution": "Hawa Mahal, also known as the Palace of Winds, is located in Jaipur, Rajasthan."
+    },
+    {
+      "question": "Which festival is celebrated with the traditional dance 'Garba'?",
+      "options": ["Durga Puja", "Navratri", "Diwali", "Makar Sankranti"],
+      "correct_answer": "Navratri",
+      "solution": "Garba is a traditional dance performed during the Navratri festival in Gujarat."
+    },
+    {
+      "question": "Which of the following is a famous heritage site in India?",
+      "options": ["Gateway of India", "Victoria Memorial", "Khajuraho Temples", "India Gate"],
+      "correct_answer": "Khajuraho Temples",
+      "solution": "The Khajuraho Temples are famous for their intricate sculptures and are a UNESCO World Heritage Site."
+    },
+    {
+      "question": "Which Indian city is famous for its historic forts?",
+      "options": ["Delhi", "Jaipur", "Mumbai", "Bangalore"],
+      "correct_answer": "Jaipur",
+      "solution": "Jaipur, known as the Pink City, is famous for its historic forts like Amer Fort and Nahargarh Fort."
+    },
+    {
+      "question": "Which Indian classical music form is associated with the sitar?",
+      "options": ["Hindustani", "Carnatic", "Dhrupad", "Thumri"],
+      "correct_answer": "Hindustani",
+      "solution": "The sitar is primarily associated with Hindustani classical music."
+    },
+    {
+      "question": "Which of the following is a UNESCO World Heritage Site located in Gujarat?",
+      "options": ["Rani ki Vav", "Sun Temple", "Konark Temple", "Ajanta Caves"],
+      "correct_answer": "Rani ki Vav",
+      "solution": "Rani ki Vav, a stepwell in Gujarat, is designated as a UNESCO World Heritage Site."
+    },
+    {
+      "question": "What is the main theme of the paintings in the Khajuraho temples?",
+      "options": ["Hindu mythology", "Buddhist teachings", "Jain stories", "Islamic art"],
+      "correct_answer": "Hindu mythology",
+      "solution": "The Khajuraho temples are famous for their erotic sculptures and depictions of Hindu mythology."
+    },
+    {
+      "question": "Which Indian state is known for the classical dance form 'Odissi'?",
+      "options": ["Odisha", "Bihar", "West Bengal", "Assam"],
+      "correct_answer": "Odisha",
+      "solution": "Odissi is a classical dance form that originated in the state of Odisha."
+    },
+    {
+      "question": "Which festival is celebrated with the traditional dance 'Dandiya Raas'?",
+      "options": ["Diwali", "Navratri", "Eid", "Holi"],
+      "correct_answer": "Navratri",
+      "solution": "Dandiya Raas is a traditional dance performed during the Navratri festival."
+    },
+    {
+      "question": "Which of the following is a famous heritage site in Delhi?",
+      "options": ["Lotus Temple", "Red Fort", "India Gate", "Qutub Minar"],
+      "correct_answer": "Qutub Minar",
+      "solution": "Qutub Minar is a UNESCO World Heritage Site and the tallest brick minaret in the world."
+    },
+    {
+      "question": "Which Indian state is famous for the dance form 'Bharatanatyam'?",
+      "options": ["Kerala", "Tamil Nadu", "Karnataka", "Andhra Pradesh"],
+      "correct_answer": "Tamil Nadu",
+      "solution": "Bharatanatyam is a classical dance form that originated in Tamil Nadu."
+    },
+    {
+      "question": "Which ancient Indian site is known for its rock-cut architecture?",
+      "options": ["Ajanta Caves", "Hampi", "Khajuraho", "Bodh Gaya"],
+      "correct_answer": "Ajanta Caves",
+      "solution": "Ajanta Caves are renowned for their rock-cut architecture and ancient Buddhist paintings."
+    },
+    {
+      "question": "Which Indian city is known for the historic 'Jantar Mantar'?",
+      "options": ["Delhi", "Jaipur", "Agra", "Varanasi"],
+      "correct_answer": "Jaipur",
+      "solution": "Jantar Mantar in Jaipur is an astronomical observatory built by Maharaja Jai Singh II."
+    },
+    {
+      "question": "Which of the following is a famous Indian art form using clay?",
+      "options": ["Madhubani", "Warli", "Pattachitra", "Terracotta"],
+      "correct_answer": "Terracotta",
+      "solution": "Terracotta art involves creating sculptures and pottery from clay and is a traditional Indian art form."
+    },
+    {
+      "question": "Which Indian festival is known for its colorful rangoli designs?",
+      "options": ["Diwali", "Holi", "Pongal", "Onam"],
+      "correct_answer": "Diwali",
+      "solution": "During Diwali, people create vibrant rangoli designs at their homes to celebrate the festival."
+    },
+    {
+      "question": "Which Indian monument is known as the 'Gateway of India'?",
+      "options": ["Taj Mahal", "Hawa Mahal", "Gateway of India", "Victoria Memorial"],
+      "correct_answer": "Gateway of India",
+      "solution": "The Gateway of India is a historical monument located in Mumbai, built to commemorate the visit of King George V."
+    },
+    {
+      "question": "Which Indian classical music form is characterized by improvisation?",
+      "options": ["Hindustani", "Carnatic", "Dhrupad", "Thumri"],
+      "correct_answer": "Hindustani",
+      "solution": "Hindustani classical music is known for its emphasis on improvisation and expressive performance."
+    }
+  ]

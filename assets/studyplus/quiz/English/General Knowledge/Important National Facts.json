@@ -1,0 +1,182 @@
+[
+    {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Asiatic Lion", "Indian Elephant", "One-Horned Rhinoceros"],
+    "correct_answer": "Bengal Tiger",
+    "solution": "The Bengal tiger is the national animal of India. It is the most populous tiger subspecies and is found primarily in India, Bangladesh, Nepal and Bhutan."
+    },
+    {
+    "question": "What is the national fruit of India?",
+    "options": ["Mango", "Banana", "Pomegranate", "Jackfruit"],
+    "correct_answer": "Mango",
+    "solution": "The mango is the national fruit of India. India is the largest producer of mangoes in the world, with over 1000 different varieties grown across the country."
+    },
+    {
+    "question": "What is the national bird of India?",
+    "options": ["Peacock", "Indian Roller", "Brahminy Kite", "Himalayan Monal"],
+    "correct_answer": "Peacock",
+    "solution": "The peacock, specifically the Indian peacock (Pavo cristatus), is the national bird of India. It is a colorful bird with a fan-shaped crest of feathers, a white patch under the eye and a long, slender neck."
+    },
+    {
+    "question": "What is the national flower of India?",
+    "options": ["Lotus", "Rose", "Jasmine", "Marigold"],
+    "correct_answer": "Lotus",
+    "solution": "The lotus (Nelumbo nucifera) is the national flower of India. It is an aquatic plant that grows in ponds, lakes and marshes across the country."
+    },
+    {
+    "question": "What is the national tree of India?",
+    "options": ["Banyan Tree", "Peepal Tree", "Neem Tree", "Ashoka Tree"],
+    "correct_answer": "Banyan Tree",
+    "solution": "The banyan tree (Ficus benghalensis) is the national tree of India. It is a large, evergreen fig tree known for its aerial prop roots that grow into additional trunks, forming a dense canopy."
+    },
+    {
+    "question": "What is the national currency of India?",
+    "options": ["Dollar", "Euro", "Pound", "Rupee"],
+    "correct_answer": "Rupee",
+    "solution": "The Indian rupee (₹) is the official currency of India. It has been India's national currency since 1947 when the country gained independence."
+    },
+    {
+    "question": "What is the national aquatic animal of India?",
+    "options": ["Dolphin", "Whale Shark", "Saltwater Crocodile", "Dugong"],
+    "correct_answer": "Dolphin",
+    "solution": "The Ganges river dolphin (Platanista gangetica) is the national aquatic animal of India. It is a freshwater dolphin found in the Ganges and Brahmaputra rivers in India and Bangladesh."
+    },
+    {
+    "question": "What is the national sport of India?",
+    "options": ["Cricket", "Hockey", "Kabaddi", "Kho Kho"],
+    "correct_answer": "Hockey",
+    "solution": "Field hockey is the national sport of India. India has won the most Olympic gold medals in field hockey, having won 8 gold medals between 1928 and 1980."
+    },
+    {
+    "question": "What is the national anthem of India?",
+    "options": ["Vande Mataram", "Saare Jahan Se Achcha", "Jana Gana Mana", "Sare Jahan Se Achcha Hindustan Hamara"],
+    "correct_answer": "Jana Gana Mana",
+    "solution": "Jana Gana Mana, composed by Rabindranath Tagore, is the national anthem of India. It was first sung at the Calcutta Session of the Indian National Congress on December 27, 1911."
+    },
+    {
+    "question": "What is the national river of India?",
+    "options": ["Ganga", "Brahmaputra", "Indus", "Narmada"],
+    "correct_answer": "Ganga",
+    "solution": "The Ganges (or Ganga) is considered the national river of India. It is the longest river in India and is sacred in Hinduism. It flows through the northern, eastern and northeastern parts of the country."
+    },
+    {
+    "question": "What is the national calendar of India?",
+    "options": ["Saka Calendar", "Hijri Calendar", "Gregorian Calendar", "Julian Calendar"],
+    "correct_answer": "Saka Calendar",
+    "solution": "The Saka calendar is the national calendar of India. It is a solar calendar with a normal year of 365 days, with a leap year once in 4 years. The Saka year begins on the day of the vernal equinox, around 21 March."
+    },
+    {
+    "question": "What is the national symbol of India?",
+    "options": ["Ashoka Chakra", "Lotus", "Peacock", "Banyan Tree"],
+    "correct_answer": "Ashoka Chakra",
+    "solution": "The Ashoka Chakra is the national symbol of India. It is a depiction of the Buddhist Dharmachakra or Wheel of Dharma. The 24-spoke wheel appears on the center of the Indian national flag."
+    },
+    {
+    "question": "What is the national language of India?",
+    "options": ["Hindi", "English", "Sanskrit", "Urdu"],
+    "correct_answer": "There is no national language of India",
+    "solution": "India does not have an official national language. The Constitution of India officially recognizes 22 scheduled languages. Hindi and English are the official languages of the Government of India."
+    },
+    {
+    "question": "What is the national heritage animal of India?",
+    "options": ["Elephant", "Tiger", "Rhinoceros", "Leopard"],
+    "correct_answer": "Elephant",
+    "solution": "The elephant is the national heritage animal of India. It is an integral part of the country's cultural heritage and has been revered since ancient times."
+    },
+    {
+    "question": "What is the national reptile of India?",
+    "options": ["King Cobra", "Gharial", "Mugger Crocodile", "Olive Ridley Turtle"],
+    "correct_answer": "Saltwater Crocodile",
+    "solution": "The saltwater crocodile (Crocodylus porosus) is the national reptile of India. It is the largest living reptile and can be found in the mangrove forests and estuaries of the Andaman and Nicobar Islands and the east coast of India."
+    },
+    {
+    "question": "What is the national amphibian of India?",
+    "options": ["Indian Bullfrog", "Malabar Gliding Frog", "Purple Frog", "Himalayan Newt"],
+    "correct_answer": "Himalayan Newt",
+    "solution": "The Himalayan newt (Tylototriton himalayanus) is the national amphibian of India. It is a species of newt found in the Himalayan regions of India, Nepal, and Bhutan."
+    },
+    {
+    "question": "What is the national fossil of India?",
+    "options": ["Rajasaurus", "Kotasaurus", "Barapasaurus", "Lufengosaurus"],
+    "correct_answer": "Rajasaurus",
+    "solution": "The Rajasaurus (meaning 'Raja's lizard') is the national fossil of India. It was a carnivorous theropod dinosaur that lived in what is now the Indian state of Gujarat during the Late Cretaceous period."
+    },
+    {
+    "question": "What is the national vegetable of India?",
+    "options": ["Potato", "Onion", "Tomato", "Brinjal"],
+    "correct_answer": "Brinjal",
+    "solution": "The brinjal (eggplant or aubergine) is the national vegetable of India. It is a popular ingredient in many Indian dishes and is grown across the country."
+    },
+    {
+    "question": "What is the national game of India?",
+    "options": ["Cricket", "Hockey", "Kabaddi", "Chess"],
+    "correct_answer": "There is no national game of India",
+    "solution": "India does not have an officially declared national game. However, field hockey is considered the national sport of India, as the country has won the most Olympic gold medals in this sport."
+    },
+    {
+    "question": "What is the national handloom of India?",
+    "options": ["Banarasi Saree", "Kanchipuram Saree", "Chanderi Saree", "Pochampally Ikat"],
+    "correct_answer": "Pochampally Ikat",
+    "solution": "The Pochampally Ikat is the national handloom of India. It is a type of tie-dye textile that originated in the town of Pochampally in Telangana. The intricate patterns are created by tie-dyeing the warp or weft threads before weaving."
+    },
+    {
+    "question": "What is the national dance of India?",
+    "options": ["Bharatanatyam", "Kathak", "Kathakali", "Odissi"],
+    "correct_answer": "There is no national dance of India",
+    "solution": "India does not have an officially declared national dance. However, several classical dance forms like Bharatanatyam, Kathak, Kathakali, Kuchipudi, Manipuri, Mohiniyattam, and Odissi are considered India's major classical dances."
+    },
+    {
+    "question": "What is the national fruit of India?",
+    "options": ["Mango", "Banana", "Pomegranate", "Jackfruit"],
+    "correct_answer": "Mango",
+    "solution": "The mango is the national fruit of India. India is the largest producer of mangoes in the world, with over 1000 different varieties grown across the country."
+    },
+    {
+    "question": "What is the national river of India?",
+    "options": ["Ganga", "Brahmaputra", "Indus", "Narmada"],
+    "correct_answer": "Ganga",
+    "solution": "The Ganges (or Ganga) is considered the national river of India. It is the longest river in India and is sacred in Hinduism. It flows through the northern, eastern and northeastern parts of the country."
+    },
+    {
+    "question": "What is the national language of India?",
+    "options": ["Hindi", "English", "Sanskrit", "Urdu"],
+    "correct_answer": "There is no national language of India",
+    "solution": "India does not have an official national language. The Constitution of India officially recognizes 22 scheduled languages. Hindi and English are the official languages of the Government of India."
+    },
+    {
+    "question": "What is the national sport of India?",
+    "options": ["Cricket", "Hockey", "Kabaddi", "Kho Kho"],
+    "correct_answer": "Hockey",
+    "solution": "Field hockey is the national sport of India. India has won the most Olympic gold medals in field hockey, having won 8 gold medals between 1928 and 1980."
+    },
+    {
+    "question": "What is the national symbol of India?",
+    "options": ["Ashoka Chakra", "Lotus", "Peacock", "Banyan Tree"],
+    "correct_answer": "Ashoka Chakra",
+    "solution": "The Ashoka Chakra is the national symbol of India. It is a depiction of the Buddhist Dharmachakra or Wheel of Dharma. The 24-spoke wheel appears on the center of the Indian national flag."
+    },
+    {
+    "question": "What is the national animal of India?",
+    "options": ["Bengal Tiger", "Asiatic Lion", "Indian Elephant", "One-Horned Rhinoceros"],
+    "correct_answer": "Bengal Tiger",
+    "solution": "The Bengal tiger is the national animal of India. It is the most populous tiger subspecies and is found primarily in India, Bangladesh, Nepal and Bhutan."
+    },
+    {
+    "question": "What is the national flower of India?",
+    "options": ["Lotus", "Rose", "Jasmine", "Marigold"],
+    "correct_answer": "Lotus",
+    "solution": "The lotus (Nelumbo nucifera) is the national flower of India. It is an aquatic plant that grows in ponds, lakes and marshes across the country."
+    },
+    {
+    "question": "What is the national tree of India?",
+    "options": ["Banyan Tree", "Peepal Tree", "Neem Tree", "Ashoka Tree"],
+    "correct_answer": "Banyan Tree",
+    "solution": "The banyan tree (Ficus benghalensis) is the national tree of India. It is a large, evergreen fig tree known for its aerial prop roots that grow into additional trunks, forming a dense canopy."
+    },
+    {
+    "question": "What is the national anthem of India?",
+    "options": ["Vande Mataram", "Saare Jahan Se Achcha", "Jana Gana Mana", "Sare Jahan Se Achcha Hindustan Hamara"],
+    "correct_answer": "Jana Gana Mana",
+    "solution": "Jana Gana Mana, composed by Rabindranath Tagore, is the national anthem of India. It was first sung at the Calcutta Session of the Indian National Congress on December 27, 1911."
+    }
+    ]

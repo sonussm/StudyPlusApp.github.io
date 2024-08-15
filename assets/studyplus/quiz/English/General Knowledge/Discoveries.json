@@ -1,0 +1,182 @@
+[
+    {
+      "question": "Who is credited with inventing the telephone?",
+      "options": ["Thomas Edison", "Alexander Graham Bell", "Nikola Tesla", "James Watt"],
+      "correct_answer": "Alexander Graham Bell",
+      "solution": "Alexander Graham Bell is credited with inventing the telephone in 1876, revolutionizing communication."
+    },
+    {
+      "question": "In which year was the first successful aeroplane flight by the Wright brothers?",
+      "options": ["1903", "1910", "1899", "1920"],
+      "correct_answer": "1903",
+      "solution": "The Wright brothers achieved the first successful powered flight on December 17, 1903."
+    },
+    {
+      "question": "What did Marie Curie discover?",
+      "options": ["Penicillin", "X-rays", "Radioactivity", "Electricity"],
+      "correct_answer": "Radioactivity",
+      "solution": "Marie Curie discovered radioactivity and was awarded Nobel Prizes in both Physics and Chemistry."
+    },
+    {
+      "question": "Who is known for inventing the light bulb?",
+      "options": ["Isaac Newton", "Benjamin Franklin", "Albert Einstein", "Thomas Edison"],
+      "correct_answer": "Thomas Edison",
+      "solution": "Thomas Edison developed the first practical incandescent light bulb in 1879."
+    },
+    {
+      "question": "The theory of relativity is associated with?",
+      "options": ["Galileo Galilei", "Johannes Kepler", "Albert Einstein", "Isaac Newton"],
+      "correct_answer": "Albert Einstein",
+      "solution": "Albert Einstein formulated the theory of relativity, which revolutionized our understanding of space and time."
+    },
+    {
+      "question": "What did Johannes Gutenberg invent?",
+      "options": ["The steam engine", "The printing press", "The telephone", "The radio"],
+      "correct_answer": "The printing press",
+      "solution": "Johannes Gutenberg introduced the movable-type printing press to Europe in the 1440s."
+    },
+    {
+      "question": "Who discovered penicillin?",
+      "options": ["Louis Pasteur", "Alexander Fleming", "Robert Koch", "Edward Jenner"],
+      "correct_answer": "Alexander Fleming",
+      "solution": "Alexander Fleming discovered penicillin in 1928, marking the beginning of modern antibiotics."
+    },
+    {
+      "question": "The discovery of America is credited to?",
+      "options": ["Christopher Columbus", "Vasco da Gama", "Ferdinand Magellan", "Marco Polo"],
+      "correct_answer": "Christopher Columbus",
+      "solution": "Christopher Columbus is credited with discovering America in 1492 during his quest for a westward route to India."
+    },
+    {
+      "question": "Who is responsible for developing the World Wide Web (WWW)?",
+      "options": ["Tim Berners-Lee", "Steve Jobs", "Bill Gates", "Mark Zuckerberg"],
+      "correct_answer": "Tim Berners-Lee",
+      "solution": "Tim Berners-Lee invented the World Wide Web in 1989 while working at CERN."
+    },
+    {
+      "question": "What did Galileo Galilei invent?",
+      "options": ["Telescope", "Microscope", "Telephone", "Clock"],
+      "correct_answer": "Telescope",
+      "solution": "Galileo Galilei improved the design of the telescope in 1609, enabling significant astronomical discoveries."
+    },
+    {
+      "question": "Who invented the first practical automobile?",
+      "options": ["Henry Ford", "Karl Benz", "Gottlieb Daimler", "Ransom Olds"],
+      "correct_answer": "Karl Benz",
+      "solution": "Karl Benz invented the first practical automobile powered by an internal combustion engine in 1886."
+    },
+    {
+      "question": "What did Albert Einstein develop?",
+      "options": ["Quantum Mechanics", "Theory of Relativity", "Laws of Motion", "Electromagnetism"],
+      "correct_answer": "Theory of Relativity",
+      "solution": "Albert Einstein developed the theory of relativity, which includes the famous equation E=mc²."
+    },
+    {
+      "question": "Who invented the first successful vaccine for smallpox?",
+      "options": ["Louis Pasteur", "Edward Jenner", "Robert Koch", "Alexander Fleming"],
+      "correct_answer": "Edward Jenner",
+      "solution": "Edward Jenner developed the first successful smallpox vaccine in 1796."
+    },
+    {
+      "question": "Who invented the first practical typewriter?",
+      "options": ["Christopher Latham Sholes", "Isaac Pitman", "William Austin Burt", "Peter Mitterhofer"],
+      "correct_answer": "Christopher Latham Sholes",
+      "solution": "Christopher Latham Sholes invented the first practical typewriter in 1868."
+    },
+    {
+      "question": "What did Nikola Tesla invent?",
+      "options": ["AC Motor", "Light Bulb", "Television", "Radio"],
+      "correct_answer": "AC Motor",
+      "solution": "Nikola Tesla invented the alternating current (AC) motor, which is fundamental to modern electrical systems."
+    },
+    {
+      "question": "Who is known as the father of modern chemistry?",
+      "options": ["Antoine Lavoisier", "Robert Boyle", "Dmitri Mendeleev", "John Dalton"],
+      "correct_answer": "Antoine Lavoisier",
+      "solution": "Antoine Lavoisier is often referred to as the father of modern chemistry due to his work on the law of conservation of mass."
+    },
+    {
+      "question": "What did James Watt improve?",
+      "options": ["Steam Engine", "Electric Generator", "Locomotive", "Internal Combustion Engine"],
+      "correct_answer": "Steam Engine",
+      "solution": "James Watt made significant improvements to the steam engine in the late 18th century."
+    },
+    {
+      "question": "Who invented the first successful helicopter?",
+      "options": ["Igor Sikorsky", "Leonardo da Vinci", "Frank Whittle", "Charles Lindbergh"],
+      "correct_answer": "Igor Sikorsky",
+      "solution": "Igor Sikorsky invented the first successful helicopter in 1939."
+    },
+    {
+      "question": "What did Wilhelm Conrad Röntgen discover?",
+      "options": ["X-Rays", "Radioactivity", "Electromagnetism", "Nuclear Fission"],
+      "correct_answer": "X-Rays",
+      "solution": "Wilhelm Conrad Röntgen discovered X-rays in 1895, which transformed medical diagnostics."
+    },
+    {
+      "question": "Who invented the first electronic computer?",
+      "options": ["Alan Turing", "John Atanasoff", "Charles Babbage", "Konrad Zuse"],
+      "correct_answer": "John Atanasoff",
+      "solution": "John Atanasoff and his graduate student, Clifford Berry, built the first electronic computer, the Atanasoff-Berry Computer, in the 1930s."
+    },
+    {
+      "question": "Who is known for proposing the heliocentric theory?",
+      "options": ["Galileo Galilei", "Nicolaus Copernicus", "Isaac Newton", "Johannes Kepler"],
+      "correct_answer": "Nicolaus Copernicus",
+      "solution": "Nicolaus Copernicus proposed the heliocentric theory, stating that the Earth revolves around the Sun."
+    },
+    {
+      "question": "What did Thomas Edison invent?",
+      "options": ["Television", "Electric Light Bulb", "Radio", "Phonograph"],
+      "correct_answer": "Electric Light Bulb",
+      "solution": "Thomas Edison invented the first commercially practical electric light bulb in 1879."
+    },
+    {
+      "question": "Who discovered the structure of DNA?",
+      "options": ["James Watson and Francis Crick", "Rosalind Franklin", "Gregor Mendel", "Charles Darwin"],
+      "correct_answer": "James Watson and Francis Crick",
+      "solution": "James Watson and Francis Crick discovered the double helix structure of DNA in 1953."
+    },
+    {
+      "question": "Who invented the first successful vaccine for rabies?",
+      "options": ["Louis Pasteur", "Edward Jenner", "Robert Koch", "Alexander Fleming"],
+      "correct_answer": "Louis Pasteur",
+      "solution": "Louis Pasteur developed the first successful rabies vaccine in 1885."
+    },
+    {
+      "question": "What did Alexander Fleming discover?",
+      "options": ["Insulin", "Penicillin", "Vaccination", "Antibiotics"],
+      "correct_answer": "Penicillin",
+      "solution": "Alexander Fleming discovered penicillin in 1928, which became the first widely used antibiotic."
+    },
+    {
+      "question": "Who invented the first successful electric car?",
+      "options": ["Thomas Parker", "Nikola Tesla", "Henry Ford", "Elon Musk"],
+      "correct_answer": "Thomas Parker",
+      "solution": "Thomas Parker built the first practical electric car in 1889."
+    },
+    {
+      "question": "Who is known for developing the periodic table?",
+      "options": ["Dmitri Mendeleev", "John Dalton", "Henry Moseley", "Lothar Meyer"],
+      "correct_answer": "Dmitri Mendeleev",
+      "solution": "Dmitri Mendeleev developed the periodic table of elements in 1869."
+    },
+    {
+      "question": "What did Isaac Newton formulate?",
+      "options": ["Laws of Motion", "Theory of Relativity", "Quantum Theory", "Electromagnetic Theory"],
+      "correct_answer": "Laws of Motion",
+      "solution": "Isaac Newton formulated the three laws of motion, laying the foundation for classical mechanics."
+    },
+    {
+      "question": "Who invented the first successful insulin treatment for diabetes?",
+      "options": ["Frederick Banting", "James Watson", "Edward Jenner", "Louis Pasteur"],
+      "correct_answer": "Frederick Banting",
+      "solution": "Frederick Banting discovered insulin and developed its use for diabetes treatment in 1921."
+    },
+    {
+      "question": "Who invented the first successful heart-lung machine?",
+      "options": ["John Gibbon", "Michael DeBakey", "Christiaan Barnard", "Paul Zoll"],
+      "correct_answer": "John Gibbon",
+      "solution": "John Gibbon invented the first successful heart-lung machine, which was used in open-heart surgery."
+    }
+  ]

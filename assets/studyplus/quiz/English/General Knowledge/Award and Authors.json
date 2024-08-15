@@ -1,0 +1,170 @@
+[
+    {
+      "question": "Who won the Nobel Prize in Literature in 2023?",
+      "options": ["Peter Handke", "Abdulrazak Gurnah", "Jon Fosse", "Bob Dylan"],
+      "correct_answer": "Jon Fosse",
+      "solution": "Jon Fosse was awarded the Nobel Prize in Literature in 2023 for his innovative plays and prose which have made a significant impact on contemporary literature."
+    },
+    {
+      "question": "Which Indian author won the Booker Prize in 2022?",
+      "options": ["Arundhati Roy", "Salman Rushdie", "Geetanjali Shree", "Kiran Nagarkar"],
+      "correct_answer": "Geetanjali Shree",
+      "solution": "Geetanjali Shree won the Booker Prize in 2022 for her novel 'Tomb of Sand', marking a significant achievement in Indian literature."
+    },
+    {
+      "question": "Who is the author of the book 'The God of Small Things'?",
+      "options": ["Kiran Desai", "Arundhati Roy", "Jhumpa Lahiri", "Vikram Seth"],
+      "correct_answer": "Arundhati Roy",
+      "solution": "'The God of Small Things' is a novel by Arundhati Roy that won the Booker Prize in 1997."
+    },
+    {
+      "question": "Which award is given for excellence in the field of journalism?",
+      "options": ["Pulitzer Prize", "Booker Prize", "Oscar", "Grammy"],
+      "correct_answer": "Pulitzer Prize",
+      "solution": "The Pulitzer Prize is awarded for excellence in journalism, literature, and musical composition within the United States."
+    },
+    {
+      "question": "Who authored the famous book '1984'?",
+      "options": ["Aldous Huxley", "George Orwell", "Ray Bradbury", "Philip K. Dick"],
+      "correct_answer": "George Orwell",
+      "solution": "'1984' is a dystopian novel written by George Orwell, published in 1949."
+    },
+    {
+      "question": "What is the highest civilian award in India?",
+      "options": ["Padma Shri", "Bharat Ratna", "Padma Vibhushan", "Jnanpith Award"],
+      "correct_answer": "Bharat Ratna",
+      "solution": "The Bharat Ratna is the highest civilian award in India, awarded for exceptional service towards the advancement of art, literature, and science."
+    },
+    {
+      "question": "Who is known for the book 'The Alchemist'?",
+      "options": ["Paulo Coelho", "Dan Brown", "Gabriel Garcia Marquez", "Haruki Murakami"],
+      "correct_answer": "Paulo Coelho",
+      "solution": "'The Alchemist' is a novel by Brazilian author Paulo Coelho, first published in 1988."
+    },
+    {
+      "question": "Which Indian author wrote 'Midnight's Children'?",
+      "options": ["Salman Rushdie", "Arundhati Roy", "Chetan Bhagat", "Kiran Desai"],
+      "correct_answer": "Salman Rushdie",
+      "solution": "'Midnight's Children' is a novel by Salman Rushdie that won the Booker Prize in 1981."
+    },
+    {
+      "question": "Who received the Man Booker International Prize in 2019?",
+      "options": ["Han Kang", "Marilynne Robinson", "Jokha Alharthi", "David Grossman"],
+      "correct_answer": "Jokha Alharthi",
+      "solution": "Jokha Alharthi won the Man Booker International Prize in 2019 for her novel 'Celestial Bodies'."
+    },
+    {
+      "question": "Which author is known for the series 'A Song of Ice and Fire'?",
+      "options": ["J.K. Rowling", "George R.R. Martin", "Tolkien", "Stephen King"],
+      "correct_answer": "George R.R. Martin",
+      "solution": "George R.R. Martin is the author of the epic fantasy series 'A Song of Ice and Fire', which inspired the television series 'Game of Thrones'."
+    },
+    {
+      "question": "Who is the author of 'To Kill a Mockingbird'?",
+      "options": ["Harper Lee", "Mark Twain", "F. Scott Fitzgerald", "Ernest Hemingway"],
+      "correct_answer": "Harper Lee",
+      "solution": "'To Kill a Mockingbird' is a novel by Harper Lee, published in 1960, and is a classic of modern American literature."
+    },
+    {
+      "question": "Which award is given for the best book in the field of children's literature?",
+      "options": ["Newbery Medal", "Caldecott Medal", "Hans Christian Andersen Award", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All of these awards are recognized for excellence in children's literature."
+    },
+    {
+      "question": "Who wrote 'Pride and Prejudice'?",
+      "options": ["Charlotte Brontë", "Jane Austen", "Emily Dickinson", "Virginia Woolf"],
+      "correct_answer": "Jane Austen",
+      "solution": "'Pride and Prejudice' is a novel by Jane Austen, published in 1813, and is one of the most popular novels in English literature."
+    },
+    {
+      "question": "Which author wrote 'The Catcher in the Rye'?",
+      "options": ["J.D. Salinger", "F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck"],
+      "correct_answer": "J.D. Salinger",
+      "solution": "'The Catcher in the Rye' is a novel by J.D. Salinger, published in 1951."
+    },
+    {
+      "question": "Who received the Nobel Prize in Peace in 2021?",
+      "options": ["Abiy Ahmed", "Malala Yousafzai", "Barack Obama", "Ales Bialiatski"],
+      "correct_answer": "Ales Bialiatski",
+      "solution": "Ales Bialiatski was awarded the Nobel Peace Prize in 2021 for his efforts in promoting democracy and human rights in Belarus."
+    },
+    {
+      "question": "Which award is given for outstanding contributions to the field of music?",
+      "options": ["Grammy Award", "Oscar", "Tony Award", "Pulitzer Prize"],
+      "correct_answer": "Grammy Award",
+      "solution": "The Grammy Award is presented annually to recognize outstanding achievement in the music industry."
+    },
+    {
+      "question": "Who is the author of 'The Great Gatsby'?",
+      "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "John Steinbeck", "Mark Twain"],
+      "correct_answer": "F. Scott Fitzgerald",
+      "solution": "'The Great Gatsby' is a novel by F. Scott Fitzgerald, published in 1925."
+    },
+    {
+      "question": "Which Indian author is known for the book 'The Inheritance of Loss'?",
+      "options": ["Kiran Desai", "Arundhati Roy", "Salman Rushdie", "Vikram Seth"],
+      "correct_answer": "Kiran Desai",
+      "solution": "'The Inheritance of Loss' is a novel by Kiran Desai that won the Booker Prize in 2006."
+    },
+    {
+      "question": "Who is the author of 'One Hundred Years of Solitude'?",
+      "options": ["Gabriel García Márquez", "Mario Vargas Llosa", "Jorge Luis Borges", "Pablo Neruda"],
+      "correct_answer": "Gabriel García Márquez",
+      "solution": "'One Hundred Years of Solitude' is a landmark novel by Gabriel García Márquez, published in 1967."
+    },
+    {
+      "question": "Which award is given for excellence in film direction?",
+      "options": ["Cannes Film Festival Award", "Academy Award", "BAFTA Award", "All of the above"],
+      "correct_answer": "All of the above",
+      "solution": "All these awards recognize excellence in film direction across different platforms."
+    },
+    {
+      "question": "Who wrote 'The Diary of a Young Girl'?",
+      "options": ["Anne Frank", "Malala Yousafzai", "Elie Wiesel", "Victor Frankl"],
+      "correct_answer": "Anne Frank",
+      "solution": "'The Diary of a Young Girl' is a poignant diary written by Anne Frank during her time in hiding during World War II."
+    },
+    {
+      "question": "Which author is known for the book 'The Road'?",
+      "options": ["Cormac McCarthy", "Haruki Murakami", "Stephen King", "John Grisham"],
+      "correct_answer": "Cormac McCarthy",
+      "solution": "'The Road' is a Pulitzer Prize-winning novel by Cormac McCarthy, published in 2006."
+    },
+    {
+      "question": "Who received the Booker Prize in 2021?",
+      "options": ["Damon Galgut", "Shuggie Bain", "Bernardine Evaristo", "Margaret Atwood"],
+      "correct_answer": "Damon Galgut",
+      "solution": "Damon Galgut was awarded the Booker Prize in 2021 for his novel 'The Promise'."
+    },
+    {
+      "question": "Who is the author of 'The Hitchhiker's Guide to the Galaxy'?",
+      "options": ["Douglas Adams", "Terry Pratchett", "Neil Gaiman", "Isaac Asimov"],
+      "correct_answer": "Douglas Adams",
+      "solution": "'The Hitchhiker's Guide to the Galaxy' is a science fiction series created by Douglas Adams."
+    },
+    {
+      "question": "Which award is given for the best novel in the English language?",
+      "options": ["Pulitzer Prize", "Booker Prize", "Nobel Prize", "All of the above"],
+      "correct_answer": "Booker Prize",
+      "solution": "The Booker Prize is awarded annually for the best original novel written in the English language."
+    },
+    {
+      "question": "Who wrote 'The Old Man and the Sea'?",
+      "options": ["Ernest Hemingway", "F. Scott Fitzgerald", "John Steinbeck", "Mark Twain"],
+      "correct_answer": "Ernest Hemingway",
+      "solution": "'The Old Man and the Sea' is a novella written by Ernest Hemingway, published in 1952."
+    },
+    {
+      "question": "Which author is famous for the 'Harry Potter' series?",
+      "options": ["J.K. Rowling", "C.S. Lewis", "J.R.R. Tolkien", "Philip Pullman"],
+      "correct_answer": "J.K. Rowling",
+      "solution": "J.K. Rowling is known for creating the 'Harry Potter' series, which has become a global phenomenon."
+    },
+    {
+      "question": "Who is the author of 'The Picture of Dorian Gray'?",
+      "options": ["Oscar Wilde", "Charles Dickens", "Jane Austen", "Virginia Woolf"],
+      "correct_answer": "Oscar Wilde",
+      "solution": "'The Picture of Dorian Gray' is a philosophical novel by Oscar Wilde, published in 1890."
+    }
+  ]
